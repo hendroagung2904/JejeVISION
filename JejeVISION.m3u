@@ -274,16 +274,6 @@ https://m3u-editor.com/serve/b2775040-2056-11ec-821d-a941a24336f0/392142629
 #EXTINF:0 tvg-id="Cinema World" tvg-name="Cinema World" tvg-url="http://www.useetv.com" tvg-logo="http://dusktill.masuk.web.id/img/cinemaworld.png" group-title="MOVIES",Cinema World
 https://liveanevia.mncnow.id/live/eds/CinemaWorld/sa_dash_vmx/CinemaWorld.mpd
 
-#EXTINF:-1 tvg-id="FXSAMCH" tvg-name="FOX" tvg-logo="" group-title="MOVIES",FOX
-http://links.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbDjQtBAERPFfZOCXiIg35Gdhx1vf0BarZLLbAJyzsQQi/ts
-
-#EXTINF:-1 tvg-id="foxactionmovies.my" tvg-name="Fox Action Movies" tvg-logo="" group-title="MOVIES",Fox Action Movies
-http://links.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbDjQtBAERPFfZOCXiIg35Gfs7WrN2DVTq_O5sOPgDj_D/ts
-
-#EXTINF:-1 tvg-id="TVHTANZ" tvg-name="Fox Crime" tvg-logo="" group-title="MOVIES",Fox Crime
-http://links.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbDjQtBAERPFfZOCXiIg35GczXzRa1keP4MdEivFciK4f/ts
-
-
 #EXTINF:-1 tvg-id="" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/cFLg0FP.png" group-title="MOVIES",MOVIE SPHERE
 https://moviesphere-roku.amagi.tv/playlist720lp.m3u8?checkedby:iptvcat.com
 
@@ -551,16 +541,6 @@ http://gumisasak-vision.online/Dyos-channel/chunklist.m3u8?id=horizonsport&gumis
 
 #EXTINF:-1   group-title="SPORTS",SPO TV
 https://ktiptv.co:443/1234/1234/26318
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="SPORTS",CHAMPIONTV1
-http://www.daygun.online/Live/ru/v.m3u8?id=championstv1
-https://dik.si/champion1?shareext.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/13VJcC8t/Video-Share-Ext-Group.jpg"group-title="SPORTS",CHAMPIONTV2
-https://etus.link/champ2roll?shareext.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/13VJcC8t/Video-Share-Ext-Group.jpg"group-title="SPORTS",CHAMPIONTV3
-https://etus.link/champ3roll?shareext.m3u8
 
 #EXTINF:-1 tvg-id="ext" tvg-logo="https://i0.wp.com/www.broadbandtvnews.com/wp-content/uploads/2015/10/Motorvision-TV.png" group-title="SPORTS",Motorvision
 http://rr.dens.tv/h/h09/01.m3u8
