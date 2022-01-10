@@ -379,6 +379,7 @@ https://liveanevia.mncnow.id/live/eds/AnimalPlanet/sa_dash_vmx/AnimalPlanet.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:0 tvg-id="SmithsonianChannelAsia.us" tvg-name="" tvg-logo="https://i.imgur.com/wtf0hg5.png" group-title="Knowledge",Smithsonian Channel
 https://smithsonianaus-samsungau.amagi.tv/playlist.m3u8
+https://smithsonianaus-samsungau.amagi.tv/playlist720p.m3u8?checkedby:iptvcat.com
 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
