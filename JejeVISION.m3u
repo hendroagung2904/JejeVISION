@@ -559,6 +559,9 @@ http://gumisasak-vision.online/Dyos-channel/chunklist.m3u8?id=nba&gumisasakTV=de
 #EXTINF:0 tvg-id="Fight Sports" tvg-name="Fight Sports" tvg-url="http://www.mncvision.id.E" tvg-logo="http://dusktill.masuk.web.id/img/fightsport.png" group-title="SPORTS",Fight Sports
 https://liveanevia.mncnow.id/live/eds/FightSports/sa_dash_vmx/FightSports.mpd
 
+#EXTINF:-1 tvg-id="Erz.ufc2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbk9tcag4U9ryrBGFUMDbeBcmDCRH6wxrTBA&amp;usqp=CAU" group-title="SPORTS",UFC Stadium
+https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8?id=eroz_brebes.m3u8
+
 <----------------------------------- KIDS --------------------------------------->
 
 
