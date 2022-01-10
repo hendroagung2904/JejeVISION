@@ -498,14 +498,42 @@ https://dms.redbull.tv/v3/linear-borb/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjY
 http://rr.dens.tv/h/h09/01.m3u8
 
 
-EXTINF:-1   group-title="SPORTS",Champion TV-1
+#EXTINF:-1 tvg-logo="https://logos.fandom.com/wiki/Champions_TV_1?file=Champions_TV_1_HD_%25282021%2529.png" group-title="SPORTS", Champions TV 1
 https://m3u-editor.com/live/serve/fhjhddfnmh/409160916.m3u8
+http://www.daygun.online/Live/ru/v.m3u8?id=championstv1
+http://www.goldentv.tech:25461/live/Perfecto/170721/26134.m3u8
+http://golive.cf/vidio/live-champion1.m3u8
+https://tsptv.my.id/Nding/vidionyet/champions1.m3u8
+http://golive.cf/stream/champion1.m3u8
+https://iptv.mwafa.net/vidio/6685/index.m3u8?token=1999
+http://gpc.my.id/vidio/champion-tv-1.m3u8
+http://dituduhmaling.xyz/V11710/championstv1.m3u8
 
-#EXTINF:-1   group-title="SPORTS",Champion TV-2
+#EXTINF:-1 tvg-logo="https://logos.fandom.com/wiki/Champions_TV_2?file=Champions_TV_2_HD.png" group-title="SPORTS", Champions TV 2
 https://m3u-editor.com/live/serve/fhjhddfnmh/409160917.m3u8
+http://www.daygun.online/Live/ru/v.m3u8?id=championstv2
+http://www.goldentv.tech:25461/live/Perfecto/170721/26135.m3u8
+http://golive.cf/vidio/live-champion2.m3u8
+https://tsptv.my.id/Nding/vidionyet/champions2.m3u8
+http://golive.cf/stream/champion2.m3u8
+https://iptv.mwafa.net/vidio/6686/index.m3u8?token=1999
+http://gpc.my.id/vidio/champion-tv-2.m3u8
+http://dituduhmaling.xyz/V11710/championstv2.m3u8
 
-#EXTINF:-1   group-title="SPORTS",Champion TV-3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/J0ngQJZ9/Champion-3.png" group-title="SPORTS", Champions TV 3
 https://m3u-editor.com/live/serve/fhjhddfnmh/409254760.m3u8
+http://www.daygun.online/Live/ru/v.m3u8?id=championstv3
+http://golive.cf/vidio/live-champion3.m3u8
+https://tsptv.my.id/Nding/vidionyet/champions3.m3u8
+http://golive.cf/stream/champion3.m3u8
+https://iptv.mwafa.net/vidio/6786/index.m3u8?token=1999
+http://gpc.my.id/vidio/champion-tv-3.m3u8
+http://dituduhmaling.xyz/V11710/championstv3.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e7/MNC_Vision_%282019%29.png" group-title="SPORTS",Soccer Channel
+https://liveanevia.mncnow.id/live/eds/soccerchannel-HD/sa_dash_vmx/soccerchannel-HD.mpd
 
 EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/43/Nbatv.page_.png/revision/latest/scale-to-width-down/185?cb=20170731002804" group-title="SPORTS",NBA TV
 http://gumisasak-vision.online/Dyos-channel/chunklist.m3u8?id=nba&gumisasakTV=default&sync=0
