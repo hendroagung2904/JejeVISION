@@ -533,6 +533,18 @@ https://iptv.mwafa.net/vidio/6786/index.m3u8?token=1999
 http://gpc.my.id/vidio/champion-tv-3.m3u8
 http://dituduhmaling.xyz/V11710/championstv3.m3u8
 
+#EXTINF:-1 tvg-id="ss.motorsport.za" tvg-name="SuperSport: Motorsport" tvg-logo="http://myportal.live:8080/images/87abec0aaae3a904a805fe6e815758b0.png" group-title="SPORTS",SuperSport: Motorsport (MOTOGP)
+http://163.172.5.94:8080/panelplayer87262728/NVvubnotIc/4227
+
+#EXTINF:-1 tvg-id="ss.football.za" tvg-name="SuperSport: Football" tvg-logo="http://myportal.live:8080/images/305c9bef1a6761c0360a0f8511250019.png" group-title="SPORTS",SuperSport: Football
+http://163.172.5.94:8080/panelplayer87262728/NVvubnotIc/4222
+
+#EXTINF:-1 tvg-id="ss.la.liga.za" tvg-name="SuperSport: La Liga" tvg-logo="http://myportal.live:8080/images/e996ff53b8a7a389d89815aa51910b01.png" group-title="SPORTS",SuperSport: La Liga
+http://163.172.5.94:8080/panelplayer87262728/NVvubnotIc/4225
+
+#EXTINF:-1 tvg-id="ss.premier.league.za" tvg-name="SuperSport: Premier League" tvg-logo="http://myportal.live:8080/images/8bf93cf8ef05a3008b28f0729c79566b.png" group-title="SPORTS",SuperSport: Premier League
+http://163.172.5.94:8080/panelplayer87262728/NVvubnotIc/4230
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e7/MNC_Vision_%282019%29.png" group-title="SPORTS",Soccer Channel
