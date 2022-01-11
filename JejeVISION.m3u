@@ -538,6 +538,18 @@ https://iptv.mwafa.net/vidio/6786/index.m3u8?token=1999
 http://gpc.my.id/vidio/champion-tv-3.m3u8
 http://dituduhmaling.xyz/V11710/championstv3.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3RzHWDXt/Astro-Supersport.png" group-title="SPORTS", ASTRO SUPERSPORTS 1
+http://iptv.tvmalaysia.cc:80/penang175/penang175/6708
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Yq6wq0hx/as2.png" group-title="SPORTS", ASTRO SUPERSPORTS 2
+http://iptv.tvmalaysia.cc:80/penang175/penang175/6710
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FRY49xLf/as3.png" group-title="SPORTS", ASTRO SUPERSPORTS 3
+http://iptv.tvmalaysia.cc:80/penang175/penang175/6711
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/wT8ppLTv/as4.png" group-title="SPORTS", ASTRO SUPERSPORTS 4
+http://iptv.tvmalaysia.cc:80/penang175/penang175/6712
+
 #EXTINF:-1 tvg-id="ss.motorsport.za" tvg-name="SuperSport: Motorsport" tvg-logo="http://myportal.live:8080/images/87abec0aaae3a904a805fe6e815758b0.png" group-title="SPORTS",SuperSport: Motorsport (MOTOGP)
 http://163.172.5.94:8080/panelplayer87262728/NVvubnotIc/4227
 
