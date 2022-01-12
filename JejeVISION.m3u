@@ -152,9 +152,6 @@ http://rr2.dens.tv/s/s10/01.m3u8
 #EXTINF:-1 tvg-id="UGTV" tvg-name="" tvg-url="" tvg-logo="https://ugtv.co.id/wp-content/uploads/2021/01/logo-ug.png" group-title="Indonesia Channel",UGTV
 https://cdn.gunadarma.ac.id/streams/ugtv/ingestugtv.m3u8
 
-#EXTINF:-1 group-title="Indonesia Channel", ANTARA TV 
-http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=68d30a9594728bc39aa24be94b319d21268ef7e5a44f541a7cbde7626ef57566
-
 
 #EXTINF:-1 tvg-id="TV PARLEMEN" tvg-name="TV PARLEMEN" tvg-url="http://www.firstmedia.com" tvg-logo="https://i.imgur.com/Hh3mx3u.png" group-title="Indonesia Channel",TV PARLEMEN
 http://103.16.220.69:1935/golive/livestream/playlist.m3u8
@@ -469,10 +466,6 @@ http://rr1.dens.tv/h/h28/01.m3u8
 
 #EXTINF:-1  tvg-id="" group-title="Lifestyle" tvg-logo="https://maghreb-orient.tv5monde.com/sites/tv5_locaux/files/2021-09/Logo%20Style%20HD%20BLANC.png",TV5 Monde Style
 http://rr1.dens.tv/h/h01/01.m3u8
-
-
-#EXTINF:-1  tvg-id="Channel4U.id" group-title="Lifestyle" tvg-logo="https://i.imgur.com/MsmE7UK.png",Channel 4U
-https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(81b456ab-b398-4d35-ae05-9be0a173ad71)/manifest.mpd
 
 
 <----------------------------------- SPORTS --------------------------------------->
