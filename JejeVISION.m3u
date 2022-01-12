@@ -47,7 +47,7 @@ https://liveanevia.mncnow.id/live/eds/NetTV-HD/sa_dash_vmx/NetTV-HD.mpd
 https://iptv.mwafa.net/vidio/205/index.m3u8?token=1999
 
 
-#EXTINF:-1 group-title="Indonesia Channel",SCTV
+#EXTINF:-1 tvg-id="SCTV.id" tvg-logo="https://i.postimg.cc/wBpKv9HD/SCTV.png" group-title="Indonesia Channel",SCTV
 https://iptv.mwafa.net/vidio/204/index.m3u8?token=1999
 
 
