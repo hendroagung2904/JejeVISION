@@ -123,10 +123,6 @@ https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(85534711-b312-4
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsenglish/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="RRI NET" tvg-name="RRI NET" tvg-url="http://www.useetv.com" group-title="Indonesia Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/88/Logo_RRI_NET.png",RRI NET
-http://36.89.47.217:11935/rrinet/live/index.m3u8?checkedby:iptvcat.com
-
-
 #EXTINF:-1 tvg-id="O CHANNEL" tvg-name="O CHANNEL" tvg-url="http://www.firstmedia.com" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1f/Ochannel.png" group-title="Indonesia Channel",O Channel
 https://iptv.mwafa.net/vidio/206/index.m3u8?token=1999
 
