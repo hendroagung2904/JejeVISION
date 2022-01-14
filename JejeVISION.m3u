@@ -530,17 +530,6 @@ http://iptv.tvmalaysia.cc:80/penang175/penang175/6711
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/wT8ppLTv/as4.png" group-title="SPORTS", ASTRO SUPERSPORTS 4
 http://iptv.tvmalaysia.cc:80/penang175/penang175/6712
 
-#EXTINF:-1 tvg-id="ss.motorsport.za" tvg-name="SuperSport: Motorsport" tvg-logo="http://myportal.live:8080/images/87abec0aaae3a904a805fe6e815758b0.png" group-title="SPORTS",SuperSport: Motorsport (MOTOGP)
-http://163.172.5.94:8080/panelplayer87262728/NVvubnotIc/4227
-
-#EXTINF:-1 tvg-id="ss.football.za" tvg-name="SuperSport: Football" tvg-logo="http://myportal.live:8080/images/305c9bef1a6761c0360a0f8511250019.png" group-title="SPORTS",SuperSport: Football
-http://163.172.5.94:8080/panelplayer87262728/NVvubnotIc/4222
-
-#EXTINF:-1 tvg-id="ss.la.liga.za" tvg-name="SuperSport: La Liga" tvg-logo="http://myportal.live:8080/images/e996ff53b8a7a389d89815aa51910b01.png" group-title="SPORTS",SuperSport: La Liga
-http://163.172.5.94:8080/panelplayer87262728/NVvubnotIc/4225
-
-#EXTINF:-1 tvg-id="ss.premier.league.za" tvg-name="SuperSport: Premier League" tvg-logo="http://myportal.live:8080/images/8bf93cf8ef05a3008b28f0729c79566b.png" group-title="SPORTS",SuperSport: Premier League
-http://163.172.5.94:8080/panelplayer87262728/NVvubnotIc/4230
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
