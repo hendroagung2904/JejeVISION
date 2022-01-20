@@ -1027,7 +1027,6 @@ https://liveanevia.mncnow.id/live/eds/OKTV/sa_dash_vmx/OKTV.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1 
 https://liveanevia.mncnow.id/live/eds/MusicChannel/sa_dash_vmx/MusicChannel.mpd 
 
-
 #EXTINF:-1 tvg-id="BESMART" group-title="Trial-VISION+" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5b/Besmart.png/revision/latest?cb=20171127031305",BESMART 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1 
@@ -1217,7 +1216,6 @@ https://liveanevia.mncnow.id/live/eds/BeIN2s/sa_dash_vmx/BeIN2s.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1 
 https://liveanevia.mncnow.id/live/eds/soccerchannel-HD/sa_dash_vmx/soccerchannel-HD.mpd 
-
 
 #EXTINF:-1 tvg-id="TV1.my" tvg-name="TV1" tvg-country="MY" tvg-language="" tvg-logo="https://tv1.rtm.gov.my/assets/img/logo3.png" tvg-url="" group-title="Trial-ASTRO",CH101 TV1 
 https://rtm1mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b4064000.m3u8 
@@ -1410,7 +1408,6 @@ http://iptv.tvmalaysia.cc:80/139664/139664/6802
 
 #EXTINF:-1 tvg-logo=" https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/51_144.png" group-title="Trial-ASTRO",CH213 ASTRO CHUTTI TV 
 http://iptv.tvmalaysia.cc:80/139664/139664/6762 
-
 
 #EXTINF:-1 tvg-logo=" https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/355_144.png" group-title="Trial-ASTRO",CH300 ASTRO iQIYI 
 http://iptv.tvmalaysia.cc:80/139664/139664/6723 
@@ -1673,7 +1670,6 @@ http://iptv.tvmalaysia.cc:80/139664/139664/7195
 #EXTINF:-1 tvg-logo=" https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/194_144.png" group-title="Trial-ASTRO",CH821 WWE NETWORK 
 http://iptv.tvmalaysia.cc:80/139664/139664/6849 
 
-
 #EXTINF:-1 tvg-logo=" https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/393_144.png" group-title="Trial-ASTRO",CH823 RUGBYPASS TV http://iptv.tvmalaysia.cc:80/139664/139664/6821 
 
 #EXTINF:-1 tvg-logo=" https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/189_144.png" group-title="Trial-ASTRO",CH822 GOLF CHANNEL 
@@ -1871,7 +1867,6 @@ https://www.livedoomovie.com/02_nbahd_720p/chunklist.m3u8
 #EXTINF:-1 tvg-id="MTVLive.us" tvg-name="" tvg-logo="https://w7.pngwing.com/pngs/874/440/png-transparent-bbc-lifestyle-television-channel-bbc-entertainment-life-style-television-text-logo.png" group-title="Trial-ASTRO",BBCLife 
 http://198.16.106.62:8278/streams/d/bbclifestyle_zero/playlist.m3u8 
 
-
 #EXTINF:0 tvg-logo="https://image.roku.com/developer_channels/prod/d6712574eef3921d712304d3069cf0b96ef8503ecf9486ebaace230c5a9326f0.png" group-title="Trial-ASTRO",Arirang 
 http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8 
 
@@ -2065,7 +2060,6 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5b68a18823ecb93393c
 
 #EXTINF:-1 tvg-id="2MD.MA" tvg-logo="https://static.epg.best/ma/2MMonde.ma.png" group-title="Trial-ASTRO",2M Monde 
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/2m_monde/hls_video_ts/2m_monde.m3u8 
-
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=NDZhNGIwZGQtMGU2Yy0zOTQxLWI2MzQtMzE1MWU0OTM2MWE1 
