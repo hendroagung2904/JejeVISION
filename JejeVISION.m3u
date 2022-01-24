@@ -231,11 +231,6 @@ http://45.126.83.51/uq2663/h/h08/index.m3u8?fluxustv.m3u8
 #EXTINF:0 tvg-id="Celestial Movies" tvg-name="Celestial Movies" tvg-url="http://www.mncvision.id.E" tvg-logo="http://dusktill.masuk.web.id/img/cm.png" group-title="MOVIES",Celestial Movies
 https://liveanevia.mncnow.id/live/eds/CelestialMovie/sa_dash_vmx/CelestialMovie.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:0 tvg-id="KIX" tvg-name="KIX" tvg-url="http://www.mncvision.id.E" tvg-logo="http://dusktill.masuk.web.id/img/kix.png" group-title="MOVIES",KIX
-https://liveanevia.mncnow.id/live/eds/KIX/sa_dash_vmx/KIX.mpd
-
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
@@ -282,6 +277,11 @@ http://playlist.urfan.web.id/dr9445/h/h15/01.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://dusktill.masuk.web.id/img/tvn.png" group-title="Entertaiment",tvN
 https://liveanevia.mncnow.id/live/eds/tvN/sa_dash_vmx/tvN.mpd
 
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="KIX" tvg-name="KIX" tvg-url="http://www.mncvision.id.E" tvg-logo="http://dusktill.masuk.web.id/img/kix.png" group-title="Entertaiment",KIX
+https://liveanevia.mncnow.id/live/eds/KIX/sa_dash_vmx/KIX.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
@@ -504,18 +504,6 @@ http://golive.cf/stream/champion3.m3u8
 https://iptv.mwafa.net/vidio/6786/index.m3u8?token=1999
 http://gpc.my.id/vidio/champion-tv-3.m3u8
 http://dituduhmaling.xyz/V11710/championstv3.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/3RzHWDXt/Astro-Supersport.png" group-title="SPORTS", ASTRO SUPERSPORTS 1
-http://iptv.tvmalaysia.cc:80/penang175/penang175/6708
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Yq6wq0hx/as2.png" group-title="SPORTS", ASTRO SUPERSPORTS 2
-http://iptv.tvmalaysia.cc:80/penang175/penang175/6710
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FRY49xLf/as3.png" group-title="SPORTS", ASTRO SUPERSPORTS 3
-http://iptv.tvmalaysia.cc:80/penang175/penang175/6711
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/wT8ppLTv/as4.png" group-title="SPORTS", ASTRO SUPERSPORTS 4
-http://iptv.tvmalaysia.cc:80/penang175/penang175/6712
 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
