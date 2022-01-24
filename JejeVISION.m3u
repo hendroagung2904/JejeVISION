@@ -3,8 +3,6 @@
 
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/id/mncvision.id.epg.xml" refresh="3600"
 #EXTM3U x-url-tvg="https://iptv-org.github.io/epg/guides/id/mncvision.id.epg.xml"
-#EXTM3U url-tvg="https://weareblahs.github.io/epg/unifitv.xml" refresh="3600" 
-#EXTM3U x-tvg-url="https://weareblahs.github.io/epg/unifitv.xml" 
 
 <----------------------------------- Indonesia Channel --------------------------------------->
 
