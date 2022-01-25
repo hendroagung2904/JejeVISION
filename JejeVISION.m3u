@@ -790,12 +790,12 @@ https://rtmlive02tv.secureswiftcontent.com/rtmchannel/02-manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=N2NlNGIzZDgtMDIzYi0zZjU4LTg3ZDMtZjVjNDJlMzQwNjJh
 https://rtmlive02tv.secureswiftcontent.com/rtmchannel/03-manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://apkplz.net/storage/images/com/tvtv/malaysia/onlinetvmalaysia/com.tvtv.malaysia.onlinetvmalaysia_1.png" group-title="Malaysia", TV1
+#EXTINF:-1 tvg-logo="http://myiptv.site40.net/logos/tv1.png" group-title="Malaysia", TV1
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=N2NlNGIzZDgtMDIzYi0zZjU4LTg3ZDMtZjVjNDJlMzQwNjJh
 https://rtmlive02tv.secureswiftcontent.com/rtmchannel/01-manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://apkplz.net/storage/images/com/tvtv/malaysia/onlinetvmalaysia/com.tvtv.malaysia.onlinetvmalaysia_1.png" group-title="Malaysia", TV2
+#EXTINF:-1 tvg-logo="http://myiptv.site40.net/logos/tv2.png" group-title="Malaysia", TV2
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=N2NlNGIzZDgtMDIzYi0zZjU4LTg3ZDMtZjVjNDJlMzQwNjJh
 https://rtmlive02tv.secureswiftcontent.com/rtmchannel/05-manifest.mpd
