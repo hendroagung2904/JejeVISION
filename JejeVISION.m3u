@@ -46,6 +46,9 @@ http://210.210.155.35:80/qwr9ew/s/s08/02.m3u8
 https://iptv.mwafa.net/vidio/205/index.m3u8?token=1999
 http://210.210.155.35:80/qwr9ew/s/s04/01.m3u8
 
+#EXTINF:-1 tvg-id="INDOSIAR.id" tvg-logo="https://i.postimg.cc/J4Y6vMGR/Indosiar.png" group-title="Indonesia Channel", Indosiar SD
+http://singaporehub.net:5759/IndosiarTvlocal/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-id="SCTV.id" tvg-logo="https://i.postimg.cc/wBpKv9HD/SCTV.png" group-title="Indonesia Channel",SCTV
 https://iptv.mwafa.net/vidio/204/index.m3u8?token=1999
 http://210.210.155.35:80/qwr9ew/s/s03/01.m3u8
