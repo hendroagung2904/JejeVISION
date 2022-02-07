@@ -766,11 +766,29 @@ https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCU-92/chunklist
 
 <----------------------------------- Malaysia Channel --------------------------------------->
 
-#EXTINF:-1 tvg-id="AstroAwani.my" tvg-country="MY" tvg-language="Malaysia" tvg-logo="https://i.imgur.com/dLzgBUj.png" group-title="",Astro Awani (720p) [Not 24/7]
-https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
+#EXTINF:0 tvg-country="UN" tvg-logo="https://img.astroawani.com/template/awani.jpg" group-title="Malaysia",Astro Awani
+https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/stream04/streamPlaylist.m3u8?checkedby:iptvcat.com
 
-#EXTINF:-1 tvg-id="BernamaTV.my" tvg-country="MY" tvg-language="Malay" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/502_300.png" group-title="",Bernama TV (1080p)
+#EXTINF:-1 tvg-logo="" group-title="Malaysia",Astro RANIA
+https://nonton.site:8443/blink4/frknnyvc9e/37467
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/mZ6tZ9rG/1591197779083.png" group-title="Malaysia",Astro RIA
+https://nonton.site:8443/blink4/frknnyvc9e/37332
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/wvw3mycL/1591197786349.png" group-title="Malaysia",Astro WARNA
+http://mvu03.wanicelife.com:8880/SFL123247/1ACQHPREP/1706
+
+#EXTINF:-1 tvg-id="BernamaTV.my" tvg-country="MY" tvg-language="Malay" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/502_300.png" group-title="Malaysia",Bernama TV (1080p)
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCcZg5r9hBqK_VPUT2I7eYVw/live
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8PJs7CFf/1591197801032.png" group-title="Malaysia",Drama Sangat
+https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/Drama_Sangat.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/BvcjJwjh/1591197792932.png" group-title="Malaysia",RTB (Brunei)
+https://d1211whpimeups.cloudfront.net/smil:rtb1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Malaysia",TV6
+https://rtmlive03tv.secureswiftcontent.com/rtmchannel/07-manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://apkplz.net/storage/images/com/tvtv/malaysia/onlinetvmalaysia/com.tvtv.malaysia.onlinetvmalaysia_1.png" group-title="Malaysia",RTM Okey
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
