@@ -460,37 +460,6 @@ https://liveanevia.mncnow.id/live/eds/BeIN2s/sa_dash_vmx/BeIN2s.mpd
 #EXTINF:-1  tvg-id="ext" group-title="SPORTS" tvg-logo="https://i.imgur.com/FP0Nhnx.png",beIN Sports Xtra
 https://service-stitcher.clusters.pluto.tv:443/stitch/hls/channel/5df975e2b27cf5000921c102/master.m3u8?deviceType=web&deviceMake=Opera&deviceModel=Opera&sid=855d6801-c912-428d-b620-ede4dd0c3b15&deviceId=b702181a-c1d6-4ee2-9481-753f471e2ce7&deviceVersion=66.0.3515.44&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceDNT=0&userId=&advertisingId=&deviceLat=40.8364&deviceLon=-74.1403&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&serverSideAds=tr
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cf/Champions_TV_1.png/revision/latest/scale-to-width-down/284?cb=20200428062800" group-title="SPORTS", Champions TV 1
-https://m3u-editor.com/live/serve/fhjhddfnmh/409160916.m3u8
-http://www.daygun.online/Live/ru/v.m3u8?id=championstv1
-http://www.goldentv.tech:25461/live/Perfecto/170721/26134.m3u8
-http://golive.cf/vidio/live-champion1.m3u8
-https://tsptv.my.id/Nding/vidionyet/champions1.m3u8
-http://golive.cf/stream/champion1.m3u8
-https://iptv.mwafa.net/vidio/6685/index.m3u8?token=1999
-http://gpc.my.id/vidio/champion-tv-1.m3u8
-http://dituduhmaling.xyz/V11710/championstv1.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9c/Champions_TV_2_%282021%29.png/revision/latest/scale-to-width-down/284?cb=20210621091959" group-title="SPORTS", Champions TV 2
-https://m3u-editor.com/live/serve/fhjhddfnmh/409160917.m3u8
-http://www.daygun.online/Live/ru/v.m3u8?id=championstv2
-http://www.goldentv.tech:25461/live/Perfecto/170721/26135.m3u8
-http://golive.cf/vidio/live-champion2.m3u8
-https://tsptv.my.id/Nding/vidionyet/champions2.m3u8
-http://golive.cf/stream/champion2.m3u8
-https://iptv.mwafa.net/vidio/6686/index.m3u8?token=1999
-http://gpc.my.id/vidio/champion-tv-2.m3u8
-http://dituduhmaling.xyz/V11710/championstv2.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/J0ngQJZ9/Champion-3.png" group-title="SPORTS", Champions TV 3
-https://m3u-editor.com/live/serve/fhjhddfnmh/409254760.m3u8
-http://www.daygun.online/Live/ru/v.m3u8?id=championstv3
-http://golive.cf/vidio/live-champion3.m3u8
-https://tsptv.my.id/Nding/vidionyet/champions3.m3u8
-http://golive.cf/stream/champion3.m3u8
-https://iptv.mwafa.net/vidio/6786/index.m3u8?token=1999
-http://gpc.my.id/vidio/champion-tv-3.m3u8
-http://dituduhmaling.xyz/V11710/championstv3.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
