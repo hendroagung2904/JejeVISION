@@ -361,9 +361,6 @@ http://playlist.urfan.web.id/dr9445/h/h15/01.m3u8
 http://210.210.155.35:80/dr9445/h/h15/01.m3u8
 http://rr1.dens.tv/h/h15/index10.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="Entertainment & Lifestyle" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9d/Paramount_Network_%28Blue%29_Logo.png", Paramount Network
-https://cubmu.superzap.xyz:8279/paramount/playlist.m3u8
-
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://dusktill.masuk.web.id/img/tvn.png" group-title="Entertainment & Lifestyle",tvN
