@@ -40,11 +40,15 @@ https://liveanevia.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
 <==https://liveanevia.mncnow.id/live/eds/Trans7/sa_dash_vmx/Trans7.mpd
 <==http://210.210.155.35:80/qwr9ew/s/s101/01.m3u8
 
-#EXTINF:-1 tvg-id="TransTV.id" tvg-name="TransTV" tvg-logo="https://cdn.kibrispdr.org/data/logo-trans-tv-png-2.png" group-title="Indonesia Channel",Trans TV
-https://cubmu.superzap.xyz:8279/transtv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/9HXYCM1/ihyt.png" group-title="Indonesia Channel",TRANS 7
+http://rr.dens.tv/h/h11/index.m3u8
+http://nonton.wap.sh/id/004.m3u8
+https://video.detik.com/trans7/smil:trans7.smil/chunklist_shareExt_b744100_sleng.m3u8
 
-#EXTINF:-1 tvg-id="Trans7.id" tvg-name="Trans7" tvg-logo="http://dusktill.masuk.web.id/img/trans7.png" group-title="Indonesia Channel",Trans 7
-https://cubmu.superzap.xyz:8279/trans7/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://blog.sribu.com/wp-content/uploads/2018/01/logo-trans-tv.png" group-title="Indonesia Channel",TRANS TV
+http://rr2.dens.tv/s/s05/index.m3u8
+http://nonton.wap.sh/id/003.m3u8
+https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://dusktill.masuk.web.id/img/net.png" group-title="Indonesia Channel",NET TV HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
