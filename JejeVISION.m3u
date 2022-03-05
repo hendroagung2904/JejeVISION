@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/id/mncvision.id.epg.xml"
+﻿#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/id/mncvision.id.epg.xml"
 #EXTM3U x-url-tvg="https://iptv-org.github.io/epg/guides/id/mncvision.id.epg.xml"
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/my/astro.com.my.epg.xml" 
 #EXTM3U x-url-tvg="https://iptv-org.github.io/epg/guides/my/astro.com.my.epg.xml" 
@@ -237,6 +237,10 @@ https://liveanevia.mncnow.id/live/eds/Galaxy-HD/sa_dash_vmx/Galaxy-HD.mpd
 #EXTINF:-1 tvg-id="galaxypremium" tvg-logo="https://www.useetv.com/pimages/logo_galaxypremium_small.png" group-title="Movies",Galaxy Premium HD
 https://liveanevia.mncnow.id/live/eds/GalaxyPremium-HD/sa_dash_vmx/GalaxyPremium-HD.mpd
 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-id="imc" tvg-logo="https://upload.wikimedia.org/wikipedia/id/3/34/IMC-TV.png" group-title="Movies",IMC
+https://liveanevia.mncnow.id/live/eds/IndonesiaMovieChannels-HD/sa_dash_vmx/IndonesiaMovieChannels-HD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
