@@ -759,6 +759,9 @@ https://d1211whpimeups.cloudfront.net/smil:rtb1/playlist.m3u8
 https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8#EXTINF:-1 tvg-id="Cer.MY" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/55_144.png" group-title="Malaysia",Astro Ceria
 http://ts.lemmovie.com/ec85b2d2-8539-4d40-bfc2-64abcf7e8984.m3u8
 
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/59/Astro_Ria.png/revision/latest/scale-to-width-down/80?cb=20180623060717a" group-title="Malaysia", Astro Ria 
+https://m3u-editor.com:443/live/utk7wdhs/vcvoprja/408759478.ts
+
 #EXTINF:-1 tvg-logo="" group-title="Malaysia",TV6
 https://rtmlive03tv.secureswiftcontent.com/rtmchannel/07-manifest.mpd
 
