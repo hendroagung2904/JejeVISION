@@ -525,19 +525,6 @@ https://liveanevia.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
 #EXTINF:-1 tvg-id="spottv2" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/18355963_ico.png?ts=1643984665" group-title="SPORTS", SPO TV 2
 https://liveanevia.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
 
-#EXTINF:-1 tvg-id="championstv1" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEgtLipU0_jcRWAAqgu_8hpEzMgBoYm5tcaPAxNl39t_uruqfKJLh9P8suuYc95-_RxLBTlI5gwpEvPHPAx8Mly1tyJ2JhuULWli4eaIo0s1ZnZmC4BS0-ysqVtb48YCGf_BJFg8IQhx86YZjdWUQ79w9kdee0Agvv0zBx7feJ0ektYiyq2674371aSY" group-title="SPORTS", CHAMPIONS 1 
-http://tvn.x10.bz/xchannel/master-6.m3u8
-
-
-#EXTINF:-1 tvg-id="championstv2" tvg-logo="https://i.ibb.co/cv3MLq1/Champions-TV-2-2021-1.png" group-title="SPORTS", CHAMPIONS 2
-http://tvn.x10.bz/xchannel/master-7.m3u8
-
-
-#EXTINF:-1 tvg-id="championstv3" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEj2pQGdYepHRkkVqLCSgFGaoiTPfjtHdcSzMk0L2xHbcMVZtE9iYMhYHbg7x0nX3_M3EIaVRSoyt2JokU7rq463FGOG361VvrgfTrBqPL0-6nzveqkJSHTLKz1V9gwuhDx9WBpUWMw4hYkDigrsQ_W0y0-GVwOYLoG_6Z_r0Ak9_bZ-R43qONbeKQzN" group-title="SPORTS", CHAMPIONS 3
-http://tvn.x10.bz/xchannel/master-8.m3u8
-
-#EXTINF:-1 tvg-id="championstv4" tvg-logo="https://i.ibb.co/QvFd5by/Champion-TV4fix.jpg" group-title="SPORTS", CHAMPIONS 4
-http://tvn.x10.bz/xchannel/master-17.m3u8
 
 #EXTINF:-1 tvg-id="unifi1" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Unifi_logo_2017.png/1598px-Unifi_logo_2017.png" group-title="SPORTS", Unifi Sports 1
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live11.mpd
