@@ -1,4 +1,4 @@
-﻿#EXTM3U                                    
+﻿                           
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/id/mncvision.id.epg.xml" refresh="3600"
 #EXTM3U x-url-tvg="https://iptv-org.github.io/epg/guides/id/mncvision.id.epg.xml" refresh="3600"
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/my/astro.com.my.epg.xml" refresh="3600"
@@ -703,7 +703,7 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-abcnews/CDN/master.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:0 tvg-id="ABC Australia" tvg-name="ABC Australia" tvg-url="http://www.useetv.com" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch561_425_305" group-title="News",ABC Australia
+#EXTINF:0 tvg-id="ABCAustraliaAsia" tvg-name="ABCAustraliaAsia" tvg-url="http://www.useetv.com" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch561_425_305" group-title="News",ABC Australia
 https://liveanevia.mncnow.id/live/eds/AustraliaPlus/sa_dash_vmx/AustraliaPlus.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
