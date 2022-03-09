@@ -762,12 +762,12 @@ https://d1211whpimeups.cloudfront.net/smil:rtb1/playlist.m3u8
 https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8#EXTINF:-1 tvg-id="Cer.MY" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/55_144.png" group-title="Malaysia",Astro Ceria
 http://ts.lemmovie.com/ec85b2d2-8539-4d40-bfc2-64abcf7e8984.m3u8
 
-#EXTINF:-1 tvg-logo="http://myiptv.site40.net/logos/tv1.png" group-title="Malaysia", TV1
+#EXTINF:-1 tvg-logo="https://tv1.rtm.gov.my/assets/img/logo3.png" group-title="Malaysia", TV1
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=N2NlNGIzZDgtMDIzYi0zZjU4LTg3ZDMtZjVjNDJlMzQwNjJh
 https://rtmlive02tv.secureswiftcontent.com/rtmchannel/01-manifest.mpd
 
-#EXTINF:-1 tvg-logo="http://myiptv.site40.net/logos/tv2.png" group-title="Malaysia", TV2
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/102_300.png" group-title="Malaysia", TV2
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=N2NlNGIzZDgtMDIzYi0zZjU4LTg3ZDMtZjVjNDJlMzQwNjJh
 https://rtmlive02tv.secureswiftcontent.com/rtmchannel/05-manifest.mpd
@@ -776,18 +776,18 @@ https://rtmlive02tv.secureswiftcontent.com/rtmchannel/05-manifest.mpd
 https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/TV3.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://apkplz.net/storage/images/com/tvtv/malaysia/onlinetvmalaysia/com.tvtv.malaysia.onlinetvmalaysia_1.png" group-title="Malaysia",RTM Okey
+#EXTINF:-1 tvg-logo="https://okey.rtm.gov.my/img/logo/okey.png" group-title="Malaysia",RTM Okey
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=N2NlNGIzZDgtMDIzYi0zZjU4LTg3ZDMtZjVjNDJlMzQwNjJh
 https://rtmlive02tv.secureswiftcontent.com/rtmchannel/02-manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://apkplz.net/storage/images/com/tvtv/malaysia/onlinetvmalaysia/com.tvtv.malaysia.onlinetvmalaysia_1.png" group-title="Malaysia", Berita RTM
+#EXTINF:-1 tvg-logo="https://berita.rtm.gov.my/images/logobes.jpg" group-title="Malaysia", Berita RTM
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=N2NlNGIzZDgtMDIzYi0zZjU4LTg3ZDMtZjVjNDJlMzQwNjJh
 https://rtmlive02tv.secureswiftcontent.com/rtmchannel/03-manifest.mpd
 
 
-#EXTINF:-1 tvg-logo="https://apkplz.net/storage/images/com/tvtv/malaysia/onlinetvmalaysia/com.tvtv.malaysia.onlinetvmalaysia_1.png" group-title="Malaysia",RTM SUKAN
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/02/RTM_HD_Sports.png" group-title="Malaysia",RTM SUKAN
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=N2NlNGIzZDgtMDIzYi0zZjU4LTg3ZDMtZjVjNDJlMzQwNjJh
 http://rtmlive02tv.secureswiftcontent.com/rtmchannel/06-manifest.mpd
