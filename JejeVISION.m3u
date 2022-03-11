@@ -125,9 +125,6 @@ https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(85534711-b312-4e
 #EXTINF:0 tvg-id="JAKARTA GLOBE NEWS CHANNEL" tvg-name="JAKARTA GLOBE NEWS CHANNEL" tvg-url="http://www.firstmedia.com" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ea/Jakarta_globe_news_channel_id.png/revision/latest?cb=20191019135004" group-title="Indonesia Channel",Jakarta Globe News Channel
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsenglish/playlist.m3u8
 
-#EXTINF:-1 tvg-id="MYTV" tvg-name="MYTV" tvg-url="http://www.dens.tv" tvg-logo="https://i.pinimg.com/originals/e6/d6/4c/e6d64c019581df3d7ecd8b7111798e8f.png" group-title="Indonesia Channel",My tv
-https://iptv.mwafa.net/vidio/6711/index.m3u8?token=1999
-
 
 #EXTINF:-1 tvg-id="DaaiTv.MACAN" tvg-name="DAAI TV" tvg-logo="http://akudandia.xyz/logo/daaitv.png" group-title="Indonesia Channel",DAAI TV
 http://210.210.155.35/qwr9ew/s/s13/02.m3u8
