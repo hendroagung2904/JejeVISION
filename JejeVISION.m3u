@@ -226,12 +226,12 @@ https://liveanevia.mncnow.id/live/eds/CinemaxHD2/sa_dash_vmx/CinemaxHD2.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-#EXTINF:-1 tvg-id="Hits.sg" tvg-url="https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_160.png" group-title="Movies",Hits
+#EXTINF:-1 tvg-id="Hits.sg" tvg-url="https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml" tvg-logo="https://movies.hitstv.com/assets/hits-tv-logo.png" group-title="Movies",Hits
 https://liveanevia.mncnow.id/live/eds/HITS/sa_dash_vmx/HITS.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-#EXTINF:-1 tvg-ID="HitsMovies.sg" tvg-url="https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml" group-title="Movies" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_11.png", HITS Movies
+#EXTINF:-1 tvg-ID="HitsMovies.sg" tvg-url="https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml" group-title="Movies" tvg-logo="https://movies.hitstv.com/assets/logo-HITSMOVIES.png", HITS Movies
 https://liveanevia.mncnow.id/live/eds/HitsMovies/sa_dash_vmx/HitsMovies.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
