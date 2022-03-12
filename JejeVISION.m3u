@@ -6,10 +6,6 @@
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/id/transvision.co.id.epg.xml"
 #EXTM3U x-url-tvg="https://iptv-org.github.io/epg/guides/id/transvision.co.id.epg.xml"
 
-tvg-url="https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml"
-tvg-url="https://iptv-org.github.io/epg/guides/id/transvision.co.id.epg.xml"
-tvg-url="https://iptv-org.github.io/epg/guides/my/astro.com.my.epg.xml"
-
 <=============================== Indonesia Channel =================================>
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
