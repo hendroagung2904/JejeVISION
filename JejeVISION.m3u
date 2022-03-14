@@ -80,7 +80,7 @@ https://visionplus-stream.visionplus.id/live/eds/SCTV-intel/sa_hls/SCTV-intel.m3
 #EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml" url-tvg="https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml" refresh="3600"
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-#EXTINF:-1 tvg-ID="TVRINasional.id" tvg-url="https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml" group-title="Indonesia Channel" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tvri-id.png",TVRI
+#EXTINF:-1 tvg-ID="TVRINasional.id" tvg-url="https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml" group-title="Indonesia Channel" tvg-logo="https://e7.pngegg.com/pngimages/107/247/png-clipart-tvri-jambi-television-tvone-logo-tvri-jambi-blue-text.png",TVRI
 https://liveanevia.mncnow.id:443/live/eds/PemersatuBangsa/sa_dash_vmx/PemersatuBangsa.mpd
 
 #EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml" url-tvg="https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml" refresh="3600"
