@@ -201,7 +201,7 @@ https://liveanevia.mncnow.id/live/eds/CrimeInvestigation/sa_dash_vmx/CrimeInvest
 EXTINF:0  tvg-id="" tvg-name="" tvg-url="https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml" tvg-logo="https://i.imgur.com/bpHH6Wj.png" group-title="Knowledge & Documentary",Love Nature
 http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
 
-#EXTINF:-1 tvg-id="NASATVPublic.us" url-tvg="" tvg-country="US" tvg-language="English" tvg-logo="https://seeklogo.com/images/N/NASA-logo-9411797223-seeklogo.com.png" group-title="Knowledge & Documentary",NASA TV 
+#EXTINF:-1 tvg-id="NASATVPublic.us" url-tvg="" tvg-country="US" tvg-language="English" tvg-logo="https://w7.pngwing.com/pngs/1004/673/png-transparent-nasa-tv-logo-united-states-television-news-live-television-blue-text.png" group-title="Knowledge & Documentary",NASA TV 
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 
 #EXTINF:-1 tvg-id="ext" tvg-logo="https://www.biznethome.net/bin/images/tv-program/channel/Biznet%20Adventure%20170x85.png" group-title="Knowledge & Documentary",Biznet Adventure
@@ -332,7 +332,7 @@ https://liveanevia.mncnow.id/live/eds/CartoonNetwork/sa_dash_vmx/CartoonNetwork.
 #EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml" url-tvg="https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml" refresh="3600"
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-#EXTINF:-1 tvg-id="BoomerangSouthEastAsia.us" tvg-url="https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml" tvg-logo="https://www.lyngsat.com/logo/tv/bb/boomerang_global.png" group-title="Kids",Boomerang
+#EXTINF:-1 tvg-id="BoomerangSouthEastAsia.us" tvg-url="https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml" tvg-logo="https://w7.pngwing.com/pngs/859/11/png-transparent-boomerang-television-channel-logo-boomerang-purple-television-blue.png" group-title="Kids",Boomerang
 https://liveanevia.mncnow.id/live/eds/Boomerang/sa_dash_vmx/Boomerang.mpd
 
 #EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml" url-tvg="https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml" refresh="3600"
