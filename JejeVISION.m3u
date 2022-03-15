@@ -64,6 +64,8 @@ https://liveanevia.mncnow.id/live/eds/TVOne/sa_dash_vmx/TVOne.mpd
 #EXTINF:-1 tvg-ID="NET.id" tvg-name="NET TV" tvg-url="https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml" tvg-logo="https://www.lyngsat.com/logo/tv/nn/net-id.png" group-title="Indonesia Channel",NetTV HD
 https://liveanevia.mncnow.id/live/eds/NetTV-HD/sa_dash_vmx/NetTV-HD.mpd
 
+#EXTINF:-1 tvg-ID="NET.id" tvg-name="NET TV" tvg-url="https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml" tvg-logo="https://www.lyngsat.com/logo/tv/nn/net-id.png" group-title="Indonesia Channel",NetTV HD (VIDIO)
+https://akudandia.xyz/locs/akudandia-875.m3u8
 
 #EXTINF:-1 tvg-id="SCTV.id" tvg-url="https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml" tvg-logo="https://e7.pngegg.com/pngimages/602/156/png-clipart-sctv-logo-sctv-television-channel-tvone-broadcasting-about-us-miscellaneous-television.png" group-title="Indonesia Channel",SCTV
 http://210.210.155.35:80/qwr9ew/s/s03/01.m3u8
