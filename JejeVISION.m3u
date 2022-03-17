@@ -1,12 +1,16 @@
 ﻿<?xml version="1.0" encoding="UTF-8" ?>
-<HTML>
-<HEAD>
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"></head><body>
 #EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml"
 #EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/id/transvision.co.id.epg.xml"
 #EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/id/vidio.com.epg.xml"
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml"
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/id/transvision.co.id.epg.xml"
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/id/vidio.com.epg.xml"
+#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/my/astro.com.my.epg.xml"
+#EXTM3U x-tvg-url="https://weareblahs.github.io/epg/rtmklik.xml" 
+#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/my/astro.com.my.epg.xml"
+#EXTM3U url-tvg="https://weareblahs.github.io/epg/rtmklik.xml"
+
 
 <=============================== Indonesia Channel =================================>
 
@@ -535,12 +539,7 @@ KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 https://liveanevia.mncnow.id/live/eds/CGTN_Doc/sa_dash_vmx/CGTN_Doc.mpd
 
 <=================================================Malaysia Channel =======================================>
-<HTML>
-<HEAD>
-#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/my/astro.com.my.epg.xml"
-#EXTM3U x-tvg-url="https://weareblahs.github.io/epg/rtmklik.xml" 
-#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/my/astro.com.my.epg.xml"
-#EXTM3U url-tvg="https://weareblahs.github.io/epg/rtmklik.xml"
+
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/BvcjJwjh/1591197792932.png" group-title="Malaysia",RTB (Brunei)
 https://d1211whpimeups.cloudfront.net/smil:rtb1/playlist.m3u8
@@ -574,8 +573,6 @@ https://rtmlive02tv.secureswiftcontent.com/rtmchannel/03-manifest.mpd
 #EXTINF:-1 tvg-id="RTMK05" tvg-url="https://weareblahs.github.io/epg/rtmklik.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/02/RTM_HD_Sports.png" group-title="Malaysia",RTM SUKAN
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=N2NlNGIzZDgtMDIzYi0zZjU4LTg3ZDMtZjVjNDJlMzQwNjJh
-</HTML>
-</HEAD>
 
 <======================================================= Korea ============================================================>
 
@@ -703,5 +700,4 @@ https://liveanevia.mncnow.id/live/eds/BaliTV/sa_dash_vmx/BaliTV.mpd
 #EXTINF:-1 tvg-ID="JakTV.id" tvg-url="https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml" group-title="Local Channel" tvg-logo="https://www.lyngsat.com/logo/tv/jj/jak-tv-id.png",JAKTV
 https://liveanevia.mncnow.id/live/eds/JakTV/sa_dash_vmx/JakTV.mpd
 
-</HTML>
-</HEAD>
+</body></html>
