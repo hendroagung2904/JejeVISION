@@ -522,6 +522,32 @@ KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTINF:-1 tvg-id="CGTN.cn" tvg-name="" tvg-url="https://iptv-org.github.io/epg/guides/id/transvision.co.id.epg.xml" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cgtn_cn.png" group-title="News",CGTN
 https://liveanevia.mncnow.id/live/eds/CGTN_Doc/sa_dash_vmx/CGTN_Doc.mpd
 
+
+
+<==================================================== Australia Channel =======================================================>
+#EXTINF:-1 group-title="Australia" tvg-logo="https://cdn.technadu.com/wp-content/uploads/2018/09/Outdoor-Channel-696x392.png",Outdoor Channel
+https://outdoorchannel-samsungau.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="Australia" tvg-logo="https://globalhire.com/wp-content/uploads/2017/02/TASTEMADE-LOGO-1.png",Tastemade
+https://tmint-aus-samsungau.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="Australia" tvg-logo="",TimeLine Australia
+https://lds-timeline-samsungau.amagi.tv/playlist.m3u8	
+
+#EXTINF:-1 group-title="Australia" tvg-logo="https://trace.tv/trace-sport-stars/wp-content/uploads/sites/26/2016/11/logo_sport-1.png",Trace Sports Stars
+https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="Australia" tvg-logo="https://ewsat.com/img/TRACE_URBAN.png",Trace Urban HD
+https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="Australia" tvg-logo="",Wonder
+https://lds-wonder-samsungau.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="Australia" tvg-logo="https://seeklogo.com/images/Z/zoomoo-logo-FA728C7940-seeklogo.com.png",ZooMoo
+https://zoomoo-samsungau.amagi.tv/playlist.m3u8
+
+
+
 <=================================================Malaysia Channel =======================================>
 <html>
   <head>
