@@ -528,7 +528,7 @@ https://liveanevia.mncnow.id/live/eds/CGTN_Doc/sa_dash_vmx/CGTN_Doc.mpd
 #EXTINF:-1 group-title="Australia" tvg-logo="https://cdn.technadu.com/wp-content/uploads/2018/09/Outdoor-Channel-696x392.png",Outdoor Channel
 https://outdoorchannel-samsungau.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 group-title="Australia" tvg-logo="https://globalhire.com/wp-content/uploads/2017/02/TASTEMADE-LOGO-1.png",Tastemade
+#EXTINF:-1 group-title="Australia" tvg-logo="https://globalhire.com/wp-content/uploads/2017/02/TASTEMADE-LOGO-1.png",Tastemade Australia
 https://tmint-aus-samsungau.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="Australia" tvg-logo="",TimeLine Australia
@@ -545,6 +545,49 @@ https://lds-wonder-samsungau.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="Australia" tvg-logo="https://seeklogo.com/images/Z/zoomoo-logo-FA728C7940-seeklogo.com.png",ZooMoo
 https://zoomoo-samsungau.amagi.tv/playlist.m3u8
+
+
+
+<============================================================= USA Channel =============================================================>
+
+#EXTINF:-1 group-title="USA" tvg-logo="https://fraym.io/wp-content/uploads/2018/03/voa-logo-2-300x300.png", VOA
+https://voa-lh.akamaihd.net/i/voa_mpls_tvmc6@320298/master.m3u8
+
+#EXTINF:-1 group-title="USA" tvg-logo="", Toonami Aftermath
+http://api.toonamiaftermath.com:3000/movies/playlist.m3u8
+
+#EXTINF:-1 group-title="USA" tvg-logo="https://bassanglermag.com/wp-content/uploads/Outdoor-Channel.png", Outdoor America
+https://d18toqrnfyz3v1.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/OutdoorAmerica-PLEX/159.m3u8
+
+#EXTINF:-1 group-title="USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Reuters_TV_logo.png/799px-Reuters_TV_logo.png",Reuters
+https://reuters-reutersnow-1.plex.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 group-title="USA" tvg-logo="https://www.nicepng.com/png/full/891-8910473_aol-logo-png-failarmy.png",Fail Army
+https://failarmy-linear.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 group-title="USA" tvg-logo="https://www.nicepng.com/png/full/147-1473550_as-seen-on-fox-news-radio-logo.png",Fox News Now
+https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="USA" tvg-logo="https://dr56wvhu2c8zo.cloudfront.net/thedesignnetwork1/assets/c5634f70-4821-4f4f-9a16-fab3baf707eb.png",The Design Network
+https://thedesignnetwork-tdn-1.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 group-title="USA" tvg-logo="https://media.azpm.org/master/image/2017/5/19/show-logos/this-old-house-logo.png",This Old House Channel
+https://thisoldhouse-samsung-us.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="USA" tvg-logo="https://image.roku.com/developer_channels/prod/f6d0246b5f7b41fcfcbb7714773d41c1a78b0b3b4b14d6279ac672b6c3f86283.png",WeatherSpy Channel
+https://jukin-weatherspy-1.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 group-title="USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/Yahoo_Finance_Logo_2019.png",Yahoo Finance
+https://yahoo-samsung.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="USA" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2187-294x165-FFFFFF.jpg",Big Life TV
+https://biglife.sinclair.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 group-title="USA" tvg-logo="https://www.pngitem.com/pimgs/m/34-346567_chicken-soup-for-the-soul-logo-hd-png.png",Chicken Soup For The Soul
+https://dai.google.com/linear/hls/event/2C5P0JGUSj65s8KpeyIDcQ/master.m3u8
+
+#EXTINF:-1 group-title="USA" tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2020/11/usa-today-logo-768x768.png",USA Today
+https://dai.google.com/linear/hls/event/gJJhuFTCRo-HAHYsffb3Xg/master.m3u8
 
 
 
