@@ -583,6 +583,9 @@ https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="USA" tvg-logo="https://dr56wvhu2c8zo.cloudfront.net/thedesignnetwork1/assets/c5634f70-4821-4f4f-9a16-fab3baf707eb.png",The Design Network
 https://thedesignnetwork-tdn-1.samsung.wurl.com/manifest/playlist.m3u8
 
+#EXTINF:-1 group-title="USA" tvg-logo="https://www.bartong.com/wp-content/uploads/tastemade-travel.png",Tastemade Travel
+https://tastemadetravel-vizio.amagi.tv/playlist.m3u8
+
 #EXTINF:-1 group-title="USA" tvg-logo="https://media.azpm.org/master/image/2017/5/19/show-logos/this-old-house-logo.png",This Old House Channel
 https://thisoldhouse-samsung-us.samsung.wurl.tv/playlist.m3u8
 
