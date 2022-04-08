@@ -299,6 +299,12 @@ https://liveanevia.mncnow.id/live/eds/BabyTV-NewHD/sa_dash_vmx/BabyTV-NewHD.mpd
 #EXTINF:-1 tvg-id="MiaoMi.hk" tvg-url="https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml" tvg-name="" tvg-logo="https://i.ibb.co/jGpt8H1/MIAOMI-S1.png" group-title="Kids",MiaoMi
 https://liveanevia.mncnow.id/live/eds/MiaoMi/sa_dash_vmx/MiaoMi.mpd
 
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-name="" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/012020/moonbug_kids_on_white.png?N15F03k4i.bbYpm4vkwIU0HwhRsSA4YX&itok=zAZIL7t_" group-title="Kids",Moonbug Kids
+https://moonbug-rokuus.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-name="" tvg-logo="https://www.5minutesformom.com/wp-content/uploads/2012/12/toon_goggles_logo.png_" group-title="Kids",Toon Googles
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=36
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
 #EXTINF:-1 tvg-id="AnimaxAsia.jp" tvg-url="https://iptv-org.github.io/epg/guides/id/transvision.co.id.epg.xml" tvg-logo="https://i.ibb.co/wLxzKbZ/ANNMAX-S1.png" group-title="Kids",ANimax
