@@ -427,6 +427,9 @@ https://dms.redbull.tv/v3/linear-borb/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjY
 #EXTINF:-1 tvg-id="ext" tvg-logo="https://i0.wp.com/www.broadbandtvnews.com/wp-content/uploads/2015/10/Motorvision-TV.png" group-title="Sports",Motorvision
 http://rr.dens.tv/h/h09/01.m3u8
 
+#EXTINF:-1 tvg-id="ext" tvg-logo="https://www.pngitem.com/pimgs/m/676-6764586_fuel-tv-channel-logo-hd-png-download.png" group-title="Sports",Fuel TV
+https://fueltv-fueltv-1-au.samsung.wurl.com/manifest/playlist.m3u8
+
 <======================================================= NEWS ================================================================>
 
 
