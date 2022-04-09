@@ -415,6 +415,9 @@ https://liveanevia.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
 #EXTINF:-1 tvg-id="FightSports.us" tvg-url="https://iptv-org.github.io/epg/guides/id/transvision.co.id.epg.xml" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fight_sports_us.png" group-title="Sports",Fight Sports
 https://shls-fight-sports-ak.akamaized.net/out/v1/ee7e6475b12e484bbfa5c31461ad4306/index.m3u8
 
+#EXTINF:-1 tvg-id="TVRI Sport HD" tvg-name="TVRI Sport HD" tvg-url="http://www.dens.tv" tvg-logo="https://www.pngkey.com/png/full/432-4329627_tennis-channel-logo.png" group-title="Sports",Tennis Channel USA HD
+https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
+
 #EXTINF:-1 tvg-id="TVRI Sport HD" tvg-name="TVRI Sport HD" tvg-url="http://www.dens.tv" tvg-logo="https://i.imgur.com/aSXmtqg.png" group-title="Sports",TVRI Sports HD
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
 
