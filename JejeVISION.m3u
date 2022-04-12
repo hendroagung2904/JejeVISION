@@ -13,9 +13,6 @@
 #EXTINF:-1 tvg-id="Indosiar.id" tvg-url="https://iptv-org.github.io/epg/guides/id/transvision.co.id.epg.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/INDOSIAR_Logo.png" group-title="Indonesia Channel",INDOSIAR HD
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=eae27d77ca20db309e056e3d2dcd7d69446503011668def857b1c03bafabba51
 
-#EXTINF:0 tvg-id="Indosiar.id" tvg-url="https://iptv-org.github.io/epg/guides/id/transvision.co.id.epg.xml" tvg-logo="https://i.ibb.co/m8bVM26/indosiar-FIX.png" group-title="Indonesia Channel", INDOSIAR HD (Backup)
-http://210.210.155.35/qwr9ew/s/s04/02.m3u8?app_type=mobile&userid=2m4n6yjvyen&tkn=KRHYTUJF1CXB6NERN2PF249FY9E1XFRK&chname=Indosiar
-
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
 #EXTINF:-1 tvg-ID="GTV.id" tvg-url="https://iptv-org.github.io/epg/guides/id/transvision.co.id.epg.xml" tvg-logo="https://w1.pngwing.com/pngs/396/342/png-transparent-tv-logo-gtv-television-television-channel-wikipedia-logo-logo-tv-media-nusantara-citra.png" group-title="Indonesia Channel",GLobal TV HD
