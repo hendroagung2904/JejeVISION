@@ -296,6 +296,9 @@ https://liveanevia.mncnow.id/live/eds/BabyTV-NewHD/sa_dash_vmx/BabyTV-NewHD.mpd
 #EXTINF:-1 tvg-id="MiaoMi.hk" tvg-url="https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml" tvg-name="" tvg-logo="https://i.ibb.co/jGpt8H1/MIAOMI-S1.png" group-title="Kids",MiaoMi
 https://liveanevia.mncnow.id/live/eds/MiaoMi/sa_dash_vmx/MiaoMi.mpd
 
+#EXTINF:-1 group-title="Kids" tvg-logo="https://seeklogo.com/images/Z/zoomoo-logo-FA728C7940-seeklogo.com.png",ZooMoo
+https://zoomoo-samsungau.amagi.tv/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-url="" tvg-name="" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/012020/moonbug_kids_on_white.png?N15F03k4i.bbYpm4vkwIU0HwhRsSA4YX&itok=zAZIL7t_" group-title="Kids",Moonbug Kids
 https://moonbug-rokuus.amagi.tv/playlist.m3u8
 
@@ -561,10 +564,6 @@ https://lds-realfamilies-samsunguau.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="Australia" tvg-logo="",Wonder
 https://lds-wonder-samsungau.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 group-title="Australia" tvg-logo="https://seeklogo.com/images/Z/zoomoo-logo-FA728C7940-seeklogo.com.png",ZooMoo
-https://zoomoo-samsungau.amagi.tv/playlist.m3u8
-
 
 
 <============================================================= USA Channel =============================================================>
