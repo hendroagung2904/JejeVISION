@@ -568,9 +568,9 @@ KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 https://liveanevia.mncnow.id/live/eds/CGTN_Doc/sa_dash_vmx/CGTN_Doc.mpd
 
 
-
 <==================================================== Australia Channel =======================================================>
-#EXTINF:-1 group-title="Australia" tvg-logo="https://cdn.technadu.com/wp-content/uploads/2018/09/Outdoor-Channel-696x392.png",Outdoor Channel
+
+#EXTINF:-1 group-title="Australia" tvg-logo="https://cdn.technadu.com/wp-content/uploads/2018/09/Outdoor-Channel-696x392.png",Outdoor Channel HD
 https://outdoorchannel-samsungau.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="Australia" tvg-logo="https://globalhire.com/wp-content/uploads/2017/02/TASTEMADE-LOGO-1.png",Tastemade Australia
@@ -591,7 +591,7 @@ https://lds-wonder-samsungau.amagi.tv/playlist.m3u8
 
 <============================================================= USA Channel =============================================================>
 
-#EXTINF:-1 group-title="USA" tvg-logo="https://fraym.io/wp-content/uploads/2018/03/voa-logo-2-300x300.png", VOA
+#EXTINF:-1 group-title="USA" tvg-logo="https://fraym.io/wp-content/uploads/2018/03/voa-logo-2-300x300.png",VOA HD
 https://voa-lh.akamaihd.net/i/voa_mpls_tvmc6@320298/master.m3u8
 
 #EXTINF:-1 group-title="USA" tvg-logo="", Toonami Aftermath
@@ -600,10 +600,10 @@ http://api.toonamiaftermath.com:3000/movies/playlist.m3u8
 #EXTINF:-1 group-title="USA" tvg-logo="https://images.samsung.com/is/image/samsung/assets/ie/tvs/smart-tv/samsung-tv-plus/update_20_10_2021/4.png?$296_164_PNG$",My Time Movie Network
 https://mytime-vizio-ingest.cinedigm.com/playlist.m3u8
 
-#EXTINF:-1 group-title="USA" tvg-logo="https://media.outdooramerica.com/uploads/2021/05/outdoor-america.png", Outdoor America
+#EXTINF:-1 group-title="USA" tvg-logo="https://media.outdooramerica.com/uploads/2021/05/outdoor-america.png",Outdoor America
 https://d18toqrnfyz3v1.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/OutdoorAmerica-PLEX/159.m3u8
 
-#EXTINF:-1 group-title="USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Reuters_TV_logo.png/799px-Reuters_TV_logo.png",Reuters
+#EXTINF:-1 group-title="USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Reuters_TV_logo.png/799px-Reuters_TV_logo.png",Reuters HD
 https://reuters-reutersnow-1.plex.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1 group-title="USA" tvg-logo="https://www.nicepng.com/png/full/891-8910473_aol-logo-png-failarmy.png",Fail Army
