@@ -559,9 +559,6 @@ https://liveanevia.mncnow.id:443/live/eds/ChannelNewsAsia/sa_dash_vmx/ChannelNew
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-url="" tvg-logo="https://image.roku.com/developer_channels/prod/576365b1deee1bbd799caae8c445a593bd07c5434b588f52d97c93c29c827297.png" group-title="News",Australia Channel
 https://austchannel-live.akamaized.net/hls/live/2002729/austchannel-news/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-url="" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/61Ajpa76ulL.png" group-title="News",EuroNews
-https://ausbiztv-ausbiz-1-au.samsung.wurl.com/manifest/playlist.m3u8
-
 KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
 #EXTINF:-1 tvg-id="CGTN.cn" tvg-name="" tvg-url="https://iptv-org.github.io/epg/guides/id/transvision.co.id.epg.xml" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cgtn_cn.png" group-title="News",CGTN
