@@ -588,9 +588,6 @@ https://lds-wonder-samsungau.amagi.tv/playlist.m3u8
 
 <============================================================= USA Channel =============================================================>
 
-#EXTINF:-1 group-title="USA" tvg-logo="https://fraym.io/wp-content/uploads/2018/03/voa-logo-2-300x300.png",VOA HD
-https://voa-lh.akamaihd.net/i/voa_mpls_tvmc6@320298/master.m3u8
-
 #EXTINF:-1 group-title="USA" tvg-logo="", Toonami Aftermath
 http://api.toonamiaftermath.com:3000/movies/playlist.m3u8
 
