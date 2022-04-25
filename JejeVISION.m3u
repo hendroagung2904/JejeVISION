@@ -574,7 +574,7 @@ https://lds-wonder-samsungau.amagi.tv/playlist.m3u8
 <============================================================= USA Channel =============================================================>
 
 #EXTINF:-1 group-title="USA" tvg-logo="",Toonami Aftermath
-http://api.toonamiaftermath.com:3000/movies/playlist.m3u8
+https://api.toonamiaftermath.com:3000/movies/playlist.m3u8
 
 #EXTINF:-1 group-title="USA" tvg-logo="https://images.samsung.com/is/image/samsung/assets/ie/tvs/smart-tv/samsung-tv-plus/update_20_10_2021/4.png?$296_164_PNG$",My Time Movie Network
 https://mytime-vizio-ingest.cinedigm.com/playlist.m3u8
