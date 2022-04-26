@@ -609,11 +609,11 @@ https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeF
 
 <============================================================ TVRI Group ======================================================================>
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/TVRI_1999.svg/1024px-TVRI_1999.svg.png" group-title="TVRI Group",TVRI Nasional
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRINasional)/Stream(04)/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/TVRI_1999.svg/1024px-TVRI_1999.svg.png" group-title="TVRI Group",TVRI NASIONAL2
 http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(04)/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/TVRI_1999.svg/1024px-TVRI_1999.svg.png" group-title="TVRI Group",TVRI DKI JAKARTA
-http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIDKI)/Stream(03)/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/TVRI_1999.svg/1024px-TVRI_1999.svg.png" group-title="TVRI Group",TVRI WORLD
 http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI3)/Stream(03)/index.m3u8
@@ -624,63 +624,62 @@ http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/TVRI_1999.svg/1024px-TVRI_1999.svg.png" group-title="TVRI Group",TVRI 3 Budaya
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRI3)/Stream(02)/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/TVRI_1999.svg/1024px-TVRI_1999.svg.png" group-title="TVRI Group",TVRI Aceh
+#EXTINF:-1 tvg-logo="https://staging.tvri.go.id/assets/img_gallery/daerah/tvrijtown.jpg" group-title="TVRI Group",TVRI DKI JAKARTA
+http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIDKI)/Stream(03)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://staging.tvri.go.id/assets/img_gallery/daerah/17.png" group-title="TVRI Group",TVRI Aceh
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIAceh)/Stream(02)/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/TVRI_1999.svg/1024px-TVRI_1999.svg.png" group-title="TVRI Group",TVRI Bali
+#EXTINF:-1 tvg-logo="https://staging.tvri.go.id/assets/img_gallery/tvribali.png" group-title="TVRI Group",TVRI Bali
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIbali)/Stream(02)/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/TVRI_1999.svg/1024px-TVRI_1999.svg.png" group-title="TVRI Group",TVRI Bengkulu
+#EXTINF:-1 tvg-logo="https://staging.tvri.go.id/assets/img_gallery/daerah/6.png" group-title="TVRI Group",TVRI Bengkulu
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIbengkulu)/Stream(02)/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/TVRI_1999.svg/1024px-TVRI_1999.svg.png" group-title="TVRI Group",TVRI Jawa Barat
+#EXTINF:-1 tvg-logo="https://staging.tvri.go.id/assets/img_gallery/daerah/8.png" group-title="TVRI Group",TVRI Jawa Barat
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIjabarbandung)/Stream(02)/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/TVRI_1999.svg/1024px-TVRI_1999.svg.png" group-title="TVRI Group",TVRI Jambi
+#EXTINF:-1 tvg-logo="https://staging.tvri.go.id/assets/img_gallery/daerah/9.png" group-title="TVRI Group",TVRI Jambi
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIjambi)/Stream(02)/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/TVRI_1999.svg/1024px-TVRI_1999.svg.png" group-title="TVRI Group",TVRI Jawa Tengah
+#EXTINF:-1 tvg-logo="https://staging.tvri.go.id/assets/img_gallery/daerah/10.png" group-title="TVRI Group",TVRI Jawa Tengah
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIjatengsemarang)/Stream(02)/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/TVRI_1999.svg/1024px-TVRI_1999.svg.png" group-title="TVRI Group",TVRI Jawa Timur
+#EXTINF:-1 tvg-logo="https://staging.tvri.go.id/assets/img_gallery/daerah/11.png" group-title="TVRI Group",TVRI Jawa Timur
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIjatimsurabaya)/Stream(02)/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/TVRI_1999.svg/1024px-TVRI_1999.svg.png" group-title="TVRI Group",TVRI Kalbar
+#EXTINF:-1 tvg-logo="https://staging.tvri.go.id/assets/img_gallery/daerah/12.png" group-title="TVRI Group",TVRI Kalbar
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIkalbar)/Stream(02)/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/TVRI_1999.svg/1024px-TVRI_1999.svg.png" group-title="TVRI Group",TVRI Kalsel
+#EXTINF:-1 tvg-logo="https://staging.tvri.go.id/assets/img_gallery/daerah/13.png" group-title="TVRI Group",TVRI Kalsel
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIKalselbanjarmsn)/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/TVRI_1999.svg/1024px-TVRI_1999.svg.png" group-title="TVRI Group",TVRI Kalteng
+#EXTINF:-1 tvg-logo="https://staging.tvri.go.id/assets/img_gallery/daerah/14.png" group-title="TVRI Group",TVRI Kalteng
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIKalteng)/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/TVRI_1999.svg/1024px-TVRI_1999.svg.png" group-title="TVRI Group",TVRI Kaltim
+#EXTINF:-1 tvg-logo="https://staging.tvri.go.id/assets/img_gallery/daerah/15.png" group-title="TVRI Group",TVRI Kaltim
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIkaltimsamarinda)/Stream(02)/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/TVRI_1999.svg/1024px-TVRI_1999.svg.png" group-title="TVRI Group",TVRI Lampung
+#EXTINF:-1 tvg-logo="https://staging.tvri.go.id/assets/img_gallery/daerah/16.png" group-title="TVRI Group",TVRI Lampung
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIlampung)/Stream(03)/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/TVRI_1999.svg/1024px-TVRI_1999.svg.png" group-title="TVRI Group",TVRI Nasional
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRINasional)/Stream(04)/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/TVRI_1999.svg/1024px-TVRI_1999.svg.png" group-title="TVRI Group",TVRI Papua
+#EXTINF:-1 tvg-logo="https://staging.tvri.go.id/assets/img_gallery/daerah/tvripapua.png" group-title="TVRI Group",TVRI Papua
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIpapua)/Stream(03)/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/TVRI_1999.svg/1024px-TVRI_1999.svg.png" group-title="TVRI Group",TVRI Riau
+#EXTINF:-1 tvg-logo="https://staging.tvri.go.id/assets/img_gallery/daerah/RIAU.png" group-title="TVRI Group",TVRI Riau
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIriau)/Stream(03)/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/TVRI_1999.svg/1024px-TVRI_1999.svg.png" group-title="TVRI Group",TVRI Sulsel Makasar
+#EXTINF:-1 tvg-logo="https://staging.tvri.go.id/assets/img_gallery/daerah/22.pngg" group-title="TVRI Group",TVRI Sulsel Makasar
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIsulselmakasar)/Stream(03)/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/TVRI_1999.svg/1024px-TVRI_1999.svg.png" group-title="TVRI Group",TVRI Sulteng Palu
+#EXTINF:-1 tvg-logo="https://staging.tvri.go.id/assets/img_gallery/daerah/23.png" group-title="TVRI Group",TVRI Sulteng Palu
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIsultengpalu)/Stream(03)/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/TVRI_1999.svg/1024px-TVRI_1999.svg.png" group-title="TVRI Group",TVRI Sulut Manado
+#EXTINF:-1 tvg-logo="https://staging.tvri.go.id/assets/img_gallery/daerah/25.png" group-title="TVRI Group",TVRI Sulut Manado
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIsulutmanado)/Stream(03)/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/TVRI_1999.svg/1024px-TVRI_1999.svg.png" group-title="TVRI Group",TVRI Sumatra Selatan
+#EXTINF:-1 tvg-logo="https://staging.tvri.go.id/assets/img_gallery/daerah/27.png" group-title="TVRI Group",TVRI Sumatra Selatan
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIsumsel)/Stream(01)/index.m3u8
-
 
 <=================================================Malaysia Channel =======================================>
 
