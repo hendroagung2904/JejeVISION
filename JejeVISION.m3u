@@ -692,9 +692,6 @@ http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIsulutmanado)/Stream(03)/index
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/TVRI_1999.svg/1024px-TVRI_1999.svg.png" group-title="TVRI Group",TVRI Sumatra Selatan
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIsumsel)/Stream(01)/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/TVRI_1999.svg/1024px-TVRI_1999.svg.png" group-title="TVRI Group",JAMBI
-http://122.248.43.138:1935/ch23/myStream/chunklist_w88244984.m3u8
-
 
 <=================================================Malaysia Channel =======================================>
 <html>
@@ -891,6 +888,9 @@ https://liveanevia.mncnow.id/live/eds/BaliTV/sa_dash_vmx/BaliTV.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
 #EXTINF:-1 tvg-ID="JakTV.id" tvg-url="https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml" group-title="Local Channel" tvg-logo="https://www.lyngsat.com/logo/tv/jj/jak-tv-id.png",JAKTV
 https://liveanevia.mncnow.id/live/eds/JakTV/sa_dash_vmx/JakTV.mpd
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/TVRI_1999.svg/1024px-TVRI_1999.svg.png" group-title="Local Channel",JAMBI TV
+http://122.248.43.138:1935/ch23/myStream/chunklist_w88244984.m3u8
 
 
 
