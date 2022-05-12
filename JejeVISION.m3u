@@ -2,7 +2,7 @@
 
 <=============================== Indonesia Channel =================================>
 
-#EXTINF:-1 tvg-id="Indosiar.id" tvg-url="https://iptv-org.github.io/epg/guides/id/transvision.co.id.epg.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/INDOSIAR_Logo.png" group-title="Indonesia Channel",INDOSIAR
+#EXTINF:-1 tvg-id="Indosiar.id" tvg-url="https://iptv-org.github.io/epg/guides/id/transvision.co.id.epg.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/INDOSIAR_Logo.png" group-title="Indonesia Channel",INDOSIAR HD
 http://iptv12k.com:35461/8022022301/468985/1814
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -43,8 +43,8 @@ https://liveanevia.mncnow.id/live/eds/TVOne/sa_dash_vmx/TVOne.mpd
 #EXTINF:-1 tvg-ID="NET.id" tvg-name="NET TV" tvg-url="https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml" tvg-logo="https://www.lyngsat.com/logo/tv/nn/net-id.png" group-title="Indonesia Channel",NetTV HD
 https://liveanevia.mncnow.id/live/eds/NetTV-HD/sa_dash_vmx/NetTV-HD.mpd
 
-#EXTINF:-1 tvg-id="SCTV.id" tvg-url="https://iptv-org.github.io/epg/guides/id/transvision.co.id.epg.xml" tvg-logo="https://e7.pngegg.com/pngimages/602/156/png-clipart-sctv-logo-sctv-television-channel-tvone-broadcasting-about-us-miscellaneous-television.png" group-title="Indonesia Channel",SCTV
-http://210.210.155.35/qwr9ew/s/s03/01.m3u8
+#EXTINF:-1 tvg-id="SCTV.id" tvg-url="https://iptv-org.github.io/epg/guides/id/transvision.co.id.epg.xml" tvg-logo="https://e7.pngegg.com/pngimages/602/156/png-clipart-sctv-logo-sctv-television-channel-tvone-broadcasting-about-us-miscellaneous-television.png" group-title="Indonesia Channel",SCTV HD
+http://iptv12k.com:35461/8022022301/468985/1811
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
