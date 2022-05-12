@@ -704,6 +704,21 @@ http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIsumsel)/Stream(01)/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/BvcjJwjh/1591197792932.png" group-title="Malaysia",RTB (Brunei)
 https://d1211whpimeups.cloudfront.net/smil:rtb1/playlist.m3u8
 
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/Ctp1v2b/Logo-Astro-Ria-HD.png" group-title="Malaysia", ASTRO RIA HD
+http://iptv12k.com:35461/8022022301/468985/735
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/09YdvzC/Astro-Prima-HD-logo.png" group-title="Malaysia", ASTRO PRIMA HD
+http://iptv12k.com:35461/8022022301/468985/734
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/NmZ7TM7/Astro-Warna.png" group-title="Malaysia", ASTRO WARNA HD
+http://iptv12k.com:35461/8022022301/468985/733
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/LnFnSxZ/Astro-ceria.png" group-title="Malaysia", ASTRO CERIA HD
+http://iptv12k.com:35461/8022022301/468985/730
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/cY95ZsJ/Astro-Citra-HD-logo.png" group-title="Malaysia", ASTRO CITRA HD
+http://iptv12k.com:35461/8022022301/468985/721
+
 #EXTINF:-1 tvg-id="AstroAwani.my" tvg-url="https://iptv-org.github.io/epg/guides/my/astro.com.my.epg.xml" tvg-name="Astro Awani" tvg-logo="https://img.astroawani.com/template/awani.jpg" group-title="Malaysia",Astro Awani
 https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
 
