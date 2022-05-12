@@ -400,6 +400,14 @@ http://axcestv.vip:8080/live/freeview/axcestv/791.ts
 #EXTINF:-1 group-title="Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0lrKlSm_0cRiydonwHocsx5u0eH0mxwzqEQ&usqp=CAU",astro SUPER SPORT 5 HD
 http://axcestv.vip:8080/live/freeview/axcestv/792.ts
 
+#EXTINF:-1 tvg-id="" tvg-name="Sport Premier League" tvg-logo="" group-title="Sports",Sport Premier League
+http://axcestv.vip:8080/live/freeview/axcestv/793.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="Sport Football" tvg-logo="" group-title="Sports",Sport Football
+http://axcestv.vip:8080/live/freeview/axcestv/794.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="Rugby TV" tvg-logo="" group-title="Sports",Rugby TV
+http://axcestv.vip:8080/live/freeview/axcestv/810.ts
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
@@ -436,8 +444,8 @@ https://dms.redbull.tv/v3/linear-borb/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjY
 #EXTINF:-1 tvg-id="ext" tvg-logo="https://i0.wp.com/www.broadbandtvnews.com/wp-content/uploads/2015/10/Motorvision-TV.png" group-title="Sports",Motorvision
 http://rr.dens.tv/h/h09/01.m3u8
 
-#EXTINF:-1 tvg-id="ext" tvg-logo="https://www.pngitem.com/pimgs/m/676-6764586_fuel-tv-channel-logo-hd-png-download.png" group-title="Sports",Fuel TV
-https://fueltv-fueltv-1-au.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NBA TV" tvg-logo="" group-title="Sports",NBA TV
+http://axcestv.vip:8080/live/freeview/axcestv/811.ts
 
 <======================================================= NEWS ================================================================>
 
