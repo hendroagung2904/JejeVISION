@@ -707,7 +707,7 @@ https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/D
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=N2NlNGIzZDgtMDIzYi0zZjU4LTg3ZDMtZjVjNDJlMzQwNjJh
 https://rtmlive02tv.secureswiftcontent.com/rtmchannel/02-manifest.mpd
 
-#EXTINF:-1 tvg-id="RTMK04" tvg-url="https://weareblahs.github.io/epg/rtmklik.xml"tvg-logo="https://berita.rtm.gov.my/images/logobes.jpg" group-title="Malaysia", Berita RTM
+#EXTINF:-1 tvg-id="RTMK04" tvg-url="https://weareblahs.github.io/epg/rtmklik.xml"tvg-logo="https://berita.rtm.gov.my/images/logobes.jpg" group-title="Malaysia",Berita RTM
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=N2NlNGIzZDgtMDIzYi0zZjU4LTg3ZDMtZjVjNDJlMzQwNjJh
 https://rtmlive03tv.secureswiftcontent.com/rtmchannel/03-manifest.mpd
