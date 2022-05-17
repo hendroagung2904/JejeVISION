@@ -1,4 +1,6 @@
-﻿#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/id/mncvision.id.epg.xml, https://iptv-org.github.io/epg/guides/id/vidio.com.epg.xml, https://iptv-org.github.io/epg/guides/id/transvision.co.id.epg.xml, https://iptv-org.github.io/epg/guides/my/astro.com.my.epg.xml, https://macan.tv/xmltv.php?username=epg&password=epg"  refresh="3600"
+﻿#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/id/mncvision.id.epg.xml, https://iptv-org.github.io/epg/guides/id/vidio.com.epg.xml, https://iptv-org.github.io/epg/guides/id/transvision.co.id.epg.xml, https://macan.tv/xmltv.php?username=epg&password=epg"  refresh="3600"
+
+
 <================================== Indonesia Channel ============================================>
 
 #EXTINF:-1 tvg-id="Indosiar.id" tvg-url="https://iptv-org.github.io/epg/guides/id/transvision.co.id.epg.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/INDOSIAR_Logo.png" group-title="Indonesia Channel",INDOSIAR HD
@@ -533,71 +535,6 @@ https://austchannel-live.akamaized.net/hls/live/2002729/austchannel-news/master.
 https://liveanevia.mncnow.id/live/eds/CGTN_Doc/sa_dash_vmx/CGTN_Doc.mpd
 
 
-<==================================================== Australia Channel =======================================================>
-
-#EXTINF:-1 group-title="Australia" tvg-logo="https://cdn.technadu.com/wp-content/uploads/2018/09/Outdoor-Channel-696x392.png",Outdoor Channel HD
-https://outdoorchannel-samsungau.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 group-title="Australia" tvg-logo="https://globalhire.com/wp-content/uploads/2017/02/TASTEMADE-LOGO-1.png",Tastemade Australia
-https://tmint-aus-samsungau.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 group-title="Australia" tvg-logo="",TimeLine Australia
-https://lds-timeline-samsungau.amagi.tv/playlist.m3u8	
-
-#EXTINF:-1 group-title="Australia" tvg-logo="https://trace.tv/trace-sport-stars/wp-content/uploads/sites/26/2016/11/logo_sport-1.png",Trace Sports Stars
-https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 group-title="Australia" tvg-logo="https://assets.iptv2022.com/uploads/channel/12041/thumb_RFTV_logo_blue_transparent.png",Real Families TV
-https://lds-realfamilies-samsunguau.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 group-title="Australia" tvg-logo="",Wonder
-https://lds-wonder-samsungau.amagi.tv/playlist.m3u8
-
-
-<============================================================= USA Channel =============================================================>
-
-#EXTINF:-1 group-title="USA" tvg-logo="https://images.samsung.com/is/image/samsung/assets/ie/tvs/smart-tv/samsung-tv-plus/update_20_10_2021/4.png?$296_164_PNG$",My Time Movie Network
-https://mytime-vizio-ingest.cinedigm.com/playlist.m3u8
-
-#EXTINF:-1 group-title="USA" tvg-logo="https://media.outdooramerica.com/uploads/2021/05/outdoor-america.png",Outdoor America
-https://d18toqrnfyz3v1.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/OutdoorAmerica-PLEX/159.m3u8
-
-#EXTINF:-1 group-title="USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Reuters_TV_logo.png/799px-Reuters_TV_logo.png",Reuters HD
-https://reuters-reutersnow-1.plex.wurl.com/manifest/playlist.m3u8
-
-#EXTINF:-1 group-title="USA" tvg-logo="https://www.nicepng.com/png/full/891-8910473_aol-logo-png-failarmy.png",Fail Army
-https://failarmy-linear.samsung.wurl.com/manifest/playlist.m3u8
-
-#EXTINF:-1 group-title="USA" tvg-logo="https://www.nicepng.com/png/full/147-1473550_as-seen-on-fox-news-radio-logo.png",Fox News Now
-https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 group-title="USA" tvg-logo="https://dr56wvhu2c8zo.cloudfront.net/thedesignnetwork1/assets/c5634f70-4821-4f4f-9a16-fab3baf707eb.png",The Design Network
-https://thedesignnetwork-tdn-1.samsung.wurl.com/manifest/playlist.m3u8
-
-#EXTINF:-1 group-title="USA" tvg-logo="https://www.bartong.com/wp-content/uploads/tastemade-travel.png",Tastemade Travel
-https://tastemadetravel-vizio.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 group-title="USA" tvg-logo="https://media.azpm.org/master/image/2017/5/19/show-logos/this-old-house-logo.png",This Old House Channel
-https://thisoldhouse-samsung-us.samsung.wurl.tv/playlist.m3u8
-
-#EXTINF:-1 group-title="USA" tvg-logo="https://image.roku.com/developer_channels/prod/f6d0246b5f7b41fcfcbb7714773d41c1a78b0b3b4b14d6279ac672b6c3f86283.png",WeatherSpy Channel
-https://jukin-weatherspy-1.samsung.wurl.com/manifest/playlist.m3u8
-
-#EXTINF:-1 group-title="USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/Yahoo_Finance_Logo_2019.png",Yahoo Finance
-https://yahoo-samsung.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 group-title="USA" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2187-294x165-FFFFFF.jpg",Big Life TV
-https://biglife.sinclair.wurl.com/manifest/playlist.m3u8
-
-#EXTINF:-1 group-title="USA" tvg-logo="https://www.pngitem.com/pimgs/m/34-346567_chicken-soup-for-the-soul-logo-hd-png.png",Chicken Soup For The Soul
-https://dai.google.com/linear/hls/event/2C5P0JGUSj65s8KpeyIDcQ/master.m3u8
-
-#EXTINF:-1 group-title="USA" tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2020/11/usa-today-logo-768x768.png",USA Today
-https://dai.google.com/linear/hls/event/gJJhuFTCRo-HAHYsffb3Xg/master.m3u8
-
-#EXTINF:-1 group-title="USA" tvg-logo="https://millenniumtv24.com/wp-content/uploads/2020/07/logo-new-24-02.png",Millenium TV
-https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/mnews24.stream/playlist.m3u8
-
 <============================================================ TVRI Group ======================================================================>
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/TVRI_1999.svg/1024px-TVRI_1999.svg.png" group-title="TVRI Group",TVRI Nasional
@@ -672,7 +609,40 @@ http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIsulutmanado)/Stream(03)/index
 #EXTINF:-1 tvg-logo="https://staging.tvri.go.id/assets/img_gallery/daerah/27.png" group-title="TVRI Group",TVRI Sumatra Selatan
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIsumsel)/Stream(01)/index.m3u8
 
+
+<=========================================== Local Channel ======================================================================>
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
+#EXTINF:-1 tvg-ID="jtv" tvg-logo="https://www.lyngsat.com/logo/tv/jj/jtv_kr.png" group-title="Local Channel",JTV
+https://liveanevia.mncnow.id/live/eds/JTV/sa_dash_vmx/JTV.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/3/3b/Logo_Jawapos_TV.png/300px-Logo_Jawapos_TV.png" group-title="Local Channel",Jawapos TV
+http://122.248.43.138:1935/ch6/myStream/live.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1c/Kawanua_TV.png/revision/latest?cb=20181005160144" group-title="Local Channel",Kawanua TV
+http://122.248.43.138:1935/ch18/myStream/playlist.m3u8
+
+#EXTINF:-1  tvg-id="JITV.id" group-title="Local Channel" tvg-logo="https://i.imgur.com/wkK7YNx.png",JITV
+http://202.169.224.76:1935/tv/jitv/eroz_brebes.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
+#EXTINF:-1 tvg-ID="balitv" group-title="Local Channel" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bali_tv_id.png",BALI TV
+https://liveanevia.mncnow.id/live/eds/BaliTV/sa_dash_vmx/BaliTV.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
+#EXTINF:-1 tvg-ID="JakTV.id" tvg-url="https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml" group-title="Local Channel" tvg-logo="https://www.lyngsat.com/logo/tv/jj/jak-tv-id.png",JAKTV
+https://liveanevia.mncnow.id/live/eds/JakTV/sa_dash_vmx/JakTV.mpd
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7d/Jambi_TV_2008.png" group-title="Local Channel",JAMBI TV
+http://122.248.43.138:1935/ch23/myStream/chunklist_w88244984.m3u8
+
+
 <=================================================Malaysia Channel =======================================>
+
+#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/my/astro.com.my.epg.xml"
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/BvcjJwjh/1591197792932.png" group-title="Malaysia",RTB (Brunei)
 https://d1211whpimeups.cloudfront.net/smil:rtb1/playlist.m3u8
@@ -717,6 +687,72 @@ https://rtmlive03tv.secureswiftcontent.com/rtmchannel/03-manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=N2NlNGIzZDgtMDIzYi0zZjU4LTg3ZDMtZjVjNDJlMzQwNjJh
 https://rtmlive06tv.secureswiftcontent.com/rtmchannel/06-manifest.mpd
+
+<==================================================== Australia Channel =======================================================>
+
+#EXTINF:-1 group-title="Australia" tvg-logo="https://cdn.technadu.com/wp-content/uploads/2018/09/Outdoor-Channel-696x392.png",Outdoor Channel HD
+https://outdoorchannel-samsungau.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="Australia" tvg-logo="https://globalhire.com/wp-content/uploads/2017/02/TASTEMADE-LOGO-1.png",Tastemade Australia
+https://tmint-aus-samsungau.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="Australia" tvg-logo="",TimeLine Australia
+https://lds-timeline-samsungau.amagi.tv/playlist.m3u8	
+
+#EXTINF:-1 group-title="Australia" tvg-logo="https://trace.tv/trace-sport-stars/wp-content/uploads/sites/26/2016/11/logo_sport-1.png",Trace Sports Stars
+https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="Australia" tvg-logo="https://assets.iptv2022.com/uploads/channel/12041/thumb_RFTV_logo_blue_transparent.png",Real Families TV
+https://lds-realfamilies-samsunguau.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="Australia" tvg-logo="",Wonder
+https://lds-wonder-samsungau.amagi.tv/playlist.m3u8
+
+
+<============================================================= USA Channel =============================================================>
+
+#EXTINF:-1 group-title="USA" tvg-logo="https://images.samsung.com/is/image/samsung/assets/ie/tvs/smart-tv/samsung-tv-plus/update_20_10_2021/4.png?$296_164_PNG$",My Time Movie Network
+https://mytime-vizio-ingest.cinedigm.com/playlist.m3u8
+
+#EXTINF:-1 group-title="USA" tvg-logo="https://media.outdooramerica.com/uploads/2021/05/outdoor-america.png",Outdoor America
+https://d18toqrnfyz3v1.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/OutdoorAmerica-PLEX/159.m3u8
+
+#EXTINF:-1 group-title="USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Reuters_TV_logo.png/799px-Reuters_TV_logo.png",Reuters HD
+https://reuters-reutersnow-1.plex.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 group-title="USA" tvg-logo="https://www.nicepng.com/png/full/891-8910473_aol-logo-png-failarmy.png",Fail Army
+https://failarmy-linear.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 group-title="USA" tvg-logo="https://www.nicepng.com/png/full/147-1473550_as-seen-on-fox-news-radio-logo.png",Fox News Now
+https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="USA" tvg-logo="https://dr56wvhu2c8zo.cloudfront.net/thedesignnetwork1/assets/c5634f70-4821-4f4f-9a16-fab3baf707eb.png",The Design Network
+https://thedesignnetwork-tdn-1.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 group-title="USA" tvg-logo="https://www.bartong.com/wp-content/uploads/tastemade-travel.png",Tastemade Travel
+https://tastemadetravel-vizio.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="USA" tvg-logo="https://media.azpm.org/master/image/2017/5/19/show-logos/this-old-house-logo.png",This Old House Channel
+https://thisoldhouse-samsung-us.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="USA" tvg-logo="https://image.roku.com/developer_channels/prod/f6d0246b5f7b41fcfcbb7714773d41c1a78b0b3b4b14d6279ac672b6c3f86283.png",WeatherSpy Channel
+https://jukin-weatherspy-1.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 group-title="USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/Yahoo_Finance_Logo_2019.png",Yahoo Finance
+https://yahoo-samsung.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="USA" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2187-294x165-FFFFFF.jpg",Big Life TV
+https://biglife.sinclair.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 group-title="USA" tvg-logo="https://www.pngitem.com/pimgs/m/34-346567_chicken-soup-for-the-soul-logo-hd-png.png",Chicken Soup For The Soul
+https://dai.google.com/linear/hls/event/2C5P0JGUSj65s8KpeyIDcQ/master.m3u8
+
+#EXTINF:-1 group-title="USA" tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2020/11/usa-today-logo-768x768.png",USA Today
+https://dai.google.com/linear/hls/event/gJJhuFTCRo-HAHYsffb3Xg/master.m3u8
+
+#EXTINF:-1 group-title="USA" tvg-logo="https://millenniumtv24.com/wp-content/uploads/2020/07/logo-new-24-02.png",Millenium TV
+https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/mnews24.stream/playlist.m3u8
+
     
 <======================================================= Korea ============================================================>
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -806,33 +842,4 @@ https://liveanevia.mncnow.id/live/eds/MusicChannel/sa_dash_vmx/MusicChannel.mpd
 #EXTINF:-1 group-title="Music" tvg-logo="https://ewsat.com/img/TRACE_URBAN.png",Trace Urban HD
 https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
 
-
-<=========================================== Local Channel ======================================================================>
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-#EXTINF:-1 tvg-ID="jtv" tvg-logo="https://www.lyngsat.com/logo/tv/jj/jtv_kr.png" group-title="Local Channel",JTV
-https://liveanevia.mncnow.id/live/eds/JTV/sa_dash_vmx/JTV.mpd
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/3/3b/Logo_Jawapos_TV.png/300px-Logo_Jawapos_TV.png" group-title="Local Channel",Jawapos TV
-http://122.248.43.138:1935/ch6/myStream/live.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1c/Kawanua_TV.png/revision/latest?cb=20181005160144" group-title="Local Channel",Kawanua TV
-http://122.248.43.138:1935/ch18/myStream/playlist.m3u8
-
-#EXTINF:-1  tvg-id="JITV.id" group-title="Local Channel" tvg-logo="https://i.imgur.com/wkK7YNx.png",JITV
-http://202.169.224.76:1935/tv/jitv/eroz_brebes.m3u8
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-#EXTINF:-1 tvg-ID="balitv" group-title="Local Channel" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bali_tv_id.png",BALI TV
-https://liveanevia.mncnow.id/live/eds/BaliTV/sa_dash_vmx/BaliTV.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-#EXTINF:-1 tvg-ID="JakTV.id" tvg-url="https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml" group-title="Local Channel" tvg-logo="https://www.lyngsat.com/logo/tv/jj/jak-tv-id.png",JAKTV
-https://liveanevia.mncnow.id/live/eds/JakTV/sa_dash_vmx/JakTV.mpd
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7d/Jambi_TV_2008.png" group-title="Local Channel",JAMBI TV
-http://122.248.43.138:1935/ch23/myStream/chunklist_w88244984.m3u8
 
