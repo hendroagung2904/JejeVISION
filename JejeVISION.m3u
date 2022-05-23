@@ -841,7 +841,7 @@ https://liveanevia.mncnow.id/live/eds/XingKongTV/sa_dash_vmx/XingKongTV.mpd
 #EXTINF:-1 tvg-id="Reformed21.id" tvg-url="https://iptv-org.github.io/epg/guides/id/vidio.com.epg.xml" group-title="Christian Channel" tvg-logo="https://www.lyngsat.com/logo/tv/rr/reformed_21_id.png",Reformed 21
 https://liveanevia.mncnow.id/live/eds/Reformed21/sa_dash_vmx/Reformed21.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://comunicazionisociali.chiesacattolica.it/wp-content/uploads/sites/4/2016/06/tv2000-1-1024x655.jpg" group-title="Christian Channel",GBI TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Christian Channel",GBI TV
 http://gbitv.net:1935/live/gbitv/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
