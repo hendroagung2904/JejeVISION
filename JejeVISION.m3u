@@ -660,6 +660,9 @@ https://liveanevia.mncnow.id/live/eds/JakTV/sa_dash_vmx/JakTV.mpd
 #EXTINF:-1 tvg-logo="https://tvtabalong.com/wp-content/uploads/2022/03/logo-tv-tabalong.png" group-title="Local Channel",TV Tabalong
 https://5bf7b725107e5.streamlock.net/tvtabalong/tvtabalong/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/8/8f/Logo_Balikpapan_TV.png" group-title="Local Channel",Balikpapan TV
+http://122.248.43.138:1935/ch10/myStream/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/22/TV_Sultra.png/revision/latest?cb=20181005160300" group-title="Local Channel",Sultra TV
 http://122.248.43.138:1935/ch20/myStream/playlist.m3u8
 
