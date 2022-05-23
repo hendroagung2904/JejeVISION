@@ -681,12 +681,12 @@ https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
 #EXTINF:-1 tvg-id="RTMTV1.my" tvg-url="https://iptv-org.github.io/epg/guides/my/astro.com.my.epg.xml" tvg-name="TV1" tvg-logo="http://tv1.rtm.gov.my/assets/img/logo3.png" group-title="Malaysia",TV1
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=N2NlNGIzZDgtMDIzYi0zZjU4LTg3ZDMtZjVjNDJlMzQwNjJh
-https://rtmlive02tv.secureswiftcontent.com/rtmchannel/01-manifest.mpd
+https://rtmlive01tv.secureswiftcontent.com/rtmchannel/01-manifest.mpd
 
 #EXTINF:-1 tvg-id="RTMTV2.my" tvg-url="https://iptv-org.github.io/epg/guides/my/astro.com.my.epg.xml" tvg-name="TV2" tvg-logo="http://tv2.rtm.gov.my/assets/img/TV2.png" group-title="Malaysia",TV2
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=N2NlNGIzZDgtMDIzYi0zZjU4LTg3ZDMtZjVjNDJlMzQwNjJh
-https://rtmlive02tv.secureswiftcontent.com/rtmchannel/05-manifest.mpd
+https://rtmlive05tv.secureswiftcontent.com/rtmchannel/05-manifest.mpd
 
 #EXTINF:-1 tvg-id="006" tvg-name="" tvg-country="MY" tvg-language="Malay" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/42/TV6_Logo.jpg" tvg-url="" group-title="Malaysia",TV6
 https://rtmlive07tv.secureswiftcontent.com/rtmchannel/07-manifest.mpd
@@ -706,7 +706,6 @@ https://rtmlive02tv.secureswiftcontent.com/rtmchannel/02-manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=N2NlNGIzZDgtMDIzYi0zZjU4LTg3ZDMtZjVjNDJlMzQwNjJh
 https://rtmlive03tv.secureswiftcontent.com/rtmchannel/03-manifest.mpd
-
 
 #EXTINF:-1 tvg-id="RTMK05" tvg-url="https://weareblahs.github.io/epg/rtmklik.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/02/RTM_HD_Sports.png" group-title="Malaysia",RTM SUKAN
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -853,12 +852,6 @@ https://liveanevia.mncnow.id/live/eds/Life/sa_dash_vmx/Life.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.lyngsat.com/logo/tv/ee/ewtn_us.png" group-title="Christian Channel",EWTN
 https://liveanevia.mncnow.id/live/eds/EWTN/sa_dash_vmx/EWTN.mpd
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://e7.pngegg.com/pngimages/243/547/png-clipart-catholictv-television-religious-broadcasting-logo-brand-woodlawn-cemetery-tampa-catholictv-television.png" group-title="Christian Channel",Catholic TV HD
-http://catholictvhd-lh.akamaihd.net/i/ctvhd_1@88148/master.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://comunicazionisociali.chiesacattolica.it/wp-content/uploads/sites/4/2016/06/tv2000-1-1024x655.jpg" group-title="Christian Channel",Vatican TV
-http://cld01ibi16.wz.tv2000.it/tv2000_alfa.m3u8
 
 <=================================================== Music =======================================================================>
 
