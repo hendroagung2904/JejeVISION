@@ -672,6 +672,9 @@ http://122.248.43.138:1935/ch23/myStream/chunklist_w88244984.m3u8
 
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/my/astro.com.my.epg.xml"
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/aa/RTB_Aneka.png" group-title="Malaysia",RTB Aneka (Brunei)
+https://d1211whpimeups.cloudfront.net/smil:rtb2/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/BvcjJwjh/1591197792932.png" group-title="Malaysia",RTB (Brunei)
 https://d1211whpimeups.cloudfront.net/smil:rtb1/playlist.m3u8
 
