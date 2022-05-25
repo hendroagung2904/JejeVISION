@@ -634,7 +634,7 @@ http://122.248.43.138:1935/ch6/myStream/playlist.m3u8
 https://liveanevia.mncnow.id/live/eds/JTV/sa_dash_vmx/JTV.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/3/3b/Logo_Jawapos_TV.png/300px-Logo_Jawapos_TV.png" group-title="Local Channel",Jawapos TV
-http://122.248.43.138:1935/ch6/myStream/live.m3u8
+https://v2.siar.us/jawapostv/live/chunks.m3u8 cop
 
 #EXTINF:-1 tvg-logo="https://tatv.co.id/wp-content/uploads/2018/01/logotatv2017.png" group-title="Local Channel",TATV Solo
 https://v2.siar.us/tatv/live.sdp/playlist.m3u8
@@ -663,9 +663,6 @@ https://5bf7b725107e5.streamlock.net/tvtabalong/tvtabalong/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/8/8f/Logo_Balikpapan_TV.png" group-title="Local Channel",Balikpapan TV
 http://122.248.43.138:1935/ch10/myStream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/22/TV_Sultra.png/revision/latest?cb=20181005160300" group-title="Local Channel",Sultra TV
-http://122.248.43.138:1935/ch20/myStream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7d/Jambi_TV_2008.png" group-title="Local Channel",JAMBI TV
 http://122.248.43.138:1935/ch23/myStream/chunklist_w88244984.m3u8
