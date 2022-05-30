@@ -634,7 +634,7 @@ http://122.248.43.138:1935/ch6/myStream/playlist.m3u8
 https://liveanevia.mncnow.id/live/eds/JTV/sa_dash_vmx/JTV.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/3/3b/Logo_Jawapos_TV.png/300px-Logo_Jawapos_TV.png" group-title="Local Channel",Jawapos TV
-https://v2.siar.us/jawapostv/live/chunks.m3u8 cop
+https://v2.siar.us/jawapostv/live/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://tatv.co.id/wp-content/uploads/2018/01/logotatv2017.png" group-title="Local Channel",TATV Solo
 https://v2.siar.us/tatv/live.sdp/playlist.m3u8
