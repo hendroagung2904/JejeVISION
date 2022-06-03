@@ -234,6 +234,15 @@ https://liveanevia.mncnow.id/live/eds/tvNMovies/sa_dash_vmx/tvNMovies.mpd
 https://liveanevia.mncnow.id/live/eds/SetOne/sa_dash_vmx/SetOne.mpd
 
 
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-name="" tvg-logo="https://logos.fandom.com/wiki/My_Cinema_Asia?file=MCA_%25282019%2529.png" group-title="Movies",My Cinema Asia
+http://210.210.155.35/uq2663/h/h193/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-name="" tvg-logo="https://logos.fandom.com/wiki/My_Family_Channel?file=MFC.png" group-title="Movies",My Family Channel
+http://210.210.155.37/uq2663/h/h194/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-name="" tvg-logo="https://2.bp.blogspot.com/-8YE5_WfiuV4/V_24h9yFX9I/AAAAAAAAftQ/5NTAGZzzaRUhGLnfMOHsBCeSLku5jXx_QCLcB/s1600/my-kids-tv-channel-logo.png" group-title="Movies",My Kids
+http://210.210.155.37/uq2663/h/h191/index.m3u8
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
 #EXTINF:-1 tvg-ID="CelestialMoviesIndonesia.hk" tvg-url="https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml" group-title="Movies" tvg-logo="https://i.ibb.co/Lvfpg2w/CELESMV-S1.png",Celestial Movie
@@ -647,9 +656,6 @@ http://122.248.43.138:1935/ch18/myStream/playlist.m3u8
 
 #EXTINF:-1  tvg-id="JITV.id" group-title="Local Channel" tvg-logo="https://i.imgur.com/wkK7YNx.png",JITV Jogja
 http://103.255.15.222:1935/tv/jitv_720p/playlist.m3u8
-
-#EXTINF:-1  tvg-id="" group-title="Local Channel" tvg-logo="https://sangajitv.co.id/wp-content/uploads/2022/05/logo.png",Sangaji-TV Jogja
-https://cdn.gunadarma.ac.id/streams/sangajitv/ingestsangajitv.m3u8
 
 #EXTINF:-1  tvg-id="" group-title="Local Channel" tvg-logo="https://haho.co.id/uploads/2041/company/721/profile/Inspira_TV-1.png",Inspira TV
 https://inspiratv.siar.us/inspiratv/live/playlist.m3u8
