@@ -628,7 +628,7 @@ http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIjambi)/Stream(02)/index.m3u8
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIjatengsemarang)/Stream(02)/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://staging.tvri.go.id/assets/img_gallery/daerah/11.png" group-title="TVRI Group",TVRI Jawa Timur
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIjatimsurabaya)/Stream(02)/index.m3u8
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIJATIMSURABAYA)/index.m3u8?checkedby:iptvcat.com
 
 #EXTINF:-1 tvg-logo="https://staging.tvri.go.id/assets/img_gallery/daerah/12.png" group-title="TVRI Group",TVRI Kalbar
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIkalbar)/Stream(02)/index.m3u8
