@@ -702,6 +702,9 @@ https://liveanevia.mncnow.id/live/eds/BaliTV/sa_dash_vmx/BaliTV.mpd
 #EXTINF:-1 tvg-ID="JakTV.id" tvg-url="https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml" group-title="Local Channel" tvg-logo="https://www.lyngsat.com/logo/tv/jj/jak-tv-id.png",JAKTV
 https://liveanevia.mncnow.id/live/eds/JakTV/sa_dash_vmx/JakTV.mpd
 
+#EXTINF:-1 tvg-logo="https://gardarevolusi.tv/logo/logo%20web%201.png" group-title="Local Channel",Garda TV Madiun
+https://bintangtv.siar.us/bintangtv/live/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://tvtabalong.com/wp-content/uploads/2022/03/logo-tv-tabalong.png" group-title="Local Channel",TV Tabalong
 https://5bf7b725107e5.streamlock.net/tvtabalong/tvtabalong/playlist.m3u8
 
