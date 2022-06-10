@@ -723,6 +723,9 @@ https://bintangtv.siar.us/bintangtv/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://tvtabalong.com/wp-content/uploads/2022/03/logo-tv-tabalong.png" group-title="Local Channel",TV Tabalong
 https://5bf7b725107e5.streamlock.net/tvtabalong/tvtabalong/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="Local Channel",Ficom Channel-Riau
+https://v3.siar.us/ficomchannel/live/playlist.m3u
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/8/8f/Logo_Balikpapan_TV.png" group-title="Local Channel",Balikpapan TV
 http://122.248.43.138:1935/ch10/myStream/playlist.m3u8
 
