@@ -720,8 +720,8 @@ https://liveanevia.mncnow.id/live/eds/BaliTV/sa_dash_vmx/BaliTV.mpd
 #EXTINF:-1 tvg-ID="JakTV.id" tvg-url="https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml" group-title="Local Channel" tvg-logo="https://www.lyngsat.com/logo/tv/jj/jak-tv-id.png",JAKTV
 https://liveanevia.mncnow.id/live/eds/JakTV/sa_dash_vmx/JakTV.mpd
 
-#EXTINF:-1 tvg-logo="https://gardarevolusi.tv/logo/logo%20web%201.png" group-title="Local Channel",Garda TV Madiun
-https://bintangtv.siar.us/bintangtv/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-VnFoph_efhc/WShsY7sz0YI/AAAAAAAAHlg/jbVuJ-59BlQNLhZXIGWtuFbhqWVep27SACK4B/s1600/20170527004743-711067.png" group-title="Local Channel",SMTV (Sumedang)
+http://122.248.43.138:1935/ch25/myStream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-VnFoph_efhc/WShsY7sz0YI/AAAAAAAAHlg/jbVuJ-59BlQNLhZXIGWtuFbhqWVep27SACK4B/s1600/20170527004743-711067.png" group-title="Local Channel",SMTV-Sumedang
 http://122.248.43.138:1935/ch25/myStream/playlist.m3u8
