@@ -684,6 +684,9 @@ http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIPAPUA)/in
 
 <=========================================== Local Channel ======================================================================>
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/48/RRI_NET.png" group-title="Local Channel",RRI NET
+http://36.89.47.217:11935/rrinet/live/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Logo_BBS_TV_2018.png/1200px-Logo_BBS_TV_2018.png" group-title="Local Channel",BBS TV
 http://103.119.54.246:8080/hls/bbstv.m3u8
 
