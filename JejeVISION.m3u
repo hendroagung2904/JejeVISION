@@ -470,11 +470,6 @@ https://liveanevia.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:0 group-title="Sports" tvg-url="https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml" tvg-id="SpoTV.kr" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_427.png",SPOTV (Korea)
-https://bcovlive-a.akamaihd.net/99545824f51f4c1592b35314c6ece3b0/ap-northeast-1/6271486521001/playlist.m3u8
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTINF:0 tvg-id="FightSports.us" tvg-url="https://iptv-org.github.io/epg/guides/id/transvision.co.id.epg.xml" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fight_sports_us.png" group-title="Sports",Fight Sports
 https://liveanevia.mncnow.id/live/eds/FightSports/sa_dash_vmx/FightSports.mpd
 
@@ -686,12 +681,13 @@ http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIPAPUA)/in
 
 <=========================================== Local Channel ======================================================================>
 
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/48/RRI_NET.png" group-title="Local Channel",RRI NET
-http://36.89.47.217:11935/rrinet/live/index.m3u8
-
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Logo_BBS_TV_2018.png/1200px-Logo_BBS_TV_2018.png" group-title="Local Channel",BBS TV
 http://103.119.54.246:8080/hls/bbstv.m3u8
 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Logo_JPM_TV.png/200px-Logo_JPM_TV.png" group-title="Local Channel",Jawa Pos Multimedia TV
 http://122.248.43.138:1935/ch6/myStream/playlist.m3u8
 
@@ -700,18 +696,28 @@ http://122.248.43.138:1935/ch6/myStream/playlist.m3u8
 #EXTINF:0 tvg-ID="jtv" tvg-logo="https://www.lyngsat.com/logo/tv/jj/jtv_kr.png" group-title="Local Channel",JTV Surabaya
 https://liveanevia.mncnow.id/live/eds/JTV/sa_dash_vmx/JTV.mpd
 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/3/3b/Logo_Jawapos_TV.png/300px-Logo_Jawapos_TV.png" group-title="Local Channel",Jawapos TV
 https://v2.siar.us/jawapostv/live/chunks.m3u8
 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTINF:0 tvg-logo="https://tatv.co.id/wp-content/uploads/2018/01/logotatv2017.png" group-title="Local Channel",TATV Solo
 https://v2.siar.us/tatv/live.sdp/playlist.m3u8
 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1c/Kawanua_TV.png/revision/latest?cb=20181005160144" group-title="Local Channel",Kawanua TV
 http://122.248.43.138:1935/ch18/myStream/playlist.m3u8
 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTINF:0  tvg-id="JITV.id" group-title="Local Channel" tvg-logo="https://i.imgur.com/wkK7YNx.png",JITV Jogja
 http://103.255.15.222:1935/tv/jitv_720p/playlist.m3u8
 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTINF:0  tvg-id="" group-title="Local Channel" tvg-logo="https://haho.co.id/uploads/2041/company/721/profile/Inspira_TV-1.png",Inspira TV
 https://inspiratv.siar.us/inspiratv/live/playlist.m3u8
 
@@ -725,18 +731,23 @@ https://liveanevia.mncnow.id/live/eds/BaliTV/sa_dash_vmx/BaliTV.mpd
 #EXTINF:0 tvg-ID="JakTV.id" tvg-url="https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml" group-title="Local Channel" tvg-logo="https://www.lyngsat.com/logo/tv/jj/jak-tv-id.png",JAKTV
 https://liveanevia.mncnow.id/live/eds/JakTV/sa_dash_vmx/JakTV.mpd
 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTINF:0 tvg-logo="http://1.bp.blogspot.com/-VnFoph_efhc/WShsY7sz0YI/AAAAAAAAHlg/jbVuJ-59BlQNLhZXIGWtuFbhqWVep27SACK4B/s1600/20170527004743-711067.png" group-title="Local Channel",SMTV (Sumedang)
 http://122.248.43.138:1935/ch25/myStream/playlist.m3u8
 
-#EXTINF:0 tvg-logo="http://1.bp.blogspot.com/-VnFoph_efhc/WShsY7sz0YI/AAAAAAAAHlg/jbVuJ-59BlQNLhZXIGWtuFbhqWVep27SACK4B/s1600/20170527004743-711067.png" group-title="Local Channel",SMTV-Sumedang
-http://122.248.43.138:1935/ch25/myStream/playlist.m3u8
-
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTINF:0 tvg-logo="https://tvtabalong.com/wp-content/uploads/2022/03/logo-tv-tabalong.png" group-title="Local Channel",TV Tabalong
 https://5bf7b725107e5.streamlock.net/tvtabalong/tvtabalong/playlist.m3u8
 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/id/8/8f/Logo_Balikpapan_TV.png" group-title="Local Channel",Balikpapan TV
 http://122.248.43.138:1935/ch10/myStream/playlist.m3u8
 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7d/Jambi_TV_2008.png" group-title="Local Channel",JAMBI TV
 http://122.248.43.138:1935/ch23/myStream/chunklist_w88244984.m3u8
 
