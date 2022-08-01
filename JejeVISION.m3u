@@ -1,115 +1,115 @@
 ﻿#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml"
 
-<================================== Indonesia Channel ============================================>
+<================================== Indonesia ============================================>
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:0 tvg-id="Indosiar.id" tvg-url="https://iptv-org.github.io/epg/guides/id/transvision.co.id.epg.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/INDOSIAR_Logo.png" group-title="Indonesia Channel",INDOSIAR HD
+#EXTINF:0 tvg-id="Indosiar.id" tvg-url="https://iptv-org.github.io/epg/guides/id/transvision.co.id.epg.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/INDOSIAR_Logo.png" group-title="Indonesia",INDOSIAR HD
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=eae27d77ca20db309e056e3d2dcd7d69446503011668def857b1c03bafabba51
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:0 tvg-ID="GTV.id" tvg-url="https://iptv-org.github.io/epg/guides/id/transvision.co.id.epg.xml" tvg-logo="https://w1.pngwing.com/pngs/396/342/png-transparent-tv-logo-gtv-television-television-channel-wikipedia-logo-logo-tv-media-nusantara-citra.png" group-title="Indonesia Channel",GLobal TV HD
+#EXTINF:0 tvg-ID="GTV.id" tvg-url="https://iptv-org.github.io/epg/guides/id/transvision.co.id.epg.xml" tvg-logo="https://w1.pngwing.com/pngs/396/342/png-transparent-tv-logo-gtv-television-television-channel-wikipedia-logo-logo-tv-media-nusantara-citra.png" group-title="Indonesia",GLobal TV HD
 https://liveanevia.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:0 tvg-ID="RCTI.id" tvg-url="https://iptv-org.github.io/epg/guides/id/transvision.co.id.epg.xml" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_80.png" group-title="Indonesia Channel",RCTI HD
+#EXTINF:0 tvg-ID="RCTI.id" tvg-url="https://iptv-org.github.io/epg/guides/id/transvision.co.id.epg.xml" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_80.png" group-title="Indonesia",RCTI HD
 https://liveanevia.mncnow.id:443/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:0 tvg-id="MNCTV.id" tvg-url="https://iptv-org.github.io/epg/guides/id/transvision.co.id.epg.xml" tvg-name="mnctv" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_82.png" group-title="Indonesia Channel",MNCTV HD
+#EXTINF:0 tvg-id="MNCTV.id" tvg-url="https://iptv-org.github.io/epg/guides/id/transvision.co.id.epg.xml" tvg-name="mnctv" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_82.png" group-title="Indonesia",MNCTV HD
 https://liveanevia.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
 
-#EXTINF:0 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_87.png" group-title="Indonesia Channel",Trans TV
+#EXTINF:0 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_87.png" group-title="Indonesia",Trans TV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 https://liveanevia.mncnow.id/live/eds/TransTV-2/sa_dash_vmx/TransTV-2.mpd
 
-#EXTINF:0 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_110.png" group-title="Indonesia Channel",Trans 7
+#EXTINF:0 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_110.png" group-title="Indonesia",Trans 7
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 https://liveanevia.mncnow.id/live/eds/Trans7-2/sa_dash_vmx/Trans7-2.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:0 tvg-ID="ANTV.id" tvg-url="https://iptv-org.github.io/epg/guides/id/transvision.co.id.epg.xml" group-title="Indonesia Channel" tvg-logo="https://images.useetv.com/logo_antv_big1.png",ANTV
+#EXTINF:0 tvg-ID="ANTV.id" tvg-url="https://iptv-org.github.io/epg/guides/id/transvision.co.id.epg.xml" group-title="Indonesia" tvg-logo="https://images.useetv.com/logo_antv_big1.png",ANTV
 https://liveanevia.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:0 tvg-id="TVOne.id" tvg-name="TVONE" tvg-url="https://iptv-org.github.io/epg/guides/id/transvision.co.id.epg.xml" tvg-logo="https://w7.pngwing.com/pngs/322/997/png-transparent-tv-one-streaming-television-tvone-streaming-media-tv-channel-love-television-text.png" group-title="Indonesia Channel",TV ONE
+#EXTINF:0 tvg-id="TVOne.id" tvg-name="TVONE" tvg-url="https://iptv-org.github.io/epg/guides/id/transvision.co.id.epg.xml" tvg-logo="https://w7.pngwing.com/pngs/322/997/png-transparent-tv-one-streaming-television-tvone-streaming-media-tv-channel-love-television-text.png" group-title="Indonesia",TV ONE
 https://liveanevia.mncnow.id/live/eds/TVOne/sa_dash_vmx/TVOne.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:0 tvg-ID="NET.id" tvg-name="NET TV" tvg-url="https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml" tvg-logo="https://www.lyngsat.com/logo/tv/nn/net-id.png" group-title="Indonesia Channel",NetTV HD
+#EXTINF:0 tvg-ID="NET.id" tvg-name="NET TV" tvg-url="https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml" tvg-logo="https://www.lyngsat.com/logo/tv/nn/net-id.png" group-title="Indonesia",NetTV HD
 https://liveanevia.mncnow.id/live/eds/NetTV-HD/sa_dash_vmx/NetTV-HD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:0 tvg-id="SCTV.id" tvg-url="https://iptv-org.github.io/epg/guides/id/transvision.co.id.epg.xml" tvg-logo="https://e7.pngegg.com/pngimages/602/156/png-clipart-sctv-logo-sctv-television-channel-tvone-broadcasting-about-us-miscellaneous-television.png" group-title="Indonesia Channel",SCTV HD
+#EXTINF:0 tvg-id="SCTV.id" tvg-url="https://iptv-org.github.io/epg/guides/id/transvision.co.id.epg.xml" tvg-logo="https://e7.pngegg.com/pngimages/602/156/png-clipart-sctv-logo-sctv-television-channel-tvone-broadcasting-about-us-miscellaneous-television.png" group-title="Indonesia",SCTV HD
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=274ad4786c3abca69fa097b85867d9a4446503011668def857b1c03bafabba51
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:0 tvg-ID="TVRINasional.id" tvg-url="https://iptv-org.github.io/epg/guides/id/transvision.co.id.epg.xml" group-title="Indonesia Channel" tvg-logo="https://e7.pngegg.com/pngimages/107/247/png-clipart-tvri-jambi-television-tvone-logo-tvri-jambi-blue-text.png",TVRI
+#EXTINF:0 tvg-ID="TVRINasional.id" tvg-url="https://iptv-org.github.io/epg/guides/id/transvision.co.id.epg.xml" group-title="Indonesia" tvg-logo="https://e7.pngegg.com/pngimages/107/247/png-clipart-tvri-jambi-television-tvone-logo-tvri-jambi-blue-text.png",TVRI
 https://liveanevia.mncnow.id:443/live/eds/PemersatuBangsa/sa_dash_vmx/PemersatuBangsa.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:0 tvg-ID="KompasTV.id" tvg-url="https://iptv-org.github.io/epg/guides/id/transvision.co.id.epg.xml" tvg-logo="https://www.lyngsat.com/logo/tv/kk/kompas-tv-id.png" group-title="Indonesia Channel",KOMPAS TV
+#EXTINF:0 tvg-ID="KompasTV.id" tvg-url="https://iptv-org.github.io/epg/guides/id/transvision.co.id.epg.xml" tvg-logo="https://www.lyngsat.com/logo/tv/kk/kompas-tv-id.png" group-title="Indonesia",KOMPAS TV
 https://liveanevia.mncnow.id/live/eds/KompasTV/sa_dash_vmx/KompasTV.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:0 tvg-id="MetroTV.id" tvg-url="https://iptv-org.github.io/epg/guides/id/transvision.co.id.epg.xml" tvg-name="Metro TV" tvg-url="http://www.mncvision.id.E" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/4/40/LogoMetroTV.svg/150px-LogoMetroTV.svg.png" group-title="Indonesia Channel",Metro TV HD
+#EXTINF:0 tvg-id="MetroTV.id" tvg-url="https://iptv-org.github.io/epg/guides/id/transvision.co.id.epg.xml" tvg-name="Metro TV" tvg-url="http://www.mncvision.id.E" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/4/40/LogoMetroTV.svg/150px-LogoMetroTV.svg.png" group-title="Indonesia",Metro TV HD
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w1804946251_b1492000_sleng.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:0 tvg-id="" tvg-url="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2d/Metro_Globe_Network.png" group-title="Indonesia Channel",Metro Globe Network
+#EXTINF:0 tvg-id="" tvg-url="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2d/Metro_Globe_Network.png" group-title="Indonesia",Metro Globe Network
 https://edge.medcom.id/live-edge/smil:mgnch.smil/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:0 tvg-ID="RajawaliTV.id" tvg-url="https://iptv-org.github.io/epg/guides/id/transvision.co.id.epg.xml"" group-title="Indonesia Channel" tvg-logo="https://w7.pngwing.com/pngs/507/511/png-transparent-rtv-television-channel-streaming-television-ary-purple-television-text-thumbnail.png",RTV
+#EXTINF:0 tvg-ID="RajawaliTV.id" tvg-url="https://iptv-org.github.io/epg/guides/id/transvision.co.id.epg.xml"" group-title="Indonesia" tvg-logo="https://w7.pngwing.com/pngs/507/511/png-transparent-rtv-television-channel-streaming-television-ary-purple-television-text-thumbnail.png",RTV
 https://liveanevia.mncnow.id/live/eds/RTV/sa_dash_vmx/RTV.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:0 tvg-ID="BeritaSatu.id" tvg-url="https://iptv-org.github.io/epg/guides/id/transvision.co.id.epg.xml" group-title="Indonesia Channel" tvg-logo="https://www.lyngsat.com/logo/tv/bb/berita-satu-Premium-channel-id.png",BERITA SATU Premium
+#EXTINF:0 tvg-ID="BeritaSatu.id" tvg-url="https://iptv-org.github.io/epg/guides/id/transvision.co.id.epg.xml" group-title="Indonesia" tvg-logo="https://www.lyngsat.com/logo/tv/bb/berita-satu-Premium-channel-id.png",BERITA SATU Premium
 https://b1news.beritasatumedia.com/Beritasatu/B1News_manifest.m3u8
 
-#EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/70/DAAITV.png" group-title="Indonesia Channel" tvg-id="033" tvg-url="https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml", DAAI TV
+#EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/70/DAAITV.png" group-title="Indonesia" tvg-id="033" tvg-url="https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml", DAAI TV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 https://liveanevia.mncnow.id/live/eds/DAAITV/sa_dash_vmx/DAAITV.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:0 tvg-id="Magna Channel" tvg-name="Magna Channel" tvg-url="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/MagnaChannel.png" group-title="Indonesia Channel",Magna Channel
+#EXTINF:0 tvg-id="Magna Channel" tvg-name="Magna Channel" tvg-url="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/MagnaChannel.png" group-title="Indonesia",Magna Channel
 https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:0 tvg-id="" tvg-url="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Logo_ntv.png/220px-Logo_ntv.png" group-title="Indonesia Channel",Nusantara TV
+#EXTINF:0 tvg-id="" tvg-url="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Logo_ntv.png/220px-Logo_ntv.png" group-title="Indonesia",Nusantara TV
 https://nusantaratv.siar.us/nusantaratv/live/chunks.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:0 tvg-id="" tvg-url="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f4/The_Indonesia_Channel_Logo.jpg/190px-The_Indonesia_Channel_Logo.jpg" group-title="Indonesia Channel",The Indonesia Channel
+#EXTINF:0 tvg-id="" tvg-url="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f4/The_Indonesia_Channel_Logo.jpg/190px-The_Indonesia_Channel_Logo.jpg" group-title="Indonesia",The Indonesia Channel
 https://cdn3.wowza.com/1/NEtzTTZ4c1FTTUN2/SkJBbVJs/hls/live/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:0 group-title="Indonesia Channel" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_336.png",SEA Today
+#EXTINF:0 group-title="Indonesia" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_336.png",SEA Today
 https://liveanevia.mncnow.id/live/eds/SEA-Channel/sa_dash_vmx/SEA-Channel.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:0 tvg-id="IDXChannel.id" tvg-name="IDX" tvg-url="https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml" tvg-logo="https://www.lyngsat.com/logo/tv/ii/idx_channel_id.png" group-title="Indonesia Channel",IDX
+#EXTINF:0 tvg-id="IDXChannel.id" tvg-name="IDX" tvg-url="https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml" tvg-logo="https://www.lyngsat.com/logo/tv/ii/idx_channel_id.png" group-title="Indonesia",IDX
 https://liveanevia.mncnow.id/live/eds/IDX/sa_dash_vmx/IDX.mpd
 
 <============================================== Knowledge & Documentary ===================================================>
