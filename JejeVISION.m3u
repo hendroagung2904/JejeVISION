@@ -327,6 +327,11 @@ http://118.98.229.118:1935/live/tve.stream/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTINF:0 tvg-id="" tvg-url="" tvg-logo="https://1.bp.blogspot.com/-ku7t1E-Cz_Y/X_em0sEhwuI/AAAAAAAAqX8/v1tEKHJ9K4EfhqVLUVuU_XRyRlGcjTBkQCLcBGAsYHQ/s0/mentari-tv-channel-logo.png" group-title="Kids",Mentari TV
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=7dd2ae7db7d18ee7c9425e38df1af5e2446503011668def857b1c03bafabba51
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTINF:0 tvg-id="" tvg-url="" tvg-logo="http://www.dens.tv/images/channel-logo/1.jpg" group-title="Kids",Learning & Knowledge (Dens TV)
 http://210.210.155.37/x6bnqe/s/s36/index.m3u8
 
