@@ -1091,3 +1091,92 @@ http://tvn.x10.mx/vidio/master-31.m3u8
 
 #EXTINF:0 tvg-id="ext" group-title="VIDIO",Rans  Entertainment
 http://tvn.x10.mx/vidio/master-32.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="TV Live",Streaming
+http://tvn.x10.mx/vidio/master.m3u8
+
+#EXTINF:-1 tvg-id="SPOTV.kr" tvg-logo="https://i.ibb.co/C5gD7th/file-7408e006-5492-4b54-aa54-581581b2d87b-modified.png" group-title="TV Live",SPOTV 1
+https://bcovlive-a.akamaihd.net/99545824f51f4c1592b35314c6ece3b0/ap-northeast-1/6271486521001/profile_0/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="SPOTV2.kr" tvg-logo="https://i.ibb.co/N7LpgDN/channel-428-modified.png" group-title="TV Live",SPOTV 2
+https://bcovlive-a.akamaihd.net/48eee16919834d3b97df1082a649bcfa/ap-northeast-1/6271486521001/profile_0/chunklist.m3u8
+
+#EXTINF:0 tvg-id="bein1hd.jsc" group-title="TV Live",BeIN SPORTS 1 HD
+http://skupi.club:8080/DarkIpTv/8l0kBnK1pu/2646
+
+#EXTINF:0 tvg-id="bein2hd.jsc" group-title="TV Live",BeIN SPORTS 2 HD
+http://skupi.club:8080/DarkIpTv/8l0kBnK1pu/2639
+
+#EXTINF:0 tvg-id="bein3hd.jsc" group-title="TV Live",BeIN SPORTS 3 HD
+http://skupi.club:8080/DarkIpTv/8l0kBnK1pu/2638
+
+#EXTINF:0 tvg-id="bein4hd.jsc" group-title="TV Live",BeIN SPORTS 4 HD
+http://skupi.club:8080/DarkIpTv/8l0kBnK1pu/3481
+
+#EXTINF:0 tvg-id="bein6hd.jsc" group-title="TV Live",BeIN SPORTS 6 HD
+http://skupi.club:8080/DarkIpTv/8l0kBnK1pu/3482
+
+#EXTINF:0 tvg-id="bein7hd.jsc" group-title="TV Live",BEIN SPORTS 7 HD
+http://skupi.club:8080/DarkIpTv/8l0kBnK1pu/4538
+
+#EXTINF:0 tvg-id="bein8hd.jsc" group-title="TV Live",BeIN SPORTS 8 HD
+http://skupi.club:8080/DarkIpTv/8l0kBnK1pu/3484
+
+#EXTINF:0 tvg-id="bein9hd.jsc" group-title="TV Live",BeIN SPORTS 9 HD
+http://skupi.club:8080/DarkIpTv/8l0kBnK1pu/3485
+
+#EXTINF:0 tvg-id="bein10hd.jsc" group-title="TV Live",BEIN SPORTS 10 HD
+http://skupi.club:8080/DarkIpTv/8l0kBnK1pu/4880
+
+#EXTINF:0 tvg-id="ext" group-title="TV Live",AbuDabi Sport 1 HD
+http://skupi.club:8080/DarkIpTv/8l0kBnK1pu/7320
+
+#EXTINF:0 tvg-id="ext" group-title="TV Live",AbuDabi Sport 2 HD
+http://skupi.club:8080/DarkIpTv/8l0kBnK1pu/7321
+
+#EXTINF:0 tvg-id="beINSport1.fr" group-title="TV Live",FR: BEIN SPORT 1 HD
+http://skupi.club:8080/DarkIpTv/8l0kBnK1pu/8441
+
+#EXTINF:0 tvg-id="beINSport1.fr" group-title="TV Live",FR: BEIN SPORT 1 HD
+http://skupi.club:8080/DarkIpTv/8l0kBnK1pu/6918
+
+#EXTINF:0 tvg-id="beINSport2.fr" group-title="TV Live",FR: BEIN SPORT 2 HD
+http://skupi.club:8080/DarkIpTv/8l0kBnK1pu/6919
+
+#EXTINF:0 tvg-id="beINSport3.fr" group-title="TV Live",FR: BEIN SPORT 3 HD
+http://skupi.club:8080/DarkIpTv/8l0kBnK1pu/6920
+
+#EXTINF:0 tvg-id="ESPN.nl" group-title="TV Live",Fox Sports 1 HD
+http://skupi.club:8080/DarkIpTv/8l0kBnK1pu/7235
+
+#EXTINF:0 tvg-id="ESPN2.nl" group-title="TV Live",Fox Sports 2 HD
+http://skupi.club:8080/DarkIpTv/8l0kBnK1pu/7236
+
+#EXTINF:0 tvg-id="ESPN3.nl" group-title="TV Live",Fox Sports 3 HD
+http://skupi.club:8080/DarkIpTv/8l0kBnK1pu/7237
+
+#EXTINF:0 tvg-id="ESPN4.nl" group-title="TV Live",Fox Sports 4 HD
+http://skupi.club:8080/DarkIpTv/8l0kBnK1pu/7238
+
+#EXTINF:0 tvg-id="ext" group-title="TV Live",IN: SONY AATH
+http://skupi.club:8080/DarkIpTv/8l0kBnK1pu/18114
+
+#EXTINF:0 tvg-id="ext" group-title="TV Live",IN: SONY MAX2
+http://skupi.club:8080/DarkIpTv/8l0kBnK1pu/18115
+
+#EXTINF:0 tvg-id="SonyMix.in" group-title="TV Live",IN: SONY MIX
+http://skupi.club:8080/DarkIpTv/8l0kBnK1pu/18116
+
+#EXTINF:0 tvg-id="SonyPIX.in" group-title="TV Live",IN: sony pix HD
+http://skupi.club:8080/DarkIpTv/8l0kBnK1pu/18117
+
+#EXTINF:0 tvg-id="SonySAB.in" group-title="TV Live",IN: SONY SAB
+http://skupi.club:8080/DarkIpTv/8l0kBnK1pu/18118
+
+#EXTINF:0 tvg-id="SonyTVHD.in" group-title="TV Live",IN: Sony TV HD
+http://skupi.club:8080/DarkIpTv/8l0kBnK1pu/18119
+
+#EXTINF:0 tvg-id="SonySix.in" group-title="TV Live",IN: Sony Six SD
+http://skupi.club:8080/DarkIpTv/8l0kBnK1pu/17993
+
+
