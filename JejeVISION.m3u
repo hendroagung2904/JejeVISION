@@ -989,4 +989,105 @@ https://liveanevia.mncnow.id/live/eds/MusicChannel/sa_dash_vmx/MusicChannel.mpd
 #EXTINF:0 group-title="Music" tvg-logo="https://ewsat.com/img/TRACE_URBAN.png",Trace Urban HD
 https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
 
+<======================== VIDIO =====================================>
+#EXTINF:0 tvg-id="ext" group-title="VIDIO",Indosiar
+http://tvn.x10.mx/vidio/master.m3u8
 
+#EXTINF:0 tvg-id="ext" group-title="VIDIO",SCTV
+http://tvn.x10.mx/vidio/master-1.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="VIDIO",Citra Bioskop
+http://tvn.x10.mx/vidio/master-2..m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="VIDIO",Citra Drama
+http://tvn.x10.mx/vidio/master-3.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="VIDIO",Hip hip hore
+http://tvn.x10.mx/vidio/master-4.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="VIDIO",Citra Muslim
+http://tvn.x10.mx/vidio/master-5.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="VIDIO",HoreeTV
+http://tvn.x10.mx/vidio/master-6.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Sports",Champions 1
+http://tvn.x10.mx/vidio/master-7.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Sports",Champions 2
+http://tvn.x10.mx/vidio/master-8.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Sports",Champions 3
+http://tvn.x10.mx/vidio/master-9.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Sports",Champions Goal
+http://tvn.x10.mx/vidio/master-10.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="VIDIO",Citra Dangdut
+http://tvn.x10.mx/vidio/master-11.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="VIDIO",Citra Entertainment
+http://tvn.x10.mx/vidio/master-12.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="VIDIO",O channel
+http://tvn.x10.mx/vidio/master-13.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="VIDIO",Ajwa Tv
+http://tvn.x10.mx/vidio/master-14.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="VIDIO",ANTV
+http://tvn.x10.mx/vidio/master-15.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="VIDIO",RTV
+http://tvn.x10.mx/vidio/master-16.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="VIDIO",ZoMoo
+http://tvn.x10.mx/vidio/master-17.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="VIDIO",TVN
+http://tvn.x10.mx/vidio/master-18.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="VIDIO",Zee Bioskop
+http://tvn.x10.mx/vidio/master-19.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="VIDIO",Musica
+http://tvn.x10.mx/vidio/master-20.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="VIDIO",Nagaswara
+http://tvn.x10.mx/vidio/master-21.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Radio",Cakra FM Bandung
+http://tvn.x10.mx/vidio/master-22.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="VIDIO",MENTARI 
+http://tvn.x10.mx/vidio/master-23.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="VIDIO",Citra Kuliner
+http://tvn.x10.mx/vidio/master-24.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Radio",RAMA FM
+http://tvn.x10.mx/vidio/master-25.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="VIDIO",KOMPAS
+http://tvn.x10.mx/vidio/master-26.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="VIDIO",TV ONE
+http://tvn.x10.mx/vidio/master-27.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="VIDIO",TRANSTV 
+http://tvn.x10.mx/vidio/master-33.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="VIDIO",TRANS7
+http://tvn.x10.mx/vidio/master-28.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Radio",Dahlia FM
+http://tvn.x10.mx/vidio/master-29.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="VIDIO",Metro tv
+http://tvn.x10.mx/vidio/master-30.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="VIDIO",LFC TV
+http://tvn.x10.mx/vidio/master-31.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="VIDIO",Rans  Entertainment
+http://tvn.x10.mx/vidio/master-32.m3u8
