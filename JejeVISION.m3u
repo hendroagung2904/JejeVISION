@@ -98,8 +98,7 @@ https://liveanevia.mncnow.id/live/eds/RTV/sa_dash_vmx/RTV.mpd
 #EXTINF:0 tvg-ID="BeritaSatu.id" tvg-url="https://iptv-org.github.io/epg/guides/id/useetv.com.epg.xml" group-title="Indonesia" tvg-logo="https://www.lyngsat.com/logo/tv/bb/berita-satu-Premium-channel-id.png",BERITA SATU Premium
 https://b1news.beritasatumedia.com/Beritasatu/B1News_manifest.m3u8
 
-#EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/70/DAAITV.png" group-title="Indonesia" tvg-id="033" tvg-url="https://iptv-org.github.io/epg/guides/id/useetv.com.epg.xml"
-, DAAI TV
+#EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/70/DAAITV.png" group-title="Indonesia" tvg-id="DAAITV.id" tvg-url="https://iptv-org.github.io/epg/guides/id/useetv.com.epg.xml", DAAI TV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 https://liveanevia.mncnow.id/live/eds/DAAITV/sa_dash_vmx/DAAITV.mpd
@@ -161,7 +160,7 @@ https://liveanevia.mncnow.id/live/eds/AnimalPlanet/sa_dash_vmx/AnimalPlanet.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:0 tvg-ID="DiscoveryChannelSoutheastAsia.us" tvg-url="https://iptv-org.github.io/epg/guides/id/useetv.com.epg.xml" group-title="Knowledge & Documentary" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_462.png",Discovery HD
+#EXTINF:0 tvg-ID="DiscoveryChannelHDIndonesia.id" tvg-url="https://iptv-org.github.io/epg/guides/id/useetv.com.epg.xml" group-title="Knowledge & Documentary" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_462.png",Discovery HD
 https://liveanevia.mncnow.id/live/eds/Discovery/sa_dash_vmx/Discovery.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -294,7 +293,7 @@ http://210.210.155.37/uq2663/h/h191/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:0 tvg-ID="CelestialMoviesIndonesia.hk" tvg-url="https://iptv-org.github.io/epg/guides/id/useetv.com.epg.xml" group-title="Movies" tvg-logo="https://i.ibb.co/Lvfpg2w/CELESMV-S1.png",Celestial Movie
+#EXTINF:0 tvg-ID="CelestialMoviesIndonesia.id" tvg-url="https://iptv-org.github.io/epg/guides/id/useetv.com.epg.xml" group-title="Movies" tvg-logo="https://i.ibb.co/Lvfpg2w/CELESMV-S1.png",Celestial Movie
 https://liveanevia.mncnow.id/live/eds/CelestialMovie/sa_dash_vmx/CelestialMovie.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -309,7 +308,7 @@ https://liveanevia.mncnow.id/live/eds/KIX/sa_dash_vmx/KIX.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:0 tvg-id="CinemaWorld.sg" tvg-url="https://iptv-org.github.io/epg/guides/id/useetv.com.epg.xml" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cinema_world_asia.png" group-title="Movies",Cinema World
+#EXTINF:0 tvg-id="CinemaWorld.my" tvg-url="https://iptv-org.github.io/epg/guides/id/useetv.com.epg.xml" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cinema_world_asia.png" group-title="Movies",Cinema World
 https://liveanevia.mncnow.id/live/eds/CinemaWorld/sa_dash_vmx/CinemaWorld.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -334,7 +333,7 @@ https://liveanevia.mncnow.id/live/eds/ZeeBIOSKOP/sa_dash_vmx/ZeeBIOSKOP.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:0 tvg-id="" tvg-url="https://iptv-org.github.io/epg/guides/id/useetv.com.epg.xml" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/72/Citra_Drama.PNG" group-title="Movies",Citra Drama
+#EXTINF:0 tvg-id="CitraDrama.id" tvg-url="https://iptv-org.github.io/epg/guides/id/useetv.com.epg.xml" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/72/Citra_Drama.PNG" group-title="Movies",Citra Drama
 http://tvn.x10.mx/vidio/master-3.m3u8
 
 <================================================================ Kids ========================================================>
@@ -366,7 +365,7 @@ http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/chunklist_w41736285
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:0 tvg-id="CartoonNetworkAsia.us" tvg-url="https://iptv-org.github.io/epg/guides/id/useetv.com.epg.xml" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_473.png" group-title="Kids",Cartoon Network
+#EXTINF:0 tvg-id="CartoonNetworkAsia.sg" tvg-url="https://iptv-org.github.io/epg/guides/id/useetv.com.epg.xml" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_473.png" group-title="Kids",Cartoon Network
 https://liveanevia.mncnow.id/live/eds/CartoonNetwork/sa_dash_vmx/CartoonNetwork.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -448,7 +447,7 @@ https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=46
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:0 tvg-id="LifestyleFashion.id" tvg-url="https://iptv-org.github.io/epg/guides/id/useetv.com.epg.xml" tvg-name="" tvg-logo="https://www.lyngsat.com/logo/tv/ll/lifestyle-and-fashion-id.png" group-title="Entertainment & LifeStyle",Lifestyle & Fashion
+#EXTINF:0 tvg-id="FashionTVAsia.fr" tvg-url="https://iptv-org.github.io/epg/guides/id/useetv.com.epg.xml" tvg-name="" tvg-logo="https://www.lyngsat.com/logo/tv/ll/lifestyle-and-fashion-id.png" group-title="Entertainment & LifeStyle",Lifestyle & Fashion
 https://liveanevia.mncnow.id/live/eds/LifeStyleFashion/sa_dash_vmx/LifeStyleFashion.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -863,7 +862,7 @@ http://122.248.43.138:1935/ch6/myStream/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:0 tvg-ID="jtv" tvg-logo="https://www.lyngsat.com/logo/tv/jj/jtv_kr.png" group-title="Local Channel",JTV Surabaya
+#EXTINF:0 tvg-ID="JTV.id" tvg-logo="https://www.lyngsat.com/logo/tv/jj/jtv_kr.png" group-title="Local Channel",JTV Surabaya
 https://liveanevia.mncnow.id/live/eds/JTV/sa_dash_vmx/JTV.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -930,6 +929,8 @@ http://122.248.43.138:1935/ch23/myStream/chunklist_w88244984.m3u8
 https://liveanevia.mncnow.id/live/eds/Arirang/sa_dash_vmx/Arirang.mpd
 
 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTINF:0 tvg-id="KBSWorld.kr" tvg-url="https://iptv-org.github.io/epg/guides/id/useetv.com.epg.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/KBS_World_%282009%29.svg/1200px-KBS_World_%282009%29.svg.png" group-title="Korea",KBS World 
 https://livecdn.fptplay.net/sdb/kbs_hls.smil/chunklist_b2500000.m3u8
 
