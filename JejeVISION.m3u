@@ -224,7 +224,7 @@ https://liveanevia.mncnow.id/live/eds/HBOSignature2/sa_dash_vmx/HBOSignature2.mp
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:0 tvg-id="AXNEastAsia.us" tvg-url="https://iptv-org.github.io/epg/guides/id/useetv.com.epg.xml" tvg-name="" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_438.png" group-title="Movies",AXN HD
+#EXTINF:0 tvg-id="AXNHDIndonesia.id" tvg-url="https://iptv-org.github.io/epg/guides/id/useetv.com.epg.xml" tvg-name="" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_438.png" group-title="Movies",AXN HD
 https://liveanevia.mncnow.id/live/eds/AXN/sa_dash_vmx/AXN.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -371,7 +371,7 @@ https://liveanevia.mncnow.id/live/eds/CartoonNetwork/sa_dash_vmx/CartoonNetwork.
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:0 tvg-id="BoomerangAsia.us" tvg-url="https://iptv-org.github.io/epg/guides/id/useetv.com.epg.xml" tvg-logo="https://w7.pngwing.com/pngs/859/11/png-transparent-boomerang-television-channel-logo-boomerang-purple-television-blue.png" group-title="Kids",Boomerang
+#EXTINF:0 tvg-id="BoomerangAsia.sg" tvg-url="https://iptv-org.github.io/epg/guides/id/useetv.com.epg.xml" tvg-logo="https://w7.pngwing.com/pngs/859/11/png-transparent-boomerang-television-channel-logo-boomerang-purple-television-blue.png" group-title="Kids",Boomerang
 https://liveanevia.mncnow.id/live/eds/Boomerang/sa_dash_vmx/Boomerang.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -421,7 +421,7 @@ https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=36
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:0 tvg-id="AnimaxAsia.jp" tvg-url="https://iptv-org.github.io/epg/guides/id/useetv.com.epg.xml" tvg-logo="https://i.ibb.co/wLxzKbZ/ANNMAX-S1.png" group-title="Kids",ANimax
+#EXTINF:0 tvg-id="AnimaxAsia.sg" tvg-url="https://iptv-org.github.io/epg/guides/id/useetv.com.epg.xml" tvg-logo="https://i.ibb.co/wLxzKbZ/ANNMAX-S1.png" group-title="Kids",ANimax
 https://liveanevia.mncnow.id/live/eds/Animax/sa_dash_vmx/Animax.mpd
 
 <========================================= Entertainment & LifeStyle ======================================================>
@@ -596,7 +596,7 @@ http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w2069650134_b2800
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:0 tvg-id="CNBC Indonesia" tvg-name="CNBC Indonesia" tvg-url="http://www.useetv.com" tvg-logo="https://i.imgur.com/kN3jJoR.png" group-title="News",CNBC INDONESIA
+#EXTINF:0 tvg-id="CNBCIndonesia.id" tvg-name="CNBC Indonesia" tvg-url="http://www.useetv.com" tvg-logo="https://i.imgur.com/kN3jJoR.png" group-title="News",CNBC INDONESIA
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_kamiselaluada_b384000_sleng.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -631,12 +631,12 @@ https://liveanevia.mncnow.id/live/eds/DW/sa_dash_vmx/DW.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:0 tvg-id="CNBCAsiaPacific.us" tvg-url="https://iptv-org.github.io/epg/guides/id/useetv.com.epg.xml" tvg-name="" tvg-logo="https://kamiselaluada.com/img/cnbcindonesia.png" group-title="News",CNBC Asia
+#EXTINF:0 tvg-id="CNBCAsia.sg" tvg-url="https://iptv-org.github.io/epg/guides/id/useetv.com.epg.xml" tvg-name="" tvg-logo="https://kamiselaluada.com/img/cnbcindonesia.png" group-title="News",CNBC Asia
 https://liveanevia.mncnow.id/live/eds/CNBC/sa_dash_vmx/CNBC.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:0 tvg-id="BloombergTVAsia.us" tvg-url="https://iptv-org.github.io/epg/guides/id/useetv.com.epg.xml" tvg-name="" tvg-logo="https://kamiselaluada.com/img/bloomberg.png" group-title="News",Bloomberg
+#EXTINF:0 tvg-id="BloombergTVAsiaPacific.hk" tvg-url="https://iptv-org.github.io/epg/guides/id/useetv.com.epg.xml" tvg-name="" tvg-logo="https://kamiselaluada.com/img/bloomberg.png" group-title="News",Bloomberg
 https://liveanevia.mncnow.id/live/eds/Bloomberg/sa_dash_vmx/Bloomberg.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -666,7 +666,7 @@ https://liveanevia.mncnow.id/live/eds/RTEnglish/sa_dash_vmx/RTEnglish.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:0 tvg-id=""CNNInternationalAsia.us"" tvg-name="" group-title="News" tvg-url="tvg-url="https://iptv-org.github.io/epg/guides/id/useetv.com.epg.xml"" tvg-logo="https://rubbyguntara.github.io/src/img/cnninternational.png",CNN International Asia Pacific
+#EXTINF:0 tvg-id="CNNInternationalAsiaPacific.hk" tvg-name="" group-title="News" tvg-url="https://iptv-org.github.io/epg/guides/id/useetv.com.epg.xml" tvg-logo="https://rubbyguntara.github.io/src/img/cnninternational.png",CNN International Asia Pacific
 https://liveanevia.mncnow.id/live/eds/CNNInternational/sa_dash_vmx/CNNInternational.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -893,7 +893,7 @@ https://inspiratv.siar.us/inspiratv/live/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:0 tvg-ID="balitv" group-title="Local Channel" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bali_tv_id.png",BALI TV
+#EXTINF:0 tvg-ID="BaliTV.id" tvg-url="https://iptv-org.github.io/epg/guides/id/useetv.com.epg.xml" group-title="Local Channel" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bali_tv_id.png",BALI TV
 https://liveanevia.mncnow.id/live/eds/BaliTV/sa_dash_vmx/BaliTV.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
