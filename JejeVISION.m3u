@@ -996,21 +996,8 @@ https://liveanevia.mncnow.id/live/eds/MusicChannel/sa_dash_vmx/MusicChannel.mpd
 #EXTINF:0 group-title="Music" tvg-logo="https://ewsat.com/img/TRACE_URBAN.png",Trace Urban HD
 https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
 
-<========================= Radio ===============================>
+<========================= Trial Channel ===============================>
 
-#EXTINF:0 tvg-id="ext" group-title="Radio",Musica
-http://tvn.x10.mx/vidio/master-20.m3u8
-
-#EXTINF:0 tvg-id="ext" group-title="Radio",Nagaswara
-http://tvn.x10.mx/vidio/master-21.m3u8
-
-#EXTINF:0 tvg-id="ext" group-title="Radio",Cakra FM Bandung
-http://tvn.x10.mx/vidio/master-22.m3u8
-
-#EXTINF:0 tvg-id="ext" group-title="Radio",RAMA FM
-http://tvn.x10.mx/vidio/master-25.m3u8
-
-#EXTINF:0 tvg-id="ext" group-title="Radio",Dahlia FM
-http://tvn.x10.mx/vidio/master-29.m3u8
-
+#EXTINF:0 tvg-id="ext" group-title="Trial Channel",Ficom TV
+https://v3.siar.us/ficomchannel/live/playlist.m3u8
 
