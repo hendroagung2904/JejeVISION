@@ -1009,3 +1009,24 @@ https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Trial Channel",Ficom TV Batam
 https://v3.siar.us/ficomchannel/live/playlist.m3u8
 
+#EXTINF:-1 group-title="CCTV-JOGJA",SIMPANG TUGU
+https://cctvjss.jogjakota.go.id/atcs/ATCS_Simpang_Tugu.stream/chunklist_w1654820632.m3u8
+#EXTINF:-1 group-title="CCTV-JOGJA",AMPLAZ TIMUR
+http://103.71.191.168/8912/hls/live.stream.m3u8
+#EXTINF:-1 group-title="CCTV-JOGJA",PASAR BRINGHARJO
+https://cctvjss.jogjakota.go.id/malioboro/Malioboro_30_Pasar_Beringharjo.stream/chunklist_w1552945018.m3u8
+#EXTINF:-1 group-title="CCTV-JOGJA",MALIOBORO RAMAYANA
+https://cctvjss.jogjakota.go.id/malioboro/Malioboro_12_Ramayana.stream/chunklist_w1222744991.m3u8
+#EXTINF:-1 group-title="CCTV-JOGJA",MALIOBORO TERANG BULAN
+https://cctvjss.jogjakota.go.id/malioboro/Malioboro_11_Terang_Bulan.stream/chunklist_w1607830917.m3u8
+#EXTINF:-1 group-title="CCTV-JOGJA",MALIOBORO SIMPANG PAJEKSAN
+https://cctvjss.jogjakota.go.id/malioboro/Malioboro_22_Simpang_Pajeksan_Suryatmajan.stream/chunklist_w23859699.m3u8
+#EXTINF:-1 group-title="CCTV-JOGJA",MALIOBORO MUTIARA BARU
+https://cctvjss.jogjakota.go.id/malioboro/Malioboro_9_Mutiara_Baru.stream/chunklist_w1845951934.m3u8
+#EXTINF:-1 group-title="CCTV-JOGJA",NOLKM BNI
+https://cctvjss.jogjakota.go.id/malioboro/NolKm_BNI.stream/chunklist_w1148820841.m3u8
+#EXTINF:-1 group-title="CCTV-JOGJA",NOLKM UTARA
+https://cctvjss.jogjakota.go.id/malioboro/NolKm_Utara.stream/chunklist_w873098934.m3u8
+#EXTINF:-1 group-title="CCTV-JOGJA",NOLKM GDAGUNG
+https://cctvjss.jogjakota.go.id/malioboro/NolKm_GdAgung.stream/chunklist_w1114256865.m3u8
+
