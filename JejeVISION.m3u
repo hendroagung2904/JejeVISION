@@ -1038,3 +1038,8 @@ https://liveanevia.mncnow.id/live/eds/MusicChannel/sa_dash_vmx/MusicChannel.mpd
 
 #EXTINF:0 group-title="Music" tvg-logo="https://ewsat.com/img/TRACE_URBAN.png",Trace Urban HD
 https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
+
+<======================================== Trial Channel ===========================================>
+
+#EXTINF:0 group-title="Trial Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/MV-letters.png/600px-MV-letters.png?20170622152721",MagnaVision TV
+https://j78dpa3edq5r-hls-live.5centscdn.com/abr/0864028584026e6ad9cdf922473177a4/playlist.m3u8
