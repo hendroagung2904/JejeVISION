@@ -1213,4 +1213,94 @@ http://210.210.155.37/qwr9ew/s/s19/index.m3u8
 #EXTINF:0 tvg-logo="http://www.dens.tv/images/channel-logo/69.jpg" group-title="Indonesia - Dens TV",FRANCE 24
 http://210.210.155.37/qwr9ew/s/s22/index.m3u8
 
+<================================ VIDIO ================================================>
+#EXTINF:0 group-title="Vidio" tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/s7n1xXgiE9GrIHxSeUVRBbW8NMk=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-f23abc.jpg", SCTV
+https://qslinksil.herokuapp.com/iptv-query?streaming-ip=https://www.vidio.com/live/204-sctv
+
+#EXTINF:0 group-title="Vidio" tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/DIqu2MDaLnOlvTYxecT9EVJXDR0=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-bb689b.jpg", Indosiar
+https://qslinksil.herokuapp.com/iptv-query?streaming-ip=https://www.vidio.com/live/205-indosiar
+
+#EXTINF:0 group-title="Vidio" tvg-logo="https://thumbor.prod.vid.id/lnFcLGSaCwsd8kyHY4aWnDhv2no=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/782/antv-tv-stream-b6cca5.jpg", ANTV
+https://qslinksil.herokuapp.com/iptv-query?streaming-ip=https://www.vidio.com/live/782-antv
+
+#EXTINF:0 group-title="Vidio" tvg-logo="https://thumbor.prod.vid.id/6fuNh-bibWsvelR8wNHl6yQerJ4=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/783/tvone-e53f94.jpg", TV One
+https://qslinksil.herokuapp.com/iptv-query?streaming-ip=https://www.vidio.com/live/783-tvone
+
+#EXTINF:0 group-title="Vidio" tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/8P6g5XNGCjXrde94MaCMuZGPnTo=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/ochannel-94c811.jpg", Ochannel
+https://qslinksil.herokuapp.com/iptv-query?streaming-ip=https://www.vidio.com/live/206-ochannel
+
+#EXTINF:0 group-title="Vidio" tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/gSSRDf6Bszz7uI7Fgo5a-92-kis=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7464/ajwa-tv-9e9e9e.jpg", Ajwa TV
+https://qslinksil.herokuapp.com/iptv-query?streaming-ip=https://www.vidio.com/live/7464-ajwa-tv
+
+#EXTINF:0 group-title="Vidio" tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/aHHdz-Y50b34HI_WD-w8t4JdQQw=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/874/kompas-tv-a3cbc6.jpg", Kompas TV
+https://qslinksil.herokuapp.com/iptv-query?streaming-ip=https://www.vidio.com/live/874-kompas-tv
+
+#EXTINF:0 group-title="Vidio" tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/7ZrWP74ibpJs000uBOz_wGIxVf4=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6165/beritasatu-5fa119.jpg", Berita Satu
+https://qslinksil.herokuapp.com/iptv-query?streaming-ip=https://www.vidio.com/live/6165-beritasatu
+
+#EXTINF:0 group-title="Vidio" tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/UvM8FunoJC8v-KmlMOxJ7yFE7qw=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/777/metro-tv-461c64.jpg", Metro TV
+https://qslinksil.herokuapp.com/iptv-query?streaming-ip=https://www.vidio.com/live/777-metro-tv
+
+#EXTINF:0 group-title="Vidio" tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/bXwNElZHHM2uvwHO23kXVFETxbE=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/875/net-tv-b8499f.jpg", Net TV
+https://qslinksil.herokuapp.com/iptv-query?streaming-ip=https://www.vidio.com/live/875-net-tv
+
+#EXTINF:0 group-title="Vidio" tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/R6PID3GRoGNE4JIq9fjfNCQTYmo=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/733/trans-tv-stream-7ab79a.jpg", Trans TV
+https://qslinksil.herokuapp.com/iptv-query?streaming-ip=https://www.vidio.com/live/733-trans-tv
+
+#EXTINF:0 group-title="Vidio" tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/hfSgVb256JvcaGDLMm5wI0Qj1NI=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/734/trans7-tv-stream-b793ab.jpg", Trans 7
+https://qslinksil.herokuapp.com/iptv-query?streaming-ip=https://www.vidio.com/live/734-trans7
+
+#EXTINF:0 group-title="Vidio" tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/Il3vUFfvvfaMbB8gkww7vAwkFsg=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6441/tvri-tv-stream-f6cbb3.jpg", TVRI
+https://qslinksil.herokuapp.com/iptv-query?streaming-ip=https://www.vidio.com/live/6441-tvri
+
+#EXTINF:0 group-title="Vidio" tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/HnG0r6HJCt6xwwvDhLnXppgzKmg=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/5415/jaktv-tv-stream-a705ed.jpg", JAK TV
+https://qslinksil.herokuapp.com/iptv-query?streaming-ip=https://www.vidio.com/live/5415-jaktv
+
+#EXTINF:0 group-title="Vidio" tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/jZKlBJan7aUwou-SkFXSfCFI12k=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/1561/rtv-stream-06c6dc.jpg", RTV
+https://qslinksil.herokuapp.com/iptv-query?streaming-ip=https://www.vidio.com/live/1561-rtv
+
+#EXTINF:0 group-title="Vidio" tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/UTu4NFGKxozt5F7ogi4zvMsbupg=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6166/oshop-tv-stream-c16bc3.jpg", OShop
+https://qslinksil.herokuapp.com/iptv-query?streaming-ip=https://www.vidio.com/live/6166-oshop
+
+#EXTINF:0 group-title="Vidio" tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/wFa6E97z_6ct1wyr_HbZ72Ua9BQ=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7432/nusantara-tv-6e9626.jpg", Nusantara TV
+https://qslinksil.herokuapp.com/iptv-query?streaming-ip=https://www.vidio.com/live/7432-nusantara-tv
+
+#EXTINF:0 group-title="Vidio" tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/jk44WQnNzvfmY9Q_1AIgX0RKI-A=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6482/daai-tv-stream-6dc185.jpg", Daai TV
+https://qslinksil.herokuapp.com/iptv-query?streaming-ip=https://www.vidio.com/live/6482-daai-tv
+
+#EXTINF:0 group-title="Vidio" tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/w5PSrDEmyCIIRTCSR8c7vTXxygw=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/8241/rans-channel-2a6db6.jpg", RANS Channel
+https://qslinksil.herokuapp.com/iptv-query?streaming-ip=https://www.vidio.com/live/8241-rans-channel
+
+#EXTINF:0 group-title="Vidio" tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/CjN9Xxo8VbEF-D3bK8Xxpiy4c_A=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7230/magna-tv-c3b724.jpg", Magna TV
+https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
+
+#EXTINF:0 group-title="Vidio" tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/ulsQWVw0_57XBtqbVw3K959Y1Ik=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7619/musica-e98c30.jpg", Musica
+https://qslinksil.herokuapp.com/iptv-query?streaming-ip=https://www.vidio.com/live/7619-musica
+
+#EXTINF:0 group-title="Vidio" tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/KSWte0j4G-QXpmtRjqlKbVGNe9Q=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6410/aljazeera-39130f.jpg", Al Jazeera
+https://qslinksil.herokuapp.com/iptv-query?streaming-ip=https://www.vidio.com/live/6410-aljazeera
+
+#EXTINF:0group-title="Vidio" tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/tMZ6YAboVlZD99mMxnel8JkNImQ=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/5075/dw-english-dbc808.jpg", DW English
+https://qslinksil.herokuapp.com/iptv-query?streaming-ip=https://www.vidio.com/live/5075-dw-english
+
+#EXTINF:0 group-title="Vidio" tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/v-hZdaXDn7d7UmjI_flX3Ioyeuk=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7687/sea-today-509fab.jpg", Sea Today
+https://qslinksil.herokuapp.com/iptv-query?streaming-ip=https://www.vidio.com/live/7687-sea-today
+
+#EXTINF:0 group-title="Vidio" tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/5E-nAhqyUlmRlAHGkvRPqmNJvfk=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7946/tv-tempo-ed7796.jpg", TV Tempo
+https://qslinksil.herokuapp.com/iptv-query?streaming-ip=https://www.vidio.com/live/7946-tv-tempo
+
+#EXTINF:-1 group-title="Vidio" tvg-logo="https://thumbor.prod.vid.id/zp9phmPEu8payPGM0WL3Mq16XO0=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/8237/mentari-tv-b64c27.jpg", Mentari TV
+https://qslinksil.herokuapp.com/iptv-query?streaming-ip=https://www.vidio.com/live/8237-mentari-tv
+
+#EXTINF:-1 group-title="Vidio" tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/WFa9oSDmsFEyS_r83FxehBO_uog=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6838/tv-edukasi-1c7fd8.jpg", TV Edukasi
+https://qslinksil.herokuapp.com/iptv-query?streaming-ip=https://www.vidio.com/live/6838-tv-edukasi
+
+#EXTINF:-1 group-title="Vidio" tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/2kI2TwwD8z9v5QAmscAVwSUyVDo=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6852/al-quran-al-kareem-tv-62095c.jpg", Al Quran Al Kareem TV
+https://qslinksil.herokuapp.com/iptv-query?streaming-ip=https://www.vidio.com/live/6852-al-quran-al-kareem-tv
+
+#EXTINF:-1 group-title="Vidio" tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/tVC5TV-WSPeETBb9g-uXfuKIH0A=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6853/reformed-21-tv-b1db6d.jpg", Reformed TV
+https://qslinksil.herokuapp.com/iptv-query?streaming-ip=https://www.vidio.com/live/6853-reformed-21-tv
+
+#EXTINF:-1 group-title="Vidio" tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/aHbjE9dQtOi83nt0ic86GUkxHAk=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6898/u-channel-tv-cd4f34.jpg", U-Channel TV
+https://qslinksil.herokuapp.com/iptv-query?streaming-ip=https://www.vidio.com/live/6898-u-channel-tv
 
