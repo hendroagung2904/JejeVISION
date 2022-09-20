@@ -321,7 +321,10 @@ https://liveanevia.mncnow.id/live/eds/ZeeBIOSKOP/sa_dash_vmx/ZeeBIOSKOP.mpd
 #EXTINF:0 tvg-id="CitraDrama.id" tvg-url="https://iptv-org.github.io/epg/guides/id/useetv.com.epg.xml.gz" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/72/Citra_Drama.PNG" group-title="Movies",Citra Drama
 http://tv.zonanime.my.id/vidio/citradrama.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgur.com/UGKHkDS.png" group-title="Movies" tvg-id="" tvg-name="", Star Plus HD
+#EXTINF:0 tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEg9wC0-zm5dGSderTIbf43y12h7goE-767JP-V-aCPXwL6VURGojZDLM2CByLPfGNWiu68H6veytBFCE9lMgUAO4ysanAw1GgcMxkq3-6t21s7Ht5p7D2ZMkTMJdSaoyzsXiJW0RPb3APbH11POeKxy0cFoE3diCrJ-3dg00AWtsufDrNUWjj6vF6fL=s320" group-title="Movies" tvg-id="CitraBioskop.id" tvg-name="CitraBioskop.id",Citra Bioskop
+http://tv.zonanime.my.id/vidio/citrabioskop.m3u8
+
+#EXTINF:0 tvg-logo="https://imgur.com/UGKHkDS.png" group-title="Movies" tvg-id="" tvg-name="", Star Plus HD
 http://humiptv.live:8080//live/500757885/3356646354/346.ts
 
 <================================================================ Kids ========================================================>
