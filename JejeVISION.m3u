@@ -686,6 +686,9 @@ https://liveanevia.mncnow.id/live/eds/CGTN_Doc/sa_dash_vmx/CGTN_Doc.mpd
 #EXTINF:0 tvg-id="" tvg-name="" tvg-url="https://iptv-org.github.io/epg/guides/id/useetv.com.epg.xml.gz" tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2012/04/sky-news-logo.png" group-title="News",SKY NEWS HD
 https://siloh.pluto.tv/lilo/production/SkyNews/master.m3u8
 
+#EXTINF:0 tvg-id="" tvg-name="" tvg-url="https://iptv-org.github.io/epg/guides/id/useetv.com.epg.xml.gz" tvg-logo="https://e7.pngegg.com/pngimages/659/777/png-clipart-bbc-america-logo-television-bbc-logo-television-text.png" group-title="News",BBC AMERICA
+https://bcovlive-a.akamaihd.net/c9bf201b06694453bb29282f97191f58/us-east-1/6240731308001/playlist.m3u8
+
 <============================================================ TVRI Group ======================================================================>
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
