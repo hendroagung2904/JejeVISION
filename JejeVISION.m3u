@@ -962,6 +962,9 @@ http://122.248.43.138:1935/ch23/myStream/chunklist_w88244984.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Local Channel",Ficom TV Batam
 https://v3.siar.us/ficomchannel/live/playlist.m3u8
 
+#EXTINF:0 tvg-id="ext" group-title="Local Channel",Mata Milenial Indonesia TV
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://m.youtube.com/channel/UCvew2SW7fPHK0m8c4Ez44Nw/live
+
 
 <======================================================= Korea ============================================================>
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
