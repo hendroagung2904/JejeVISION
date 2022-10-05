@@ -573,6 +573,9 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/playlist.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Tennis_Channel_logo.svg/1200px-Tennis_Channel_logo.svg.png" group-title="Sports" tvg-id="TennisChannel.us" tvg-name="TennisChannel.us", Tennis Channel
 https://tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8
 
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cd/ImpactWrestling2019.png" group-title="Sports" tvg-id="" tvg-name="",Impact Wrestling
+https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
+
 <======================================================= NEWS ================================================================>
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
