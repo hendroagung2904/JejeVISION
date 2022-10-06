@@ -834,6 +834,9 @@ http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIPAPUA)/in
 
 <========================================= Malaysia =====================================>
 
+#EXTINF:0 tvg-id="TV1" group-title="Malaysia" tvg-logo="https://s3.amazonaws.com/jebbit-assets/images/fhRTtEvW/business-images/6KFbm1lORRkMw39KqEkp_awani_logo.png",Astro Awani
+https://raw.githubusercontent.com/digitaldotmy/YoutubeLive/main/AstroAWANI.m3u8
+
 #EXTINF:0 tvg-id="TV1" group-title="Malaysia" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/04/Berita_RTM_v1.png",Berita RTM
 https://d25tgymtnqzu8s.cloudfront.net/smil:berita/playlist.m3u8
 
