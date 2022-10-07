@@ -465,6 +465,12 @@ http://livestream.biznetvideo.net/biznet_lifestyle/smil:lifestyle.smil/playlist.
 https://liveanevia.mncnow.id/live/eds/TLC/sa_dash_vmx/TLC.mpd
 
 
+#EXTINF:0 tvg-id="" tvg-url="https://iptv-org.github.io/epg/guides/id/useetv.com.epg.xml.gz" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/e/ea/Rock_Extreme_%282021-.n.v.%29.png" group-title="Entertainment & LifeStyle",Rock Extreme
+http://210.210.155.35/dr9445/h/h15/01.m3u8
+
+#EXTINF:0 tvg-id="" tvg-url="https://iptv-org.github.io/epg/guides/id/useetv.com.epg.xml.gz" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/db/ROCK_entertainment_UHD.png" group-title="Entertainment & LifeStyle",Rock Entertainment
+http://210.210.155.35/dr9445/h/h15/01.m3u8
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTINF:0 tvg-id="" tvg-name="" group-title="Entertainment & LifeStyle" tvg-url="https://iptv-org.github.io/epg/guides/id/useetv.com.epg.xml.gz" tvg-logo="http://www.dens.tv/images/channel-logo/42.jpg",Life & Style (Dens TV)
