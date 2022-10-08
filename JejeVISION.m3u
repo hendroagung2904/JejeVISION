@@ -514,6 +514,18 @@ https://liveanevia.mncnow.id/live/eds/VisionPrime/sa_dash_vmx/VisionPrime.mpd
 https://fashiontv-fashiontv-4-de.samsung.wurl.com/manifest/playlist.m3u8
 
 <=================================================== Sports ==============================================================>
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://lo1.in/LOGO/UK/SPORT/ASTROSUPERSPORT1.png" group-title="Sports",ASTRO SUPERSPORT 1 HD
+http://etc12.xyz:900/live/2606678123/6976219981/153953.ts
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://lo1.in/LOGO/UK/SPORT/ASTROSUPERSPORT2.png" group-title="Sports",ASTRO SUPERSPORT 2 HD
+http://etc12.xyz:900/live/2606678123/6976219981/153952.ts
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://lo1.in/LOGO/UK/SPORT/ASTROSUPERSPORT3.png" group-title="Sports",ASTRO SUPERSPORT 3 HD
+http://etc12.xyz:900/live/2606678123/6976219981/153951.ts
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://lo1.in/LOGO/UK/SPORT/ASTROSUPERSPORT4.png" group-title="Sports",ASTRO SUPERSPORT 4 HD
+http://etc12.xyz:900/live/2606678123/6976219981/153950.ts
+
 #EXTINF:0 ttvg-id="" tvg-name="" tvg-logo="https://lo1.in/LOGO/AFRICA/Super%20Sport%2012%20FHD.png" group-title="Sports",SUPER SPORT PREMIER LEAGUE HD
 http://etc12.xyz:900/live/2606678123/6976219981/159892.ts
 
