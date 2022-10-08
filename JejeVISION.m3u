@@ -526,8 +526,17 @@ http://etc12.xyz:900/live/2606678123/6976219981/153951.ts
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://lo1.in/LOGO/UK/SPORT/ASTROSUPERSPORT4.png" group-title="Sports",ASTRO SUPERSPORT 4 HD
 http://etc12.xyz:900/live/2606678123/6976219981/153950.ts
 
-#EXTINF:0 ttvg-id="" tvg-name="" tvg-logo="https://lo1.in/LOGO/AFRICA/Super%20Sport%2012%20FHD.png" group-title="Sports",SUPER SPORT PREMIER LEAGUE HD
-http://etc12.xyz:900/live/2606678123/6976219981/159892.ts
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://lo1.in/LOGO/UK/SPORT/SUPERSPORT.png" group-title="Sports",SUPERSPORT PREMIER LEAGUE FHD
+http://etc12.xyz:900/live/2606678123/6976219981/190004.ts
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://lo1.in/LOGO/UK/SPORT/SUPERSPORT.png" group-title="Sports",SUPERSPORT FOOTBALL HD
+http://etc12.xyz:900/live/2606678123/6976219981/190006.ts
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://lo1.in/LOGO/UK/SPORT/SUPERSPORT.png" group-title="Sports",SUPERSPORT FOOTBALL PLUS FHD
+http://etc12.xyz:900/live/2606678123/6976219981/400415389.ts
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://lo1.in/LOGO/UK/SPORT/SUPERSPORT.png" group-title="Sports",SUPERSPORT LA LIGA FHD
+http://etc12.xyz:900/live/2606678123/6976219981/190005.ts
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
