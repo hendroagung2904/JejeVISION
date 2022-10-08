@@ -174,11 +174,35 @@ https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 #EXTINF:0 tvg-id="ext" tvg-logo="https://www.biznethome.net/bin/images/tv-program/channel/Biznet%20Adventure%20170x85.png" group-title="Knowledge & Documentary",Biznet Adventure
 http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTINF:0 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/ae/RTD-TV-logo.png" group-title="Knowledge & Documentary",RT Documentary
-https://rt-rtd.rttv.com/live/rtdoc/playlist.m3u8
+http://etc12.xyz:900/live/2606678123/6976219981/191828.ts
 
+#EXTINF:0 tvg-id=""  tvg-logo="https://lo1.in/LOGO/UK/DOCUM/DISCOVERYID.PNG" group-title="Knowledge & Documentary",UK| DISCOVERY ID HD
+http://etc12.xyz:900/live/2606678123/6976219981/400203473.ts
+
+#EXTINF:0 tvg-id="" tvg-logo="https://lo1.in/LOGO/UK/DOCUM/DISCOVERYSCIENCE.PNG" group-title="Knowledge & Documentary",UK| DISCOVERY SCIENCE HD ( US )
+http://etc12.xyz:900/live/2606678123/6976219981/153789.ts
+
+#EXTINF:0 tvg-id="" tvg-logo="https://lo1.in/LOGO/UK/DOCUM/DISCOVERY.png" group-title="Knowledge & Documentary",UK| DISCOVERY HD
+http://etc12.xyz:900/live/2606678123/6976219981/191303.ts
+
+#EXTINF:0 tvg-id="" tvg-logo="https://lo1.in/LOGO/UK/DOCUM/DISCOVERYCHANNEL.png" group-title="Knowledge & Documentary",UK| DISCOVERY CHANNEL+1 HD
+http://etc12.xyz:900/live/2606678123/6976219981/153786.ts
+
+#EXTINF:0 tvg-id="" tvg-logo="https://lo1.in/LOGO/UK/DOCUM/DISCOVERYTURBO.png" group-title="Knowledge & Documentary",UK| DISCOVERY TURBO HD
+http://etc12.xyz:900/live/2606678123/6976219981/153787.ts
+
+#EXTINF:0 tvg-id="" tvg-logo="https://lo1.in/LOGO/UK/DOCUM/DISCOVERYSHED.png" group-title="Knowledge & Documentary",UK| DISCOVERY SHED HD
+http://etc12.xyz:900/live/2606678123/6976219981/153788.ts
+
+#EXTINF:0 tvg-id="" tvg-logo="https://lo1.in/LOGO/UK/DOCUM/CRIME%26INVESTIGATION.png" group-title="Knowledge & Documentary",UK| CRIME & INVESTIGATION HD
+http://etc12.xyz:900/live/2606678123/6976219981/153790.ts
+
+#EXTINF:0 tvg-id="" tvg-logo="https://lo1.in/LOGO/UK/DOCUM/NATGEO.PNG" group-title="Knowledge & Documentary",UK| NAT GEO HD
+http://etc12.xyz:900/live/2606678123/6976219981/13228.ts
+
+#EXTINF:0 tvg-id="" tvg-name="UK| NAT GEO WILD HD" tvg-logo="https://lo1.in/LOGO/UK/DOCUM/NATGEOWILD.png" group-title="Knowledge & Documentary",UK| NAT GEO WILD HD
+http://etc12.xyz:900/live/2606678123/6976219981/13842.ts
 
 <====================================================== Movies ====================================================================>
 
@@ -537,6 +561,21 @@ http://etc12.xyz:900/live/2606678123/6976219981/400415389.ts
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://lo1.in/LOGO/UK/SPORT/SUPERSPORT.png" group-title="Sports",SUPERSPORT LA LIGA FHD
 http://etc12.xyz:900/live/2606678123/6976219981/190005.ts
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://lo1.in/LOGO/UK/SPORT/SPFL.png" group-title="Sports",SUPERSPORT MOTORSPORT HD
+http://etc12.xyz:900/live/2606678123/6976219981/191772.ts
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://lo1.in/LOGO/UK/PPV/NOWHK.png" group-title="Sports",NOW HK PREMIER SPORTS 01
+http://etc12.xyz:900/live/2606678123/6976219981/400230451.ts
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://lo1.in/LOGO/UK/PPV/NOWHK.png" group-title="Sports",NOW HK PREMIER SPORTS 02
+http://etc12.xyz:900/live/2606678123/6976219981/400230450.ts
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://lo1.in/LOGO/UK/PPV/NOWHK.png" group-title="Sports",NOW HK PREMIER SPORTS 03
+http://etc12.xyz:900/live/2606678123/6976219981/400230449.ts
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://lo1.in/LOGO/UK/PPV/NOWHK.png" group-title="Sports",NOW HK PREMIER SPORTS 04
+http://etc12.xyz:900/live/2606678123/6976219981/400230448.ts
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
