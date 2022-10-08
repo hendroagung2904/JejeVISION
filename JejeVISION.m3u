@@ -514,6 +514,8 @@ https://liveanevia.mncnow.id/live/eds/VisionPrime/sa_dash_vmx/VisionPrime.mpd
 https://fashiontv-fashiontv-4-de.samsung.wurl.com/manifest/playlist.m3u8
 
 <=================================================== Sports ==============================================================>
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="https://lo1.in/LOGO/AFRICA/Super%20Sport%2012%20FHD.png" group-title="Sports",SUPER SPORT PREMIER LEAGUE HD
+http://etc12.xyz:900/live/2606678123/6976219981/159892.ts
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
