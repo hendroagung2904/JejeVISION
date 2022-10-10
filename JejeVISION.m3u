@@ -578,46 +578,6 @@ https://tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cd/ImpactWrestling2019.png" group-title="Sports" tvg-id="" tvg-name="",Impact Wrestling
 https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://lo1.in/LOGO/UK/SPORT/ASTROSUPERSPORT1.png" group-title="Sports",ASTRO SUPERSPORT 1 HD
-http://etc12.xyz:900/live/2606678123/6976219981/153953.ts
-
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://lo1.in/LOGO/UK/SPORT/ASTROSUPERSPORT2.png" group-title="Sports",ASTRO SUPERSPORT 2 HD
-http://etc12.xyz:900/live/2606678123/6976219981/153952.ts
-
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://lo1.in/LOGO/UK/SPORT/ASTROSUPERSPORT3.png" group-title="Sports",ASTRO SUPERSPORT 3 HD
-http://etc12.xyz:900/live/2606678123/6976219981/153951.ts
-
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://lo1.in/LOGO/UK/SPORT/ASTROSUPERSPORT4.png" group-title="Sports",ASTRO SUPERSPORT 4 HD
-http://etc12.xyz:900/live/2606678123/6976219981/153950.ts
-
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://lo1.in/LOGO/UK/SPORT/SUPERSPORT.png" group-title="Sports",SUPERSPORT PREMIER LEAGUE FHD
-http://etc12.xyz:900/live/2606678123/6976219981/190004.ts
-
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://lo1.in/LOGO/UK/SPORT/SUPERSPORT.png" group-title="Sports",SUPERSPORT FOOTBALL HD
-http://etc12.xyz:900/live/2606678123/6976219981/190006.ts
-
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://lo1.in/LOGO/UK/SPORT/SUPERSPORT.png" group-title="Sports",SUPERSPORT FOOTBALL PLUS FHD
-http://etc12.xyz:900/live/2606678123/6976219981/400415389.ts
-
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://lo1.in/LOGO/UK/SPORT/SUPERSPORT.png" group-title="Sports",SUPERSPORT LA LIGA FHD
-http://etc12.xyz:900/live/2606678123/6976219981/190005.ts
-
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://lo1.in/LOGO/UK/SPORT/SPFL.png" group-title="Sports",SUPERSPORT MOTORSPORT HD
-http://etc12.xyz:900/live/2606678123/6976219981/191772.ts
-
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://lo1.in/LOGO/UK/PPV/NOWHK.png" group-title="Sports",NOW HK PREMIER SPORTS 01
-http://etc12.xyz:900/live/2606678123/6976219981/400230451.ts
-
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://lo1.in/LOGO/UK/PPV/NOWHK.png" group-title="Sports",NOW HK PREMIER SPORTS 02
-http://etc12.xyz:900/live/2606678123/6976219981/400230450.ts
-
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://lo1.in/LOGO/UK/PPV/NOWHK.png" group-title="Sports",NOW HK PREMIER SPORTS 03
-http://etc12.xyz:900/live/2606678123/6976219981/400230449.ts
-
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://lo1.in/LOGO/UK/PPV/NOWHK.png" group-title="Sports",NOW HK PREMIER SPORTS 04
-http://etc12.xyz:900/live/2606678123/6976219981/400230448.ts
-
-
 <======================================================= NEWS ================================================================>
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
