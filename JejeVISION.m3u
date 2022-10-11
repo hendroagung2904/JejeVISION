@@ -259,13 +259,6 @@ https://liveanevia.mncnow.id/live/eds/SetOne/sa_dash_vmx/SetOne.mpd
 #EXTINF:0 tvg-id="" tvg-url="" tvg-name="" tvg-logo="https://w7.pngwing.com/pngs/910/838/png-transparent-paramount-s-paramount-network-logo-television-others-television-angle-white-thumbnail.png" group-title="Movies",Paramount Channel
 http://etc12.xyz:900/live/2606678123/6976219981/189892.ts
 
-#EXTINF:0 tvg-id="" tvg-url="" tvg-name="" tvg-logo="https://www.asiancrush.com/channels/ac/channel-banner.png" group-title="Movies",Asian Crush TV
-https://dc447fbd44e44d33b66b90c1eaaefec1.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_AsianCrush/playlist.m3u8?ads.wurl_channel=269&ads.wurl_name=AsianCrush&ads.us_privacy=1---&ads.psid=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.targetopt=0&ads.plex_token=xEcoZ39L9BRf_GVr26-4&ads.plex_id=5eea605474085f0040ddc767&ads.ua=okhttp%2F4.9.0&ads.app_bundle=com.plexapp.android&ads.app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.plexapp.android&ads.gdpr=0&ads.consent=0&ads.device_type=handset&ads.device_id_type=
-
-
-#EXTINF:0 tvg-id="" tvg-url="" tvg-name="" tvg-logo="" group-title="Movies",On Demand China
-https://be0102fb526c4b05b37b45f2e6200c67.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Plex_OnDemandChina/playlist.m3u8?ads.wurl_channel=899&ads.wurl_name=OnDemandChina&ads.coppa=0&ads.us_privacy=1---&ads.psid=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.targetopt=0&ads.plex_token=xEcoZ39L9BRf_GVr26-4&ads.plex_id=60d4edd7b2fdec002c14112b&ads.ua=okhttp%2F4.9.0&ads.app_bundle=com.plexapp.android&ads.app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.plexapp.android&ads.gdpr=0&ads.consent=0&ads.device_type=handset&ads.device_id_type=
-
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTINF:0 tvg-id="MyCinemaAsia.id" tvg-url="https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml.gz" tvg-name="" tvg-logo="https://logos.fandom.com/wiki/My_Cinema_Asia?file=MCA_%25282019%2529.png" group-title="Movies",My Cinema Asia
