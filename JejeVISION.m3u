@@ -766,7 +766,7 @@ https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/par
 #EXTINF:-0 group-title="Mediacorp SG" tvg-id="Vasantham" tvg-chno="Vasantham" tvg-logo="https://static.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27png%27&Quality=85&ImageId=%27956271%27&EntityType=%27Item%27&EntityId=%2797096%27&Width=150&Height=150&ImageUrl=%27956271.png%27&device=%27web_browser%27&subscriptions=%27Registered%27&segmentationTags=%27all%27&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27",Vasantham
 https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/147/assetId/237653/assetType/media/assetFileId/13229990/contextType/PLAYBACK/isAltUrl/False/a.mpd
 
-#EXTINF:0 group-title="Mediacorp SG" tvg-id="" tvg-logo="",TravelogueSG
+#EXTINF:0 tvg-id="" group-title="Mediacorp SG" tvg-logo="",TravelogueSG
 https://raw.githubusercontent.com/digitaldotmy/YoutubeLive/main/TravelogueSG.m3u8
 
 <=========================================== Local Channel ======================================================================>
