@@ -736,7 +736,7 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:okey/chunklist_b4596000_slENG.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TVRRM2ZGeEpkUTZwZS1oRVdMa1g1VkNkUHp4VzlVcmtKcFh4Y0FsVElvZE0tLUR1azlDUTdjSF9Kb3U4T2V3RXFzVkJScXp5Q1BTb2oyTEtrV2lMNHd1QXJ4VDhBOWtzTGU3Q2tlNk5OdHFQck1CeGpFaF9WY1JCeTNtVVFLcXBzZE5rNFFxSmZ0d005NUtZbXd4a3BWU3BNaEExZFg4YzdOMlpHWDU1WkhndWYySUtYUUlST3A4Z2ZJS0JRVHlkYm80TEY4aWNldnBIdVdMZ0dWSzZzYWVpcXNPaUtHYjV2RzRnV1pwaEl6cDBMcGgzX0ZKV0Y5YS1lbl8wOWd2WS1WSGRteVp3NDUtaEVUQ1U0T2lhdDNhQkphckRqS3NCd1ZRZXRDeHpib3Q5dElySVJrdEoyOVVRVFJIVzliTy1FTkJBR3c9PSZjb250ZXh0VHlwZT1ub25lJmlkPTU3NTQxNDkiLCJhY2NvdW50X2lkIjoyMDgyMzExLCJjb250ZW50X2lkIjoiZnRhX2NuYVNfZGFzaF90dl9kcm0iLCJmaWxlcyI6IiIsInVzZXJfdG9rZW4iOiJkako4TVRRM2ZGeEpkUTZwZS1oRVdMa1g1VkNkUHp4VzlVcmtKcFh4Y0FsVElvZE0tLUR1azlDUTdjSF9Kb3U4T2V3RXFzVkJScXp5Q1BTb2oyTEtrV2lMNHd1QXJ4VDhBOWtzTGU3Q2tlNk5OdHFQck1CeGpFaF9WY1JCeTNtVVFLcXBzZE5rNFFxSmZ0d005NUtZbXd4a3BWU3BNaEExZFg4YzdOMlpHWDU1WkhndWYySUtYUUlST3A4Z2ZJS0JRVHlkYm80TEY4aWNldnBIdVdMZ0dWSzZzYWVpcXNPaUtHYjV2RzRnV1pwaEl6cDBMcGgzX0ZKV0Y5YS1lbl8wOWd2WS1WSGRteVp3NDUtaEVUQ1U0T2lhdDNhQkphckRqS3NCd1ZRZXRDeHpib3Q5dElySVJrdEoyOVVRVFJIVzliTy1FTkJBR3c9PSIsInVkaWQiOiIiLCJhZGRpdGlvbmFsX2Nhc19zeXN0ZW0iOjE0N30%3d&signature=lIPXs5sUBP26EBKOu3FyLpmiFFQ%3d
-#EXTINF:-0 group-title="Mediacorp SG" tvg-id="CNA" tvg-chno="CNA" tvg-logo="https://static.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27png%27&Quality=85&ImageId=%27956283%27&EntityType=%27Item%27&EntityId=%2797072%27&Width=150&Height=150&ImageUrl=%27956283.png%27&device=%27web_browser%27&subscriptions=%27Registered%27&segmentationTags=%27all%27&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27",CNA
+#EXTINF:-0 group-title="MediaCorp Singapore" tvg-id="CNA" tvg-chno="CNA" tvg-logo="https://static.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27png%27&Quality=85&ImageId=%27956283%27&EntityType=%27Item%27&EntityId=%2797072%27&Width=150&Height=150&ImageUrl=%27956283.png%27&device=%27web_browser%27&subscriptions=%27Registered%27&segmentationTags=%27all%27&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27",CNA
 https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/147/assetId/197985/assetType/media/assetFileId/5754149/contextType/PLAYBACK/isAltUrl/False/a.mpd
 
 #EXTINF:0  tvg-id="Ch 5" group-title="MediaCorp Singapore" tvg-logo="https://poster.starhubgo.com/Linear_channels2/102_1920x1080_HTV.png",CHANNEL 5 
@@ -764,8 +764,7 @@ https://tglmp04.akamaized.net/out/v1/b200e885125f4787bd2329952ff28fa1/manifest.m
 #KODIPROP:inputstream.adaptive.license_key=https://run.mocky.io/v3/2263da79-3818-41f1-9ec4-eff68fd5466c
 https://tglmp03.akamaized.net/out/v1/14eb6e921cae41298efaa4d9db0f2875/manifest.mpd
 
-
-#EXTINF:0 tvg-id="" group-title="Mediacorp SG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/MediaCorp_logo_December_2015.svg/1280px-MediaCorp_logo_December_2015.svg.png",TravelogueSG
+#EXTINF:0 tvg-id="" group-title="MediaCorp Singapore" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/MediaCorp_logo_December_2015.svg/1280px-MediaCorp_logo_December_2015.svg.png",TravelogueSG
 https://raw.githubusercontent.com/digitaldotmy/YoutubeLive/main/TravelogueSG.m3u8
 
 <=========================================== Local Channel ======================================================================>
