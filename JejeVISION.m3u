@@ -728,11 +728,6 @@ https://raw.githubusercontent.com/digitaldotmy/YoutubeLive/main/BERNAMATV.m3u8
 
 <============================================= Singapore ==========================================>
 
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/CNA_new_logo.svg/512px-CNA_new_logo.svg.png" group-title="MediaCorp Singapore" tvg-id="CNA.sg" tvg-url="https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml", CNA
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/147/assetId/197985/assetType/media/assetFileId/5754149/contextType/PLAYBACK/isAltUrl/False/a.mpd
-
 #EXTINF:0  tvg-id="Ch 5" group-title="MediaCorp Singapore" tvg-logo="https://poster.starhubgo.com/Linear_channels2/102_1920x1080_HTV.png",CHANNEL 5 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://run.mocky.io/v3/316e8644-f2c1-4a8c-80b5-4cadf397f4c9
@@ -757,9 +752,6 @@ https://tglmp04.akamaized.net/out/v1/b200e885125f4787bd2329952ff28fa1/manifest.m
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://run.mocky.io/v3/2263da79-3818-41f1-9ec4-eff68fd5466c
 https://tglmp03.akamaized.net/out/v1/14eb6e921cae41298efaa4d9db0f2875/manifest.mpd
-
-#EXTINF:0 tvg-id="" group-title="MediaCorp Singapore" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/MediaCorp_logo_December_2015.svg/1280px-MediaCorp_logo_December_2015.svg.png",TravelogueSG
-https://raw.githubusercontent.com/digitaldotmy/YoutubeLive/main/TravelogueSG.m3u8
 
 <=========================================== Local Channel ======================================================================>
 
