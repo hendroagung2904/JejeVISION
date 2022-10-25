@@ -92,6 +92,10 @@ https://b1news.beritasatumedia.com/Beritasatu/B1News_manifest.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 https://liveanevia.mncnow.id/live/eds/DAAITV/sa_dash_vmx/DAAITV.mpd
 
+
+#EXTINF:0 tvg-id="" tvg-name="Magna Channel" tvg-url="https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml.gz" tvg-logo="https://i.imgur.com/3EVWz1z.png" group-title="Indonesia",Garuda TV
+https://ms.digdaya.tv/live/digdayatv/live.m3u8
+
 #EXTINF:0 tvg-id="Magna Channel" tvg-name="Magna Channel" tvg-url="https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml.gz" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/MagnaChannel.png" group-title="Indonesia",Magna Channel
 https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
 
