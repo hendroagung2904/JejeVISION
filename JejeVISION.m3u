@@ -822,6 +822,8 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:berita/playlist.m3u8
 https://raw.githubusercontent.com/digitaldotmy/YoutubeLive/main/BERNAMATV.m3u8
 
 <============================================= Singapore ==========================================>
+#EXTINF:0  tvg-id="CNA" group-title="MediaCorp Singapore" tvg-logo="https://e7.pngegg.com/pngimages/974/51/png-clipart-cna-insurance-hq-cna-financial-home-insurance-collier-insurance-others-angle-text.png",CNA
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
 
 #EXTINF:0  tvg-id="Ch 5" group-title="MediaCorp Singapore" tvg-logo="https://poster.starhubgo.com/Linear_channels2/102_1920x1080_HTV.png",CHANNEL 5 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
