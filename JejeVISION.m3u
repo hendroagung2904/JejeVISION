@@ -157,6 +157,15 @@ http://etc12.xyz:900/live/2606678123/6976219981/153693.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ZA| SUPERSPORT LA LIGA FHD" tvg-logo="https://lo1.in/LOGO/UK/SPORT/SUPERSPORT.png" group-title="Sports",SUPERSPORT LA LIGA FHD
 http://etc12.xyz:900/live/2606678123/6976219981/190005.ts
 
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DSTV| SUPER SPORT PREMIER LEAGUE HD" tvg-logo="https://lo1.in/LOGO/AFRICA/Super%20Sport%2012%20FHD.png" group-title="Sports",DSTV| SUPER SPORT PREMIER LEAGUE HD
+http://etc12.xyz:900/live/2606678123/6976219981/159892.ts
+
+#EXTINF:-1 tvg-id="premiersports.uk" tvg-name="UK| PREMIER SPORTS 1 HD" tvg-logo="https://lo1.in/LOGO/UK/SPORT/PREMIERSPORTS1.png" group-title="Sports",PREMIER SPORTS 1 HD
+http://etc12.xyz:900/live/2606678123/6976219981/191694.ts
+
+#EXTINF:-1 tvg-id="premiersports2.uk" tvg-name="UK| PREMIER SPORTS 2 HD" tvg-logo="https://lo1.in/LOGO/UK/SPORT/PREMIERSPORTS2.png" group-title="Sports",PREMIER SPORTS 2 HD
+http://etc12.xyz:900/live/2606678123/6976219981/189891.ts
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTINF:0 tvg-url="http://www.dens.tv" tvg-logo="https://football-tribe.com/indonesia/wp-content/uploads/sites/10/2019/01/TVRI-Sport-HD.png" group-title="Sports",TVRI Sports HD
