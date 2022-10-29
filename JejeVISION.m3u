@@ -148,7 +148,7 @@ https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
 
 =========TV SPORT=========
 
-#EXTINF:-0 tvg-id="skysportsf1.uk" tvg-name="UK| SKY SPORTS F1 HD" tvg-logo="https://lo1.in/LOGO/UK/SPORT/SKYSPORTSF1.png" group-title="Sports",SKY SPORT F1 HD
+#EXTINF:-1 tvg-id="skysportsf1.uk" tvg-name="UK| SKY SPORTS F1 HD" tvg-logo="https://lo1.in/LOGO/UK/SPORT/SKYSPORTSF1.png" group-title="Sports",SKY SPORT F1 HD
 http://etc12.xyz:900/live/2606678123/6976219981/153701.ts
 
 #EXTINF:-1 tvg-id="skysportspremiereleague.uk" tvg-name="UK| SKY SPORTS PREMIER LEAGUE FHD" tvg-logo="https://lo1.in/LOGO/UK/SPORT/SKYSPORTSPREMIERLEAGUE.png" group-title="Sports,SKY SPORTS PREMIER LEAGUE FHD
