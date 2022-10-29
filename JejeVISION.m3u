@@ -388,55 +388,64 @@ https://liveanevia.mncnow.id/live/eds/Nickelodeon/sa_dash_vmx/Nickelodeon.mpd
 
 <======================== Sports ===================================>
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/Logo_beIN_SPORTS_1.png" group-title="Sport" tvg-id="016" tvg-url="https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml", BEIN SPORTS 1 HD
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/o8zT78o.png" ,beIN Sports English 1
+https://webudi.openhd.lol/lb/premium61/index.m3u8?|referer=https://widevine.licenses4.me/&amp;User-agent=REDLINECLIENT
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/RJ17vOc.png" ,beIN Sports English 2
+https://webudi.openhd.lol/lb/premium90/index.m3u8?|referer=https://widevine.licenses4.me/&amp;User-agent=REDLINECLIENT
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/sKFx2QF.png" ,beIN Sports English 3
+https://webudi.openhd.lol/lb/premium46/index.m3u8?|referer=https://widevine.licenses4.me/&amp;User-agent=REDLINECLIENT
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/Logo_beIN_SPORTS_1.png" group-title="Sports"tvg-id="016" tvg-url="https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml", BEIN SPORTS 1 HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://liveanevia.mncnow.id/live/eds/MrBein1/sa_dash_vmx/MrBein1.mpd
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e9/BeIN_Sports_3_HD.png" group-title="Sport" tvg-id="017" tvg-url="https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml", BEIN SPORTS 3
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e9/BeIN_Sports_3_HD.png" group-title="Sports" tvg-id="017" tvg-url="https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml", BEIN SPORTS 3
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://liveanevia.mncnow.id/live/eds/BeIN2s/sa_dash_vmx/BeIN2s.mpd
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/nV55veq.png" group-title="Sport" tvg-id="FightSports.us" tvg-url="https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml", FIGHT SPORT
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nV55veq.png" group-title="Sports" tvg-id="FightSports.us" tvg-url="https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml", FIGHT SPORT
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://liveanevia.mncnow.id/live/eds/FightSports/sa_dash_vmx/FightSports.mpd
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/IhDiaQa.png" group-title="Sport" tvg-id="MNCSports.id" tvg-url="https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml", MNC SPORTS 1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IhDiaQa.png" group-title="Sports" tvg-id="MNCSports.id" tvg-url="https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml", MNC SPORTS 1
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://liveanevia.mncnow.id/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-HD.mpd
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eOeB5QS.png" group-title="Sport" tvg-id="MNCSports2.id" tvg-url="https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml", MNC SPORTS 2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eOeB5QS.png" group-title="Sports" tvg-id="MNCSports2.id" tvg-url="https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml", MNC SPORTS 2
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://liveanevia.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd
 
-#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_99.png" group-title="Sport" tvg-id="MNCSports3.id" tvg-url="https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml", MNC SPORTS 3
+#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_99.png" group-title="Sports" tvg-id="MNCSports3.id" tvg-url="https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml", MNC SPORTS 3
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://liveanevia.mncnow.id/live/eds/Soccer-2/sa_dash_vmx/Soccer-2.mpd
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wuduAXD.png" group-title="Sport" tvg-id="SoccerChannel.id" tvg-url="https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml", SOCCER CHANNEL
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wuduAXD.png" group-title="Sports" tvg-id="SoccerChannel.id" tvg-url="https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml", SOCCER CHANNEL
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://liveanevia.mncnow.id/live/eds/soccerchannel-HD/sa_dash_vmx/soccerchannel-HD.mpd
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/df/SPO_TV_logo.png" group-title="Sport" tvg-id="SPOTV.kr" tvg-url="https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml", SPOTV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/df/SPO_TV_logo.png" group-title="Sports" tvg-id="SPOTV.kr" tvg-url="https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml", SPOTV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://liveanevia.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/xeATohI.png" group-title="Sport" tvg-id="SPOTV2.kr" tvg-url="https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml", SPOTV 2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xeATohI.png" group-title="Sports" tvg-id="SPOTV2.kr" tvg-url="https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml", SPOTV 2
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #KODIPROP:inputstream.adaptive.manifest_type=hls
