@@ -2,9 +2,10 @@
 
 <==============================Indonesia Channel ============================>
 
-#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_antv.png" group-title="Indonesia Channel" tvg-id="ANTV.id" tvg-url="https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml", ANTV
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_antv.png" group-title="Indonesia Channel" tvg-id="ANTV.id" tvg-url="https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml", ANTV
 https://liveanevia.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
 
 #EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_daaitv.png" group-title="Indonesia Channel" tvg-id="033" tvg-url="https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml", DAAI TV
