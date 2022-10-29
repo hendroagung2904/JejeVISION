@@ -154,6 +154,9 @@ http://etc12.xyz:900/live/2606678123/6976219981/153701.ts
 #EXTINF:-1 tvg-id="skysportspremiereleague.uk" tvg-name="UK| SKY SPORTS PREMIER LEAGUE FHD" tvg-logo="https://lo1.in/LOGO/UK/SPORT/SKYSPORTSPREMIERLEAGUE.png" group-title="Sports,SKY SPORTS PREMIER LEAGUE FHD
 http://etc12.xyz:900/live/2606678123/6976219981/153693.ts
 
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ZA| SUPERSPORT LA LIGA FHD" tvg-logo="https://lo1.in/LOGO/UK/SPORT/SUPERSPORT.png" group-title="Sports",SUPERSPORT LA LIGA FHD
+http://etc12.xyz:900/live/2606678123/6976219981/190005.ts
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTINF:0 tvg-url="http://www.dens.tv" tvg-logo="https://football-tribe.com/indonesia/wp-content/uploads/sites/10/2019/01/TVRI-Sport-HD.png" group-title="Sports",TVRI Sports HD
