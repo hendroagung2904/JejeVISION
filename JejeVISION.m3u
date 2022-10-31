@@ -844,7 +844,7 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m
 #EXTINF:0 group-title="Singapore" tvg-id="1000" tvg-chno="1000" tvg-logo="https://raw.githubusercontent.com/chin8205/iptv/master/logos/suria.png",Suria
 https://tglmp04.akamaized.net/out/v1/b200e885125f4787bd2329952ff28fa1/manifest.mpd
 
-#EXTINF:0 group-title="Singapore" tvg-id="1000" tvg-chno="1000" tvg-logo="https://www17.mediacorp.sg/nationalday2022/images/mediacorp-logo.png",DramaSG
+#EXTINF:0 group-title="Singapore" tvg-id="" tvg-chno="1000" tvg-logo="https://www17.mediacorp.sg/nationalday2022/images/mediacorp-logo.png",DramaSG
 https://raw.githubusercontent.com/digitaldotmy/YoutubeLive/main/DramaSG.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -854,6 +854,17 @@ https://raw.githubusercontent.com/digitaldotmy/YoutubeLive/main/DramaSG.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTINF:0 group-title="Singapore" tvg-id="1001" tvg-chno="1001" tvg-logo="https://raw.githubusercontent.com/chin8205/iptv/master/logos/vasantham.png",Vasantham
 https://tglmp03.akamaized.net/out/v1/14eb6e921cae41298efaa4d9db0f2875/manifest.mpd
+
+<======================== Malaysia ================================>>>>>>>>>>>>>>>>
+
+EXTINF:0 group-title="Malaysia" tvg-id="1000" tvg-chno="1000" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/Bernama_TV.png",BERNAMA TV
+https://raw.githubusercontent.com/digitaldotmy/YoutubeLive/main/BERNAMATV.m3u8
+
+EXTINF:0 group-title="Malaysia" tvg-id="1000" tvg-chno="1000" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/Astro_Awani.png",ASTRO AWANI
+https://raw.githubusercontent.com/digitaldotmy/YoutubeLive/main/AstroAWANI.m3u8
+
+EXTINF:0 group-title="Malaysia" tvg-id="1000" tvg-chno="1000" tvg-logo="https://selangortv.my/wp-content/uploads/2020/10/SelangorTV.2.png",SELANGOR TV
+https://raw.githubusercontent.com/digitaldotmy/YoutubeLive/main/SelangorTV.m3u8
 
 <======================= TVRI =======================>
 
