@@ -212,7 +212,7 @@ https://liveanevia.mncnow.id/live/eds/CinemaWorld/sa_dash_vmx/CinemaWorld.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://liveanevia.mncnow.id/live/eds/CelestialClassic/sa_dash_vmx/CelestialClassic.mpd
 
-#EXTINF:0 tvg-logo="https://i.imgur.com/KYP1xXZ.png" group-title="Movies" tvg-id="CelestialMoviesIndonesia.id" tvg-url="https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml", CELESTIAL MOVIES
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/digitaldotmy/TV/main/CELESTIAL%20MOVIES.png" group-title="Movies" tvg-id="CelestialMoviesIndonesia.id" tvg-url="https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml", CELESTIAL MOVIES
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -509,7 +509,7 @@ https://liveanevia.mncnow.id/live/eds/Nickelodeon/sa_dash_vmx/Nickelodeon.mpd
 
 <======================== Sports ===================================>
 
-#EXTINF:0 group-title="Sports" tvg-logo="https://i.imgur.com/o8zT78o.png" ,beIN Sports English 1
+#EXTINF:0 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/digitaldotmy/TV/main/BEIN.png" ,beIN Sports English 1
 https://webudi.openhd.lol/lb/premium61/index.m3u8?|referer=https://widevine.licenses4.me/&amp;User-agent=REDLINECLIENT
 
 #EXTINF:0 group-title="Sports" tvg-logo="https://i.imgur.com/RJ17vOc.png" ,beIN Sports English 2
@@ -518,14 +518,14 @@ https://webudi.openhd.lol/lb/premium90/index.m3u8?|referer=https://widevine.lice
 #EXTINF:0 group-title="Sports" tvg-logo="https://i.imgur.com/sKFx2QF.png" ,beIN Sports English 3
 https://webudi.openhd.lol/lb/premium46/index.m3u8?|referer=https://widevine.licenses4.me/&amp;User-agent=REDLINECLIENT
 
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/Logo_beIN_SPORTS_1.png" group-title="Sports"tvg-id="016" tvg-url="https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml", BEIN SPORTS 1 HD
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/digitaldotmy/TV/main/BEIN.png" group-title="Sports"tvg-id="016" tvg-url="https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml", BEIN SPORTS 1 HD
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://liveanevia.mncnow.id/live/eds/MrBein1/sa_dash_vmx/MrBein1.mpd
 
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e9/BeIN_Sports_3_HD.png" group-title="Sports" tvg-id="017" tvg-url="https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml", BEIN SPORTS 3
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/digitaldotmy/TV/main/BEIN%203.png" group-title="Sports" tvg-id="017" tvg-url="https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml", BEIN SPORTS 3
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -599,7 +599,7 @@ https://liveanevia.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://liveanevia.mncnow.id/live/eds/AustraliaPlus/sa_dash_vmx/AustraliaPlus.mpd
 
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Aljazeera_eng.svg/512px-Aljazeera_eng.svg.png" group-title="NEWS" tvg-id="AlJazeeraEnglish.qa" tvg-url="https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml", AL JAZEERA
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/digitaldotmy/TV/main/ALJAZEERA.png" group-title="NEWS" tvg-id="AlJazeeraEnglish.qa" tvg-url="https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml", AL JAZEERA
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -843,6 +843,9 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTINF:0 group-title="Singapore" tvg-id="1000" tvg-chno="1000" tvg-logo="https://raw.githubusercontent.com/chin8205/iptv/master/logos/suria.png",Suria
 https://tglmp04.akamaized.net/out/v1/b200e885125f4787bd2329952ff28fa1/manifest.mpd
+
+#EXTINF:0 group-title="Singapore" tvg-id="1000" tvg-chno="1000" tvg-logo="https://www17.mediacorp.sg/nationalday2022/images/mediacorp-logo.png",DramaSG
+https://raw.githubusercontent.com/digitaldotmy/YoutubeLive/main/DramaSG.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstreamaddon=inputstream.adaptive
