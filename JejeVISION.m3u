@@ -2,7 +2,7 @@
 
 <==============================Indonesia Channel ============================>
 
-#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_antv.png" group-title="Indonesia Channel" tvg-id="ANTV.id" tvg-url="https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml", ANTV
+#EXTINF:0 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_antv.png" group-title="Indonesia Channel" tvg-id="ANTV.id" tvg-url="https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml", ANTV
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -10,7 +10,7 @@
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://liveanevia.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
 
-#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_daaitv.png" group-title="Indonesia Channel" tvg-id="033" tvg-url="https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml", DAAI TV
+#EXTINF:0 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_daaitv.png" group-title="Indonesia Channel" tvg-id="033" tvg-url="https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml", DAAI TV
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -18,7 +18,7 @@ https://liveanevia.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://liveanevia.mncnow.id/live/eds/DAAITV/sa_dash_vmx/DAAITV.mpd
 
-#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_gtv.png" group-title="Indonesia Channel" tvg-id="GTV.id" tvg-url="https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml", GTV
+#EXTINF:0 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_gtv.png" group-title="Indonesia Channel" tvg-id="GTV.id" tvg-url="https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml", GTV
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -26,7 +26,7 @@ https://liveanevia.mncnow.id/live/eds/DAAITV/sa_dash_vmx/DAAITV.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://liveanevia.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
 
-#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_kompastv.png" group-title="Indonesia Channel" tvg-id="KompasTV.id" tvg-url="https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml", KOMPAS TV
+#EXTINF:0 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_kompastv.png" group-title="Indonesia Channel" tvg-id="KompasTV.id" tvg-url="https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml", KOMPAS TV
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -34,7 +34,7 @@ https://liveanevia.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://liveanevia.mncnow.id/live/eds/KompasTV/sa_dash_vmx/KompasTV.mpd
 
-#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_metrotv.png" group-title="Indonesia Channel" tvg-id="MetroTV.id" tvg-url="https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml", METRO TV
+#EXTINF:0 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_metrotv.png" group-title="Indonesia Channel" tvg-id="MetroTV.id" tvg-url="https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml", METRO TV
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -42,7 +42,7 @@ https://liveanevia.mncnow.id/live/eds/KompasTV/sa_dash_vmx/KompasTV.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://liveanevia.mncnow.id/live/eds/Metro-TV2/sa_dash_vmx/Metro-TV2.mpd
 
-#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_mnctv.png" group-title="Indonesia Channel" tvg-id="MNCTV.id" tvg-url="https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml", MNC TV
+#EXTINF:0 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_mnctv.png" group-title="Indonesia Channel" tvg-id="MNCTV.id" tvg-url="https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml", MNC TV
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -50,7 +50,7 @@ https://liveanevia.mncnow.id/live/eds/Metro-TV2/sa_dash_vmx/Metro-TV2.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://liveanevia.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
 
-#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_net.png" group-title="Indonesia Channel" tvg-id="NET.id" tvg-url="https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml", NET
+#EXTINF:0 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_net.png" group-title="Indonesia Channel" tvg-id="NET.id" tvg-url="https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml", NET
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -58,7 +58,7 @@ https://liveanevia.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://liveanevia.mncnow.id/live/eds/NetTV-HD/sa_dash_vmx/NetTV-HD.mpd
 
-#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_rcti.png" group-title="Indonesia Channel" tvg-id="RCTI.id" tvg-url="https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml", RCTI
+#EXTINF:0 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_rcti.png" group-title="Indonesia Channel" tvg-id="RCTI.id" tvg-url="https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml", RCTI
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -66,7 +66,7 @@ https://liveanevia.mncnow.id/live/eds/NetTV-HD/sa_dash_vmx/NetTV-HD.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://liveanevia.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
 
-#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_rtv.png" group-title="Indonesia Channel" tvg-id="092" tvg-url="https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml", RTV
+#EXTINF:0 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_rtv.png" group-title="Indonesia Channel" tvg-id="092" tvg-url="https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml", RTV
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -74,7 +74,7 @@ https://liveanevia.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://liveanevia.mncnow.id/live/eds/RTV/sa_dash_vmx/RTV.mpd
 
-#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_trans7.png" group-title="Indonesia Channel" tvg-id="Trans7.id" tvg-url="https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml", TRANS 7
+#EXTINF:0 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_trans7.png" group-title="Indonesia Channel" tvg-id="Trans7.id" tvg-url="https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml", TRANS 7
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -82,7 +82,7 @@ https://liveanevia.mncnow.id/live/eds/RTV/sa_dash_vmx/RTV.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://liveanevia.mncnow.id/live/eds/Trans7-2/sa_dash_vmx/Trans7-2.mpd
 
-#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_transtv.png" group-title="Indonesia Channel" tvg-id="TransTV.id" tvg-url="https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml", TRANS TV
+#EXTINF:0 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_transtv.png" group-title="Indonesia Channel" tvg-id="TransTV.id" tvg-url="https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml", TRANS TV
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -90,7 +90,7 @@ https://liveanevia.mncnow.id/live/eds/Trans7-2/sa_dash_vmx/Trans7-2.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://liveanevia.mncnow.id/live/eds/TransTV-2/sa_dash_vmx/TransTV-2.mpd
 
-#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_tvone.png" group-title="Indonesia Channel" tvg-id="106" tvg-url="https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml", TV ONE
+#EXTINF:0 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_tvone.png" group-title="Indonesia Channel" tvg-id="106" tvg-url="https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml", TV ONE
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -98,7 +98,7 @@ https://liveanevia.mncnow.id/live/eds/TransTV-2/sa_dash_vmx/TransTV-2.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://liveanevia.mncnow.id/live/eds/TVOne/sa_dash_vmx/TVOne.mpd
 
-#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_tvri.png" group-title="Indonesia Channel" tvg-id="TVRINasional.id" tvg-url="https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml", TVRI
+#EXTINF:0 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_tvri.png" group-title="Indonesia Channel" tvg-id="TVRINasional.id" tvg-url="https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml", TVRI
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -108,7 +108,7 @@ https://liveanevia.mncnow.id/live/eds/PemersatuBangsa/sa_dash_vmx/PemersatuBangs
 
 <======================== Movies =======================================>
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png" group-title="Movies" tvg-id="HBOIndonesia.id" tvg-url="https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml", HBO
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png" group-title="Movies" tvg-id="HBOIndonesia.id" tvg-url="https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml", HBO
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -116,7 +116,7 @@ https://liveanevia.mncnow.id/live/eds/PemersatuBangsa/sa_dash_vmx/PemersatuBangs
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://liveanevia.mncnow.id/live/eds/hbo-2/sa_dash_vmx/hbo-2.mpd
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/512px-HBO_Family_Asia_logo.svg.png" group-title="Movies" tvg-id="HBOFamilyAsia.sg" tvg-url="https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml", HBO FAMILY
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/512px-HBO_Family_Asia_logo.svg.png" group-title="Movies" tvg-id="HBOFamilyAsia.sg" tvg-url="https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml", HBO FAMILY
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -124,7 +124,7 @@ https://liveanevia.mncnow.id/live/eds/hbo-2/sa_dash_vmx/hbo-2.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://liveanevia.mncnow.id/live/eds/HBOFamily2/sa_dash_vmx/HBOFamily2.mpd
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" group-title="Movies" tvg-id="HBOHitsAsia.sg" tvg-url="https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml", HBO HITS
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" group-title="Movies" tvg-id="HBOHitsAsia.sg" tvg-url="https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml", HBO HITS
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -132,7 +132,7 @@ https://liveanevia.mncnow.id/live/eds/HBOFamily2/sa_dash_vmx/HBOFamily2.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://liveanevia.mncnow.id/live/eds/HBOHits/sa_dash_vmx/HBOHits.mpd
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/HBO_Signature_Asia.png/512px-HBO_Signature_Asia.png" group-title="Movies" tvg-id="HBOSignatureAsia.sg" tvg-url="https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml", HBO SIGNATURE HD
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/HBO_Signature_Asia.png/512px-HBO_Signature_Asia.png" group-title="Movies" tvg-id="HBOSignatureAsia.sg" tvg-url="https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml", HBO SIGNATURE HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -140,7 +140,7 @@ https://liveanevia.mncnow.id/live/eds/HBOHits/sa_dash_vmx/HBOHits.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://liveanevia.mncnow.id/live/eds/HBOSignature2/sa_dash_vmx/HBOSignature2.mpd
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png" group-title="Movies" tvg-id="CinemaxIndonesia.id" tvg-url="https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml", CINEMAX
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png" group-title="Movies" tvg-id="CinemaxIndonesia.id" tvg-url="https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml", CINEMAX
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -148,7 +148,7 @@ https://liveanevia.mncnow.id/live/eds/HBOSignature2/sa_dash_vmx/HBOSignature2.mp
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://liveanevia.mncnow.id/live/eds/CinemaxHD2/sa_dash_vmx/CinemaxHD2.mpd
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Warner2018LA.png/512px-Warner2018LA.png" group-title="Movies" tvg-id="WarnerTVSoutheastAsia.us" tvg-url="https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml", WARNER TV
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Warner2018LA.png/512px-Warner2018LA.png" group-title="Movies" tvg-id="WarnerTVSoutheastAsia.us" tvg-url="https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml", WARNER TV
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -156,7 +156,7 @@ https://liveanevia.mncnow.id/live/eds/CinemaxHD2/sa_dash_vmx/CinemaxHD2.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://liveanevia.mncnow.id/live/eds/WarnerTV/sa_dash_vmx/WarnerTV.mpd
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/gg/galaxy_tv_id.png" group-title="Movies" tvg-id="Galaxy.id" tvg-url="https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml", GALAXY
+#EXTINF:0 tvg-logo="https://www.lyngsat.com/logo/tv/gg/galaxy_tv_id.png" group-title="Movies" tvg-id="Galaxy.id" tvg-url="https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml", GALAXY
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -164,7 +164,7 @@ https://liveanevia.mncnow.id/live/eds/WarnerTV/sa_dash_vmx/WarnerTV.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://liveanevia.mncnow.id/live/eds/Galaxy-HD/sa_dash_vmx/Galaxy-HD.mpd
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/gg/galaxy-premium-id.png" group-title="Movies" tvg-id="GalaxyPremium.id" tvg-url="https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml", GALAXY PREMIUM
+#EXTINF:0 tvg-logo="https://www.lyngsat.com/logo/tv/gg/galaxy-premium-id.png" group-title="Movies" tvg-id="GalaxyPremium.id" tvg-url="https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml", GALAXY PREMIUM
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -172,7 +172,7 @@ https://liveanevia.mncnow.id/live/eds/Galaxy-HD/sa_dash_vmx/Galaxy-HD.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://liveanevia.mncnow.id/live/eds/GalaxyPremium-HD/sa_dash_vmx/GalaxyPremium-HD.mpd
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YeqyD9W.png" group-title="Movies" tvg-id="Hits.sg" tvg-url="https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml", HITS
+#EXTINF:0 tvg-logo="https://i.imgur.com/YeqyD9W.png" group-title="Movies" tvg-id="Hits.sg" tvg-url="https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml", HITS
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -180,7 +180,7 @@ https://liveanevia.mncnow.id/live/eds/GalaxyPremium-HD/sa_dash_vmx/GalaxyPremium
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://liveanevia.mncnow.id/live/eds/HITS/sa_dash_vmx/HITS.mpd
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/IZxRzc6.png" group-title="Movies" tvg-id="HitsMovies.sg" tvg-url="https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml", HITS MOVIES
+#EXTINF:0 tvg-logo="https://i.imgur.com/IZxRzc6.png" group-title="Movies" tvg-id="HitsMovies.sg" tvg-url="https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml", HITS MOVIES
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -188,7 +188,7 @@ https://liveanevia.mncnow.id/live/eds/HITS/sa_dash_vmx/HITS.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://liveanevia.mncnow.id/live/eds/HitsMovies/sa_dash_vmx/HitsMovies.mpd
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/512px-AXN_logo_%282015%29.svg.png" group-title="Movies" tvg-id="AXNIndonesia.id" tvg-url="https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml", AXN
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/512px-AXN_logo_%282015%29.svg.png" group-title="Movies" tvg-id="AXNIndonesia.id" tvg-url="https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml", AXN
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -196,7 +196,7 @@ https://liveanevia.mncnow.id/live/eds/HitsMovies/sa_dash_vmx/HitsMovies.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://liveanevia.mncnow.id/live/eds/AXN/sa_dash_vmx/AXN.mpd
 
-#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_cinemaworld.png" group-title="Movies" tvg-id="027" tvg-url="https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml", CINEMA WORLD
+#EXTINF:0 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_cinemaworld.png" group-title="Movies" tvg-id="027" tvg-url="https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml", CINEMA WORLD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -204,7 +204,7 @@ https://liveanevia.mncnow.id/live/eds/AXN/sa_dash_vmx/AXN.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://liveanevia.mncnow.id/live/eds/CinemaWorld/sa_dash_vmx/CinemaWorld.mpd
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/X7OZ3w5.png" group-title="Movies" tvg-id="CelestialClassicMovies.hk" tvg-url="https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml", CELESTIAL CLASSIC
+#EXTINF:0 tvg-logo="https://i.imgur.com/X7OZ3w5.png" group-title="Movies" tvg-id="CelestialClassicMovies.hk" tvg-url="https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml", CELESTIAL CLASSIC
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -212,7 +212,7 @@ https://liveanevia.mncnow.id/live/eds/CinemaWorld/sa_dash_vmx/CinemaWorld.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://liveanevia.mncnow.id/live/eds/CelestialClassic/sa_dash_vmx/CelestialClassic.mpd
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KYP1xXZ.png" group-title="Movies" tvg-id="CelestialMoviesIndonesia.id" tvg-url="https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml", CELESTIAL MOVIES
+#EXTINF:0 tvg-logo="https://i.imgur.com/KYP1xXZ.png" group-title="Movies" tvg-id="CelestialMoviesIndonesia.id" tvg-url="https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml", CELESTIAL MOVIES
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -220,7 +220,7 @@ https://liveanevia.mncnow.id/live/eds/CelestialClassic/sa_dash_vmx/CelestialClas
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://liveanevia.mncnow.id/live/eds/CelestialMovie/sa_dash_vmx/CelestialMovie.mpd
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/k3DSybx.png" group-title="Movies" tvg-id="FMN.id" tvg-url="https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml", FMN
+#EXTINF:0 tvg-logo="https://i.imgur.com/k3DSybx.png" group-title="Movies" tvg-id="FMN.id" tvg-url="https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml", FMN
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -228,7 +228,7 @@ https://liveanevia.mncnow.id/live/eds/CelestialMovie/sa_dash_vmx/CelestialMovie.
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://liveanevia.mncnow.id/live/eds/FMN/sa_dash_vmx/FMN.mpd
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ii/imc-id.png" group-title="Movies" tvg-id="IMC.id" tvg-url="https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml", IMC
+#EXTINF:0 tvg-logo="https://www.lyngsat.com/logo/tv/ii/imc-id.png" group-title="Movies" tvg-id="IMC.id" tvg-url="https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml", IMC
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -236,7 +236,7 @@ https://liveanevia.mncnow.id/live/eds/FMN/sa_dash_vmx/FMN.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://liveanevia.mncnow.id/live/eds/IndonesiaMovieChannels-HD/sa_dash_vmx/IndonesiaMovieChannels-HD.mpd
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/KIX_logo.svg/512px-KIX_logo.svg.png" group-title="Movies" tvg-id="Kix.hk" tvg-url="https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml", KIX
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/KIX_logo.svg/512px-KIX_logo.svg.png" group-title="Movies" tvg-id="Kix.hk" tvg-url="https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml", KIX
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -244,7 +244,7 @@ https://liveanevia.mncnow.id/live/eds/IndonesiaMovieChannels-HD/sa_dash_vmx/Indo
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://liveanevia.mncnow.id/live/eds/KIX/sa_dash_vmx/KIX.mpd
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/cc/One_TV_Asia_logo_%282020%29.png/512px-One_TV_Asia_logo_%282020%29.png" group-title="Movies" tvg-id="OneTVAsia.sg" tvg-url="https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml", ONE
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/cc/One_TV_Asia_logo_%282020%29.png/512px-One_TV_Asia_logo_%282020%29.png" group-title="Movies" tvg-id="OneTVAsia.sg" tvg-url="https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml", ONE
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -252,7 +252,7 @@ https://liveanevia.mncnow.id/live/eds/KIX/sa_dash_vmx/KIX.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://liveanevia.mncnow.id/live/eds/SetOne/sa_dash_vmx/SetOne.mpd
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/isr5jto.png" group-title="Movies" tvg-id="Thrill.hk" tvg-url="https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml", THRILL
+#EXTINF:0 tvg-logo="https://i.imgur.com/isr5jto.png" group-title="Movies" tvg-id="Thrill.hk" tvg-url="https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml", THRILL
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -260,7 +260,7 @@ https://liveanevia.mncnow.id/live/eds/SetOne/sa_dash_vmx/SetOne.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://liveanevia.mncnow.id/live/eds/Thrill/sa_dash_vmx/Thrill.mpd
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Logo_tvN.svg/512px-Logo_tvN.svg.png" group-title="Movies" tvg-id="TVNAsia.hk" tvg-url="https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml", TVN
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Logo_tvN.svg/512px-Logo_tvN.svg.png" group-title="Movies" tvg-id="TVNAsia.hk" tvg-url="https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml", TVN
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -268,7 +268,7 @@ https://liveanevia.mncnow.id/live/eds/Thrill/sa_dash_vmx/Thrill.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://liveanevia.mncnow.id/live/eds/tvN/sa_dash_vmx/tvN.mpd
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/oLzTyUX.png" group-title="Movies" tvg-id="TVNMovies.hk" tvg-url="https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml", TVN MOVIES HD
+#EXTINF:0 tvg-logo="https://i.imgur.com/oLzTyUX.png" group-title="Movies" tvg-id="TVNMovies.hk" tvg-url="https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml", TVN MOVIES HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -276,7 +276,7 @@ https://liveanevia.mncnow.id/live/eds/tvN/sa_dash_vmx/tvN.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://liveanevia.mncnow.id/live/eds/tvNMovies/sa_dash_vmx/tvNMovies.mpd
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Xl7MJnd.png" group-title="Movies" tvg-id="ZeeBioskop.id" tvg-url="https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml", ZEE BIOSKOP
+#EXTINF:0 tvg-logo="https://i.imgur.com/Xl7MJnd.png" group-title="Movies" tvg-id="ZeeBioskop.id" tvg-url="https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml", ZEE BIOSKOP
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -285,7 +285,7 @@ https://liveanevia.mncnow.id/live/eds/tvNMovies/sa_dash_vmx/tvNMovies.mpd
 https://liveanevia.mncnow.id/live/eds/ZeeBIOSKOP/sa_dash_vmx/ZeeBIOSKOP.mpd
 
 <=========== Documentary and Knowledge ==================>
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/512px-Natgeologo.svg.png" group-title="Knowledge & Documentary" tvg-id="NationalGeographicIndonesia.id" tvg-url="https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml", NATIONAL GEOGRAPHIC HD
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/512px-Natgeologo.svg.png" group-title="Knowledge & Documentary" tvg-id="NationalGeographicIndonesia.id" tvg-url="https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml", NATIONAL GEOGRAPHIC HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -293,7 +293,7 @@ https://liveanevia.mncnow.id/live/eds/ZeeBIOSKOP/sa_dash_vmx/ZeeBIOSKOP.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://liveanevia.mncnow.id/live/eds/NatGeoChannel/sa_dash_vmx/NatGeoChannel.mpd
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/512px-National_Geographic_Wild_logo.svg.png" group-title="Knowledge & Documentary" tvg-id="NationalGeographicWildIndonesia.id" tvg-url="https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml", NAT GEO WILD
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/512px-National_Geographic_Wild_logo.svg.png" group-title="Knowledge & Documentary" tvg-id="NationalGeographicWildIndonesia.id" tvg-url="https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml", NAT GEO WILD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -301,7 +301,7 @@ https://liveanevia.mncnow.id/live/eds/NatGeoChannel/sa_dash_vmx/NatGeoChannel.mp
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://liveanevia.mncnow.id/live/eds/NatGeoWild/sa_dash_vmx/NatGeoWild.mpd
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/xXM60fa.png" group-title="Knowledge & Documentary" tvg-id="BBCEarthAsia.uk" tvg-url="https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml", BBC EARTH
+#EXTINF:0 tvg-logo="https://i.imgur.com/xXM60fa.png" group-title="Knowledge & Documentary" tvg-id="BBCEarthAsia.uk" tvg-url="https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml", BBC EARTH
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -309,7 +309,7 @@ https://liveanevia.mncnow.id/live/eds/NatGeoWild/sa_dash_vmx/NatGeoWild.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://liveanevia.mncnow.id/live/eds/BBCEarth-HD/sa_dash_vmx/BBCEarth-HD.mpd
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/512px-History_%282021%29.svg.png" group-title="Knowledge & Documentary" tvg-id="HistoryAsia.us" tvg-url="https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml", HISTORY CHANNEL
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/512px-History_%282021%29.svg.png" group-title="Knowledge & Documentary" tvg-id="HistoryAsia.us" tvg-url="https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml", HISTORY CHANNEL
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -317,7 +317,7 @@ https://liveanevia.mncnow.id/live/eds/BBCEarth-HD/sa_dash_vmx/BBCEarth-HD.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://liveanevia.mncnow.id/live/eds/History/sa_dash_vmx/History.mpd
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/512px-2019_Discovery_logo.svg.png" group-title="Knowledge & Documentary" tvg-id="DiscoveryChannelIndonesia.id" tvg-url="https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml", DISCOVERY CHANNEL
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/512px-2019_Discovery_logo.svg.png" group-title="Knowledge & Documentary" tvg-id="DiscoveryChannelIndonesia.id" tvg-url="https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml", DISCOVERY CHANNEL
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -325,7 +325,7 @@ https://liveanevia.mncnow.id/live/eds/History/sa_dash_vmx/History.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://liveanevia.mncnow.id/live/eds/Discovery/sa_dash_vmx/Discovery.mpd
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/512px-2018_Animal_Planet_logo.svg.png" group-title="Knowledge & Documentary" tvg-id="AnimalPlanetIndonesia.id" tvg-url="https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml", ANIMAL PLANET
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/512px-2018_Animal_Planet_logo.svg.png" group-title="Knowledge & Documentary" tvg-id="AnimalPlanetIndonesia.id" tvg-url="https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml", ANIMAL PLANET
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -333,7 +333,7 @@ https://liveanevia.mncnow.id/live/eds/Discovery/sa_dash_vmx/Discovery.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://liveanevia.mncnow.id/live/eds/AnimalPlanet/sa_dash_vmx/AnimalPlanet.mpd
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/CGTN_Documentary_logo.png" group-title="Knowledge & Documentary" tvg-id="CGTNDocumentary.cn" tvg-url="https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml", CGTN DOCUMENTARY
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/CGTN_Documentary_logo.png" group-title="Knowledge & Documentary" tvg-id="CGTNDocumentary.cn" tvg-url="https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml", CGTN DOCUMENTARY
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -341,7 +341,7 @@ https://liveanevia.mncnow.id/live/eds/AnimalPlanet/sa_dash_vmx/AnimalPlanet.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://liveanevia.mncnow.id/live/eds/CGTN_Doc/sa_dash_vmx/CGTN_Doc.mpd
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HHRrVkz.png" group-title="Knowledge & Documentary" tvg-id="CrimePlusInvestigationAsia.us" tvg-url="https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml", CRIME & INVESTIGATIONS
+#EXTINF:0 tvg-logo="https://i.imgur.com/HHRrVkz.png" group-title="Knowledge & Documentary" tvg-id="CrimePlusInvestigationAsia.us" tvg-url="https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml", CRIME & INVESTIGATIONS
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -353,7 +353,7 @@ https://liveanevia.mncnow.id/live/eds/CrimeInvestigation/sa_dash_vmx/CrimeInvest
 
 <================== LifeStyle ==========================>
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Asian_Food_Network.svg/512px-Asian_Food_Network.svg.png" group-title="Entertainment & Lifestyle" tvg-id="AsianFoodNetwork.sg" tvg-url="https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml", AFN
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Asian_Food_Network.svg/512px-Asian_Food_Network.svg.png" group-title="Entertainment & Lifestyle" tvg-id="AsianFoodNetwork.sg" tvg-url="https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml", AFN
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -361,7 +361,7 @@ https://liveanevia.mncnow.id/live/eds/CrimeInvestigation/sa_dash_vmx/CrimeInvest
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://liveanevia.mncnow.id/live/eds/AFN-HD/sa_dash_vmx/AFN-HD.mpd
 
-#EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch529_160_115" group-title="Entertainment & Lifestyle" tvg-id="HGTVAsia.us" tvg-url="https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml", HGTV
+#EXTINF:0 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch529_160_115" group-title="Entertainment & Lifestyle" tvg-id="HGTVAsia.us" tvg-url="https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml", HGTV
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -369,7 +369,7 @@ https://liveanevia.mncnow.id/live/eds/AFN-HD/sa_dash_vmx/AFN-HD.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://liveanevia.mncnow.id/live/eds/HGTV/sa_dash_vmx/HGTV.mpd
 
-#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_91.png" group-title="Entertainment & Lifestyle" tvg-id="Life.id"  tvg-url="https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml", LIFE
+#EXTINF:0 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_91.png" group-title="Entertainment & Lifestyle" tvg-id="Life.id"  tvg-url="https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml", LIFE
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -377,7 +377,7 @@ https://liveanevia.mncnow.id/live/eds/HGTV/sa_dash_vmx/HGTV.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://liveanevia.mncnow.id/live/eds/Life/sa_dash_vmx/Life.mpd
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/zFz2Cyb.png" group-title="Entertainment & Lifestyle" tvg-id="LifestyleFashion.id" tvg-url="https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml", LIFESTYLE & FASHION
+#EXTINF:0 tvg-logo="https://i.imgur.com/zFz2Cyb.png" group-title="Entertainment & Lifestyle" tvg-id="LifestyleFashion.id" tvg-url="https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml", LIFESTYLE & FASHION
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -385,7 +385,7 @@ https://liveanevia.mncnow.id/live/eds/Life/sa_dash_vmx/Life.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://liveanevia.mncnow.id/live/eds/LifeStyleFashion/sa_dash_vmx/LifeStyleFashion.mpd
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/512px-Logo_Lifetime_2020.svg.png" group-title="Entertainment & Lifestyle" tvg-id="LifetimeAsia.us" tvg-url="https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml", LIFETIME
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/512px-Logo_Lifetime_2020.svg.png" group-title="Entertainment & Lifestyle" tvg-id="LifetimeAsia.us" tvg-url="https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml", LIFETIME
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -393,7 +393,7 @@ https://liveanevia.mncnow.id/live/eds/LifeStyleFashion/sa_dash_vmx/LifeStyleFash
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://liveanevia.mncnow.id/live/eds/Lifetime/sa_dash_vmx/Lifetime.mpd
 
-#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_mncentertainment.png" group-title="Entertainment & Lifestyle" tvg-id="069" tvg-url="https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml", MNC ENTERTAINMENT
+#EXTINF:0 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_mncentertainment.png" group-title="Entertainment & Lifestyle" tvg-id="069" tvg-url="https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml", MNC ENTERTAINMENT
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -401,7 +401,7 @@ https://liveanevia.mncnow.id/live/eds/Lifetime/sa_dash_vmx/Lifetime.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://liveanevia.mncnow.id/live/eds/MNCEntertainment/sa_dash_vmx/MNCEntertainment.mpd
 
-#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_mncinfotainment.png" group-title="Entertainment & Lifestyle" tvg-id="070" tvg-url="https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml", MNC INFOTAINMENT
+#EXTINF:0 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_mncinfotainment.png" group-title="Entertainment & Lifestyle" tvg-id="070" tvg-url="https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml", MNC INFOTAINMENT
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -409,7 +409,7 @@ https://liveanevia.mncnow.id/live/eds/MNCEntertainment/sa_dash_vmx/MNCEntertainm
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://liveanevia.mncnow.id/live/eds/MNCInfotainment/sa_dash_vmx/MNCInfotainment.mpd
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/512px-TLC_Logo.svg.png" group-title="Entertainment & Lifestyle" tvg-id="TLCSoutheastAsia.us" tvg-url="https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml", TLC
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/512px-TLC_Logo.svg.png" group-title="Entertainment & Lifestyle" tvg-id="TLCSoutheastAsia.us" tvg-url="https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml", TLC
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -417,7 +417,7 @@ https://liveanevia.mncnow.id/live/eds/MNCInfotainment/sa_dash_vmx/MNCInfotainmen
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://liveanevia.mncnow.id/live/eds/TLC/sa_dash_vmx/TLC.mpd
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gyzI7aj.png" group-title="Entertainment & Lifestyle" tvg-id="VisionPrime.id" tvg-url="https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml", VISION PRIME
+#EXTINF:0 tvg-logo="https://i.imgur.com/gyzI7aj.png" group-title="Entertainment & Lifestyle" tvg-id="VisionPrime.id" tvg-url="https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml", VISION PRIME
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -428,7 +428,7 @@ https://liveanevia.mncnow.id/live/eds/VisionPrime/sa_dash_vmx/VisionPrime.mpd
 
 <============================== Kids ======================>
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Animaxlogo-20160701.png" group-title="Kids" tvg-id="AnimaxAsia.sg" tvg-url="https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml", ANIMAX
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Animaxlogo-20160701.png" group-title="Kids" tvg-id="AnimaxAsia.sg" tvg-url="https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml", ANIMAX
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -436,7 +436,7 @@ https://liveanevia.mncnow.id/live/eds/VisionPrime/sa_dash_vmx/VisionPrime.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://liveanevia.mncnow.id/live/eds/Animax/sa_dash_vmx/Animax.mpd
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/45/BabyTV.png" group-title="Kids" tvg-id="BabyTV.uk" tvg-url="https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml", BABY TV
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/45/BabyTV.png" group-title="Kids" tvg-id="BabyTV.uk" tvg-url="https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml", BABY TV
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -444,7 +444,7 @@ https://liveanevia.mncnow.id/live/eds/Animax/sa_dash_vmx/Animax.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://liveanevia.mncnow.id/live/eds/BabyTV-NewHD/sa_dash_vmx/BabyTV-NewHD.mpd
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/WxrOuuc.png" group-title="Kids" tvg-id="Besmart.id" tvg-url="https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml", BE SMART
+#EXTINF:0 tvg-logo="https://i.imgur.com/WxrOuuc.png" group-title="Kids" tvg-id="Besmart.id" tvg-url="https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml", BE SMART
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -452,7 +452,7 @@ https://liveanevia.mncnow.id/live/eds/BabyTV-NewHD/sa_dash_vmx/BabyTV-NewHD.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://liveanevia.mncnow.id/live/eds/BeSmart/sa_dash_vmx/BeSmart.mpd
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/512px-Boomerang_2014_logo.svg.png" group-title="Kids" tvg-id="BoomerangSoutheastAsia.us" tvg-url="https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml", BOOMERANG
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/512px-Boomerang_2014_logo.svg.png" group-title="Kids" tvg-id="BoomerangSoutheastAsia.us" tvg-url="https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml", BOOMERANG
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -460,14 +460,14 @@ https://liveanevia.mncnow.id/live/eds/BeSmart/sa_dash_vmx/BeSmart.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://liveanevia.mncnow.id/live/eds/Boomerang/sa_dash_vmx/Boomerang.mpd
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/512px-Cartoon_Network_2010_logo.svg.png" group-title="Kids" tvg-id="CartoonNetworkAsia.sg" tvg-url="https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml", CARTOON NETWORK HD
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/512px-Cartoon_Network_2010_logo.svg.png" group-title="Kids" tvg-id="CartoonNetworkAsia.sg" tvg-url="https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml", CARTOON NETWORK HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 https://liveanevia.mncnow.id/live/eds/CartoonNetwork/sa_dash_vmx/CartoonNetwork.mpd
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/CBeebies.png/512px-CBeebies.png" group-title="Kids" tvg-id="CBeebiesAsia.uk" tvg-url="https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml", CBEEBIES
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/CBeebies.png/512px-CBeebies.png" group-title="Kids" tvg-id="CBeebiesAsia.uk" tvg-url="https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml", CBEEBIES
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -475,7 +475,7 @@ https://liveanevia.mncnow.id/live/eds/CartoonNetwork/sa_dash_vmx/CartoonNetwork.
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://liveanevia.mncnow.id/live/eds/Cbeebies/sa_dash_vmx/Cbeebies.mpd
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XdhRaYM.png" group-title="Kids" tvg-id="KidsTV.id" tvg-url="https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml", KIDS CHANNEL
+#EXTINF:0 tvg-logo="https://i.imgur.com/XdhRaYM.png" group-title="Kids" tvg-id="KidsTV.id" tvg-url="https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml", KIDS CHANNEL
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -483,7 +483,7 @@ https://liveanevia.mncnow.id/live/eds/Cbeebies/sa_dash_vmx/Cbeebies.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://liveanevia.mncnow.id/live/eds/KidsChannel/sa_dash_vmx/KidsChannel.mpd
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/B5MAphH.png" group-title="Kids" tvg-id="MiaoMi.hk" tvg-url="https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml", MIAO MI
+#EXTINF:0 tvg-logo="https://i.imgur.com/B5MAphH.png" group-title="Kids" tvg-id="MiaoMi.hk" tvg-url="https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml", MIAO MI
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -491,7 +491,7 @@ https://liveanevia.mncnow.id/live/eds/KidsChannel/sa_dash_vmx/KidsChannel.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://liveanevia.mncnow.id/live/eds/MiaoMi/sa_dash_vmx/MiaoMi.mpd
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/512px-Nick_Jr._logo_2009.svg.png" group-title="Kids" tvg-id="NickJrAsia.sg" tvg-url="https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml", NICK JR HD
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/512px-Nick_Jr._logo_2009.svg.png" group-title="Kids" tvg-id="NickJrAsia.sg" tvg-url="https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml", NICK JR HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -499,7 +499,7 @@ https://liveanevia.mncnow.id/live/eds/MiaoMi/sa_dash_vmx/MiaoMi.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://liveanevia.mncnow.id/live/eds/NickJr-HDD/sa_dash_vmx/NickJr-HDD.mpd
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/512px-Nickelodeon_2009_logo.svg.png" group-title="Kids" tvg-id="NickelodeonAsia.sg" tvg-url="https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml", NICKELODEON
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/512px-Nickelodeon_2009_logo.svg.png" group-title="Kids" tvg-id="NickelodeonAsia.sg" tvg-url="https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml", NICKELODEON
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -509,23 +509,23 @@ https://liveanevia.mncnow.id/live/eds/Nickelodeon/sa_dash_vmx/Nickelodeon.mpd
 
 <======================== Sports ===================================>
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/o8zT78o.png" ,beIN Sports English 1
+#EXTINF:0 group-title="Sports" tvg-logo="https://i.imgur.com/o8zT78o.png" ,beIN Sports English 1
 https://webudi.openhd.lol/lb/premium61/index.m3u8?|referer=https://widevine.licenses4.me/&amp;User-agent=REDLINECLIENT
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/RJ17vOc.png" ,beIN Sports English 2
+#EXTINF:0 group-title="Sports" tvg-logo="https://i.imgur.com/RJ17vOc.png" ,beIN Sports English 2
 https://webudi.openhd.lol/lb/premium90/index.m3u8?|referer=https://widevine.licenses4.me/&amp;User-agent=REDLINECLIENT
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/sKFx2QF.png" ,beIN Sports English 3
+#EXTINF:0 group-title="Sports" tvg-logo="https://i.imgur.com/sKFx2QF.png" ,beIN Sports English 3
 https://webudi.openhd.lol/lb/premium46/index.m3u8?|referer=https://widevine.licenses4.me/&amp;User-agent=REDLINECLIENT
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/Logo_beIN_SPORTS_1.png" group-title="Sports"tvg-id="016" tvg-url="https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml", BEIN SPORTS 1 HD
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/Logo_beIN_SPORTS_1.png" group-title="Sports"tvg-id="016" tvg-url="https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml", BEIN SPORTS 1 HD
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://liveanevia.mncnow.id/live/eds/MrBein1/sa_dash_vmx/MrBein1.mpd
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e9/BeIN_Sports_3_HD.png" group-title="Sports" tvg-id="017" tvg-url="https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml", BEIN SPORTS 3
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e9/BeIN_Sports_3_HD.png" group-title="Sports" tvg-id="017" tvg-url="https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml", BEIN SPORTS 3
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -533,7 +533,7 @@ https://liveanevia.mncnow.id/live/eds/MrBein1/sa_dash_vmx/MrBein1.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://liveanevia.mncnow.id/live/eds/BeIN2s/sa_dash_vmx/BeIN2s.mpd
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/nV55veq.png" group-title="Sports" tvg-id="FightSports.us" tvg-url="https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml", FIGHT SPORT
+#EXTINF:0 tvg-logo="https://i.imgur.com/nV55veq.png" group-title="Sports" tvg-id="FightSports.us" tvg-url="https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml", FIGHT SPORT
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -541,7 +541,7 @@ https://liveanevia.mncnow.id/live/eds/BeIN2s/sa_dash_vmx/BeIN2s.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://liveanevia.mncnow.id/live/eds/FightSports/sa_dash_vmx/FightSports.mpd
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/IhDiaQa.png" group-title="Sports" tvg-id="MNCSports.id" tvg-url="https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml", MNC SPORTS 1
+#EXTINF:0 tvg-logo="https://i.imgur.com/IhDiaQa.png" group-title="Sports" tvg-id="MNCSports.id" tvg-url="https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml", MNC SPORTS 1
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -549,7 +549,7 @@ https://liveanevia.mncnow.id/live/eds/FightSports/sa_dash_vmx/FightSports.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://liveanevia.mncnow.id/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-HD.mpd
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eOeB5QS.png" group-title="Sports" tvg-id="MNCSports2.id" tvg-url="https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml", MNC SPORTS 2
+#EXTINF:0 tvg-logo="https://i.imgur.com/eOeB5QS.png" group-title="Sports" tvg-id="MNCSports2.id" tvg-url="https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml", MNC SPORTS 2
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -557,7 +557,7 @@ https://liveanevia.mncnow.id/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-HD.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://liveanevia.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd
 
-#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_99.png" group-title="Sports" tvg-id="MNCSports3.id" tvg-url="https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml", MNC SPORTS 3
+#EXTINF:0 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_99.png" group-title="Sports" tvg-id="MNCSports3.id" tvg-url="https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml", MNC SPORTS 3
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -565,7 +565,7 @@ https://liveanevia.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mp
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://liveanevia.mncnow.id/live/eds/Soccer-2/sa_dash_vmx/Soccer-2.mpd
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wuduAXD.png" group-title="Sports" tvg-id="SoccerChannel.id" tvg-url="https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml", SOCCER CHANNEL
+#EXTINF:0 tvg-logo="https://i.imgur.com/wuduAXD.png" group-title="Sports" tvg-id="SoccerChannel.id" tvg-url="https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml", SOCCER CHANNEL
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -573,7 +573,7 @@ https://liveanevia.mncnow.id/live/eds/Soccer-2/sa_dash_vmx/Soccer-2.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://liveanevia.mncnow.id/live/eds/soccerchannel-HD/sa_dash_vmx/soccerchannel-HD.mpd
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/df/SPO_TV_logo.png" group-title="Sports" tvg-id="SPOTV.kr" tvg-url="https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml", SPOTV
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/df/SPO_TV_logo.png" group-title="Sports" tvg-id="SPOTV.kr" tvg-url="https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml", SPOTV
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -581,7 +581,7 @@ https://liveanevia.mncnow.id/live/eds/soccerchannel-HD/sa_dash_vmx/soccerchannel
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://liveanevia.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/xeATohI.png" group-title="Sports" tvg-id="SPOTV2.kr" tvg-url="https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml", SPOTV 2
+#EXTINF:0 tvg-logo="https://i.imgur.com/xeATohI.png" group-title="Sports" tvg-id="SPOTV2.kr" tvg-url="https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml", SPOTV 2
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -591,7 +591,7 @@ https://liveanevia.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
 
 <======= NEWS =========>
 
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/52_144.png" group-title="NEWS" tvg-id="ABCAustraliaAsia.au" tvg-url="https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml", ABC AUSTRALIA
+#EXTINF:0 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/52_144.png" group-title="NEWS" tvg-id="ABCAustraliaAsia.au" tvg-url="https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml", ABC AUSTRALIA
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -599,7 +599,7 @@ https://liveanevia.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://liveanevia.mncnow.id/live/eds/AustraliaPlus/sa_dash_vmx/AustraliaPlus.mpd
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Aljazeera_eng.svg/512px-Aljazeera_eng.svg.png" group-title="NEWS" tvg-id="AlJazeeraEnglish.qa" tvg-url="https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml", AL JAZEERA
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Aljazeera_eng.svg/512px-Aljazeera_eng.svg.png" group-title="NEWS" tvg-id="AlJazeeraEnglish.qa" tvg-url="https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml", AL JAZEERA
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -607,7 +607,7 @@ https://liveanevia.mncnow.id/live/eds/AustraliaPlus/sa_dash_vmx/AustraliaPlus.mp
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://liveanevia.mncnow.id/live/eds/AlJazeeraInternational/sa_dash_vmx/AlJazeeraInternational.mpd
 
-#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_anhuitv.png" group-title="NEWS" tvg-id="005" tvg-url="https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml", AN HUI TV
+#EXTINF:0 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_anhuitv.png" group-title="NEWS" tvg-id="005" tvg-url="https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml", AN HUI TV
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -615,7 +615,7 @@ https://liveanevia.mncnow.id/live/eds/AlJazeeraInternational/sa_dash_vmx/AlJazee
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://liveanevia.mncnow.id/live/eds/AnhuiTV/sa_dash_vmx/AnhuiTV.mpd
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5Aoithj.png" group-title="NEWS" tvg-id="ArirangWorld.kr" tvg-url="https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml", ARIRANG
+#EXTINF:0 tvg-logo="https://i.imgur.com/5Aoithj.png" group-title="NEWS" tvg-id="ArirangWorld.kr" tvg-url="https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml", ARIRANG
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -623,7 +623,7 @@ https://liveanevia.mncnow.id/live/eds/AnhuiTV/sa_dash_vmx/AnhuiTV.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://liveanevia.mncnow.id/live/eds/Arirang/sa_dash_vmx/Arirang.mpd
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/BBC_World_News_2019.svg/512px-BBC_World_News_2019.svg.png" group-title="NEWS" tvg-id="BBCWorldNewsAsiaPacific.uk" tvg-url="https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml", BBC WORLD NEWS
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/BBC_World_News_2019.svg/512px-BBC_World_News_2019.svg.png" group-title="NEWS" tvg-id="BBCWorldNewsAsiaPacific.uk" tvg-url="https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml", BBC WORLD NEWS
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -631,7 +631,7 @@ https://liveanevia.mncnow.id/live/eds/Arirang/sa_dash_vmx/Arirang.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://liveanevia.mncnow.id/live/eds/BBCWorldNews/sa_dash_vmx/BBCWorldNews.mpd
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/7f/BeritaSatu_%28Indonesian_news_channel%29.png/512px-BeritaSatu_%28Indonesian_news_channel%29.png" group-title="NEWS" tvg-id="BeritaSatu.id" tvg-url="https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml", BERITA SATU
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/7f/BeritaSatu_%28Indonesian_news_channel%29.png/512px-BeritaSatu_%28Indonesian_news_channel%29.png" group-title="NEWS" tvg-id="BeritaSatu.id" tvg-url="https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml", BERITA SATU
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -639,7 +639,7 @@ https://liveanevia.mncnow.id/live/eds/BBCWorldNews/sa_dash_vmx/BBCWorldNews.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://liveanevia.mncnow.id/live/eds/BeritaSatu/sa_dash_vmx/BeritaSatu.mpd
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/Bloomberg_Television_2016.png" group-title="NEWS" tvg-id="BloombergTVAsiaPacific.hk" tvg-url="https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml", BLOOMBERG
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/Bloomberg_Television_2016.png" group-title="NEWS" tvg-id="BloombergTVAsiaPacific.hk" tvg-url="https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml", BLOOMBERG
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -647,7 +647,7 @@ https://liveanevia.mncnow.id/live/eds/BeritaSatu/sa_dash_vmx/BeritaSatu.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://liveanevia.mncnow.id/live/eds/Bloomberg/sa_dash_vmx/Bloomberg.mpd
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/512px-CGTN.svg.png" group-title="NEWS" tvg-id="CGTN.cn" tvg-url="https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml", CGTN
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/512px-CGTN.svg.png" group-title="NEWS" tvg-id="CGTN.cn" tvg-url="https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml", CGTN
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -655,7 +655,7 @@ https://liveanevia.mncnow.id/live/eds/Bloomberg/sa_dash_vmx/Bloomberg.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://liveanevia.mncnow.id/live/eds/CGTN/sa_dash_vmx/CGTN.mpd
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/CNA_new_logo.svg/512px-CNA_new_logo.svg.png" group-title="NEWS" tvg-id="CNA.sg" tvg-url="https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml", CNA
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/CNA_new_logo.svg/512px-CNA_new_logo.svg.png" group-title="NEWS" tvg-id="CNA.sg" tvg-url="https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml", CNA
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -663,7 +663,7 @@ https://liveanevia.mncnow.id/live/eds/CGTN/sa_dash_vmx/CGTN.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://liveanevia.mncnow.id/live/eds/ChannelNewsAsia/sa_dash_vmx/ChannelNewsAsia.mpd
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Mn8Rsup.png" group-title="NEWS" tvg-id="CNBCAsia.sg" tvg-url="https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml", CNBC ASIA
+#EXTINF:0 tvg-logo="https://i.imgur.com/Mn8Rsup.png" group-title="NEWS" tvg-id="CNBCAsia.sg" tvg-url="https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml", CNBC ASIA
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -671,7 +671,7 @@ https://liveanevia.mncnow.id/live/eds/ChannelNewsAsia/sa_dash_vmx/ChannelNewsAsi
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://liveanevia.mncnow.id/live/eds/CNBC/sa_dash_vmx/CNBC.mpd
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/CNN_International_logo.svg/512px-CNN_International_logo.svg.png" group-title="NEWS" tvg-id="CNNInternationalAsiaPacific.hk" tvg-url="https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml", CNN INTERNATIONAL
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/CNN_International_logo.svg/512px-CNN_International_logo.svg.png" group-title="NEWS" tvg-id="CNNInternationalAsiaPacific.hk" tvg-url="https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml", CNN INTERNATIONAL
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -679,7 +679,7 @@ https://liveanevia.mncnow.id/live/eds/CNBC/sa_dash_vmx/CNBC.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://liveanevia.mncnow.id/live/eds/CNNInternational/sa_dash_vmx/CNNInternational.mpd
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/A1xzjOI.png" group-title="NEWS" tvg-id="DWEnglish.de" tvg-url="https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml", DW
+#EXTINF:0 tvg-logo="https://i.imgur.com/A1xzjOI.png" group-title="NEWS" tvg-id="DWEnglish.de" tvg-url="https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml", DW
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -687,7 +687,7 @@ https://liveanevia.mncnow.id/live/eds/CNNInternational/sa_dash_vmx/CNNInternatio
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://liveanevia.mncnow.id/live/eds/DW/sa_dash_vmx/DW.mpd
 
-#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_euronews.png" group-title="NEWS" tvg-id="037" tvg-url="https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml", EURO NEWS
+#EXTINF:0 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_euronews.png" group-title="NEWS" tvg-id="037" tvg-url="https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml", EURO NEWS
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -695,7 +695,7 @@ https://liveanevia.mncnow.id/live/eds/DW/sa_dash_vmx/DW.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://liveanevia.mncnow.id/live/eds/EuroNews/sa_dash_vmx/EuroNews.mpd
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/512px-Fox_News_Channel_logo.svg.png" group-title="NEWS" tvg-id="FoxNewsChannel.us" tvg-url="https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml", FOX NEWS
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/512px-Fox_News_Channel_logo.svg.png" group-title="NEWS" tvg-id="FoxNewsChannel.us" tvg-url="https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml", FOX NEWS
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -703,7 +703,7 @@ https://liveanevia.mncnow.id/live/eds/EuroNews/sa_dash_vmx/EuroNews.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://liveanevia.mncnow.id/live/eds/FoxNews/sa_dash_vmx/FoxNews.mpd
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/France24.png" group-title="NEWS" tvg-id="France24English.fr" tvg-url="https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml", FRANCE 24
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/France24.png" group-title="NEWS" tvg-id="France24English.fr" tvg-url="https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml", FRANCE 24
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -711,7 +711,7 @@ https://liveanevia.mncnow.id/live/eds/FoxNews/sa_dash_vmx/FoxNews.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://liveanevia.mncnow.id/live/eds/France24/sa_dash_vmx/France24.mpd
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/xPvrcsr.png" group-title="NEWS" tvg-id="IDXChannel.id" tvg-url="https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml", IDX CHANNEL
+#EXTINF:0 tvg-logo="https://i.imgur.com/xPvrcsr.png" group-title="NEWS" tvg-id="IDXChannel.id" tvg-url="https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml", IDX CHANNEL
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -719,7 +719,7 @@ https://liveanevia.mncnow.id/live/eds/France24/sa_dash_vmx/France24.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://liveanevia.mncnow.id/live/eds/IDX/sa_dash_vmx/IDX.mpd
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/INews.png/512px-INews.png" group-title="NEWS" tvg-id="INews.id" tvg-url="https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml", INEWS
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/INews.png/512px-INews.png" group-title="NEWS" tvg-id="INews.id" tvg-url="https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml", INEWS
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -727,7 +727,7 @@ https://liveanevia.mncnow.id/live/eds/IDX/sa_dash_vmx/IDX.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://liveanevia.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/LUHw740.png" group-title="NEWS" tvg-id="MNCNews.id" tvg-url="https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml", MNC NEWS HD
+#EXTINF:0 tvg-logo="https://i.imgur.com/LUHw740.png" group-title="NEWS" tvg-id="MNCNews.id" tvg-url="https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml", MNC NEWS HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -735,7 +735,7 @@ https://liveanevia.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://liveanevia.mncnow.id/live/eds/MNCnews-HDD/sa_dash_vmx/MNCnews-HDD.mpd
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/NHK_World-Japan_TV.svg/512px-NHK_World-Japan_TV.svg.png" group-title="NEWS" tvg-id="NHKWorldJapan.jp" tvg-url="https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml", NHK WORLD JAPAN
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/NHK_World-Japan_TV.svg/512px-NHK_World-Japan_TV.svg.png" group-title="NEWS" tvg-id="NHKWorldJapan.jp" tvg-url="https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml", NHK WORLD JAPAN
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -743,7 +743,7 @@ https://liveanevia.mncnow.id/live/eds/MNCnews-HDD/sa_dash_vmx/MNCnews-HDD.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://liveanevia.mncnow.id/live/eds/NHKWorldTV/sa_dash_vmx/NHKWorldTV.mpd
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Logo_NHK_World_Premium.jpg/512px-Logo_NHK_World_Premium.jpg" group-title="NEWS" tvg-id="NHKWorldPremium.jp" tvg-url="https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml", NHK WORLD PREMIUM
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Logo_NHK_World_Premium.jpg/512px-Logo_NHK_World_Premium.jpg" group-title="NEWS" tvg-id="NHKWorldPremium.jp" tvg-url="https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml", NHK WORLD PREMIUM
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -751,7 +751,7 @@ https://liveanevia.mncnow.id/live/eds/NHKWorldTV/sa_dash_vmx/NHKWorldTV.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://liveanevia.mncnow.id/live/eds/NHKWorldPremium/sa_dash_vmx/NHKWorldPremium.mpd
 
-#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_rtenglish_hd.png" group-title="NEWS" tvg-id="091" tvg-url="https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml", RT ENGLISH HD
+#EXTINF:0 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_rtenglish_hd.png" group-title="NEWS" tvg-id="091" tvg-url="https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml", RT ENGLISH HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -759,7 +759,7 @@ https://liveanevia.mncnow.id/live/eds/NHKWorldPremium/sa_dash_vmx/NHKWorldPremiu
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://liveanevia.mncnow.id/live/eds/RTEnglish/sa_dash_vmx/RTEnglish.mpd
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/SEA_Today_Indonesia_Logo.png/512px-SEA_Today_Indonesia_Logo.png" group-title="NEWS" tvg-id="SEAToday.id" tvg-url="https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml", SEA TODAY
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/SEA_Today_Indonesia_Logo.png/512px-SEA_Today_Indonesia_Logo.png" group-title="NEWS" tvg-id="SEAToday.id" tvg-url="https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml", SEA TODAY
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -767,7 +767,7 @@ https://liveanevia.mncnow.id/live/eds/RTEnglish/sa_dash_vmx/RTEnglish.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://liveanevia.mncnow.id/live/eds/SEA-Channel/sa_dash_vmx/SEA-Channel.mpd
 
-#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_trtworld.png" group-title="NEWS" tvg-id="103" tvg-url="https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml", TRT WORLD
+#EXTINF:0 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_trtworld.png" group-title="NEWS" tvg-id="103" tvg-url="https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml", TRT WORLD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -775,7 +775,7 @@ https://liveanevia.mncnow.id/live/eds/SEA-Channel/sa_dash_vmx/SEA-Channel.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://liveanevia.mncnow.id/live/eds/TRTWorld/sa_dash_vmx/TRTWorld.mpd
 
-#EXTINF:-1 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_tv5monde.png" group-title="NEWS" tvg-id="107" tvg-url="https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml", TV5 MONDE
+#EXTINF:0 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_tv5monde.png" group-title="NEWS" tvg-id="107" tvg-url="https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml", TV5 MONDE
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -822,7 +822,7 @@ http://103.255.15.222:1935/tv/jitv/playlist.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=607b7d22565c4bc3b95ff6c33ce65425&key=28cc5367df666c44be4382e64af64d57
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTINF:-1 group-title="Singapore" tvg-id="997" tvg-chno="997" tvg-logo="https://raw.githubusercontent.com/chin8205/iptv/master/logos/channel-5.png",Channel 5 
+#EXTINF:0 group-title="Singapore" tvg-id="997" tvg-chno="997" tvg-logo="https://raw.githubusercontent.com/chin8205/iptv/master/logos/channel-5.png",Channel 5 
 https://tglmp02.akamaized.net/out/v1/5081e069e08140c9b95f89a1659cf4dd/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -830,10 +830,10 @@ https://tglmp02.akamaized.net/out/v1/5081e069e08140c9b95f89a1659cf4dd/manifest.m
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=2448fc561b0c4220a81f1008971d3088&key=f48eb6753f3d1774da682970c93cf260
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTINF:-1 group-title="Singapore" tvg-id="998" tvg-chno="998" tvg-logo="https://raw.githubusercontent.com/chin8205/iptv/master/logos/channel-8.png",Channel 8
+#EXTINF:0 group-title="Singapore" tvg-id="998" tvg-chno="998" tvg-logo="https://raw.githubusercontent.com/chin8205/iptv/master/logos/channel-8.png",Channel 8
 https://tglmp02.akamaized.net/out/v1/4f6561ad194b49ae93f4e1b075afdf41/manifest.mpd
 
-#EXTINF:-1 tvg-id="CNA" group-title="Singapore" tvg-logo=https://raw.githubusercontent.com/chin8205/iptv/master/logos/channel-newsasia.png",Channel NewsAsia 
+#EXTINF:0 tvg-id="CNA" group-title="Singapore" tvg-logo=https://raw.githubusercontent.com/chin8205/iptv/master/logos/channel-newsasia.png",Channel NewsAsia 
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -841,7 +841,7 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=7a9ea6df52044841b0c562766e602610&key=b9380188b4896b25e8d419dfce938c6e
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTINF:-1 group-title="Singapore" tvg-id="1000" tvg-chno="1000" tvg-logo="https://raw.githubusercontent.com/chin8205/iptv/master/logos/suria.png",Suria
+#EXTINF:0 group-title="Singapore" tvg-id="1000" tvg-chno="1000" tvg-logo="https://raw.githubusercontent.com/chin8205/iptv/master/logos/suria.png",Suria
 https://tglmp04.akamaized.net/out/v1/b200e885125f4787bd2329952ff28fa1/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -849,7 +849,7 @@ https://tglmp04.akamaized.net/out/v1/b200e885125f4787bd2329952ff28fa1/manifest.m
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=9970038ef6c548e39768f3a1ff6f5081&key=3e19d54b7bcd8bb336776fe136d48f57
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTINF:-1 group-title="Singapore" tvg-id="1001" tvg-chno="1001" tvg-logo="https://raw.githubusercontent.com/chin8205/iptv/master/logos/vasantham.png",Vasantham
+#EXTINF:0 group-title="Singapore" tvg-id="1001" tvg-chno="1001" tvg-logo="https://raw.githubusercontent.com/chin8205/iptv/master/logos/vasantham.png",Vasantham
 https://tglmp03.akamaized.net/out/v1/14eb6e921cae41298efaa4d9db0f2875/manifest.mpd
 
 <======================= TVRI =======================>
