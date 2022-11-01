@@ -5,9 +5,32 @@
 
 #EXTM3U
 
+<====================Knowledge Trial ============================>
+
+#EXTINF:0 tvg-logo="https://www.useetv.com/assets/images/channel/logo_natgeo_small.png?v=2.0.0.13"  group-title="Trial Server", NATIONAL GEOGRAPHIC
+http://iptvid.my.id/hmm/natgeo.m3u8
+
+#EXTINF:0 tvg-logo="https://www.useetv.com/assets/images/channel/logo_natgeowild_small.png?v=2.0.0.13"  group-title="Trial Server", NAT GEO WILD
+http://iptvid.my.id/hmm/ngwild.m3u8
+
+#EXTINF:0 tvg-logo="https://www.useetv.com/assets/images/channel/logo_discovery_small.png?v=2.0.0.13"  group-title="Trial Server", DISCOVERY CHANNEL
+http://iptvid.my.id/hmm/dsc.m3u8
+
+#EXTINF:0 tvg-logo="https://www.useetv.com/assets/images/channel/logo_history_small.png?v=2.0.0.13"  group-title="Trial Server", HISTORY
+http://iptvid.my.id/hmm/history.m3u8
+
+#EXTINF:0 tvg-logo="https://www.useetv.com/assets/images/channel/logo_crimeinvestigation_small.png"  group-title="Trial Server",CRIME INVESTIGATION
+http://iptvid.my.id/hmm/crime.m3u8
+
+#EXTINF:0 tvg-logo="https://www.useetv.com/assets/images/channel/logo_hgtv_small.png"  group-title="Trial Server",HGTV
+http://iptvid.my.id/hmm/hgtv.m3u8
+
+
+
+
+
 #EXTINF: -1 tvg-logo="https://i.ibb.co/SXV88k2/rcti.png" group-title="LOCAL ", RCTI
-http://54.151.201.145:5566/GG/Live/RcTi/mpegts
-http://203.77.246.50:5000/udp/239.1.3.80:5000
+http://iptvid.my.id/hmm/rcti.m3u8
 
 #EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_antv_small1.png" group-title="Trial Server", ANTV
 http://iptvid.my.id/hmm/antv.m3u8
@@ -93,7 +116,6 @@ http://iptvid.my.id/hmm/boomerang.m3u8
 http://iptvid.my.id/hmm/davinci.m3u8
 
 
-
 #EXTINF:0 tvg-logo="https://images.useetv.com/logo_warner_small.png?v=2.0.0.13"  group-title="Trial Server"", WARNER 
 http://iptvid.my.id/hmm/wrnr.m3u8
 
@@ -103,24 +125,6 @@ http://iptvid.my.id/hmm/indikids.m3u8
 #EXTINF:0 tvg-logo="https://images.useetv.com/logo_cgtndocumentary_big1.png?v=2.0.0.13"  group-title="Trial Server", CGTN DOCUMENTARY
 http://iptvid.my.id/hmm/cgtndoc.m3u8
 
-#EXTINF:0 tvg-logo="https://www.useetv.com/assets/images/channel/logo_natgeo_small.png?v=2.0.0.13"  group-title="Trial Server", NATIONAL GEOGRAPHIC
-http://iptvid.my.id/hmm/natgeo.m3u8
-
-
-#EXTINF:0 tvg-logo="https://www.useetv.com/assets/images/channel/logo_natgeowild_small.png?v=2.0.0.13"  group-title="Trial Server", NAT GEO WILD
-http://iptvid.my.id/hmm/ngwild.m3u8
-
-#EXTINF:0 tvg-logo="https://www.useetv.com/assets/images/channel/logo_discovery_small.png?v=2.0.0.13"  group-title="Trial Server", DISCOVERY CHANNEL
-http://iptvid.my.id/hmm/dsc.m3u8
-
-#EXTINF:0 tvg-logo="https://www.useetv.com/assets/images/channel/logo_history_small.png?v=2.0.0.13"  group-title="Trial Server", HISTORY
-http://iptvid.my.id/hmm/history.m3u8
-
-#EXTINF:0 tvg-logo="https://www.useetv.com/assets/images/channel/logo_crimeinvestigation_small.png"  group-title="Trial Server",CRIME INVESTIGATION
-http://iptvid.my.id/hmm/crime.m3u8
-
-#EXTINF:0 tvg-logo="https://www.useetv.com/assets/images/channel/logo_hgtv_small.png"  group-title="Trial Server",HGTV
-http://iptvid.my.id/hmm/hgtv.m3u8
 
 #EXTINF:0  group-title="Trial Server",AniPlus HD
 http://rr1.dens.tv/h/h02/index.m3u8
