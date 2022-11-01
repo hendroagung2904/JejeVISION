@@ -1,5 +1,305 @@
 ﻿#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml"
 
+
+<=============================== TRIAL CHANNEL ===================================>
+
+#EXTM3U
+
+#EXTINF: -1 tvg-logo="https://i.ibb.co/SXV88k2/rcti.png" group-title="LOCAL ", RCTI
+http://54.151.201.145:5566/GG/Live/RcTi/mpegts
+http://203.77.246.50:5000/udp/239.1.3.80:5000
+
+#EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_antv_small1.png" group-title="Trial Server", ANTV
+http://iptvid.my.id/hmm/antv.m3u8
+
+
+#EXTINF: -1 tvg-logo="https://www.useetv.com/pimages/logo_indosiar_small1.png?v=2.0.0.15" group-title="Trial Server", INDOSIAR
+http://iptvid.my.id/hmm/indosiar.m3u8
+
+#EXTINF:0tvg-logo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg" group-title="Trial Server",GTV
+http://stream.semerutv.link:7780/freebies/EOti98qsWH/19
+
+EXTINF:-1tvg-logo="https://i.postimg.cc/x8N2V4N1/20200410-231601.jpg" group-title="Trial Server",SCTV
+http://stream.semerutv.link:7780/freebies/EOti98qsWH/1
+
+EXTINF: -1 tvg-logo="https://www.useetv.com/pimages/logo_indosiar_small1.png?v=2.0.0.15" group-title="Trial Server", INDOSIAR
+http://iptvid.my.id/hmm/indosiar.m3u8
+
+#EXTINF: -1 tvg-logo="https://www.useetv.com/pimages/logo_transtv_small1.png?v=2.0.0.13" group-title="Trial Server", TRANS TV
+http://iptvid.my.id/hmm/transtv.m3u8
+
+#EXTINF: -1 tvg-logo="https://www.useetv.com/pimages/logo_trans7_small1.png?v=2.0.0.13" group-title="Trial Server", TRANS7
+http://iptvid.my.id/hmm/trans7.m3u8
+
+#EXTINF: -1 tvg-logo="https://www.useetv.com/pimages/logo_net_small1.png?v=2.0.0.13" group-title="Trial Server", NET HD
+http://iptvid.my.id/hmm/net.m3u8 
+
+#EXTINF: -1 tvg-logo="https://www.useetv.com/pimages/logo_rtv_small1.png?v=2.0.0.13" group-title="Trial Server", RTV
+http://iptvid.my.id/hmm/rtv.m3u8
+
+#EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvone_small1.png" group-title="Trial Server", TVONE
+http://iptvid.my.id/hmm/tvone.m3u8
+
+#EXTINF: -1 tvg-logo="https://images.useetv.com/logo_dunialain_small.png?v=2.0.0.13" group-title="Trial Server", DUNIA LAIN
+http://iptvid.my.id/hmm/dnln.m3u8
+
+#EXTINF: -1 tvg-logo="https://images.useetv.com/logo_bioskopindonesia_small1.png?v=2.0.0.13" group-title="Trial Server", BIOSKOP INDONESIA
+http://iptvid.my.id/hmm/biosid.m3u8
+
+#EXTINF: -1 tvg-logo="https://www.useetv.com/pimages/logo_metrotv_small1.png?v=2.0.0.13" group-title="Trial Server", METRO TV
+http://iptvid.my.id/hmm/metrotv.m3u8
+
+#EXTINF: -1 tvg-logo="https://www.useetv.com/pimages/logo_kompastv_small.png?v=2.0.0.13" group-title="Trial Server", KOMPAS TV
+http://iptvid.my.id/hmm/kompastv.m3u8
+
+
+#EXTINF:0 tvg-logo="https://images.useetv.com/logo_useephoto_big.png?v=2.0.0.13" group-title="Trial Server", USEEPHOTO
+http://iptvid.my.id/hmm/useephoto.m3u8
+
+#EXTINF:0 tvg-logo="https://images.useetv.com/logo_useeprime_big1.png?v=2.0.0.13" group-title="Trial Server", USEEPRIME 
+http://iptvid.my.id/hmm/useeprime.m3u8 
+
+#EXTINF:0 tvg-logo="https://images.useetv.com/logo_rri_big1.png?v=2.0.0.13" group-title="Trial Server", RRI NET
+http://iptvid.my.id/hmm/rrinet.m3u8
+
+#EXTINF:0 tvg-logo="https://images.useetv.com/logo_tvedukasi_big1.png?v=2.0.0.13" group-title="Trial Server", TV EDUKASI
+http://iptvid.my.id/hmm/tvedukasi.m3u8
+
+#EXTINF:0 tvg-logo="https://images.useetv.com/logo_nusantaratv_big.png?v=1.1" group-title="Trial Server", NUSANTARA TV
+http://iptvid.my.id/hmm/nusantaratv.m3u8
+
+#EXTINF:0 tvg-logo="https://images.useetv.com/logo_antara_big1.png?v=2.0.0.13" group-title="Trial Server", ANTARA
+http://iptvid.my.id/hmm/antara.m3u8
+
+#EXTINF:0 tvg-logo="https://images.useetv.com/logo_balitv_big1.png?v=2.0.0.13" group-title="Trial Server", BALI TV
+http://iptvid.my.id/hmm/balitv.m3u8
+
+#EXTINF:0 tvg-logo="https://images.useetv.com/logo_jaktv_big1.png?v=2.0.0.13" group-title="Trial Server", JAK TV
+http://iptvid.my.id/hmm/jaktv.m3u8
+
+#EXTINF:0 tvg-logo="https://i.postimg.cc/Px500TzG/Biznet-Kids.jpg"  group-title="Trial Server"", BIZNET KIDS
+http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/chunklist_w417362857_b2256000_slen_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1xQXJpMU0yeHVfTUFsbkh3VlJ0T3MyNGxSOFlfSFNEaWpOMkNSTmdoaWZVbGxoWXFRU0Rsa2QwcUU4Q2tad3hD.m3u8
+
+#EXTINF:0 tvg-logo="https://www.useetv.com/assets/images/channel/logo_nickjr_small.png"  group-title="Trial Server"", NICK JUNIOR 
+http://iptvid.my.id/hmm/nickjr.m3u8
+
+#EXTINF:0 tvg-logo="https://www.useetv.com/assets/images/channel/logo_babyfirst_small.png"  group-title="Trial Server"", BABY FIRST
+http://iptvid.my.id/hmm/babyfirst.m3u8
+
+#EXTINF:0 tvg-logo="https://www.useetv.com/assets/images/channel/logo_boomerang_small.png"  group-title="Trial Server"", BOOMERANG
+http://iptvid.my.id/hmm/boomerang.m3u8 
+
+#EXTINF:0 tvg-logo="https://i.ibb.co/5jHf5qq/davinci.png"  group-title="Trial Server"", DAVINCI
+http://iptvid.my.id/hmm/davinci.m3u8
+
+
+
+#EXTINF:0 tvg-logo="https://images.useetv.com/logo_warner_small.png?v=2.0.0.13"  group-title="Trial Server"", WARNER 
+http://iptvid.my.id/hmm/wrnr.m3u8
+
+#EXTINF:0 tvg-logo="https://images.useetv.com/logo_indikids_small.png"  group-title="Trial Server"", INDIKIDS 
+http://iptvid.my.id/hmm/indikids.m3u8
+
+#EXTINF:0 tvg-logo="https://images.useetv.com/logo_cgtndocumentary_big1.png?v=2.0.0.13"  group-title="Trial Server", CGTN DOCUMENTARY
+http://iptvid.my.id/hmm/cgtndoc.m3u8
+
+#EXTINF:0 tvg-logo="https://www.useetv.com/assets/images/channel/logo_natgeo_small.png?v=2.0.0.13"  group-title="Trial Server", NATIONAL GEOGRAPHIC
+http://iptvid.my.id/hmm/natgeo.m3u8
+
+
+#EXTINF:0 tvg-logo="https://www.useetv.com/assets/images/channel/logo_natgeowild_small.png?v=2.0.0.13"  group-title="Trial Server", NAT GEO WILD
+http://iptvid.my.id/hmm/ngwild.m3u8
+
+#EXTINF:0 tvg-logo="https://www.useetv.com/assets/images/channel/logo_discovery_small.png?v=2.0.0.13"  group-title="Trial Server", DISCOVERY CHANNEL
+http://iptvid.my.id/hmm/dsc.m3u8
+
+#EXTINF:0 tvg-logo="https://www.useetv.com/assets/images/channel/logo_history_small.png?v=2.0.0.13"  group-title="Trial Server", HISTORY
+http://iptvid.my.id/hmm/history.m3u8
+
+#EXTINF:0 tvg-logo="https://www.useetv.com/assets/images/channel/logo_crimeinvestigation_small.png"  group-title="Trial Server",CRIME INVESTIGATION
+http://iptvid.my.id/hmm/crime.m3u8
+
+#EXTINF:0 tvg-logo="https://www.useetv.com/assets/images/channel/logo_hgtv_small.png"  group-title="Trial Server",HGTV
+http://iptvid.my.id/hmm/hgtv.m3u8
+
+#EXTINF:0  group-title="Trial Server",AniPlus HD
+http://rr1.dens.tv/h/h02/index.m3u8
+
+#EXTINF:0  group-title="Trial Server",ANTV
+http://rr2.dens.tv/s/s07/index.m3u8
+
+#EXTINF:0  group-title="Trial Server",Celestial Classic Movies
+http://rr2.dens.tv/s/s31/index.m3u8
+
+#EXTINF:0  group-title="Trial Server",Celestial Movies Indonesia
+http://rr1.dens.tv/h/h14/index.m3u8
+
+#EXTINF:0  group-title="Trial Server",CinemaWorld
+http://rr1.dens.tv/h/h04/index.m3u8
+
+#EXTINF:0  group-title="Trial Server",Fight Sports
+http://rr1.dens.tv/h/h05/index.m3u8
+
+#EXTINF:0  group-title="Trial Server",RTV
+http://rr1.dens.tv/h/h10/index.m3u8
+
+#EXTINF:0  group-title="Trial Server",HITS
+http://rr1.dens.tv/h/h37/index.m3u8
+
+#EXTINF:0  group-title="Trial Server",Indosiar
+http://rr2.dens.tv/s/s04/index.m3u8
+
+#EXTINF:0  group-title="Trial Server",JTV
+http://rr3.dens.tv/s/s91/index.m3u8
+
+#EXTINF:0  group-title="Trial Server",KIX
+http://rr1.dens.tv/h/h07/index.m3u8
+
+#EXTINF:0  group-title="Trial Server",Kompas TV
+http://rr2.dens.tv/s/s104/index.m3u8
+
+#EXTINF:0  group-title="Trial Server",Kplus
+http://rr.dens.tv/h/h08/index.m3u8
+
+#EXTINF:0  group-title="Trial Server",Metro TV
+http://rr.dens.tv/h/h12/index.m3u8
+
+#EXTINF:0  group-title="Trial Server",Motorvision
+http://rr.dens.tv/h/h09/index.m3u8
+
+#EXTINF:0  group-title="Trial Server",NET
+http://rr2.dens.tv/s/s08/index.m3u8
+
+#EXTINF:0  group-title="Trial Server",NHK World Japan
+http://rr.dens.tv/h/h23/index.m3u8
+
+#EXTINF:0  group-title="Trial Server",U Channel
+http://rr3.dens.tv/s/s73/index2.m3u8
+
+#EXTINF:0  group-title="Trial Server",Rock Entertainment
+http://rr1.dens.tv/h/h16/index.m3u8
+
+#EXTINF:0  group-title="Trial Server",Rock Extreme
+http://rr1.dens.tv/h/h15/index.m3u8
+
+#EXTINF:0  group-title="Trial Server",RTP International Asia
+http://rr2.dens.tv/s/s38/index.m3u8
+
+#EXTINF:0  group-title="Trial Server",SCTV
+http://rr2.dens.tv/s/s03/index.m3u8
+
+#EXTINF:0  group-title="Trial Server",Thrill
+http://rr2.dens.tv/s/s34/index.m3u8
+
+#EXTINF:0  group-title="Trial Server",Toonmax TV
+http://rr2.dens.tv/s/s50/index.m3u8
+
+#EXTINF:0  group-title="Trial Server",TRT World
+http://rr.dens.tv/h/h156/index2.m3u8
+
+#EXTINF:0  group-title="Trial Server",TVN Movies Indonesia
+http://rr1.dens.tv/h/h21/index.m3u8
+
+#EXTINF:0  group-title="Trial Server",TVN Premium Indonesia
+http://rr1.dens.tv/h/h20/index.m3u8
+
+#EXTINF:0  group-title="Trial Server",TVOne
+http://rr2.dens.tv/s/s105/index.m3u8
+
+#EXTINF:0  group-title="Trial Server",TVRI Nasional
+http://rr2.dens.tv/s/s11/index.m3u8
+
+#EXTINF:0  group-title="Trial Server",O Channel
+http://rr2.dens.tv/s/s41/index.m3u8
+
+#EXTINF:0  group-title="Trial Server",Zee Bioskop
+http://rr2.dens.tv/s/s32/index.m3u8
+
+#EXTINF:0 tvg-logo="https://images.useetv.com/logo_daaitv_big1.png?v=2.0.0.13" group-title="Trial Server",DAAI TV
+http://iptvid.my.id/hmm/daaitv.m3u8
+
+#EXTINF:0  group-title="Trial Server", AFN
+http://stream.semerutv.link:7780/freebies/EOti98qsWH/31
+
+#EXTINF:0  group-title="Trial Server",CNN Indonesia
+http://stream.semerutv.link:7780/freebies/EOti98qsWH/22
+
+#EXTINF:0  group-title="Trial Server",Discovery Channel
+http://stream.semerutv.link:7780/freebies/EOti98qsWH/29
+
+#EXTINF:0  group-title="Trial Server",GTV
+http://stream.semerutv.link:7780/freebies/EOti98qsWH/19
+
+#EXTINF:0 group-title="Trial Server"", Horee
+http://stream.semerutv.link:7780/freebies/EOti98qsWH/43
+
+#EXTINF:0 group-title="Trial Server", Kompas TV
+http://stream.semerutv.link:7780/freebies/EOti98qsWH/12
+
+#EXTINF:0 group-title="Trial Server", MetroTV
+http://stream.semerutv.link:7780/freebies/EOti98qsWH/11
+
+#EXTINF:0  group-title="Trial Server",NET.
+http://stream.semerutv.link:7780/freebies/EOti98qsWH/3
+
+#EXTINF:0  group-title="Trial Server"",Nickelodeon
+http://stream.semerutv.link:7780/freebies/EOti98qsWH/38
+
+#EXTINF:0  group-title="Trial Server",ONE TV Asia
+http://stream.semerutv.link:7780/freebies/EOti98qsWH/55
+
+#EXTINF:0  group-title="Trial Server",Rock Entertainment
+http://stream.semerutv.link:7780/freebies/EOti98qsWH/61
+
+#EXTINF:0  group-title="Trial Server",Rock Extreme
+http://stream.semerutv.link:7780/freebies/EOti98qsWH/60
+
+#EXTINF:0  group-title="Trial Server",RTV
+http://stream.semerutv.link:7780/freebies/EOti98qsWH/8
+
+#EXTINF:0  group-title="Trial Server",SCTV
+http://stream.semerutv.link:7780/freebies/EOti98qsWH/1
+
+#EXTINF:0  group-title="Trial Server", Trans TV
+http://stream.semerutv.link:7780/freebies/EOti98qsWH/15
+
+#EXTINF:0 group-title="Trial Server", Trans7
+http://stream.semerutv.link:7780/freebies/EOti98qsWH/14
+
+#EXTINF:0  group-title="Trial Server",tvN Movies
+http://stream.semerutv.link:7780/freebies/EOti98qsWH/70
+
+
+#EXTINF: -1 tvg-logo="https://images.useetv.com/logo_nba_small1.png?v=2.0.0.13"  group-title="Trial Server", NBA
+http://iptvid.my.id/hmm/nba.m3u8
+
+#EXTINF: -1 tvg-logo="https://images.useetv.com/logo_new-horizonsport_small.png"  group-title="Trial Server", HORISON SPORTS
+http://iptvid.my.id/hmm/horisonsport.m3u8
+
+#EXTINF:0 tvg-logo="https://www.useetv.com/assets/images/channel/logo_useesport_small.png"  group-title="Trial Server", USEESPORTS 1
+http://iptvid.my.id/hmm/useetl1.m3u8 
+
+#EXTINF:0 tvg-logo="https://www.useetv.com/assets/images/channel/logo_useesports2_small.png"  group-title="Trial Server", USEESPORTS 2
+http://iptvid.my.id/hmm/useetl2.m3u8
+
+#EXTINF:0 tvg-logo="https://i.ibb.co/xYG7zh2/champ1.png"  group-title="Trial Server", CHAMPION TV 1
+http://tv.zonanime.my.id/vidio/championstv1.m3u8
+
+#EXTINF:0 tvg-logo="https://i.ibb.co/Kwy7jLp/champ2.png"  group-title="Trial Server", CHAMPION TV 2
+http://tv.zonanime.my.id/vidio/championstv2.m3u8
+
+
+#EXTINF: -1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_bein3_small1.png?v=2.0.0.13"  group-title="Trial Server", BEIN SPORTS 3
+http://iptvid.my.id/hmm/bskunyak2.m3u8
+http://iptvtree.net:8080/ace2524d/15a571c413/101
+
+#EXTINF: -1 tvg-logo="https://images.useetv.com/logo_spotv_small.png"  group-title="Trial Server", SPOTV
+http://iptvid.my.id/hmm/spotv.m3u8
+
+#EXTINF: -1 tvg-logo="https://images.useetv.com/logo_spotv2_small.png"  group-title="Trial Server", SPOTV 2
+http://iptvid.my.id/hmm/spotv2.m3u8
+
+
 <==============================Indonesia Channel ============================>
 
 #EXTINF:0 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_antv.png" group-title="Indonesia Channel" tvg-id="ANTV.id" tvg-url="https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml", ANTV
