@@ -137,6 +137,9 @@ https://k.ksa.my.id/ksa.m3u8?a=11c29c48146372ad4d14&b=204991a99793a98926d2&c=8f5
 #EXTINF:-1 group-title="Indonesia Channels" tvg-logo="https://www.useetv.com/assets/images/channel/logo_nusantaratv_small.png?v=1.1",Nusantara TV
 https://nusantaratv.siar.us/nusantaratv/live/chunks.m3u8
 
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/1200px-Moji_blue.svg.png"  group-title="Indonesia Channels",Moji TV HD
+http://iptvid.my.id/hmm/ochannel.m3u8
+
 #EXTINF:-1 group-title="Indonesia Channels" tvg-logo="https://i.imgur.com/s3HCVrO.png",Garuda TV
 https://ms.digdaya.tv/live/digdayatv/chunklist.m3u8
 
@@ -324,6 +327,7 @@ https://live-cdn.mncnow.id/live/eds/ZeeBIOSKOP/sa_dash_vmx/ZeeBIOSKOP.mpd
 http://210.210.155.37/qwr9ew/s/s32/index.m3u8
 
 <=========== Documentary and Knowledge ==================>
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 group-title="Knowledge & Documentary" tvg-logo="https://www.useetv.com/pimages/logo_natgeo_big.png?v=1",National Geographic
