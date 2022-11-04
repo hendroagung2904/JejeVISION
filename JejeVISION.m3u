@@ -172,6 +172,10 @@ https://live-cdn.mncnow.id/live/eds/HBOFamily2/sa_dash_vmx/HBOFamily2.mpd
 #EXTINF:0 group-title="Movies" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch114_160_115",HBO Signature HD
 https://live-cdn.mncnow.id/live/eds/HBOSignature2/sa_dash_vmx/HBOSignature2.mpd
 
+
+#EXTINF:0 tvg-logo="https://w7.pngwing.com/pngs/55/793/png-transparent-paramount-network-television-show-roku-television-channel-others-television-blue-logo-thumbnail.png" group-title="Movies",Paramount Network
+http://iptvid.my.id/hmm/paramount.m3u8
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTINF:0 tvg-id="CinemaxAsia.sg" group-title="Movies" tvg-logo="https://static.epg.best/ph/Cinemax.ph.png",CINEMAX HD
