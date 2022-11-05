@@ -611,8 +611,16 @@ http://103.22.181.150:8095/nbatv/mpegts
 #EXTINF:-1 tvg-logo="https://www.neeo.es/wp-content/uploads/2021/03/dazn-f1.jpg" group-title="Sports",DAZN F1
 https://webudi.openhd.lol/lb/premium537/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/lTnKDju.png" ,Eurosport 2 UK
-https://webudi.openhd.lol/lb/premium42/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gwV31E0.png" group-title="Sports",Eurosport 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+http://109.105.205.250:8081/live/EUROSPORT1/playlist.m3u8
+https://webudi.openhd.lol/lb/premium524/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lTnKDju.png" group-title="Sports",Eurosport 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+https://mn-nl.mncdn.com/blutv_eurosport2/eurosport2_hd.smil/playlist.m3u8
+https://webudi.openhd.lol/lb/premium525/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/tPxIkmd.png" ,Premier Sports 1
 https://webudi.openhd.lol/lb/premium451/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
