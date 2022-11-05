@@ -603,18 +603,10 @@ https://webudi.openhd.lol/lb/premium90/index.m3u8?|referer=https://widevine.lice
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/sKFx2QF.png" ,beIN Sports English 3
 https://webudi.openhd.lol/lb/premium46/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 
-
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/7dg7EB7.png" ,BT Sport 1
-https://webudi.openhd.lol/lb/premium31/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
-
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/sIIFREX.png" ,BT Sport 2
-https://webudi.openhd.lol/lb/premium32/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
-
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/8IzsrMb.png" ,BT Sport 3
-https://webudi.openhd.lol/lb/premium33/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
-
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/gwV31E0.png" ,Eurosport 1 UK
-https://webudi.openhd.lol/lb/premium41/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+#EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/800px-NBA_TV.svg.png" ,NBA TV
+#EXTVLCOPT:http-user-agent=YoVideo/1.7 (Linux;Android 11) ExoPlayerLib/2.1.1
+https://cdn.googlecdnforstreaming.live/dbf789/nba/playlist.m3u8
+http://103.22.181.150:8095/nbatv/mpegts
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/lTnKDju.png" ,Eurosport 2 UK
 https://webudi.openhd.lol/lb/premium42/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
@@ -627,9 +619,6 @@ https://webudi.openhd.lol/lb/premium550/index.m3u8?|referer=https://widevine.lic
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/eZwExGu.png" ,Sky Sports Arena
 https://webudi.openhd.lol/lb/premium36/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
-
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/J8zzS2v.png" ,Sky Sports Cricket
-https://webudi.openhd.lol/lb/premium65/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/2kPW5qw.png" ,Sky Sports F1
 https://webudi.openhd.lol/lb/premium60/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
