@@ -1,7 +1,7 @@
 ﻿#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/id.xml"
 
 <=========================TIMNAS ======================================>
-#EXTINF:-1 group-title="TIMNAS" tvg-logo="https://bit.ly/3h0LcSR",2.Indonesia U20 vs Moldova U20 (19:30 WIB)
+#EXTINF:-1 group-title="Indonesia Channels" tvg-logo="https://bit.ly/3h0LcSR",ANTV (Live Match)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://stream-03.sg1.dailymotion.com/sec(sdVP4ky6sYlWE27qaDlbfBEFQd3s4DJnJPO96iZciLrMF4wZyAx5B5kGliRbp3Sh)/dm/3/x8chy4s/s/live-3.m3u8#cell=lsg1
 
