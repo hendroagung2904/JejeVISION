@@ -101,8 +101,8 @@ https://live-cdn.mncnow.id/live/eds/NetTV-HD/sa_dash_vmx/NetTV-HD.mpd
 #EXTINF:0 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_antv.png" group-title="Indonesia Channels" tvg-id="008" tvg-name="008-ANTV", ANTV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-<==https://live-cdn.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
-https://iptv.lancartech.co.id:443/play/l85Ox8jXw_29d6e7hYGDgqi5mfDY9yV6AjjlITlX-LK8bMX_NhY1Isl-g9-5Zf5D
+https://live-cdn.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
+
 
 #EXTINF:0 tvg-logo="https://github.com/RizkyWebID/IPTV-Streaming/raw/main/imagecache/logo_rtv.png" group-title="Indonesia Channels" tvg-id="092" tvg-name="092-RTV", RTV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
