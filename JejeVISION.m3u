@@ -1,9 +1,39 @@
 ﻿#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/id.xml"
 
-<=========================TIMNAS ======================================>
-<=====#EXTINF:-1 group-title="Indonesia Channels" tvg-logo="https://bit.ly/3h0LcSR",ANTV (Live Match)
-<=====#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-<=====https://stream-03.sg1.dailymotion.com/sec(sdVP4ky6sYlWE27qaDlbfBEFQd3s4DJnJPO96iZciLrMF4wZyAx5B5kGliRbp3Sh)/dm/3/x8chy4s/s/live-3.m3u8#cell=lsg1
+<=========================World CUP 2022 Channels ======================================>
+#EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_12r2"
+#EXTINF:0 xui-id="53222" tvg-id="811" tvg-name="Astro Super Sport 1" tvg-logo="https://iptv.lancartech.co.id:443/images/ce3c6f4098a88251fe7d8d3d60a544eb.png" group-title="WorldCup 2022 Channel",Astro Super Sport 1
+https://iptv.lancartech.co.id:443/play/l85Ox8jXw_29d6e7hYGDgqi5mfDY9yV6AjjlITlX-LLWjzKm5yXkc6lb1znU-Pc0
+#EXTINF:0 xui-id="53223" tvg-id="812" tvg-name="Astro Super Sport 2" tvg-logo="https://iptv.lancartech.co.id:443/images/a071056319cedd46e3e2ee3dbea1089c.png" group-title="WorldCup 2022 Channel",Astro Super Sport 2
+https://iptv.lancartech.co.id:443/play/l85Ox8jXw_29d6e7hYGDgqi5mfDY9yV6AjjlITlX-LJ-ahqKVLk47LaHICVTLhRa
+#EXTINF:0 xui-id="53224" tvg-id="813" tvg-name="Astro Super Sport 3" tvg-logo="https://iptv.lancartech.co.id:443/images/4e4598a34197ddcbb33b33471e07a30f.png" group-title="WorldCup 2022 Channel",Astro Super Sport 3
+https://iptv.lancartech.co.id:443/play/l85Ox8jXw_29d6e7hYGDgqi5mfDY9yV6AjjlITlX-LK2LttHzrQkT6NrtJgOqnRO
+#EXTINF:0 xui-id="53225" tvg-id="814" tvg-name="Astro Super Sport 4" tvg-logo="https://iptv.lancartech.co.id:443/images/c024e2c0573bd0e4ef0af5cd9b45a6f1.png" group-title="WorldCup 2022 Channel",Astro Super Sport 4
+https://iptv.lancartech.co.id:443/play/l85Ox8jXw_29d6e7hYGDgqi5mfDY9yV6AjjlITlX-LLuB7XLyv7289WnO0IuXQlG
+#EXTINF:0 xui-id="89977" tvg-id="815" tvg-name="Astro Super Sport 5" tvg-logo="https://iptv.lancartech.co.id:443/images/1a08bb9378fb821f52114b12c6f61dca.png" group-title="WorldCup 2022 Channel",Astro Super Sport 5
+https://iptv.lancartech.co.id:443/play/l85Ox8jXw_29d6e7hYGDgqi5mfDY9yV6AjjlITlX-LIHk84s-vAzVewZ_-GFFrin
+#EXTINF:0 xui-id="133632" tvg-id="" tvg-name="World Cup 1" tvg-logo="" group-title="WorldCup 2022 Channel",World Cup 1
+https://iptv.lancartech.co.id:443/play/l85Ox8jXw_29d6e7hYGDgqi5mfDY9yV6AjjlITlX-LLH-Ty5cQCyYw8MD_imKNs6
+#EXTINF:0 xui-id="133633" tvg-id="" tvg-name="World Cup 2" tvg-logo="" group-title="WorldCup 2022 Channel",World Cup 2
+https://iptv.lancartech.co.id:443/play/l85Ox8jXw_29d6e7hYGDgqi5mfDY9yV6AjjlITlX-LI7EKVXgLJBjwlD8Ps8EuYD
+#EXTINF:0 xui-id="133634" tvg-id="" tvg-name="World Cup 3" tvg-logo="" group-title="WorldCup 2022 Channel",World Cup 3
+https://iptv.lancartech.co.id:443/play/l85Ox8jXw_29d6e7hYGDgqi5mfDY9yV6AjjlITlX-LLUSxWqGPwTBDovl95dAFj-
+#EXTINF:0 xui-id="133635" tvg-id="" tvg-name="World Cup 4" tvg-logo="" group-title="WorldCup 2022 Channel",World Cup 4
+https://iptv.lancartech.co.id:443/play/l85Ox8jXw_29d6e7hYGDgqi5mfDY9yV6AjjlITlX-LLpVnEsgkvLvbsWpAejsedj
+#EXTINF:0 xui-id="133645" tvg-id="" tvg-name="World Cup 5" tvg-logo="" group-title="WorldCup 2022 Channel",World Cup 5
+https://iptv.lancartech.co.id:443/play/l85Ox8jXw_29d6e7hYGDgqi5mfDY9yV6AjjlITlX-LI6Jwpu9baemqq2Q6EEjGT1
+#EXTINF:0 xui-id="133646" tvg-id="" tvg-name="World Cup 6" tvg-logo="" group-title="WorldCup 2022 Channel",World Cup 6
+https://iptv.lancartech.co.id:443/play/l85Ox8jXw_29d6e7hYGDgqi5mfDY9yV6AjjlITlX-LLQfW4HLQg6GGzVzvOHFEJB
+#EXTINF:0 xui-id="133647" tvg-id="" tvg-name="World Cup 7" tvg-logo="" group-title="WorldCup 2022 Channel",World Cup 7
+https://iptv.lancartech.co.id:443/play/l85Ox8jXw_29d6e7hYGDgqi5mfDY9yV6AjjlITlX-LKXYTugYeYvfSDS0lrjAEqh
+#EXTINF:0 xui-id="133626" tvg-id="" tvg-name="World Cup Backup 1" tvg-logo="" group-title="WorldCup 2022 Channel",World Cup Backup 1
+https://iptv.lancartech.co.id:443/play/l85Ox8jXw_29d6e7hYGDgqi5mfDY9yV6AjjlITlX-LICNhbfDL9jcxdM9TK1q7z7
+#EXTINF:0 xui-id="133628" tvg-id="" tvg-name="World Cup Backup 2" tvg-logo="" group-title="WorldCup 2022 Channel",World Cup Backup 2
+https://iptv.lancartech.co.id:443/play/l85Ox8jXw_29d6e7hYGDgqi5mfDY9yV6AjjlITlX-LKVHUDOaYGAxhvLgyskbAmL
+#EXTINF:0 xui-id="133629" tvg-id="" tvg-name="World Cup Backup 3" tvg-logo="" group-title="WorldCup 2022 Channel",World Cup Backup 3
+https://iptv.lancartech.co.id:443/play/l85Ox8jXw_29d6e7hYGDgqi5mfDY9yV6AjjlITlX-LL1nt58U4WDlN5uGQVPzgq1
+
+
 
 
 <==============================Indonesia Channel ============================>
