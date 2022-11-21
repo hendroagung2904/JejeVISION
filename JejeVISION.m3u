@@ -1,7 +1,6 @@
 ﻿#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/id.xml"
 
 <=========================World CUP 2022 Channels ======================================>
-#EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_12r2"
 
 #EXTINF:0 xui-id="53222" tvg-id="811" tvg-name="Astro Super Sport 1" tvg-logo="https://iptv.lancartech.co.id:443/images/ce3c6f4098a88251fe7d8d3d60a544eb.png" group-title="WorldCup 2022 Channel",Astro Super Sport 1
 https://iptv.lancartech.co.id:443/play/l85Ox8jXw_29d6e7hYGDgqi5mfDY9yV6AjjlITlX-LLWjzKm5yXkc6lb1znU-Pc0
