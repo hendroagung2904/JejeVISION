@@ -77,52 +77,6 @@ https://av-live-cdn.mncnow.id/live/eds/BeritaSatu/sa_dash_vmx/BeritaSatu.mpd
 #EXTINF:-1 group-title="Local Channels" tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0",MNC News
 https://av-live-cdn.mncnow.id/live/eds/MNCnews-HDD/sa_dash_vmx/MNCnews-HDD.mpd
 
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0" group-title="Local Channels",RCTI
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://rcti-linier.rctiplus.id/RCTI2022-avc1_6673200=7-mp4a_96000=2.m3u8
-
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0" group-title="Local Channels",GTV
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://d322b885qvsbxg.cloudfront.net/GTV2021.m3u8
-
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0" group-title="Local Channels",MNC TV
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://d33j155pv2xyba.cloudfront.net/MNCTV_2021.m3u8
-
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0" group-title="Local Channels",iNews
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://d2hfpzcndkyscp.cloudfront.net/INEWS_2021.m3u8
-
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0" group-title="Local Channels", TRANS7
-https://video.detik.com/trans7/smil:trans7.smil/chunklist_shareExt_b744100_sleng.m3u8
-
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0" group-title="Local Channels", TRANS TV
-https://video.detik.com/transtv/smil:transtv.smil/chunklist_kamiselaluada_b744100_sleng.m3u8
-
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0" group-title="Local Channels",Indosiar
-http://rr2.dens.tv/s/s04/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0" group-title="Local Channels",NET
-http://rr2.dens.tv/s/s08/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0" group-title="Local Channels",SCTV
-http://rr2.dens.tv/s/s03/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0" group-title="Local Channels", tvone
-http://rr2.dens.tv/s/s105/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0" group-title="Local Channels",TVRI Nasional
-http://rr2.dens.tv/s/s11/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0" group-title="Local Channels",Kompas TV
-http://rr2.dens.tv/s/s104/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0" group-title="Local Channels",Metro TV
-http://rr.dens.tv/h/h12/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0" group-title="Local Channels",ANTV
-http://rr2.dens.tv/s/s07/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/aokkyof0wlytng3/IMG_20220609_102318.jpg?dl=0" group-title="Local Channels", Moji
 http://210.210.155.35/qwr9ew/s/s41/01.m3u8
 
