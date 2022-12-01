@@ -1,4 +1,94 @@
 ﻿#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/id.xml"
+ 
+ 
+ 
+ <======================== World Cup ===================================>
+ 
+ #EXTINF:-1 group-title="WORLD CUP" tvg-logo="https://png.pngtree.com/png-clipart/20220924/original/pngtree-fifa-world-cup-qatar-2022-design-png-image_8630371.png",Channel 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+https://nvzoftzsvflivcf.vcdn.com.vn/vtv2/index.m3u8
+
+#EXTINF:-1 group-title="WORLD CUP" tvg-logo="https://png.pngtree.com/png-clipart/20220924/original/pngtree-fifa-world-cup-qatar-2022-design-png-image_8630371.png",Channel 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SM-A307GN Build/RP1A.200720.012; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/107.0.5304.91 Mobile Safari/537.36
+https://d3awnlgqz0szay.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index.m3u8
+
+#EXTINF:-1 group-title="WORLD CUP" tvg-logo="https://png.pngtree.com/png-clipart/20220924/original/pngtree-fifa-world-cup-qatar-2022-design-png-image_8630371.png",Channel 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+https://raw.githubusercontent.com/krismrp123/beinmax/main/1-360.m3u8
+
+#EXTINF:-1 group-title="WORLD CUP" tvg-logo="https://png.pngtree.com/png-clipart/20220924/original/pngtree-fifa-world-cup-qatar-2022-design-png-image_8630371.png",Channel 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+http://171.238.181.52:18080/192.m3u8
+
+#EXTINF:-1 group-title="WORLD CUP" tvg-logo="https://png.pngtree.com/png-clipart/20220924/original/pngtree-fifa-world-cup-qatar-2022-design-png-image_8630371.png",Channel 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+https://cdn.raino.xyz/hls/stream2.m3u8|referer=https://bdnewszh.com/
+
+#EXTINF:-1 group-title="WORLD CUP" tvg-logo="https://png.pngtree.com/png-clipart/20220924/original/pngtree-fifa-world-cup-qatar-2022-design-png-image_8630371.png",Channel 6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+https://nvzoftzsvflivcf.vcdn.com.vn/vtv5/index.m3u8
+
+#EXTINF:-1 group-title="WORLD CUP" tvg-logo="https://png.pngtree.com/png-clipart/20220924/original/pngtree-fifa-world-cup-qatar-2022-design-png-image_8630371.png",Channel 7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd
+
+#EXTINF:-1 group-title="WORLD CUP" tvg-logo="https://png.pngtree.com/png-clipart/20220924/original/pngtree-fifa-world-cup-qatar-2022-design-png-image_8630371.png",Channel 8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=MzcwM2FjMDQtY2UxOS0zMDk3LTkzMTYtZWM2MWM5NmI5NTYw
+https://live1-ott.izzigo.tv/out/u/dash/TUDN-HD/default.mpd
+
+#EXTINF:-1 group-title="WORLD CUP" tvg-logo="https://png.pngtree.com/png-clipart/20220924/original/pngtree-fifa-world-cup-qatar-2022-design-png-image_8630371.png",Channel 9
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SM-A307GN Build/RP1A.200720.012; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/107.0.5304.91 Mobile Safari/537.36
+https://raw.githubusercontent.com/krismrp123/beinmax/main/2-360.m3u8
+
+#EXTINF:-1 group-title="WORLD CUP" tvg-logo="https://png.pngtree.com/png-clipart/20220924/original/pngtree-fifa-world-cup-qatar-2022-design-png-image_8630371.png",Channel 10
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+https://cdn.raino.xyz/hls/stream1.m3u8|referer=https://bdnewszh.com/
+
+#EXTINF:-1 group-title="WORLD CUP" tvg-logo="https://png.pngtree.com/png-clipart/20220924/original/pngtree-fifa-world-cup-qatar-2022-design-png-image_8630371.png",Channel 11
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+https://nvzoftzsvflivcf.vcdn.com.vn/vtv3/index.m3u8
+
+#EXTINF:-1 group-title="WORLD CUP" tvg-logo="https://png.pngtree.com/png-clipart/20220924/original/pngtree-fifa-world-cup-qatar-2022-design-png-image_8630371.png",Channel 12
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+https://d3awnlgqz0szay.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index.m3u8
+
+#EXTINF:-1 group-title="WORLD CUP" tvg-logo="https://png.pngtree.com/png-clipart/20220924/original/pngtree-fifa-world-cup-qatar-2022-design-png-image_8630371.png",Channel 13
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+http://streamer11.xploretv.si//__cl/cg:prod/__c/A1_SI_ZDF_ott/__op/dash-default/__dci/A1_SI_MICOCOMI_ott/__f/manifest.m3u8
+
+#EXTINF:-1 group-title="WORLD CUP" tvg-logo="https://png.pngtree.com/png-clipart/20220924/original/pngtree-fifa-world-cup-qatar-2022-design-png-image_8630371.png",Channel 14
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SM-A307GN Build/RP1A.200720.012; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/107.0.5304.91 Mobile Safari/537.36
+https://raw.githubusercontent.com/krismrp123/beinmax/main/2-360.m3u8
+
+#EXTINF:-1 group-title="WORLD CUP" tvg-logo="https://png.pngtree.com/png-clipart/20220924/original/pngtree-fifa-world-cup-qatar-2022-design-png-image_8630371.png",Channel 15
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+https://cdn.raino.xyz/hls/stream2.m3u8|referer=https://bdnewszh.com/
+
+#EXTINF:-1 group-title="WORLD CUP" tvg-logo="https://png.pngtree.com/png-clipart/20220924/original/pngtree-fifa-world-cup-qatar-2022-design-png-image_8630371.png",Channel 16
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+https://nvzoftzsvflivcf.vcdn.com.vn/vtv2/index.m3u8
+
+#EXTINF:-1 group-title="WORLD CUP" tvg-logo="https://png.pngtree.com/png-clipart/20220924/original/pngtree-fifa-world-cup-qatar-2022-design-png-image_8630371.png",Channel 17
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=MzcwM2FjMDQtY2UxOS0zMDk3LTkzMTYtZWM2MWM5NmI5NTYw
+https://live1-ott.izzigo.tv/out/u/dash/TUDN-HD/default.mpd
+
+#EXTINF:-1 group-title="WORLD CUP" tvg-logo="https://png.pngtree.com/png-clipart/20220924/original/pngtree-fifa-world-cup-qatar-2022-design-png-image_8630371.png",Channel 18
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+https://raw.githubusercontent.com/krismrp123/beinmax/main/1-360.m3u8
+
+#EXTINF:-1 group-title="WORLD CUP" tvg-logo="https://png.pngtree.com/png-clipart/20220924/original/pngtree-fifa-world-cup-qatar-2022-design-png-image_8630371.png",Channel 19
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SM-A307GN Build/RP1A.200720.012; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/107.0.5304.91 Mobile Safari/537.36
+http://171.238.181.52:18080/192.m3u8
+
+#EXTINF:-1 group-title="WORLD CUP" tvg-logo="https://png.pngtree.com/png-clipart/20220924/original/pngtree-fifa-world-cup-qatar-2022-design-png-image_8630371.png",Channel 20
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+https://cdn.raino.xyz/hls/stream1.m3u8|referer=https://bdnewszh.com/
+
+
 
 <==================== Local Channels ================>
 
