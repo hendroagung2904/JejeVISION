@@ -958,3 +958,121 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=1385&livestream=1&live=1&a
 #EXTINF:-1 group-title="Music" tvg-logo="", Stingray Hit List
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1388&livestream=1&live=1&app_bundle=com.plexapp.android&did=62274240-07e7-5d94-8dc8-ef68cf19e175&app_domain=app.plex.tv&app_name=plex&h=&w=&custom4=plex&gdpr=0&device_make=&device_model=&coppa=1&us_privacy=1---&custom_6=Xuew2uGdQ_xypyxEMpTm&custom_7=61aaa014784a2161d3caf7fd&is_lat=0
 
+
+<======================================= RADIO ===========================================>
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bGvJ6py.png" group-title="RADIO",Hitz FM
+https://raw.githubusercontent.com/AqFad2811/RadioYTLive/main/Hitz.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/w9WCFqr.png" group-title="RADIO",Hot FM
+https://raw.githubusercontent.com/AqFad2811/RadioYTLive/main/HotFM.m3u8
+
+#EXTINF:-1 tvg-logo="http://choos.wap.sh/images/radio/7004.jpg" group-title="RADIO",Prambors
+https://playerservices.streamtheworld.com/api/livestream-redirect/PRAMBORS_FM.mp3?dist=onlineradiobox
+
+#EXTINF:-1 tvg-logo="http://choos.wap.sh/images/radio/7184.jpg" group-title="RADIO",Ardan FM
+http://listento.ardanradio.com:1059/;
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/u09ERA9.png" group-title="RADIO",Phoenix Radio Bali
+https://live.phoenixradiobali.com:8250/phoenixradio
+
+#EXTINF:-1 tvg-logo="http://choos.wap.sh/images/radio/7188.jpg" group-title="RADIO",MGTRADIO
+http://stream.radbdg.net:8000/mgtradio.mp3
+
+#EXTINF:-1 tvg-logo="http://choos.wap.sh/images/radio/7166.jpg" group-title="RADIO",Elshinta FM
+https://stream-ssl.arenastreaming.com:8000/jakarta
+
+#EXTINF:-1 tvg-logo="http://choos.wap.sh/images/radio/7057.jpg" group-title="RADIO",I Radio
+http://stream.radiojar.com/4ywdgup3bnzuv
+
+#EXTINF:-1 tvg-logo="http://choos.wap.sh/images/radio/7055.jpg" group-title="RADIO",Trax FM
+https://n11.radiojar.com:443/rrqf78p3bnzuv.mp3?1613798267=&rj-tok=AAABd73ok20AEvV31cQDN-_2tg&rj-ttl=5
+
+#EXTINF:-1 tvg-logo="http://choos.wap.sh/images/radio/7056.jpg" group-title="RADIO",Cosmopolitan FM
+http://n02.radiojar.com/u7d8heq3bnzuv
+
+#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/8/19108.v6.png" group-title="RADIO",V RADIO
+http://202.147.199.100:8000/;stream.nsv
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VDOHWd0.png" group-title="RADIO",Hitz FM
+https://s2.radio.co/s6929cb202/listen
+
+#EXTINF:-1 tvg-logo="http://choos.wap.sh/images/radio/7054.jpg" group-title="RADIO",Brava FM
+http://n07.radiojar.com/5k7t0rq3bnzuv.mp3?1613997585=&rj-tok=AAABd8nJ38EAguSD-Yi56JrhPA&rj-ttl=5
+
+#EXTINF:-1 tvg-logo="http://choos.wap.sh/images/radio/7053.jpg" group-title="RADIO",Hard Rock FM
+http://n09.radiojar.com/7csmg90fuqruv.mp3?1619243440=&rj-tok=AAABeQJ3Ru4AgeQosVWIZQa5rg&rj-ttl=5
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vOliZ6Z.png" group-title="RADIO",Hard Rock FM
+http://stream.radiojar.com/fnex9bkswk8uv
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MmFTrZK.png" group-title="RADIO",Hard Rock FM Surabaya
+http://stream.radiojar.com/yg8ne2v80k8uv
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BwULFUI.png" group-title="RADIO",Hard Rock FM Bali
+http://stream.radiojar.com/9k28wsbu5k8uv
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L8w4lBH.jpg" group-title="RADIO",Heartline Bali
+http://202.129.186.43:7028/stream
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L8w4lBH.jpg" group-title="RADIO",Heartline Jakarta
+https://svara-stream.radioddns.net:8443/karawaci_heartline_stereo?ver=635710
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dpADolC.png" group-title="RADIO",MNC Trijaya FM Jakarta
+http://202.147.199.101:8000/;
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Crxg4DR.png" group-title="RADIO",Motion Radio Jakarta
+https://streamingv2.shoutcast.com/motion-jakarta
+
+#EXTINF:-1 tvg-logo="http://choos.wap.sh/images/radio/7130.jpg" group-title="RADIO",Female FM
+http://onlineradiobox.com/json/id/female/play
+
+#EXTINF:-1 tvg-logo="http://choos.wap.sh/images/radio/7092.jpg" group-title="RADIO",Delta FM
+http://live.masima.cloud:9002/deltafm
+
+#EXTINF:-1 tvg-logo="http://choos.wap.sh/images/radio/7091.jpg" group-title="RADIO",Bahana FM
+http://stream.bahanafm.co.id:8100/;
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Xs4j9YI.png" group-title="RADIO",EBS FM
+http://streaming.suzanafm.com:8100/;stream.nsv
+
+#EXTINF:-1 tvg-logo="http://choos.wap.sh/images/radio/7169.jpg" group-title="RADIO",Elgangga FM
+http://onlineradiobox.com/json/id/sushi/play
+
+#EXTINF:-1 tvg-logo="http://choos.wap.sh/images/radio/7216.jpg" group-title="RADIO",Geronimo FM
+http://live2.indostreamserver.com:8018/;
+
+#EXTINF:-1 tvg-logo="http://choos.wap.sh/images/radio/7284.jpg" group-title="RADIO",Gajah Mada FM
+https://server.radioimeldafm.co.id/radio/8020/gajahmadafm
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zj6og3B.png" group-title="RADIO",OZ Radio Jakarta
+https://s3.vinhostmedia.com:10995/;stream/1
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/0cbwjhiv843lila/Gen_FM.png?dl=1" group-title="RADIO",Gen FM
+http://103.246.184.62:1935/noice_genfm/genfm/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/0cbwjhiv843lila/Gen_FM.png?dl=1" group-title="RADIO",Gen FM SBY
+http://103.246.184.62:1935/noice_genfmsby/gensbyic.stream/chunklist_w742138711.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1XVJfE5.png" group-title="RADIO",Magic 89.9
+https://stream.zeno.fm/fw1368t3vc9uv
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/fqdznsunlxtcgzs/JAKFM.png?dl=1" group-title="RADIO",JAK FM
+http://103.246.184.62:1935/noice_jakfm/jakfm/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/6/91316.v14.png" group-title="RADIO",SLOW FM
+http://onlineradiobox.com/json/id/slow/play
+
+#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/0/106040.v5.png" group-title="RADIO",KIS ROCK
+http://onlineradiobox.com/json/id/kisrock/play
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/qq9n8ojtec3m9fa/KIS-95.1-FM.jpg?dl=1" group-title="RADIO",KIS FM
+http://103.246.184.62:1935/noice_kisfm/kisfm/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/ehy1c45c2l8z543/MOSTRADIO.png?dl=1" group-title="RADIO",MOST RADIO
+http://103.246.184.62:1935/noice_mostfm/mostfm/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/5g6wgbq9xwgsrw8/MUSTANG.png?dl=1" group-title="RADIO",MUSTANG
+http://103.246.184.62:1935/noice_mustangfm/mustangfm/playlist.m3u8
+
+
