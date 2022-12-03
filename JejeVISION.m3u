@@ -1,16 +1,16 @@
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/id.xml"
 
 <======================== World Cup ===================================>
-#EXTINF:-1 group-title="World Cup Qatar 2022" tvg-logo="",Bein Max 1 HD
+#EXTINF:-1 group-title="World Cup Qatar 2022" tvg-logo="https://www.pngfind.com/pngs/m/212-2127156_-1-bein.png",Bein Max 1 HD
 http://appfactory.group:8080/qwiyJT4YBH/lBcCDVscVm/43852
 
-#EXTINF:-1 group-title="World Cup Qatar 2022" tvg-logo="",Bein Max 2 HD
+#EXTINF:-1 group-title="World Cup Qatar 2022" tvg-logo="https://i.ibb.co/5TSxpCD/bein-max-2.png",Bein Max 2 HD
 http://appfactory.group:8080/qwiyJT4YBH/lBcCDVscVm/43853
 
-#EXTINF:-1 group-title="World Cup Qatar 2022" tvg-logo="",Bein Max 3 HD
+#EXTINF:-1 group-title="World Cup Qatar 2022" tvg-logo="https://i.goalzz.com/?i=o%2fh%2f1%2f272%2fbein-sports-france-1.png",Bein Max 3 HD
 http://appfactory.group:8080/qwiyJT4YBH/lBcCDVscVm/43854
 
-#EXTINF:-1 group-title="World Cup Qatar 2022" tvg-logo="",Bein Max 4 HD
+#EXTINF:-1 group-title="World Cup Qatar 2022" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3f/BE_IN_SPORT_MAX_4_2017.png/revision/latest/scale-to-width-down/1000?cb=20191022181322",Bein Max 4 HD
 http://appfactory.group:8080/qwiyJT4YBH/lBcCDVscVm/43855
 
 
