@@ -1,4 +1,28 @@
-﻿#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/id.xml"
+#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/id.xml"
+
+<======================== World Cup ===================================>
+
+#EXTINF:-1 group-title="World Cup Qatar 2022" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/TSN1.svg/2560px-TSN1.svg.png",TSN 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+https://cdn.raino.xyz/hls/stream2.m3u8|referer=https://bdnewszh.com/ 
+
+#EXTINF:-1 group-title="World Cup Qatar 2022" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/TSN2.svg/2560px-TSN2.svg.png",TSN 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+https://cdn.raino.xyz/hls/stream1.m3u8|referer=https://bdnewszh.com/
+
+#EXTINF:-1 group-title="World Cup Qatar 2022" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Logo_beIN_SPORTS_MAX.png",Bein Sport 1 Max
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+https://raw.githubusercontent.com/krismrp123/beinmax/main/1-360.m3u8
+
+
+#EXTINF:-1 group-title="World Cup Qatar 2022" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/Logo_bein_sports_max_2.png",Bein Sport 2 Max
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SM-A307GN Build/RP1A.200720.012; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/107.0.5304.91 Mobile Safari/537.36
+https://raw.githubusercontent.com/krismrp123/beinmax/main/2-360.m3u8
+
+#EXTINF:-1 group-title="World Cup Qatar 2022" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/777px-TyC_Sports_logo.svg.png?20221004223240",TyCSports
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+https://d3awnlgqz0szay.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index.m3u8
+
 
 <==================== Local Channels ================>
 
@@ -61,6 +85,10 @@ https://av-live-cdn.mncnow.id/live/eds/RTV/sa_dash_vmx/RTV.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 group-title="Indonesia Channels" tvg-id="KompasTV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7a/KOMPAS_TV_%282017%29.png",Kompas TV
 https://av-live-cdn.mncnow.id/live/eds/KompasTV/sa_dash_vmx/KompasTV.mpd
+
+#EXTINF:-1 group-title="Indonesia Channels" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/512px-Indosiar_2015.svg.png",INDOSIAR
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+http://rr2.dens.tv/s/s04/index.m3u8
 
 #EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/70/DAAITV.png" tvg-id="DAAITV.id" group-title="Indonesia Channels", DAAI TV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -235,7 +263,7 @@ https://av-live-cdn.mncnow.id/live/eds/History/sa_dash_vmx/History.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 group-title="Knowledge" tvg-id="DiscoveryAsia.sg"tvg-logo="https://www.useetv.com/pimages/logo_discovery_big.png?v=1",Discovery Channel
+#EXTINF:-1 group-title="Knowledge" tvg-id="DiscoveryChannelIndonesia.id" tvg-logo="https://www.useetv.com/pimages/logo_discovery_big.png?v=1",Discovery Channel
 https://av-live-cdn.mncnow.id/live/eds/Discovery/sa_dash_vmx/Discovery.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
