@@ -13,16 +13,6 @@ http://appfactory.group:8080/qwiyJT4YBH/lBcCDVscVm/43854
 #EXTINF:-1 group-title="World Cup Qatar 2022" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3f/BE_IN_SPORT_MAX_4_2017.png/revision/latest/scale-to-width-down/1000?cb=20191022181322",Bein Max 4 HD
 http://appfactory.group:8080/qwiyJT4YBH/lBcCDVscVm/43855
 
-
-#EXTINF:-1 group-title="World Cup Qatar 2022" tvg-logo="",[TUR] TRT 1 HD
-http://appfactory.group:8080/qwiyJT4YBH/lBcCDVscVm/715
-
-#EXTINF:-1 group-title="World Cup Qatar 2022" tvg-logo="",[TUR] SPORTS TV
-http://appfactory.group:8080/qwiyJT4YBH/lBcCDVscVm/720
-
-#EXTINF:-1 group-title="World Cup Qatar 2022" tvg-logo="",[TUR] TRT SPOR HD
-http://appfactory.group:8080/qwiyJT4YBH/lBcCDVscVm/707
-
 #EXTINF:-1 group-title="World Cup Qatar 2022" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/TSN1.svg/2560px-TSN1.svg.png",TSN 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://cdn.raino.xyz/hls/stream2.m3u8|referer=https://bdnewszh.com/ 
@@ -30,15 +20,6 @@ https://cdn.raino.xyz/hls/stream2.m3u8|referer=https://bdnewszh.com/
 #EXTINF:-1 group-title="World Cup Qatar 2022" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/TSN2.svg/2560px-TSN2.svg.png",TSN 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://cdn.raino.xyz/hls/stream1.m3u8|referer=https://bdnewszh.com/
-
-#EXTINF:-1 group-title="World Cup Qatar 2022" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Logo_beIN_SPORTS_MAX.png",Bein Sport 1 Max
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-https://raw.githubusercontent.com/krismrp123/beinmax/main/1-360.m3u8
-
-
-#EXTINF:-1 group-title="World Cup Qatar 2022" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/Logo_bein_sports_max_2.png",Bein Sport 2 Max
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SM-A307GN Build/RP1A.200720.012; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/107.0.5304.91 Mobile Safari/537.36
-https://raw.githubusercontent.com/krismrp123/beinmax/main/2-360.m3u8
 
 #EXTINF:-1 group-title="World Cup Qatar 2022" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/777px-TyC_Sports_logo.svg.png?20221004223240",TyCSports
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
