@@ -440,7 +440,7 @@ https://av-live-cdn.mncnow.id/live/eds/LifeStyleFashion/sa_dash_vmx/LifeStyleFas
 #EXTINF:-1 tvg-id="HGTVAsia.us" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_451.png" group-title="Entertainment & Lifestyle",HGTV
 https://av-live-cdn.mncnow.id/live/eds/HGTV/sa_dash_vmx/HGTV.mpd
 
-#EXTINF:0 group-title="Entertainment & Lifestyle" tvg-id="OKTV.id" tvg-logo="https://i.imgur.com/IrS5AOC.png" ,OK TV
+#EXTINF:0 group-title="Entertainment & Lifestyle" tvg-id="OKTV.id" tvg-url="https://iptv-org.github.io/epg/guides/id.xml" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_95.png" ,OK TV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MjhkOWZkZjYtOGViOC0zNTkzLWFhOWEtNGFhMzJkMDk3NGE2
 https://av-live-cdn.mncnow.id/live/eds/OKTV/sa_dash_vmx/OKTV.mpd
@@ -450,7 +450,7 @@ https://av-live-cdn.mncnow.id/live/eds/OKTV/sa_dash_vmx/OKTV.mpd
 #EXTINF:-1 group-title="Entertainment & Lifestyle" tvg-logo="http://nossl.gemilang.tv/assets/img/logo/dens-food-channel.png",Dens Food Channel
 http://210.210.155.35/x6bnqe/s/s38/index.m3u8
 
-#EXTINF:0 group-title="Entertainment & Lifestyle" tvg-id="VisionPrime.id" tvg-logo="https://i.imgur.com/2ZuDqYL.png" ,Vision Prime
+#EXTINF:0 group-title="Entertainment & Lifestyle" tvg-url="https://iptv-org.github.io/epg/guides/id.xml" tvg-id="VisionPrime.id" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_94.png" ,Vision Prime
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MjhkOWZkZjYtOGViOC0zNTkzLWFhOWEtNGFhMzJkMDk3NGE2
 https://av-live-cdn.mncnow.id/live/eds/VisionPrime/sa_dash_vmx/VisionPrime.mpd
