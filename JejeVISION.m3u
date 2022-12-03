@@ -1,6 +1,4 @@
-EXTM3U
-x-tvg-url="https://iptv-org.github.io/epg/guides/id.xml"
-
+#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/id.xml"
 
 <======================== World Cup ===================================>
 
