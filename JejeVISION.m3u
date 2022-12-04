@@ -777,49 +777,6 @@ https://liveanevia.mncnow.id/live/eds/EWTN/sa_dash_vmx/EWTN.mpd
 
 =============MUSIC=================
 
-#EXTINF:-1 group-title="Music"" tvg-id="" tvg-url="https://iptv-org.github.io/epg/guides/id.xml" tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/LpHu57sWawxfSi5iBYFcsWWPQVY=/filters:quality(80)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6587/citra-dangdut-0ed971.jpg",Citra Dangdut
-http://tvn.x10.mx/live/master-11.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-url="https://iptv-org.github.io/epg/guides/id.xml" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="Music"",Radio Nagaswara
-http://tvn.x10.mx/live/master-21.m3u8|User-Agent=android-12
-
-#EXTINF:-1 group-title="Music"" tvg-id="MusicTV.id" tvg-url="https://iptv-org.github.io/epg/guides/id.xml" tvg-logo="https://i.imgur.com/K49jYHw.png" ,Music TV
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOzJkMDk3NGE2
-https://anevia114.mncnow.id/live/eds/MusicChannel/sa_dash_vmx/MusicChannel.mpd
-https://av-live-cdn.mncnow.id/live/eds/MusicChannel/sa_dash_vmx/MusicChannel.mpd
-https://liveanevia.mncnow.id/live/eds/MusicChannel/sa_dash_vmx/MusicChannel.mpd
-
-
-#EXTINF:-1 tvg-id="" tvg-url="https://iptv-org.github.io/epg/guides/id.xml" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19936936_ico.png?ts=1654806429" group-title="Music"",MUSICA
-#EXTVLCOPT:http-user-agent=YoVideo/1.7 (Linux;Android) ExoPlayerLib/2.1.1
-http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=6869efe03b7fbef3b001dc15804bc826446503011668def857b1c03bafabba51
-
-#EXTINF:-1 tvg-id="Maleo.id" tvg-country="ID" tvg-language="Indonesian" tvg-id="" tvg-url="https://iptv-org.github.io/epg/guides/id.xml" tvg-logo="https://www.lyngsat.com/logo/tv/mm/maleo-id.png" group-title="Music"",Maleo
-https://alfa.kugo.id/playout/maleo.stream/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-url="https://iptv-org.github.io/epg/guides/id.xml" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19927127_ico.png?ts=1654806546" group-title="Music"",DANGDUT TV
-http://bravo.kugo.id:1935/dangduttivi/udp.stream_360p/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-url="https://iptv-org.github.io/epg/guides/id.xml" tvg-logo="https://yt3.ggpht.com/a-/AAuE7mALviOpQYyVwBtJVwZwlVZ_iZd7zgCCXfptCA=s900-mo-c-c0xffffffff-rj-k-no" group-title="Music"",Pop Musik TV
-https://alfa.kugo.id/playout/pop.stream/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-url="https://iptv-org.github.io/epg/guides/id.xml" tvg-logo="https://th.bing.com/th/id/OIP.W3tm6ufiN4US_rSG-vQgvQAAAA?pid=ImgDet&w=400&h=400&rs=1" group-title="Music"",Kugo Star
-https://alfa.kugo.id/playout/KugoStar.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-url="https://iptv-org.github.io/epg/guides/id.xml" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/20236149_ico.png?ts=1662831548" group-title="Music"",Kugo 1
-http://bravo.kugo.id:1935/kugoone/udp.stream/chunklist.m3u8
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:-1 group-title="Music"" tvg-id="" tvg-url="https://iptv-org.github.io/epg/guides/id.xml" tvg-logo="https://e7.pngegg.com/pngimages/893/782/png-clipart-competitive-dance-competition-award-talent-show-award-love-television.png",ShowBiz (Dens TV)
-http://210.210.155.37/x6bnqe/s/s35/index.m3u8
-
-#EXTINF:-1 group-title="Music"" tvg-id="" tvg-url="https://iptv-org.github.io/epg/guides/id.xml" tvg-logo="https://ewsat.com/img/TRACE_URBAN.png",Trace Urban
-https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 group-title="Music"" tvg-id="" tvg-url="https://iptv-org.github.io/epg/guides/id.xml" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Music%20Box.png",Music BOX
-https://livecdn.fptplay.net/hda3/music_vhls.smil/chunklist.m3u8
 
 #EXTINF:-1 group-title="Music"", MTV Biggest Pop
 http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8
@@ -835,63 +792,6 @@ http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS08/master.m3u8
 
 #EXTINF:-1 group-title="Music"", MTV Yo
 http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS01/master.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-url="https://iptv-org.github.io/epg/guides/id.xml" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/20957953_ico.png?ts=1655330333" group-title="Music"",molahits tv
-http://ventdelnord.tv:8080/mola/directe.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-url="https://iptv-org.github.io/epg/guides/id.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4f/Box_Hits_2016.png" group-title="Music"",Box hits
-https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,boxhits-alldev.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/boxhits/
-
-#EXTINF:-1 group-title="Music"" tvg-id="" tvg-url="https://iptv-org.github.io/epg/guides/id.xml" tvg-logo="https://yt3.ggpht.com/a-/AAuE7mBtJjiZb7r816Rfb6XZJ8BMXgltec60IxAUAA=s900-mo-c-c0xffffffff-rj-k-no", MTV BEATES HD
-http://144.217.70.181:9587/hin2/MTVBEATSHD/index.m3u8?token=test
-
-#EXTINF:-1 group-title="Music"" tvg-id="" tvg-url="https://iptv-org.github.io/epg/guides/id.xml" tvg-logo="https://yt3.ggpht.com/a/AATXAJw9r9suhsNs486updfjpa_gH2vEpuxaiF5imQ=s900-c-k-c0xffffffff-no-rj-mo", B4U MUSIC
-http://144.217.70.181:9587/hin2/B4UMUSIC/tracks-v1a1/mono.m3u8?token=test
-
-#EXTINF:-1 group-title="Music"" tvg-id="" tvg-url="https://iptv-org.github.io/epg/guides/id.xml" tvg-logo="https://i.pinimg.com/736x/9c/9c/e6/9c9ce6f1194e9234d462bb91bdf29b1e--trinidad-and-tobago-indian.jpg", MUSIC INDIA
-http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/musicindia/musicindia.isml/.m3u8
-
-#EXTINF:-1 group-title="Music"" tvg-id="" tvg-url="https://iptv-org.github.io/epg/guides/id.xml" tvg-logo="https://th.bing.com/th/id/OIP.rvFWaVK-ikm-guyg2Tn81gHaCU?pid=ImgDet&rs=1", MASTI MUSIC
-http://144.217.70.181:9587/hin2/MASTII/tracks-v1a1/mono.m3u8?token=test
-
-#EXTINF:-1 tvg-id="" tvg-url="https://iptv-org.github.io/epg/guides/id.xml" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/MTV_Beats_HD.png" group-title="Music"",MTV india
-http://144.217.70.181:9587/hin2/MTVINDIA/tracks-v1a1/mono.m3u8?token=test
-
-#EXTINF:-1 group-title="Music"" tvg-id="" tvg-url="https://iptv-org.github.io/epg/guides/id.xml" tvg-logo="https://i.pinimg.com/originals/66/e5/aa/66e5aacf0a6223f312e8af32bdc7e16e.jpg",8XM MUSIC
-http://144.217.70.181:9587/hin2/8XM/tracks-v1a1/mono.m3u8?token=test
-
-#EXTINF:-1 group-title="Music"" tvg-id="" tvg-url="https://iptv-org.github.io/epg/guides/id.xml" tvg-logo="https://akamaividz.zee5.com/resources/0-9-131/list/386x386/091319xm.png",9XM
-https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
-
-#EXTINF:-1 tvg-id="mtvhd" tvg-id="" tvg-url="https://iptv-org.github.io/epg/guides/id.xml" tvg-logo="http://mtvwe.com/images/logo.png?r=12413" group-title="Music"" , MTV Vietnam
-https://livecdn.fptplay.net/sdb/mtv_hls.smil/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-url="https://iptv-org.github.io/epg/guides/id.xml" tvg-logo="https://chungplay.github.io/logo/kpopsexy.png" group-title="Music"" ,Sexy Kpop TV
-https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-url="https://iptv-org.github.io/epg/guides/id.xml" tvg-logo="https://logos-download.com/wp-content/uploads/2020/06/1HD_Music_Television_Logo.png" group-title="Music"" ,1HD Music
-http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/tracks-v1a1/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-url="https://iptv-org.github.io/epg/guides/id.xml" tvg-logo="https://static.wikia.nocookie.net/tvfan/images/5/57/1920px-VIVA_Logo_1993-1998.png" group-title="Music"" ,VIVA Russia
-http://195.9.195.19:8001/hls2/vivarussia/index.m3u8
-
-#EXTINF:-1 group-title="Music"" tvg-id="" tvg-url="https://iptv-org.github.io/epg/guides/id.xml" tvg-logo="https://www.m3u.cl/logo/24_Music_Top.png",Music Top
-http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 group-title="Music"" tvg-id="" tvg-url="https://iptv-org.github.io/epg/guides/id.xml" tvg-logo="https://www.lorini.net/streaming/clientes/OXIGENO%20TV.png",OXIGENO
-https://vcp.myplaytv.com/oxigenotv/oxigenotv/.m3u8
-
-#EXTINF:-1 group-title="Music"" tvg-id="" tvg-url="https://iptv-org.github.io/epg/guides/id.xml" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/67cebad8d46fc668e21b0ae8387ae2cd.webp",ROCK TV
-https://fms-https1.mediadirect.ro/live3/_definst_/rocktv/playlist.m3u8
-
-#EXTINF:-1 group-title="Music"" tvg-id="" tvg-url="https://iptv-org.github.io/epg/guides/id.xml" tvg-logo="https://i.pinimg.com/474x/12/1e/ef/121eef890f53671537f4cd45a3977538.jpg",METAL TV
-http://v1.catcast.tv/content/33816/index.m3u8
-
-#EXTINF:-1 group-title="Music"" tvg-id="" tvg-url="https://iptv-org.github.io/epg/guides/id.xml" tvg-logo="https://www.cmtequalplay.com/wp-content/themes/equal-play/images/footer-cmt-logo.png",CMT MUSIC
-http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS08/master.m3u8
-
-#EXTINF:-1 group-title="Music"" tvg-id="" tvg-url="https://iptv-org.github.io/epg/guides/id.xml" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/20236160_ico.png?ts=1662833895",C pop
-https://raw.githubusercontent.com/etag2000/IPTV/YTlive/cpop.m3u8
 
 
 =============RADIO=================
