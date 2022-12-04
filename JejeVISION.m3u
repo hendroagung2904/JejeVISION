@@ -896,118 +896,118 @@ https://raw.githubusercontent.com/etag2000/IPTV/YTlive/cpop.m3u8
 
 =============RADIO=================
 
-#EXTINF:-1 tvg-id="" tvg-url="https://iptv-org.github.io/epg/guides/id.xml" tvg-logo="https://i.imgur.com/bGvJ6py.png" group-title="RADIO",Hitz FM
+#EXTINF:-1 tvg-id="" tvg-url="https://iptv-org.github.io/epg/guides/id.xml" tvg-logo="https://i.imgur.com/bGvJ6py.png" group-title="Internet Radio",Hitz FM
 https://raw.githubusercontent.com/AqFad2811/RadioYTLive/main/Hitz.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-url="https://iptv-org.github.io/epg/guides/id.xml" tvg-logo="https://i.imgur.com/w9WCFqr.png" group-title="RADIO",Hot FM
+#EXTINF:-1 tvg-id="" tvg-url="https://iptv-org.github.io/epg/guides/id.xml" tvg-logo="https://i.imgur.com/w9WCFqr.png" group-title="Internet Radio",Hot FM
 https://raw.githubusercontent.com/AqFad2811/RadioYTLive/main/HotFM.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-url="https://iptv-org.github.io/epg/guides/id.xml" tvg-logo="http://choos.wap.sh/images/radio/7004.jpg" group-title="RADIO",Prambors
+#EXTINF:-1 tvg-id="" tvg-url="https://iptv-org.github.io/epg/guides/id.xml" tvg-logo="http://choos.wap.sh/images/radio/7004.jpg" group-title="Internet Radio",Prambors
 https://playerservices.streamtheworld.com/api/livestream-redirect/PRAMBORS_FM.mp3?dist=onlineradiobox
 
-#EXTINF:-1 tvg-id="" tvg-url="https://iptv-org.github.io/epg/guides/id.xml" tvg-logo="http://choos.wap.sh/images/radio/7184.jpg" group-title="RADIO",Ardan FM
+#EXTINF:-1 tvg-id="" tvg-url="https://iptv-org.github.io/epg/guides/id.xml" tvg-logo="http://choos.wap.sh/images/radio/7184.jpg" group-title="Internet Radio",Ardan FM
 http://listento.ardanradio.com:1059/;
 
-#EXTINF:-1 tvg-id="" tvg-url="https://iptv-org.github.io/epg/guides/id.xml" tvg-logo="https://i.imgur.com/u09ERA9.png" group-title="RADIO",Phoenix Radio Bali
+#EXTINF:-1 tvg-id="" tvg-url="https://iptv-org.github.io/epg/guides/id.xml" tvg-logo="https://i.imgur.com/u09ERA9.png" group-title="Internet Radio",Phoenix Radio Bali
 https://live.phoenixradiobali.com:8250/phoenixradio
 
-#EXTINF:-1 tvg-id="" tvg-url="https://iptv-org.github.io/epg/guides/id.xml" tvg-logo="http://choos.wap.sh/images/radio/7188.jpg" group-title="RADIO",MGTRADIO
+#EXTINF:-1 tvg-id="" tvg-url="https://iptv-org.github.io/epg/guides/id.xml" tvg-logo="http://choos.wap.sh/images/radio/7188.jpg" ggroup-title="Internet Radio",MGTRADIO
 http://stream.radbdg.net:8000/mgtradio.mp3
 
-#EXTINF:-1 tvg-id="" tvg-url="https://iptv-org.github.io/epg/guides/id.xml" tvg-logo="http://choos.wap.sh/images/radio/7166.jpg" group-title="RADIO",Elshinta FM
+#EXTINF:-1 tvg-id="" tvg-url="https://iptv-org.github.io/epg/guides/id.xml" tvg-logo="http://choos.wap.sh/images/radio/7166.jpg" ggroup-title="Internet Radio",Elshinta FM
 https://stream-ssl.arenastreaming.com:8000/jakarta
 
-#EXTINF:-1 tvg-id="" tvg-url="https://iptv-org.github.io/epg/guides/id.xml" tvg-logo="http://choos.wap.sh/images/radio/7057.jpg" group-title="RADIO",I Radio
+#EXTINF:-1 tvg-id="" tvg-url="https://iptv-org.github.io/epg/guides/id.xml" tvg-logo="http://choos.wap.sh/images/radio/7057.jpg" group-title="Internet Radio",I Radio
 http://stream.radiojar.com/4ywdgup3bnzuv
 
-#EXTINF:-1 tvg-id="" tvg-url="https://iptv-org.github.io/epg/guides/id.xml" tvg-logo="http://choos.wap.sh/images/radio/7055.jpg" group-title="RADIO",Trax FM
+#EXTINF:-1 tvg-id="" tvg-url="https://iptv-org.github.io/epg/guides/id.xml" tvg-logo="http://choos.wap.sh/images/radio/7055.jpg" group-title="Internet Radio",Trax FM
 https://n11.radiojar.com:443/rrqf78p3bnzuv.mp3?1613798267=&rj-tok=AAABd73ok20AEvV31cQDN-_2tg&rj-ttl=5
 
-#EXTINF:-1 tvg-id="" tvg-url="https://iptv-org.github.io/epg/guides/id.xml" tvg-logo="http://choos.wap.sh/images/radio/7056.jpg" group-title="RADIO",Cosmopolitan FM
+#EXTINF:-1 tvg-id="" tvg-url="https://iptv-org.github.io/epg/guides/id.xml" tvg-logo="http://choos.wap.sh/images/radio/7056.jpg" group-title="Internet Radio",Cosmopolitan FM
 http://n02.radiojar.com/u7d8heq3bnzuv
 
-#EXTINF:-1 tvg-id="" tvg-url="https://iptv-org.github.io/epg/guides/id.xml" tvg-logo="https://cdn.onlineradiobox.com/img/l/8/19108.v6.png" group-title="RADIO",V RADIO
+#EXTINF:-1 tvg-id="" tvg-url="https://iptv-org.github.io/epg/guides/id.xml" tvg-logo="https://cdn.onlineradiobox.com/img/l/8/19108.v6.png" group-title="Internet Radio",V RADIO
 http://202.147.199.100:8000/;stream.nsv
 
-#EXTINF:-1 tvg-id="" tvg-url="https://iptv-org.github.io/epg/guides/id.xml" tvg-logo="https://i.imgur.com/VDOHWd0.png" group-title="RADIO",Hitz FM
+#EXTINF:-1 tvg-id="" tvg-url="https://iptv-org.github.io/epg/guides/id.xml" tvg-logo="https://i.imgur.com/VDOHWd0.png" group-title="Internet Radio",Hitz FM
 https://s2.radio.co/s6929cb202/listen
 
-#EXTINF:-1 tvg-id="" tvg-url="https://iptv-org.github.io/epg/guides/id.xml" tvg-logo="http://choos.wap.sh/images/radio/7054.jpg" group-title="RADIO",Brava FM
+#EXTINF:-1 tvg-id="" tvg-url="https://iptv-org.github.io/epg/guides/id.xml" tvg-logo="http://choos.wap.sh/images/radio/7054.jpg" ggroup-title="Internet Radio",Brava FM
 http://n07.radiojar.com/5k7t0rq3bnzuv.mp3?1613997585=&rj-tok=AAABd8nJ38EAguSD-Yi56JrhPA&rj-ttl=5
 
-#EXTINF:-1 tvg-id="" tvg-url="https://iptv-org.github.io/epg/guides/id.xml" tvg-logo="http://choos.wap.sh/images/radio/7053.jpg" group-title="RADIO",Hard Rock FM
+#EXTINF:-1 tvg-id="" tvg-url="https://iptv-org.github.io/epg/guides/id.xml" tvg-logo="http://choos.wap.sh/images/radio/7053.jpg" group-title="Internet Radio",Hard Rock FM
 http://n09.radiojar.com/7csmg90fuqruv.mp3?1619243440=&rj-tok=AAABeQJ3Ru4AgeQosVWIZQa5rg&rj-ttl=5
 
-#EXTINF:-1 tvg-id="" tvg-url="https://iptv-org.github.io/epg/guides/id.xml" tvg-logo="https://i.imgur.com/vOliZ6Z.png" group-title="RADIO",Hard Rock FM
+#EXTINF:-1 tvg-id="" tvg-url="https://iptv-org.github.io/epg/guides/id.xml" tvg-logo="https://i.imgur.com/vOliZ6Z.png" group-title="Internet Radio",Hard Rock FM
 http://stream.radiojar.com/fnex9bkswk8uv
 
-#EXTINF:-1 tvg-id="" tvg-url="https://iptv-org.github.io/epg/guides/id.xml" tvg-logo="https://i.imgur.com/MmFTrZK.png" group-title="RADIO",Hard Rock FM Surabaya
+#EXTINF:-1 tvg-id="" tvg-url="https://iptv-org.github.io/epg/guides/id.xml" tvg-logo="https://i.imgur.com/MmFTrZK.png" group-title="Internet Radio",Hard Rock FM Surabaya
 http://stream.radiojar.com/yg8ne2v80k8uv
 
-#EXTINF:-1 tvg-id="" tvg-url="https://iptv-org.github.io/epg/guides/id.xml" tvg-logo="https://i.imgur.com/BwULFUI.png" group-title="RADIO",Hard Rock FM Bali
+#EXTINF:-1 tvg-id="" tvg-url="https://iptv-org.github.io/epg/guides/id.xml" tvg-logo="https://i.imgur.com/BwULFUI.png" group-title="Internet Radio",Hard Rock FM Bali
 http://stream.radiojar.com/9k28wsbu5k8uv
 
-#EXTINF:-1 tvg-id="" tvg-url="https://iptv-org.github.io/epg/guides/id.xml" tvg-logo="https://i.imgur.com/L8w4lBH.jpg" group-title="RADIO",Heartline Bali
+#EXTINF:-1 tvg-id="" tvg-url="https://iptv-org.github.io/epg/guides/id.xml" tvg-logo="https://i.imgur.com/L8w4lBH.jpg" group-title="Internet Radio",Heartline Bali
 http://202.129.186.43:7028/stream
 
-#EXTINF:-1 tvg-id="" tvg-url="https://iptv-org.github.io/epg/guides/id.xml" tvg-logo="https://i.imgur.com/L8w4lBH.jpg" group-title="RADIO",Heartline Jakarta
+#EXTINF:-1 tvg-id="" tvg-url="https://iptv-org.github.io/epg/guides/id.xml" tvg-logo="https://i.imgur.com/L8w4lBH.jpg" group-title="Internet Radio",Heartline Jakarta
 https://svara-stream.radioddns.net:8443/karawaci_heartline_stereo?ver=635710
 
-#EXTINF:-1 tvg-id="" tvg-url="https://iptv-org.github.io/epg/guides/id.xml" tvg-logo="https://i.imgur.com/dpADolC.png" group-title="RADIO",MNC Trijaya FM Jakarta
+#EXTINF:-1 tvg-id="" tvg-url="https://iptv-org.github.io/epg/guides/id.xml" tvg-logo="https://i.imgur.com/dpADolC.png" group-title="Internet Radio",MNC Trijaya FM Jakarta
 http://202.147.199.101:8000/;
 
-#EXTINF:-1 tvg-id="" tvg-url="https://iptv-org.github.io/epg/guides/id.xml" tvg-logo="https://i.imgur.com/Crxg4DR.png" group-title="RADIO",Motion Radio Jakarta
+#EXTINF:-1 tvg-id="" tvg-url="https://iptv-org.github.io/epg/guides/id.xml" tvg-logo="https://i.imgur.com/Crxg4DR.png" ggroup-title="Internet Radio",Motion Radio Jakarta
 https://streamingv2.shoutcast.com/motion-jakarta
 
-#EXTINF:-1 tvg-id="" tvg-url="https://iptv-org.github.io/epg/guides/id.xml" tvg-logo="http://choos.wap.sh/images/radio/7130.jpg" group-title="RADIO",Female FM
+#EXTINF:-1 tvg-id="" tvg-url="https://iptv-org.github.io/epg/guides/id.xml" tvg-logo="http://choos.wap.sh/images/radio/7130.jpg" group-title="Internet Radio",Female FM
 http://onlineradiobox.com/json/id/female/play
 
-#EXTINF:-1 tvg-id="" tvg-url="https://iptv-org.github.io/epg/guides/id.xml" tvg-logo="http://choos.wap.sh/images/radio/7092.jpg" group-title="RADIO",Delta FM
+#EXTINF:-1 tvg-id="" tvg-url="https://iptv-org.github.io/epg/guides/id.xml" tvg-logo="http://choos.wap.sh/images/radio/7092.jpg" group-title="Internet Radio",Delta FM
 http://live.masima.cloud:9002/deltafm
 
-#EXTINF:-1 tvg-id="" tvg-url="https://iptv-org.github.io/epg/guides/id.xml" tvg-logo="http://choos.wap.sh/images/radio/7091.jpg" group-title="RADIO",Bahana FM
+#EXTINF:-1 tvg-id="" tvg-url="https://iptv-org.github.io/epg/guides/id.xml" tvg-logo="http://choos.wap.sh/images/radio/7091.jpg" group-title="Internet Radio",Bahana FM
 http://stream.bahanafm.co.id:8100/;
 
-#EXTINF:-1 tvg-id="" tvg-url="https://iptv-org.github.io/epg/guides/id.xml" tvg-logo="https://i.imgur.com/Xs4j9YI.png" group-title="RADIO",EBS FM
+#EXTINF:-1 tvg-id="" tvg-url="https://iptv-org.github.io/epg/guides/id.xml" tvg-logo="https://i.imgur.com/Xs4j9YI.png" group-title="Internet Radio",EBS FM
 http://streaming.suzanafm.com:8100/;stream.nsv
 
-#EXTINF:-1 tvg-id="" tvg-url="https://iptv-org.github.io/epg/guides/id.xml" tvg-logo="http://choos.wap.sh/images/radio/7169.jpg" group-title="RADIO",Elgangga FM
+#EXTINF:-1 tvg-id="" tvg-url="https://iptv-org.github.io/epg/guides/id.xml" tvg-logo="http://choos.wap.sh/images/radio/7169.jpg" group-title="Internet Radio",Elgangga FM
 http://onlineradiobox.com/json/id/sushi/play
 
-#EXTINF:-1 tvg-id="" tvg-url="https://iptv-org.github.io/epg/guides/id.xml" tvg-logo="http://choos.wap.sh/images/radio/7216.jpg" group-title="RADIO",Geronimo FM
+#EXTINF:-1 tvg-id="" tvg-url="https://iptv-org.github.io/epg/guides/id.xml" tvg-logo="http://choos.wap.sh/images/radio/7216.jpg" group-title="Internet Radio",Geronimo FM
 http://live2.indostreamserver.com:8018/;
 
-#EXTINF:-1 tvg-id="" tvg-url="https://iptv-org.github.io/epg/guides/id.xml" tvg-logo="http://choos.wap.sh/images/radio/7284.jpg" group-title="RADIO",Gajah Mada FM
+#EXTINF:-1 tvg-id="" tvg-url="https://iptv-org.github.io/epg/guides/id.xml" tvg-logo="http://choos.wap.sh/images/radio/7284.jpg" group-title="Internet Radio",Gajah Mada FM
 https://server.radioimeldafm.co.id/radio/8020/gajahmadafm
 
-#EXTINF:-1 tvg-id="" tvg-url="https://iptv-org.github.io/epg/guides/id.xml" tvg-logo="https://i.imgur.com/zj6og3B.png" group-title="RADIO",OZ Radio Jakarta
+#EXTINF:-1 tvg-id="" tvg-url="https://iptv-org.github.io/epg/guides/id.xml" tvg-logo="https://i.imgur.com/zj6og3B.png" group-title="Internet Radio",OZ Radio Jakarta
 https://s3.vinhostmedia.com:10995/;stream/1
 
-#EXTINF:-1 tvg-id="" tvg-url="https://iptv-org.github.io/epg/guides/id.xml" tvg-logo="https://www.dropbox.com/s/0cbwjhiv843lila/Gen_FM.png?dl=1" group-title="RADIO",Gen FM
+#EXTINF:-1 tvg-id="" tvg-url="https://iptv-org.github.io/epg/guides/id.xml" tvg-logo="https://www.dropbox.com/s/0cbwjhiv843lila/Gen_FM.png?dl=1" group-title="Internet Radio",Gen FM
 http://103.246.184.62:1935/noice_genfm/genfm/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-url="https://iptv-org.github.io/epg/guides/id.xml" tvg-logo="https://www.dropbox.com/s/0cbwjhiv843lila/Gen_FM.png?dl=1" group-title="RADIO",Gen FM SBY
+#EXTINF:-1 tvg-id="" tvg-url="https://iptv-org.github.io/epg/guides/id.xml" tvg-logo="https://www.dropbox.com/s/0cbwjhiv843lila/Gen_FM.png?dl=1" group-title="Internet Radio",Gen FM SBY
 http://103.246.184.62:1935/noice_genfmsby/gensbyic.stream/chunklist_w742138711.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-url="https://iptv-org.github.io/epg/guides/id.xml" tvg-logo="https://i.imgur.com/1XVJfE5.png" group-title="RADIO",Magic 89.9
+#EXTINF:-1 tvg-id="" tvg-url="https://iptv-org.github.io/epg/guides/id.xml" tvg-logo="https://i.imgur.com/1XVJfE5.png" group-title="Internet Radio"",Magic 89.9
 https://stream.zeno.fm/fw1368t3vc9uv
 
-#EXTINF:-1 tvg-id="" tvg-url="https://iptv-org.github.io/epg/guides/id.xml" tvg-logo="https://www.dropbox.com/s/fqdznsunlxtcgzs/JAKFM.png?dl=1" group-title="RADIO",JAK FM
+#EXTINF:-1 tvg-id="" tvg-url="https://iptv-org.github.io/epg/guides/id.xml" tvg-logo="https://www.dropbox.com/s/fqdznsunlxtcgzs/JAKFM.png?dl=1" group-title="Internet Radio",JAK FM
 http://103.246.184.62:1935/noice_jakfm/jakfm/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-url="https://iptv-org.github.io/epg/guides/id.xml" tvg-logo="https://cdn.onlineradiobox.com/img/l/6/91316.v14.png" group-title="RADIO",SLOW FM
+#EXTINF:-1 tvg-id="" tvg-url="https://iptv-org.github.io/epg/guides/id.xml" tvg-logo="https://cdn.onlineradiobox.com/img/l/6/91316.v14.png" group-title="Internet Radio",SLOW FM
 http://onlineradiobox.com/json/id/slow/play
 
-#EXTINF:-1 tvg-id="" tvg-url="https://iptv-org.github.io/epg/guides/id.xml" tvg-logo="https://cdn.onlineradiobox.com/img/l/0/106040.v5.png" group-title="RADIO",KIS ROCK
+#EXTINF:-1 tvg-id="" tvg-url="https://iptv-org.github.io/epg/guides/id.xml" tvg-logo="https://cdn.onlineradiobox.com/img/l/0/106040.v5.png" group-title="Internet Radio",KIS ROCK
 http://onlineradiobox.com/json/id/kisrock/play
 
-#EXTINF:-1 tvg-id="" tvg-url="https://iptv-org.github.io/epg/guides/id.xml" tvg-logo="https://www.dropbox.com/s/qq9n8ojtec3m9fa/KIS-95.1-FM.jpg?dl=1" group-title="RADIO",KIS FM
+#EXTINF:-1 tvg-id="" tvg-url="https://iptv-org.github.io/epg/guides/id.xml" tvg-logo="https://www.dropbox.com/s/qq9n8ojtec3m9fa/KIS-95.1-FM.jpg?dl=1" group-title="Internet Radio",KIS FM
 http://103.246.184.62:1935/noice_kisfm/kisfm/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-url="https://iptv-org.github.io/epg/guides/id.xml" tvg-logo="https://www.dropbox.com/s/ehy1c45c2l8z543/MOSTRADIO.png?dl=1" group-title="RADIO",MOST RADIO
+#EXTINF:-1 tvg-id="" tvg-url="https://iptv-org.github.io/epg/guides/id.xml" tvg-logo="https://www.dropbox.com/s/ehy1c45c2l8z543/MOSTRADIO.png?dl=1" group-title="Internet Radio",MOST RADIO
 http://103.246.184.62:1935/noice_mostfm/mostfm/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-url="https://iptv-org.github.io/epg/guides/id.xml" tvg-logo="https://www.dropbox.com/s/5g6wgbq9xwgsrw8/MUSTANG.png?dl=1" group-title="RADIO",MUSTANG
+#EXTINF:-1 tvg-id="" tvg-url="https://iptv-org.github.io/epg/guides/id.xml" tvg-logo="https://www.dropbox.com/s/5g6wgbq9xwgsrw8/MUSTANG.png?dl=1" group-title="Internet Radio",MUSTANG
 http://103.246.184.62:1935/noice_mustangfm/mustangfm/playlist.m3u8
 
 =============Tvri Group==================
@@ -1149,21 +1149,6 @@ https://anevia114.mncnow.id/live/eds/JTV/sa_dash/JTV.mpd
 https://av-live-cdn.mncnow.id/live/eds/JTV/sa_dash/JTV.mpd
 https://liveanevia.mncnow.id/live/eds/JTV/sa_dash/JTV.mpd
 
-#EXTINF:-1 group-title="Local Channels" tvg-id="" tvg-url="https://iptv-org.github.io/epg/guides/id.xml" tvg-logo="https://www.useetv.com/assets/images/channel/logo_jaktv_small1.png?v=2.0.0.13",JAK TV
-#EXTVLCOPT:http-user-agent=YoVideo/1.7 (Linux;Android) ExoPlayerLib/2.1.1
-http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=3891b14b5d8cce2fdd8dcdb4ded28f6d446503011668def857b1c03bafabba51
-
-#EXTINF:-1  tvg-id="JAKTV.id" group-title="Local Channels" tvg-id="" tvg-url="https://iptv-org.github.io/epg/guides/id.xml" tvg-logo="http://dusktill.masuk.web.id/img/jaktv.png",JakTV
-https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(7a73ed02-e0de-4df1-8da3-5abfd75f24bd)/index.m3u8
-
-#EXTINF:-1 group-title="Local Channels" tvg-id="" tvg-url="https://iptv-org.github.io/epg/guides/id.xml" tvg-logo="https://www.useetv.com/assets/images/channel/logo_balitv_small1.png?v=2.0.0.13",BALI TV
-#EXTVLCOPT:http-user-agent=YoVideo/1.7 (Linux;Android) ExoPlayerLib/2.1.1
-http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=ffd67d44870fda644560c47682a87a73&cdy=33e75ff09dd601bbe69f351039152189268ef7e5a44f541a7cbde7626ef57566
-
-#EXTINF:-1 group-title="Local Channels" tvg-id="" tvg-url="https://iptv-org.github.io/epg/guides/id.xml" tvg-logo="https://www.useetv.com/assets/images/channel/logo_antara_small1.png?v=2.0.0.13",ANTARA
-#EXTVLCOPT:http-user-agent=YoVideo/1.7 (Linux;Android) ExoPlayerLib/2.1.1
-http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=ffd67d44870fda644560c47682a87a73&cdy=68d30a9594728bc39aa24be94b319d21268ef7e5a44f541a7cbde7626ef57566
-
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTINF:-1 tvg-id="" tvg-url="https://iptv-org.github.io/epg/guides/id.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Logo_BBS_TV_2018.png/1200px-Logo_BBS_TV_2018.png" group-title="Local Channels",BBS TV
@@ -1171,12 +1156,7 @@ http://103.119.54.246:8080/hls/bbstv.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:-1 tvg-id="" tvg-url="https://iptv-org.github.io/epg/guides/id.xml" tvg-logo="http://jogjatv.tv/wp-content/uploads/2015/08/LOGO-JOGJA-TV-NEW-pii-new.png" group-title="Local Channels",Jogja TV
-https://stream.jogjatv.co.id/jtvlive/stream/index.m3u8
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:-1 tvg-id="" tvg-url="https://iptv-org.github.io/epg/guides/id.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Logo_JPM_TV.png/200px-Logo_JPM_TV.png" group-title="Local Channels",Jawa Pos TV
+#EXTINF:-1 tvg-id="" tvg-url="https://iptv-org.github.io/epg/guides/id.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Logo_JPM_TV.png/200px-Logo_JPM_TV.png" group-title="Local Channels",Jawa Pos Multimedia Network
 http://122.248.43.138:1935/ch6/myStream/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1214,10 +1194,6 @@ http://122.248.43.138:1935/ch10/myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-url="https://iptv-org.github.io/epg/guides/id.xml" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7d/Jambi_TV_2008.png" group-title="Local Channels",JAMBI TV
 http://122.248.43.138:1935/ch23/myStream/chunklist.m3u8
 
-#EXTINF:-1  tvg-id="" group-title="Local Channels" tvg-id="" tvg-url="https://iptv-org.github.io/epg/guides/id.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/28/Logobantenrayatv.png",Banten Raya TV
-https://v2.siar.us/barayatv/live/chunks.m3u8
-
-
 #EXTINF:-1  tvg-id="ADITV.id" group-title="Local Channels" tvg-id="" tvg-url="https://iptv-org.github.io/epg/guides/id.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/id/5/59/ADiTV_Jogja.png",ADiTV
 https://v2.siar.us/aditv/livestream/chunks.m3u8
 
@@ -1227,33 +1203,11 @@ http://103.30.1.14:8080/hls/live.m3u8
 #EXTINF:-1  tvg-id="BMSTV.id" group-title="Local Channels" tvg-id="" tvg-url="https://iptv-org.github.io/epg/guides/id.xml" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/db/800px-BMSTV_Banyumas-Purwokerto.png",BMSTV
 http://bmstv.onlivestreaming.net/bmstv/livestream/chunks.m3u8
 
-#EXTINF:-1  tvg-id="PrimaTV.id" group-title="Local Channels" tvg-id="" tvg-url="https://iptv-org.github.io/epg/guides/id.xml" tvg-logo="https://i.imgur.com/RRu0wKR.png",PRIMA TV
-http://primatv.onlivestreaming.net/primatv/livestream/chunks.m3u8?
-
-#EXTINF:-1  tvg-id="TVDesa.id" group-title="Local Channels" tvg-id="" tvg-url="https://iptv-org.github.io/epg/guides/id.xml" tvg-logo="http://desavision.id/wp-content/uploads/2021/01/Komunitas-TV-Desa.png",TV DESA
-http://wowza58.indostreamserver.com:1935/tvdesa/live/chunklist_w373715534.m3u8
-
 #EXTINF:-1  tvg-id="Sakti.id" group-title="Local Channels" tvg-id="" tvg-url="https://iptv-org.github.io/epg/guides/id.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/Logo-saktitv.png",SAKTI TV
 http://video2.onlivestreaming.net/saktitv/livestream/chunks.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-id="" tvg-url="https://iptv-org.github.io/epg/guides/id.xml" tvg-logo="https://i.imgur.com/WHeb9Yt.png" group-title="Local Channels", Duta TV
-https://v2.siar.us/dutatv/live/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-url="https://iptv-org.github.io/epg/guides/id.xml" tvg-logo="https://images.useetv.com/logo_rri_big1.png?v=2.0.0.13" group-title="Local Channels",RRI_NET_USEETV
-#EXTVLCOPT:http-user-agent=YoVideo/1.7 (Linux;Android) ExoPlayerLib/2.1.1
-http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=ffd67d44870fda644560c47682a87a73&cdy=38db3aed920cf82ab059bfccbd02be6a268ef7e5a44f541a7cbde7626ef57566
-
-#EXTINF:-1 tvg-id="" tvg-url="https://iptv-org.github.io/epg/guides/id.xml" tvg-logo="https://s.id/1dYh0" group-title="Local Channels",Riau Raya TV
-https://bravo.kugo.id/riauraya/rtmp.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-url="https://iptv-org.github.io/epg/guides/id.xml" tvg-logo="https://s.id/1eUM6"group-title="Local Channels",Riau TV
-https://bravo.kugo.id/riautv/udp.stream/playlist.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-url="https://iptv-org.github.io/epg/guides/id.xml" tvg-logo="https://s.id/1dYfQ" group-title="Local Channels",Madu TV
 https://re1.siar.us/madutv/hd720/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-url="https://iptv-org.github.io/epg/guides/id.xml" tvg-logo="https://i.imgur.com/zgKW6bB.png" group-title="Local Channels",UGTV
-https://cdn.gunadarma.ac.id/streams/ugtv/ingestugtv.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-url="https://iptv-org.github.io/epg/guides/id.xml" tvg-logo="https://www.hantaran.co/wp-content/uploads/2020/08/padang-tv.jpg" group-title="Local Channels",Padang TV
 http://122.248.43.138:1935/ch16/myStream/playlist.m3u8
@@ -1261,17 +1215,8 @@ http://122.248.43.138:1935/ch16/myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-url="https://iptv-org.github.io/epg/guides/id.xml" tvg-logo="https://www.pontv.id/wp-content/uploads/2018/07/pontv-logo-new-2018.png" group-title="Local Channels",Pon TV
 http://122.248.43.138:1935/ch15/myStream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-url="https://iptv-org.github.io/epg/guides/id.xml" tvg-logo="https://i.pinimg.com/originals/10/7c/a7/107ca7e4d5ed77b136f2dca2f8658673.png" group-title="Local Channels",Radar TV Lampung
-http://122.248.43.138:1935/ch17/myStream/playlist.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-url="https://iptv-org.github.io/epg/guides/id.xml" tvg-logo="https://th.bing.com/th/id/OIP.kcg6S05mOpnQNGJDsjn8QAHaHn?pid=ImgDet&w=500&h=514&rs=1" group-title="Local Channels",RCTV
 http://122.248.43.138:1935/ch9/myStream/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-url="https://iptv-org.github.io/epg/guides/id.xml" tvg-logo="https://2.bp.blogspot.com/-aFK-3tyS0j0/W_az0Aove9I/AAAAAAAAB6M/-WEt_zhWCvY3Yv5rUxZWr1stttxyz-64wCLcBGAs/s1600/bandung%2Btv.jpg" group-title="Local Channels",Bandung TV
-http://202.150.153.254/bandungtv720p.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-url="https://iptv-org.github.io/epg/guides/id.xml" tvg-logo="https://yt3.ggpht.com/a/AATXAJzupFAedrKBALQr9Yv4R6ZWht2P5TMJDFPjaA=s900-c-k-c0xffffffff-no-rj-mo" group-title="Local Channels",Banjar TV
-https://v2.siar.us/banjartv/livestream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-url="https://iptv-org.github.io/epg/guides/id.xml" tvg-logo="https://th.bing.com/th/id/OIP.noMBVnqEbVeYz1d64ar6_gHaEK?pid=ImgDet&rs=1" group-title="Local Channels",Banten TV
 https://v2.siar.us/barayatv/live/chunks.m3u8
@@ -1285,12 +1230,6 @@ http://117.103.69.219:8080/live/streaming/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-url="https://iptv-org.github.io/epg/guides/id.xml" tvg-logo="https://brtvcoid.b-cdn.net/2022/06/logo-brtv-original.png" group-title="Local Channels",BRTV
 https://e1.siar.us/badartv/live/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-url="https://iptv-org.github.io/epg/guides/id.xml" tvg-logo="https://4.bp.blogspot.com/-uTT8f31pYpg/XH9emlfmxqI/AAAAAAAAP0k/j6CTmkexKOQ_gQMraxzLk7SnhH_i9gI1wCLcBGAs/s320/frekuensi%2Bctv.jpg" group-title="Local Channels",Cahaya TV
-https://bravo.kugo.id/ctv/rtmp.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-url="https://iptv-org.github.io/epg/guides/id.xml" tvg-logo="https://yt3.ggpht.com/a/AATXAJxvXLnx4f1D8G45LzQSDrm9P5hpPIB2bqwH4wUt=s900-c-k-c0xffffffff-no-rj-mo" group-title="Local Channels",DMTV Malang
-https://bravo.kugo.id/dmtvmalang/rtmp.stream/chunklist.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-url="https://iptv-org.github.io/epg/guides/id.xml" tvg-logo="https://yt3.ggpht.com/a/AATXAJytvoO8XJpinmmxq4xVqSRYukKA_2H7ANqB1A=s900-c-k-c0xffffffff-no-rj-mo" group-title="Local Channels",GPR TV
 https://alfa.kugo.id/gprtv/rtmp.stream/playlist.m3u8
 
@@ -1299,6 +1238,14 @@ https://v3.siar.us/humabetangtv/live/playlist.m3u8
 
 #EXTINF:-1  tvg-id="" tvg-url="https://iptv-org.github.io/epg/guides/id.xml" tvg-logo="https://ugtv.co.id/wp-content/uploads/2021/03/LOGO-SANGAJI-TV-2048x475.png" group-title="Local Channels",Sangaji TV
 https://cdn.gunadarma.ac.id/streams/sangajitv/ingestsangajitv.m3u8
+#EXTINF:-1 tvg-id="" tvg-url="https://iptv-org.github.io/epg/guides/id.xml" tvg-logo="https://yt3.ggpht.com/a/AATXAJytvoO8XJpinmmxq4xVqSRYukKA_2H7ANqB1A=s900-c-k-c0xffffffff-no-rj-mo" group-title="Local Channels",GPR TV
+https://alfa.kugo.id/gprtv/rtmp.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-url="https://iptv-org.github.io/epg/guides/id.xml" tvg-logo="https://i.imgur.com/pposm6w.png" group-title="Local Channels",Huma Betang TV
+https://v3.siar.us/humabetangtv/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-url="https://iptv-org.github.io/epg/guides/id.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/3/3c/Cakra-semarang-tv.png/240px-Cakra-semarang-tv.png" group-title="Local Channels",Semarang TV
+http://116.254.112.74/hls/cakralive.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-url="https://iptv-org.github.io/epg/guides/id.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/3/3c/Cakra-semarang-tv.png/240px-Cakra-semarang-tv.png" group-title="Local Channels",Semarang TV
 http://116.254.112.74/hls/cakralive.m3u8
@@ -1306,14 +1253,8 @@ http://116.254.112.74/hls/cakralive.m3u8
 #EXTINF:-1 tvg-id="" tvg-url="https://iptv-org.github.io/epg/guides/id.xml" tvg-logo="https://image.winudf.com/v2/image/Y29tLnNtdHYuYW5kcm9pZF9pY29uX2xsbGFja3Q0/icon.png?w=340&fakeurl=1" group-title="Local Channels",SMTV
 http://122.248.43.138:1935/ch25/myStream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-url="https://iptv-org.github.io/epg/guides/id.xml" tvg-logo="https://i.ytimg.com/vi/4n-txSPnsUs/maxresdefault.jpg" group-title="Local Channels",Sultra TV
-http://122.248.43.138:1935/ch20/myStream/playlist.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-url="https://iptv-org.github.io/epg/guides/id.xml" tvg-logo="https://th.bing.com/th/id/OIP.PEvSvcDphf26wTes3BAYYQHaFj?pid=ImgDet&rs=1" group-title="Local Channels",TV Tabalong
 https://5bf7b725107e5.streamlock.net/tvtabalong/tvtabalong/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-url="https://iptv-org.github.io/epg/guides/id.xml" tvg-logo="https://i.ytimg.com/vi/KW9icSqlC50/maxresdefault_live.jpg" group-title="Local Channels",DTVI
-https://alfa.kugo.id/dtvi/rtmp.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-url="https://iptv-org.github.io/epg/guides/id.xml" tvg-logo="https://yt3.ggpht.com/a/AATXAJw0M_SfVS1d10Wp6ofhnFX0xLJrQODltIlvmg=s900-c-k-c0xffffffff-no-rj-mo" group-title="Local Channels",Garda TV
 https://bintangtv.siar.us/bintangtv/live/playlist.m3u8
