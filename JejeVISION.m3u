@@ -165,15 +165,9 @@ https://nusantaratv.siar.us/nusantaratv/live/chunks.m3u8
 http://rr2.dens.tv/s/s10/index.m3u8
 
 =============TV MOVIES==================
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-<<<<<<< HEAD
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 group-title="Premium Movies" tvg-id="HBOAsia.sg" tvg-url="https://iptv-org.github.io/epg/guides/id.xml" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_401.png",HBO
-=======
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTINF:-1  group-title="Premium Movies" tvg-id="HBOAsia.sg" tvg-url="https://iptv-org.github.io/epg/guides/id.xml" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch115_160_115",HBO HD
 https://anevia114.mncnow.id:443/live/eds/hbo-2/sa_dash_vmx/hbo-2.mpd
->>>>>>> 429fe9be61ab48d04d1a75756786d65b476f1061
 https://av-live-cdn.mncnow.id/live/eds/hbo-2/sa_dash_vmx/hbo-2.mpd
 https://liveanevia.mncnow.id/live/eds/hbo-2/sa_dash_vmx/hbo-2.mpd
 
