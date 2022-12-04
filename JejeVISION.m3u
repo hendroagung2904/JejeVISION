@@ -769,7 +769,7 @@ https://liveanevia.mncnow.id/live/eds/Life/sa_dash_vmx/Life.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:-1 tvg-id="EWTNAfricaAsia.u" tvg-url="https://iptv-org.github.io/epg/guides/id.xml" tvg-logo="https://www.lyngsat.com/logo/tv/ee/ewtn_us.png" group-title="Christian Channels",EWTN
+#EXTINF:-1 tvg-id="EWTNAfricaAsia.us" tvg-url="https://iptv-org.github.io/epg/guides/id.xml" tvg-logo="https://www.lyngsat.com/logo/tv/ee/ewtn_us.png" group-title="Christian Channels",EWTN
 https://anevia114.mncnow.id/live/eds/EWTN/sa_dash_vmx/EWTN.mpd
 https://av-live-cdn.mncnow.id/live/eds/EWTN/sa_dash_vmx/EWTN.mpd
 https://liveanevia.mncnow.id/live/eds/EWTN/sa_dash_vmx/EWTN.mpd
