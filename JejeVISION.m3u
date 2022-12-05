@@ -1,33 +1,5 @@
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/id.xml"
 
-<======================== World Cup ===================================>
-#EXTINF:-1 group-title="World Cup Qatar 2022" tvg-logo="https://www.pngfind.com/pngs/m/212-2127156_-1-bein.png",Bein Max 1 HD
-http://appfactory.group:8080/qwiyJT4YBH/lBcCDVscVm/43852
-
-#EXTINF:-1 group-title="World Cup Qatar 2022" tvg-logo="https://i.ibb.co/5TSxpCD/bein-max-2.png",Bein Max 2 HD
-http://appfactory.group:8080/qwiyJT4YBH/lBcCDVscVm/43853
-
-#EXTINF:-1 group-title="World Cup Qatar 2022" tvg-logo="https://i.goalzz.com/?i=o%2fh%2f1%2f272%2fbein-sports-france-1.png",Bein Max 3 HD
-http://appfactory.group:8080/qwiyJT4YBH/lBcCDVscVm/43854
-
-#EXTINF:-1 group-title="World Cup Qatar 2022" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3f/BE_IN_SPORT_MAX_4_2017.png/revision/latest/scale-to-width-down/1000?cb=20191022181322",Bein Max 4 HD
-http://appfactory.group:8080/qwiyJT4YBH/lBcCDVscVm/43855
-
-#EXTINF:-1 group-title="World Cup Qatar 2022" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/TSN1.svg/2560px-TSN1.svg.png",TSN 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-https://cdn.raino.xyz/hls/stream2.m3u8|referer=https://bdnewszh.com/ 
-
-#EXTINF:-1 group-title="World Cup Qatar 2022" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/TSN2.svg/2560px-TSN2.svg.png",TSN 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-https://cdn.raino.xyz/hls/stream1.m3u8|referer=https://bdnewszh.com/
-
-#EXTINF:-1 group-title="World Cup Qatar 2022" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/777px-TyC_Sports_logo.svg.png?20221004223240",TyCSports
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-https://d3awnlgqz0szay.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index.m3u8
-
-#EXTINF:-1 tvg-ID="" tvg-name="TVRI SPORT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVNLUBqUgpv-mfc_sZ7mNmdAevDlB53ByvoQ&usqp=CAU" group-title="Sports",TVRI SPORT
-http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
-
 
 <==========================Indonesia Channels=============================
 
@@ -255,6 +227,7 @@ https://liveanevia.mncnow.id/live/eds/SetOne/sa_dash_vmx/SetOne.mpd
 https://anevia114.mncnow.id/live/eds/HITS/sa_dash_vmx/HITS.mpd
 https://av-live-cdn.mncnow.id/live/eds/HITS/sa_dash_vmx/HITS.mpd
 https://liveanevia.mncnow.id/live/eds/HITS/sa_dash_vmx/HITS.mpd
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTINF:-1 group-title="Premium Movies" tvg-id="" tvg-url="https://iptv-org.github.io/epg/guides/id.xml" tvg-logo="https://www.useetv.com/pimages/logo_hitsmovie_big.png?v=1",HITS Movies
