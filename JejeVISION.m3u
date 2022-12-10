@@ -2,8 +2,10 @@
 #EXTM3U x-url-tvg="https://iptv-org.github.io/epg/guides/id.xml"
 
 <==========================WorldCup Qatar 2022==========================>
+#EXTINF:-1  tvg-name="WC 3" tvg-id="" tvg-logo="https://i.imgur.com/DXk5cvP.png" :http-referrer="",SBS HD
+https://sbs-live.akamaized.net/hls/live/2002827/channel1/open/master.m3u8
 
-#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://i.imgur.com/I3yWDTY.jpg" group-title="WorldCup Qatar 2022" :http-referrer="",NOW 
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://img.uswitch.com/n36b8lzdmgnp/5bWh7LS1wvvoqxRUQjHqbG/3e90e5a51b6da6a2867e929854452926/NOW_16x9.png?" group-title="WorldCup Qatar 2022" :http-referrer="",NOW 
 http://iptv12k.com:35461/80203091402/213445/14400
 
 #EXTINF:-1 tvg-id="" group-title="WorldCup Qatar 2022" tvg-url="https://iptv-org.github.io/epg/guides/id.xml" tvg-logo="https://www.pngfind.com/pngs/m/212-2127156_-1-bein.png",Bein Max 1 HD (Arabic)
