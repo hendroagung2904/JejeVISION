@@ -19,6 +19,23 @@ http://appfactory.group:8080/qwiyJT4YBH/lBcCDVscVm/43854
 
 #EXTINF:-1 tvg-id="" group-title="WorldCup Qatar 2022" tvg-url="https://iptv-org.github.io/epg/guides/id.xml" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS_MAX4_DIGITAL_Mono.png",Bein Max 4 HD (English)
 http://appfactory.group:8080/qwiyJT4YBH/lBcCDVscVm/43855
+
+
+<============================= BRI Liga 1 ==================================>
+#EXTINF:-1 group-title="BRI Liga 1" tvg-logo="https://asset.indosport.com/article/image/q/80/329743/liga_1_bri_1-169.jpg?w=750&h=423",1.BRI LIVE 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+https://etslive-2-vidio-com.akamaized.net/exp=1670775765~acl=/vp9/205_stream.mpd!/vp9/205/*!/vp9/*/205_stream.mpd!/vp9/*/205/*~hmac=d2170a993b3c69eecf353ebbce32cfa0515d6b3b164f8ff172d1aba7c27b15c4/vp9/205_stream.mpd
+
+#EXTINF:-1 group-title="BRI Liga 1" tvg-logo="https://asset.indosport.com/article/image/q/80/329743/liga_1_bri_1-169.jpg?w=750&h=423",2.BRI LIVE 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+https://etslive-2-vidio-com.akamaized.net/exp=1670775765~acl=/vp9/205_stream.mpd!/vp9/205/*!/vp9/*/205_stream.mpd!/vp9/*/205/*~hmac=d2170a993b3c69eecf353ebbce32cfa0515d6b3b164f8ff172d1aba7c27b15c4/vp9/205_stream.mpd
+      
+#EXTINF:-1 group-title="BRI Liga 1" tvg-logo="https://asset.indosport.com/article/image/q/80/329743/liga_1_bri_1-169.jpg?w=750&h=423",2.BRI LIVE 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://golive.yn.lt/live/liga1/04.m3u8
+
+
+
 <==========================Indonesia Channels=============================
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
