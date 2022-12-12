@@ -15,15 +15,21 @@ http://appfactory.group:8080/qwiyJT4YBH/lBcCDVscVm/43855
 <============================= BRI Liga 1 ==================================>
 #EXTINF:-1 group-title="BRI Liga 1" tvg-logo="https://asset.indosport.com/article/image/q/80/329743/liga_1_bri_1-169.jpg?w=750&h=423",1.BRI LIVE 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-https://etslive-2-vidio-com.akamaized.net/exp=1670775765~acl=/vp9/205_stream.mpd!/vp9/205/*!/vp9/*/205_stream.mpd!/vp9/*/205/*~hmac=d2170a993b3c69eecf353ebbce32cfa0515d6b3b164f8ff172d1aba7c27b15c4/vp9/205_stream.mpd
+https://cakhiapro.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@caysd1/chunklist.m3u8|Referer=https://xem.cakhia22.live/      
 
 #EXTINF:-1 group-title="BRI Liga 1" tvg-logo="https://asset.indosport.com/article/image/q/80/329743/liga_1_bri_1-169.jpg?w=750&h=423",2.BRI LIVE 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-https://etslive-2-vidio-com.akamaized.net/exp=1670775765~acl=/vp9/205_stream.mpd!/vp9/205/*!/vp9/*/205_stream.mpd!/vp9/*/205/*~hmac=d2170a993b3c69eecf353ebbce32cfa0515d6b3b164f8ff172d1aba7c27b15c4/vp9/205_stream.mpd
+https://live.vbfast.xyz/e709026089a6ecd4a43a3dc30e079cfa/1670884612789/as9xexm/index.m3u8|Referer=https://xl.plvb.xyz/
+      
       
 #EXTINF:-1 group-title="BRI Liga 1" tvg-logo="https://asset.indosport.com/article/image/q/80/329743/liga_1_bri_1-169.jpg?w=750&h=423",2.BRI LIVE 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-http://golive.yn.lt/live/liga1/04.m3u8
+http://golive.yn.lt/live/liga1/07.m3u8
+
+      
+#EXTINF:-1 group-title="BRI Liga 1" tvg-logo="https://asset.indosport.com/article/image/q/80/329743/liga_1_bri_1-169.jpg?w=750&h=423",2.BRI LIVE 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) 
+http://golive.yn.lt/live/liga1/01.m3u8
 
 
 
