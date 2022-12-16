@@ -2,6 +2,10 @@
 #EXTM3U x-url-tvg="https://iptv-org.github.io/epg/guides/id.xml"
 
 <==========================WorldCup Qatar 2022==========================>
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b8/MUTV_logo.png" group-title="WorldCup Qatar 2022",MU TV
+#http://live.tv360.vn/manifest/VTV5_HD/playlist_1080p.m3u8
+https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" group-title="WorldCup Qatar 2022" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/KNN_logo.svg/1200px-KNN_logo.svg.png",KNN-TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 http://211.220.195.200:1935/live/mp4:KnnTV.sdp/chunklist.m3u8
