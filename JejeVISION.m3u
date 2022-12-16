@@ -32,6 +32,13 @@ http://iptvtree.net:8080/fatihduraku2022/wy5h2GVXZsXuk9cG/13813
 <=================Indonesia Channels=============================
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MjhkOWZkZjYtOGViOC0zNTkzLWFhOWEtNGFhMzJkMDk3NGE2
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-h0PrCHAJzNo/Ute6GvqMZGI/AAAAAAAACoI/KF_xPaBLzi0/s1600/Logo+SCTV.png" group-title="Indonesia Channels" tvg-id="SCTV.id" tvg-name="SCTV", SCTV
+#http://nonton.wap.sh/id/009.m3u8
+http://mpwtv.my.id/vidioye/204-sctv.m3u8
+
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-id="RCTI.id" group-title="Indonesia Channels" tvg-url="https://iptv-org.github.io/epg/guides/id.xml" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_80.png",RCTI
 https://anevia114.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
