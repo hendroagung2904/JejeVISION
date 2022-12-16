@@ -307,6 +307,13 @@ https://anevia114.mncnow.id/live/eds/AXN/sa_dash_vmx/AXN.mpd
 #EXTINF:-1 group-title="Entertainment & LifeStyle" tvg-id="WarnerTVAsia.us" tvg-url="https://iptv-org.github.io/epg/guides/id.xml" tvg-logo="https://www.useetv.com/pimages/logo_warner_big.png?v=1",Warner TV
 https://anevia114.mncnow.id/live/eds/WarnerTV/sa_dash_vmx/WarnerTV.mpd
 
+#EXTINF:-1 tvg-logo="https://www.dens.tv/images/channel-logo/39.jpg" group-title="Entertainment & LifeStyle",Rock Entertainment
+http://210.210.155.37/dr9445/h/h16/01.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.dens.tv/images/channel-logo/44.jpg" group-title="Entertainment & LifeStyle",Rock Action
+http://210.210.155.37/dr9445/h/h15/01.m3u8
+
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTINF:-1 tvg-id="FoodNetworkAsia.sg" tvg-url="https://iptv-org.github.io/epg/guides/id.xml" tvg-logo="https://assetsmysky.blob.core.windows.net/assetsmysky/production/plans-and-bundles/1578301669_logo-asian-food-network-lg.png" group-title="Entertainment & LifeStyle",Asian Food Channel
