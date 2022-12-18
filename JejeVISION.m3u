@@ -2,7 +2,7 @@
 #EXTM3U x-url-tvg="https://iptv-org.github.io/epg/guides/id.xml"
 
 <==========================WorldCup Qatar 2022==========================>
-#EXTINF:-1 group-title="WorldCup Qatar 2022" tvg-logo="https://i.postimg.cc/v8Svy4DX/1667656191-picsay.png",World Cup (Live 2)
+#EXTINF:-1 group-title="WorldCup Qatar 2022" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/1024px-TUDN_Logo.svg.png",TUDN-TV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=MzcwM2FjMDQtY2UxOS0zMDk3LTkzMTYtZWM2MWM5NmI5NTYw
 https://live1-ott.izzigo.tv/out/u/dash/TUDN-HD/default.mpd
