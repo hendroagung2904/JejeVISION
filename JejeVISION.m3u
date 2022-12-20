@@ -937,3 +937,442 @@ https://5bf7b725107e5.streamlock.net/tvtabalong/tvtabalong/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-url="https://iptv-org.github.io/epg/guides/id.xml" tvg-logo="https://yt3.ggpht.com/a/AATXAJw0M_SfVS1d10Wp6ofhnFX0xLJrQODltIlvmg=s900-c-k-c0xffffffff-no-rj-mo" group-title="Local Channels",Garda TV
 https://bintangtv.siar.us/bintangtv/live/playlist.m3u8
 
+
+
+<================================ Test Channel ========================================>
+
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="INDOSIAR" tvg-logo="http://103.150.197.50:25461/images/7df6bbbecfb1e436fbbe52f8513aac7c.png" group-title="Test Channel",INDOSIAR
+http://live.ezrtv.my.id:25461/mantanganteng/duluganteng/161
+
+#EXTINF:-1 tvg-id="" tvg-name="SCTV" tvg-logo="http://103.150.197.50:25461/images/ae413076479a995ffcdbe1bf4c879975.png" group-title="Test Channel",SCTV
+http://live.ezrtv.my.id:25461/mantanganteng/duluganteng/162
+
+#EXTINF:-1 tvg-id="" tvg-name="TRANS 7" tvg-logo="http://103.150.197.50:25461/images/90a262a9b12ba68a289c062471b25aa8.png" group-title="Test Channel",TRANS 7
+http://live.ezrtv.my.id:25461/mantanganteng/duluganteng/163
+
+#EXTINF:-1 tvg-id="" tvg-name="TRANS TV" tvg-logo="http://103.150.197.50:25461/images/bd4d5b646a97daf662b860a9966495a6.png" group-title="Test Channel",TRANS TV
+http://live.ezrtv.my.id:25461/mantanganteng/duluganteng/164
+
+#EXTINF:-1 tvg-id="" tvg-name="RCTI" tvg-logo="http://103.150.197.50:25461/images/72cbdc4cc86b3096b1d15cb99647095a.png" group-title="Test Channel",RCTI
+http://live.ezrtv.my.id:25461/mantanganteng/duluganteng/165
+
+#EXTINF:-1 tvg-id="" tvg-name="MNC TV" tvg-logo="http://103.150.197.50:25461/images/7e08f27db9bd93e9b50b1de7df9d8981.png" group-title="Test Channel",MNC TV
+http://live.ezrtv.my.id:25461/mantanganteng/duluganteng/166
+
+#EXTINF:-1 tvg-id="" tvg-name="GTV" tvg-logo="http://103.150.197.50:25461/images/08c1fe6acec1db1aeebfc7271f123fbf.png" group-title="Test Channel",GTV
+http://live.ezrtv.my.id:25461/mantanganteng/duluganteng/167
+
+#EXTINF:-1 tvg-id="" tvg-name="iNEWS" tvg-logo="http://103.150.197.50:25461/images/87ade457c3f0acf23be363f6c43e1499.png" group-title="Test Channel",iNEWS
+http://live.ezrtv.my.id:25461/mantanganteng/duluganteng/168
+
+#EXTINF:-1 tvg-id="" tvg-name="TV ONE" tvg-logo="http://103.150.197.50:25461/images/a611b52a5664ac85bbb85cd8b5c8d882.png" group-title="Test Channel",TV ONE
+http://live.ezrtv.my.id:25461/mantanganteng/duluganteng/169
+
+#EXTINF:-1 tvg-id="" tvg-name="ANTV" tvg-logo="http://103.150.197.50:25461/images/cd0c0e1bb4992da1b91208f4fcf56a41.png" group-title="Test Channel",ANTV
+http://live.ezrtv.my.id:25461/mantanganteng/duluganteng/170
+
+#EXTINF:-1 tvg-id="" tvg-name="NET TV" tvg-logo="http://103.150.197.50:25461/images/7a97e60cdc46b6fb8b212b4fd72bcbfa.png" group-title="Test Channel",NET TV
+http://live.ezrtv.my.id:25461/mantanganteng/duluganteng/171
+
+#EXTINF:-1 tvg-id="" tvg-name="METRO TV" tvg-logo="http://103.150.197.50:25461/images/9a892fe3c69fed1b4b21437c0e9205d5.png" group-title="Test Channel",METRO TV
+http://live.ezrtv.my.id:25461/mantanganteng/duluganteng/172
+
+#EXTINF:-1 tvg-id="" tvg-name="KOMPAS TV" tvg-logo="http://103.150.197.50:25461/images/3c75556d944d066c0da880afc7ccd46a.png" group-title="Test Channel",KOMPAS TV
+http://live.ezrtv.my.id:25461/mantanganteng/duluganteng/173
+
+#EXTINF:-1 tvg-id="" tvg-name="RTV" tvg-logo="http://103.150.197.50:25461/images/6815c9cc689151914b890cc2c8a952c3.png" group-title="Test Channel",RTV
+http://live.ezrtv.my.id:25461/mantanganteng/duluganteng/174
+
+#EXTINF:-1 tvg-id="" tvg-name="MNC NEWS" tvg-logo="https://images.useetv.com/logo_mncnews_small.png" group-title="Test Channel",MNC NEWS
+http://live.ezrtv.my.id:25461/mantanganteng/duluganteng/175
+
+#EXTINF:-1 tvg-id="" tvg-name="CNN INDONESIA" tvg-logo="https://i.ibb.co/sVBJdNZ/cnn-indo-home-tv.png" group-title="Test Channel",CNN INDONESIA
+http://live.ezrtv.my.id:25461/mantanganteng/duluganteng/176
+
+#EXTINF:-1 tvg-id="" tvg-name="CNBC INDONESIA" tvg-logo="https://i.ibb.co/h8y058y/cnbc-indo-home-tv.png" group-title="Test Channel",CNBC INDONESIA
+http://live.ezrtv.my.id:25461/mantanganteng/duluganteng/177
+
+#EXTINF:-1 tvg-id="" tvg-name="MENTARI TV" tvg-logo="https://i.ibb.co/tY0Q0yc/Mentari-tv-hometv.png" group-title="Test Channel",MENTARI TV
+http://live.ezrtv.my.id:25461/mantanganteng/duluganteng/178
+
+#EXTINF:-1 tvg-id="" tvg-name="TVRI" tvg-logo="http://103.150.197.50:25461/images/1ce1c72d240fa06a934173c178e3affe.png" group-title="Test Channel",TVRI
+http://live.ezrtv.my.id:25461/mantanganteng/duluganteng/179
+
+#EXTINF:-1 tvg-id="" tvg-name="JAK TV" tvg-logo="http://103.150.197.50:25461/images/f6a7ca65f082cf0a0cde0bc9d952ad82.png" group-title="Test Channel",JAK TV
+http://live.ezrtv.my.id:25461/mantanganteng/duluganteng/180
+
+#EXTINF:-1 tvg-id="" tvg-name="HBO" tvg-logo="https://i.ibb.co/zShNF6p/hbo-id-home-tv.png" group-title="Test Channel",HBO
+http://live.ezrtv.my.id:25461/mantanganteng/duluganteng/181
+
+#EXTINF:-1 tvg-id="" tvg-name="HBO HITS" tvg-logo="https://i.ibb.co/wMCgKGp/hbo-hits-home-tv.png" group-title="Test Channel",HBO HITS
+http://live.ezrtv.my.id:25461/mantanganteng/duluganteng/182
+
+#EXTINF:-1 tvg-id="" tvg-name="HBO SIGNATURE" tvg-logo="https://i.ibb.co/sbTYFCN/hob-sig-home-tv.png" group-title="Test Channel",HBO SIGNATURE
+http://live.ezrtv.my.id:25461/mantanganteng/duluganteng/183
+
+#EXTINF:-1 tvg-id="" tvg-name="HBO FAMILY" tvg-logo="https://i.ibb.co/8P2SJM7/hbo-fam-home-tv.png" group-title="Test Channel",HBO FAMILY
+http://live.ezrtv.my.id:25461/mantanganteng/duluganteng/184
+
+#EXTINF:-1 tvg-id="" tvg-name="CINEMAX" tvg-logo="https://i.ibb.co/0yJjMdB/hbo-max-home-tv.png" group-title="Test Channel",CINEMAX
+http://live.ezrtv.my.id:25461/mantanganteng/duluganteng/185
+
+#EXTINF:-1 tvg-id="" tvg-name="FLIK" tvg-logo="http://103.150.197.50:25461/images/aea434288128626961776d8886da521c.png" group-title="Test Channel",FLIK
+http://live.ezrtv.my.id:25461/mantanganteng/duluganteng/186
+
+#EXTINF:-1 tvg-id="" tvg-name="IMC" tvg-logo="http://103.150.197.50:25461/images/77d9beb631ac44b8dbdd5081cee98962.png" group-title="Test Channel",IMC
+http://live.ezrtv.my.id:25461/mantanganteng/duluganteng/187
+
+#EXTINF:-1 tvg-id="" tvg-name="CCM" tvg-logo="https://i.ibb.co/M7HjR3n/ccm-home-tv.png" group-title="Test Channel",CCM
+http://live.ezrtv.my.id:25461/mantanganteng/duluganteng/188
+
+#EXTINF:-1 tvg-id="" tvg-name="AXN" tvg-logo="http://103.150.197.50:25461/images/2eaa0d9164ed29051ffd2af5972f8cab.png" group-title="Test Channel",AXN
+http://live.ezrtv.my.id:25461/mantanganteng/duluganteng/189
+
+#EXTINF:-1 tvg-id="" tvg-name="WARNER" tvg-logo="http://103.150.197.50:25461/images/c11c021cada6a4b1491b2ea4d8a36ab0.png" group-title="Test Channel",WARNER
+http://live.ezrtv.my.id:25461/mantanganteng/duluganteng/190
+
+#EXTINF:-1 tvg-id="" tvg-name="THRILL" tvg-logo="http://103.150.197.50:25461/images/7045b9136c4b574a61e2decc3908f72f.png" group-title="Test Channel",THRILL
+http://live.ezrtv.my.id:25461/mantanganteng/duluganteng/191
+
+#EXTINF:-1 tvg-id="" tvg-name="TVN MOVIES" tvg-logo="http://103.150.197.50:25461/images/f2887b7385550ac743f72547529aabe9.png" group-title="Test Channel",TVN MOVIES
+http://live.ezrtv.my.id:25461/mantanganteng/duluganteng/192
+
+#EXTINF:-1 tvg-id="" tvg-name="ZEE BIOSKOP" tvg-logo="http://103.150.197.50:25461/images/b7a84e81ae4c60c9cb2023bb3540db37.png" group-title="Test Channel",ZEE BIOSKOP
+http://live.ezrtv.my.id:25461/mantanganteng/duluganteng/193
+
+#EXTINF:-1 tvg-id="" tvg-name="GALAXY" tvg-logo="http://103.150.197.50:25461/images/27b902760793109d66c9ac283313cc56.png" group-title="Test Channel",GALAXY
+http://live.ezrtv.my.id:25461/mantanganteng/duluganteng/194
+
+#EXTINF:-1 tvg-id="" tvg-name="GALAXY PREMIUM" tvg-logo="http://103.150.197.50:25461/images/913adc100a4d6efe5677d96105380ff7.png" group-title="Test Channel",GALAXY PREMIUM
+http://live.ezrtv.my.id:25461/mantanganteng/duluganteng/195
+
+#EXTINF:-1 tvg-id="" tvg-name="CINEMA WORLD" tvg-logo="http://103.150.197.50:25461/images/ca593c1b2ea38de021239d140b195d11.png" group-title="Test Channel",CINEMA WORLD
+http://live.ezrtv.my.id:25461/mantanganteng/duluganteng/196
+
+#EXTINF:-1 tvg-id="" tvg-name="Celestial Movies" tvg-logo="http://103.150.197.50:25461/images/c2649f6e46a33ced289f0485a7103b64.png" group-title="Test Channel",Celestial Movies
+http://live.ezrtv.my.id:25461/mantanganteng/duluganteng/197
+
+#EXTINF:-1 tvg-id="" tvg-name="HIts" tvg-logo="http://103.150.197.50:25461/images/526336e504f7d97c645adebb2e66546d.png" group-title="Test Channel",HIts
+http://live.ezrtv.my.id:25461/mantanganteng/duluganteng/198
+
+#EXTINF:-1 tvg-id="" tvg-name="HITS MOVIES" tvg-logo="http://103.150.197.50:25461/images/392f3f8d60488a57ef0d22ecc48cfa6f.png" group-title="Test Channel",HITS MOVIES
+http://live.ezrtv.my.id:25461/mantanganteng/duluganteng/199
+
+#EXTINF:-1 tvg-id="" tvg-name="Paramount" tvg-logo="http://103.150.197.50:25461/images/b6efe05c7bc218f61042f3fe19ba085c.png" group-title="Test Channel",Paramount
+http://live.ezrtv.my.id:25461/mantanganteng/duluganteng/200
+
+#EXTINF:-1 tvg-id="" tvg-name="MY CINEMA" tvg-logo="http://103.150.197.50:25461/images/d3f15b6111c34dc91996e718ba818eb4.png" group-title="Test Channel",MY CINEMA
+http://live.ezrtv.my.id:25461/mantanganteng/duluganteng/201
+
+#EXTINF:-1 tvg-id="" tvg-name="MY CINEMA ASIA" tvg-logo="http://103.150.197.50:25461/images/496b1813ea66bec52da5b5af09ea0124.png" group-title="Test Channel",MY CINEMA ASIA
+http://live.ezrtv.my.id:25461/mantanganteng/duluganteng/202
+
+#EXTINF:-1 tvg-id="" tvg-name="MY FAMILY CHANNEL" tvg-logo="http://103.150.197.50:25461/images/7c6eb04f3448e097cd8624726390cb29.png" group-title="Test Channel",MY FAMILY CHANNEL
+http://live.ezrtv.my.id:25461/mantanganteng/duluganteng/203
+
+#EXTINF:-1 tvg-id="" tvg-name="KIDS TV" tvg-logo="https://i.ibb.co/5j9hPyP/Kids-tv.png" group-title="Test Channel",KIDS TV
+http://live.ezrtv.my.id:25461/mantanganteng/duluganteng/204
+
+#EXTINF:-1 tvg-id="" tvg-name="NICK JR" tvg-logo="http://103.150.197.50:25461/images/6235bbb0b23e20f7dd41fa1aae1b6e1f.png" group-title="Test Channel",NICK JR
+http://live.ezrtv.my.id:25461/mantanganteng/duluganteng/205
+
+#EXTINF:-1 tvg-id="" tvg-name="CBEEBIES" tvg-logo="https://i.ibb.co/gJWY4ws/Cbeebies.png" group-title="Test Channel",CBEEBIES
+http://live.ezrtv.my.id:25461/mantanganteng/duluganteng/206
+
+#EXTINF:-1 tvg-id="" tvg-name="NICKELODEON" tvg-logo="http://103.150.197.50:25461/images/3a8750e5cc99daba02f1f52ff124e247.png" group-title="Test Channel",NICKELODEON
+http://live.ezrtv.my.id:25461/mantanganteng/duluganteng/207
+
+#EXTINF:-1 tvg-id="" tvg-name="DREAMWORKS" tvg-logo="http://103.150.197.50:25461/images/b3e7539279749c0c9c3b4bb8c5c0255c.png" group-title="Test Channel",DREAMWORKS
+http://live.ezrtv.my.id:25461/mantanganteng/duluganteng/208
+
+#EXTINF:-1 tvg-id="" tvg-name="BOOMERANG" tvg-logo="http://103.150.197.50:25461/images/dcb09a6f9fdf3555b98ed142fd889d90.png" group-title="Test Channel",BOOMERANG
+http://live.ezrtv.my.id:25461/mantanganteng/duluganteng/209
+
+#EXTINF:-1 tvg-id="" tvg-name="CARTOON NETWORK" tvg-logo="http://103.150.197.50:25461/images/68a1d574d64a4fff2aa1d4469f7c3c39.png" group-title="Test Channel",CARTOON NETWORK
+http://live.ezrtv.my.id:25461/mantanganteng/duluganteng/210
+
+#EXTINF:-1 tvg-id="" tvg-name="MIAO MI" tvg-logo="https://i.ibb.co/HpFcz8w/Miao-mi.png" group-title="Test Channel",MIAO MI
+http://live.ezrtv.my.id:25461/mantanganteng/duluganteng/211
+
+#EXTINF:-1 tvg-id="" tvg-name="BABY TV" tvg-logo="https://i.ibb.co/CPpm4C7/Baby-tv.png" group-title="Test Channel",BABY TV
+http://live.ezrtv.my.id:25461/mantanganteng/duluganteng/212
+
+#EXTINF:-1 tvg-id="" tvg-name="ANIMAX" tvg-logo="http://103.150.197.50:25461/images/be524b7051b875fe06fe88cad9cc0322.png" group-title="Test Channel",ANIMAX
+http://live.ezrtv.my.id:25461/mantanganteng/duluganteng/213
+
+#EXTINF:-1 tvg-id="" tvg-name="ANIPLUS" tvg-logo="http://103.150.197.50:25461/images/8934fe76892fd7a88d78b3d1763f2ede.png" group-title="Test Channel",ANIPLUS
+http://live.ezrtv.my.id:25461/mantanganteng/duluganteng/214
+
+#EXTINF:-1 tvg-id="" tvg-name="UPIN & IPIN" tvg-logo="https://i.ibb.co/BnwXR2w/Upin-ipin.png" group-title="Test Channel",UPIN & IPIN
+http://live.ezrtv.my.id:25461/mantanganteng/duluganteng/215
+
+#EXTINF:-1 tvg-id="" tvg-name="SOPO JARWO" tvg-logo="https://i.ibb.co/RyS9H7T/Sopo-jarwo.png" group-title="Test Channel",SOPO JARWO
+http://live.ezrtv.my.id:25461/mantanganteng/duluganteng/216
+
+#EXTINF:-1 tvg-id="" tvg-name="MASHA AND THE BEAR" tvg-logo="https://i.ibb.co/sjPmrJ2/Masha-bear.png" group-title="Test Channel",MASHA AND THE BEAR
+http://live.ezrtv.my.id:25461/mantanganteng/duluganteng/217
+
+#EXTINF:-1 tvg-id="" tvg-name="BERNARD" tvg-logo="https://i.ibb.co/W04R25f/Bernard.png" group-title="Test Channel",BERNARD
+http://live.ezrtv.my.id:25461/mantanganteng/duluganteng/218
+
+#EXTINF:-1 tvg-id="" tvg-name="SHAUN THE SHEEP" tvg-logo="https://i.ibb.co/tX5tpsC/Shaun-the-sheep.png" group-title="Test Channel",SHAUN THE SHEEP
+http://live.ezrtv.my.id:25461/mantanganteng/duluganteng/219
+
+#EXTINF:-1 tvg-id="" tvg-name="DONALD DUCK" tvg-logo="https://i.ibb.co/HtVbYF3/Donal-duck.png" group-title="Test Channel",DONALD DUCK
+http://live.ezrtv.my.id:25461/mantanganteng/duluganteng/220
+
+#EXTINF:-1 tvg-id="" tvg-name="LARVA" tvg-logo="https://i.ibb.co/CMFv3H3/Larva-hometv.png" group-title="Test Channel",LARVA
+http://live.ezrtv.my.id:25461/mantanganteng/duluganteng/221
+
+#EXTINF:-1 tvg-id="" tvg-name="BEAN CARTOON" tvg-logo="https://i.ibb.co/RjTCm89/Bean-cartoon.png" group-title="Test Channel",BEAN CARTOON
+http://live.ezrtv.my.id:25461/mantanganteng/duluganteng/222
+
+#EXTINF:-1 tvg-id="" tvg-name="VISION PRIME" tvg-logo="https://i.ibb.co/mFgTVP8/Vision-prime.png" group-title="Test Channel",VISION PRIME
+http://live.ezrtv.my.id:25461/mantanganteng/duluganteng/223
+
+#EXTINF:-1 tvg-id="" tvg-name="OK TV" tvg-logo="https://i.ibb.co/sKkdBM7/Ok-tv.png" group-title="Test Channel",OK TV
+http://live.ezrtv.my.id:25461/mantanganteng/duluganteng/224
+
+#EXTINF:-1 tvg-id="" tvg-name="K+" tvg-logo="https://i.ibb.co/VJX5J43/Kplus-home-tv.png" group-title="Test Channel",K+
+http://live.ezrtv.my.id:25461/mantanganteng/duluganteng/225
+
+#EXTINF:-1 tvg-id="" tvg-name="TVN" tvg-logo="http://103.150.197.50:25461/images/803e78becd80916a25b40d805ad9b0c2.png" group-title="Test Channel",TVN
+http://live.ezrtv.my.id:25461/mantanganteng/duluganteng/226
+
+#EXTINF:-1 tvg-id="" tvg-name="FMN" tvg-logo="https://i.ibb.co/3cxYF75/Fmn.png" group-title="Test Channel",FMN
+http://live.ezrtv.my.id:25461/mantanganteng/duluganteng/227
+
+#EXTINF:-1 tvg-id="" tvg-name="MNC ENTERTAINMENT" tvg-logo="https://i.ibb.co/P4gvtjX/Mnc-entertainment.png" group-title="Test Channel",MNC ENTERTAINMENT
+http://live.ezrtv.my.id:25461/mantanganteng/duluganteng/228
+
+#EXTINF:-1 tvg-id="" tvg-name="MNC INFOTAINMENT" tvg-logo="https://i.ibb.co/gJWTF9h/Mnc-infotainment.png" group-title="Test Channel",MNC INFOTAINMENT
+http://live.ezrtv.my.id:25461/mantanganteng/duluganteng/229
+
+#EXTINF:-1 tvg-id="" tvg-name="SONY ONE" tvg-logo="https://i.ibb.co/n7KzQjg/s-one-home-tv.png" group-title="Test Channel",SONY ONE
+http://live.ezrtv.my.id:25461/mantanganteng/duluganteng/230
+
+#EXTINF:-1 tvg-id="" tvg-name="Sony Gem" tvg-logo="https://i.ibb.co/W0THBXG/s-gem-home-tv.png" group-title="Test Channel",Sony Gem
+http://live.ezrtv.my.id:25461/mantanganteng/duluganteng/231
+
+#EXTINF:-1 tvg-id="" tvg-name="ROCK ENTERTAINMENT" tvg-logo="https://i.ibb.co/Df5t6mP/blue-ant-enter-home-tv.png" group-title="Test Channel",ROCK ENTERTAINMENT
+http://live.ezrtv.my.id:25461/mantanganteng/duluganteng/232
+
+#EXTINF:-1 tvg-id="" tvg-name="ROCK EXTREME" tvg-logo="https://i.ibb.co/hKL9phL/blue-ant-ext-home-tv.png" group-title="Test Channel",ROCK EXTREME
+http://live.ezrtv.my.id:25461/mantanganteng/duluganteng/233
+
+#EXTINF:-1 tvg-id="" tvg-name="TV 5 MONDE" tvg-logo="https://i.ibb.co/CBmYfk9/Tv5-monde.png" group-title="Test Channel",TV 5 MONDE
+http://live.ezrtv.my.id:25461/mantanganteng/duluganteng/234
+
+#EXTINF:-1 tvg-id="" tvg-name="ABC AUSTRALIA" tvg-logo="https://i.ibb.co/nbwrbYv/Abc-australia.png" group-title="Test Channel",ABC AUSTRALIA
+http://live.ezrtv.my.id:25461/mantanganteng/duluganteng/235
+
+#EXTINF:-1 tvg-id="" tvg-name="KBS WORLD" tvg-logo="https://i.ibb.co/YfybLv7/Kbs-world.png" group-title="Test Channel",KBS WORLD
+http://live.ezrtv.my.id:25461/mantanganteng/duluganteng/236
+
+#EXTINF:-1 tvg-id="" tvg-name="ARIRANG" tvg-logo="https://i.ibb.co/ykm1ppp/arirang-home-tv.png" group-title="Test Channel",ARIRANG
+http://live.ezrtv.my.id:25461/mantanganteng/duluganteng/237
+
+#EXTINF:-1 tvg-id="" tvg-name="NHK WORLD" tvg-logo="https://i.ibb.co/PC3hKNq/Nhk-world-home-tv.png" group-title="Test Channel",NHK WORLD
+http://live.ezrtv.my.id:25461/mantanganteng/duluganteng/238
+
+#EXTINF:-1 tvg-id="" tvg-name="NHK WORLD PREMIUM" tvg-logo="https://i.ibb.co/BKMtb5V/Nhk-world-premium.png" group-title="Test Channel",NHK WORLD PREMIUM
+http://live.ezrtv.my.id:25461/mantanganteng/duluganteng/239
+
+#EXTINF:-1 tvg-id="" tvg-name="SERU TV" tvg-logo="https://i.ibb.co/Zg60m6J/Seru-tv.png" group-title="Test Channel",SERU TV
+http://live.ezrtv.my.id:25461/mantanganteng/duluganteng/240
+
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY CHANNEL" tvg-logo="https://i.ibb.co/9y46z6n/Discovery-channel-home-tv.png" group-title="Test Channel",DISCOVERY CHANNEL
+http://live.ezrtv.my.id:25461/mantanganteng/duluganteng/241
+
+#EXTINF:-1 tvg-id="" tvg-name="Nat Geographic" tvg-logo="https://i.ibb.co/WcJSHvc/natgeo-home-tv.png" group-title="Test Channel",Nat Geographic
+http://live.ezrtv.my.id:25461/mantanganteng/duluganteng/242
+
+#EXTINF:-1 tvg-id="" tvg-name="NAT GEO WILD" tvg-logo="https://i.ibb.co/RPpN3KG/natgeo-wild-home-tv.png" group-title="Test Channel",NAT GEO WILD
+http://live.ezrtv.my.id:25461/mantanganteng/duluganteng/243
+
+#EXTINF:-1 tvg-id="" tvg-name="ANIMAL PLANET" tvg-logo="https://i.ibb.co/41MQQ8j/Animal-planet.png" group-title="Test Channel",ANIMAL PLANET
+http://live.ezrtv.my.id:25461/mantanganteng/duluganteng/244
+
+#EXTINF:-1 tvg-id="" tvg-name="BBC EARTH" tvg-logo="https://i.ibb.co/smgGgRB/bbc-earth-home-tv.png" group-title="Test Channel",BBC EARTH
+http://live.ezrtv.my.id:25461/mantanganteng/duluganteng/245
+
+#EXTINF:-1 tvg-id="" tvg-name="HISTORY" tvg-logo="https://i.ibb.co/4jSSG3Y/history-home-tv.png" group-title="Test Channel",HISTORY
+http://live.ezrtv.my.id:25461/mantanganteng/duluganteng/246
+
+#EXTINF:-1 tvg-id="" tvg-name="CRIME INVESTIGATION" tvg-logo="https://i.ibb.co/jMjWhcc/crime-investigation-home-tv.png" group-title="Test Channel",CRIME INVESTIGATION
+http://live.ezrtv.my.id:25461/mantanganteng/duluganteng/247
+
+#EXTINF:-1 tvg-id="" tvg-name="DMAX" tvg-logo="https://i.ibb.co/fHJdtSh/Dmax.png" group-title="Test Channel",DMAX
+http://live.ezrtv.my.id:25461/mantanganteng/duluganteng/248
+
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY ASIA" tvg-logo="https://i.ibb.co/Q6XFgnw/Disco-asia.png" group-title="Test Channel",DISCOVERY ASIA
+http://live.ezrtv.my.id:25461/mantanganteng/duluganteng/249
+
+#EXTINF:-1 tvg-id="" tvg-name="LOVE NATURE 4k" tvg-logo="https://i.ibb.co/Q9DVNPD/love-nature-home-tv.png" group-title="Test Channel",LOVE NATURE 4k
+http://live.ezrtv.my.id:25461/mantanganteng/duluganteng/250
+
+#EXTINF:-1 tvg-id="" tvg-name="SMITHSONIAN" tvg-logo="https://i.ibb.co/X751BzW/smithsonian-home-tv.png" group-title="Test Channel",SMITHSONIAN
+http://live.ezrtv.my.id:25461/mantanganteng/duluganteng/251
+
+#EXTINF:-1 tvg-id="" tvg-name="INWILD" tvg-logo="" group-title="Test Channel",INWILD
+http://live.ezrtv.my.id:25461/mantanganteng/duluganteng/252
+
+#EXTINF:-1 tvg-id="" tvg-name="SOCCER CHANNEL" tvg-logo="https://i.ibb.co/XS5sh23/Soccer-channel.png" group-title="Test Channel",SOCCER CHANNEL
+http://live.ezrtv.my.id:25461/mantanganteng/duluganteng/253
+
+#EXTINF:-1 tvg-id="" tvg-name="MNC SPORT 1" tvg-logo="https://i.ibb.co/59yh3c6/Mnc-sport1.png" group-title="Test Channel",MNC SPORT 1
+http://live.ezrtv.my.id:25461/mantanganteng/duluganteng/254
+
+#EXTINF:-1 tvg-id="" tvg-name="MNC SPORT 2" tvg-logo="https://i.ibb.co/zQ1fND3/Mnc-sport2.png" group-title="Test Channel",MNC SPORT 2
+http://live.ezrtv.my.id:25461/mantanganteng/duluganteng/255
+
+#EXTINF:-1 tvg-id="" tvg-name="MNC SPORT 3" tvg-logo="https://i.ibb.co/k90KDPm/Mnc-sport3.png" group-title="Test Channel",MNC SPORT 3
+http://live.ezrtv.my.id:25461/mantanganteng/duluganteng/256
+
+#EXTINF:-1 tvg-id="" tvg-name="MOJI" tvg-logo="https://i.ibb.co/Sc15qYG/Moji.png" group-title="Test Channel",MOJI
+http://live.ezrtv.my.id:25461/mantanganteng/duluganteng/257
+
+#EXTINF:-1 tvg-id="" tvg-name="USEE SPORTS 1" tvg-logo="https://i.ibb.co/zxMy9TG/useesport1-home-tv.png" group-title="Test Channel",USEE SPORTS 1
+http://live.ezrtv.my.id:25461/mantanganteng/duluganteng/258
+
+#EXTINF:-1 tvg-id="" tvg-name="USEE SPORTS 2" tvg-logo="https://i.ibb.co/jvyrSb5/useesport2-home-tv.png" group-title="Test Channel",USEE SPORTS 2
+http://live.ezrtv.my.id:25461/mantanganteng/duluganteng/259
+
+#EXTINF:-1 tvg-id="" tvg-name="SPO TV 1" tvg-logo="https://i.ibb.co/s5xQfGD/Spotv.png" group-title="Test Channel",SPO TV 1
+http://live.ezrtv.my.id:25461/mantanganteng/duluganteng/260
+
+#EXTINF:-1 tvg-id="" tvg-name="SPO TV 2" tvg-logo="https://i.ibb.co/X8FhSJJ/Spotv2.png" group-title="Test Channel",SPO TV 2
+http://live.ezrtv.my.id:25461/mantanganteng/duluganteng/261
+
+#EXTINF:-1 tvg-id="" tvg-name="BEIN 1" tvg-logo="https://i.ibb.co/v395Yr6/Bein-1.png" group-title="Test Channel",BEIN 1
+http://live.ezrtv.my.id:25461/mantanganteng/duluganteng/262
+
+#EXTINF:-1 tvg-id="" tvg-name="BEIN 3" tvg-logo="https://i.ibb.co/fYtvHy5/Bein-3.png" group-title="Test Channel",BEIN 3
+http://live.ezrtv.my.id:25461/mantanganteng/duluganteng/263
+
+#EXTINF:-1 tvg-id="" tvg-name="UFC" tvg-logo="https://i.postimg.cc/JhP9VC7W/SGN-04-03-2022-1648971052273.png" group-title="Test Channel",UFC
+http://live.ezrtv.my.id:25461/mantanganteng/duluganteng/264
+
+#EXTINF:-1 tvg-id="" tvg-name="WWE" tvg-logo="https://i.ibb.co/X2Q7s2r/Wwe.png" group-title="Test Channel",WWE
+http://live.ezrtv.my.id:25461/mantanganteng/duluganteng/265
+
+#EXTINF:-1 tvg-id="" tvg-name="NBA TV" tvg-logo="https://i.ibb.co/qd0RNHt/nba-home-tv.png" group-title="Test Channel",NBA TV
+http://live.ezrtv.my.id:25461/mantanganteng/duluganteng/266
+
+#EXTINF:-1 tvg-id="" tvg-name="GOLF PLUS" tvg-logo="https://i.ibb.co/LQJ3LpP/golf-home-tv.png" group-title="Test Channel",GOLF PLUS
+http://live.ezrtv.my.id:25461/mantanganteng/duluganteng/267
+
+#EXTINF:-1 tvg-id="" tvg-name="TVRI SPORT" tvg-logo="https://i.ibb.co/R2tSSQG/Tvri-sports-hometv.png" group-title="Test Channel",TVRI SPORT
+http://live.ezrtv.my.id:25461/mantanganteng/duluganteng/268
+
+#EXTINF:-1 tvg-id="" tvg-name="CNN INTERNATIONAL" tvg-logo="https://i.ibb.co/xzjvBFZ/cnn-inter-home-tv.png" group-title="Test Channel",CNN INTERNATIONAL
+http://live.ezrtv.my.id:25461/mantanganteng/duluganteng/269
+
+#EXTINF:-1 tvg-id="" tvg-name="CNBC ASIA" tvg-logo="https://i.ibb.co/XLc2365/cnbc-asia-home-tv.png" group-title="Test Channel",CNBC ASIA
+http://live.ezrtv.my.id:25461/mantanganteng/duluganteng/270
+
+#EXTINF:-1 tvg-id="" tvg-name="BBC NEWS" tvg-logo="https://i.ibb.co/hVFJfs2/Bbc-news-hometv.png" group-title="Test Channel",BBC NEWS
+http://live.ezrtv.my.id:25461/mantanganteng/duluganteng/271
+
+#EXTINF:-1 tvg-id="" tvg-name="BLOOMBERG" tvg-logo="https://i.ibb.co/nBtSKNF/bloomberg-home-tv.png" group-title="Test Channel",BLOOMBERG
+http://live.ezrtv.my.id:25461/mantanganteng/duluganteng/272
+
+#EXTINF:-1 tvg-id="" tvg-name="IDX" tvg-logo="https://i.ibb.co/jRmB3Vs/idx-home-tv.png" group-title="Test Channel",IDX
+http://live.ezrtv.my.id:25461/mantanganteng/duluganteng/273
+
+#EXTINF:-1 tvg-id="" tvg-name="AL JAZEERA" tvg-logo="https://i.ibb.co/CzCnTHV/aljazeera-home-tv.png" group-title="Test Channel",AL JAZEERA
+http://live.ezrtv.my.id:25461/mantanganteng/duluganteng/274
+
+#EXTINF:-1 tvg-id="" tvg-name="CGTN" tvg-logo="https://i.ibb.co/vzWyQps/Cgtn-hometv.png" group-title="Test Channel",CGTN
+http://live.ezrtv.my.id:25461/mantanganteng/duluganteng/275
+
+#EXTINF:-1 tvg-id="" tvg-name="DW ENGLISH" tvg-logo="https://i.ibb.co/7kNhrmW/dw-english-home-tv.png" group-title="Test Channel",DW ENGLISH
+http://live.ezrtv.my.id:25461/mantanganteng/duluganteng/276
+
+#EXTINF:-1 tvg-id="" tvg-name="EURO NEWS" tvg-logo="https://i.ibb.co/2FG8nd5/euro-news-home-tv.png" group-title="Test Channel",EURO NEWS
+http://live.ezrtv.my.id:25461/mantanganteng/duluganteng/277
+
+#EXTINF:-1 tvg-id="" tvg-name="FRANCE 24" tvg-logo="https://i.ibb.co/3dFrpX2/france24-home-tv.png" group-title="Test Channel",FRANCE 24
+http://live.ezrtv.my.id:25461/mantanganteng/duluganteng/278
+
+#EXTINF:-1 tvg-id="" tvg-name="ARIRANG NEWS" tvg-logo="https://i.ibb.co/ykm1ppp/arirang-home-tv.png" group-title="Test Channel",ARIRANG NEWS
+http://live.ezrtv.my.id:25461/mantanganteng/duluganteng/279
+
+#EXTINF:-1 tvg-id="" tvg-name="TRT WORLD" tvg-logo="https://i.ibb.co/TKNLMYL/trt-world-home-tv.png" group-title="Test Channel",TRT WORLD
+http://live.ezrtv.my.id:25461/mantanganteng/duluganteng/280
+
+#EXTINF:-1 tvg-id="" tvg-name="CNA" tvg-logo="https://i.ibb.co/6NKN4vg/cna-home-tv.png" group-title="Test Channel",CNA
+http://live.ezrtv.my.id:25461/mantanganteng/duluganteng/281
+
+#EXTINF:-1 tvg-id="" tvg-name="HGTV" tvg-logo="https://i.ibb.co/CBBxyNt/hgtv-home-tv.png" group-title="Test Channel",HGTV
+http://live.ezrtv.my.id:25461/mantanganteng/duluganteng/282
+
+#EXTINF:-1 tvg-id="" tvg-name="TLC" tvg-logo="https://i.ibb.co/yqvjGMH/tlc-home-tv.png" group-title="Test Channel",TLC
+http://live.ezrtv.my.id:25461/mantanganteng/duluganteng/283
+
+#EXTINF:-1 tvg-id="" tvg-name="AFN" tvg-logo="https://i.ibb.co/vh4YJjH/afn-home-tv.png" group-title="Test Channel",AFN
+http://live.ezrtv.my.id:25461/mantanganteng/duluganteng/284
+
+#EXTINF:-1 tvg-id="" tvg-name="LIFETIME" tvg-logo="https://i.ibb.co/NCJnNpC/lifetime-home-tv.png" group-title="Test Channel",LIFETIME
+http://live.ezrtv.my.id:25461/mantanganteng/duluganteng/285
+
+#EXTINF:-1 tvg-id="" tvg-name="FASHION TV" tvg-logo="https://i.ibb.co/5jYHP9F/fashiontv-home-tv.png" group-title="Test Channel",FASHION TV
+http://live.ezrtv.my.id:25461/mantanganteng/duluganteng/286
+
+#EXTINF:-1 tvg-id="" tvg-name="LIFESTYLE & FASHION" tvg-logo="https://i.ibb.co/G2gkB7V/lifestyle-fashion-home-tv.png" group-title="Test Channel",LIFESTYLE & FASHION
+http://live.ezrtv.my.id:25461/mantanganteng/duluganteng/287
+
+#EXTINF:-1 tvg-id="" tvg-name="BALI TV" tvg-logo="https://i.ibb.co/vw4nsnm/balitv.png" group-title="Test Channel",BALI TV
+http://live.ezrtv.my.id:25461/mantanganteng/duluganteng/288
+
+#EXTINF:-1 tvg-id="" tvg-name="JTV" tvg-logo="https://i.ibb.co/8KcLGMx/jtv.png" group-title="Test Channel",JTV
+http://live.ezrtv.my.id:25461/mantanganteng/duluganteng/289
+
+#EXTINF:-1 tvg-id="" tvg-name="GARUDA TV" tvg-logo="https://i.ibb.co/4Yw476r/Garudatv-hometv.png" group-title="Test Channel",GARUDA TV
+http://live.ezrtv.my.id:25461/mantanganteng/duluganteng/290
+
+#EXTINF:-1 tvg-id="" tvg-name="BADAR TV" tvg-logo="https://i.ibb.co/n8kPHdF/Badartv-hometv.png" group-title="Test Channel",BADAR TV
+http://live.ezrtv.my.id:25461/mantanganteng/duluganteng/291
+
+#EXTINF:-1 tvg-id="" tvg-name="BANJAR TV" tvg-logo="https://i.ibb.co/KWGC5jF/Banjartv-hometv.png" group-title="Test Channel",BANJAR TV
+http://live.ezrtv.my.id:25461/mantanganteng/duluganteng/292
+
+#EXTINF:-1 tvg-id="" tvg-name="DMTV MALANG" tvg-logo="https://i.ibb.co/VgfV8Vc/Dmtv-malang-hometv.png" group-title="Test Channel",DMTV MALANG
+http://live.ezrtv.my.id:25461/mantanganteng/duluganteng/293
+
+#EXTINF:-1 tvg-id="" tvg-name="ADI TV" tvg-logo="https://i.ibb.co/5ryXVYD/Aditv-hometv.png" group-title="Test Channel",ADI TV
+http://live.ezrtv.my.id:25461/mantanganteng/duluganteng/294
+
+#EXTINF:-1 tvg-id="" tvg-name="RCTV" tvg-logo="https://i.ibb.co/MhgBB1J/Rctv-hometv.png" group-title="Test Channel",RCTV
+http://live.ezrtv.my.id:25461/mantanganteng/duluganteng/295
+
+#EXTINF:-1 tvg-id="" tvg-name="JAWAPOST TV" tvg-logo="https://i.ibb.co/7g0WKvW/Jawapostv-hometv.png" group-title="Test Channel",JAWAPOST TV
+http://live.ezrtv.my.id:25461/mantanganteng/duluganteng/296
+
+#EXTINF:-1 tvg-id="" tvg-name="JEK TV JAMBI" tvg-logo="https://i.ibb.co/99tbr3D/Jektv-hometv.png" group-title="Test Channel",JEK TV JAMBI
+http://live.ezrtv.my.id:25461/mantanganteng/duluganteng/297
+
+#EXTINF:-1 tvg-id="" tvg-name="KAWANUA" tvg-logo="https://i.ibb.co/H2bdpDp/Kawanuatv-hometv.png" group-title="Test Channel",KAWANUA
+http://live.ezrtv.my.id:25461/mantanganteng/duluganteng/298
+
+#EXTINF:-1 tvg-id="" tvg-name="TATV" tvg-logo="https://i.ibb.co/k4gfF74/Tatv-hometv.png" group-title="Test Channel",TATV
+http://live.ezrtv.my.id:25461/mantanganteng/duluganteng/299
+
+#EXTINF:-1 tvg-id="" tvg-name="SIMPANG LIMA" tvg-logo="https://i.ibb.co/0Zw8Mvj/Simpang5tv-hometv.png" group-title="Test Channel",SIMPANG LIMA
+http://live.ezrtv.my.id:25461/mantanganteng/duluganteng/300
+
+#EXTINF:-1 tvg-id="" tvg-name="SMTV" tvg-logo="http://103.150.197.50:25461/images/2049299fbc48db3d8f83b45d6ecb54fd.png" group-title="Test Channel",SMTV
+http://live.ezrtv.my.id:25461/mantanganteng/duluganteng/301
+
+#EXTINF:-1 tvg-id="" tvg-name="TVKU" tvg-logo="https://i.ibb.co/ZWXVjG4/Tvku-hometv.png" group-title="Test Channel",TVKU
+http://live.ezrtv.my.id:25461/mantanganteng/duluganteng/302
+
+#EXTINF:-1 tvg-id="" tvg-name="BBS TV" tvg-logo="https://i.ibb.co/YQJCsZ9/Bbstv.png" group-title="Test Channel",BBS TV
+http://live.ezrtv.my.id:25461/mantanganteng/duluganteng/303
+
+#EXTINF:-1 tvg-id="" tvg-name="Indosiar (b)" tvg-logo="http://103.150.197.50:25461/images/68538cd4f5dd8dac3262f3a95e3ce0e5.png" group-title="Test Channel",Indosiar (b)
+http://live.ezrtv.my.id:25461/mantanganteng/duluganteng/304
+
+#EXTINF:-1 tvg-id="" tvg-name="Movies 24/7" tvg-logo="" group-title="Test Channel",Movies 24/7
+http://live.ezrtv.my.id:25461/mantanganteng/duluganteng/305
