@@ -219,6 +219,21 @@ https://liveaneviadev.mncnow.id/live/eds/FMN/sa_dash_vmx/FMN.mpd
 #EXTINF:-1 group-title="Premium Movies" tvg-id="ZeeBioskop.id" tvg-url="https://iptv-org.github.io/epg/guides/id.xml" tvg-logo="https://www.useetv.com/assets/images/channel/logo_zbioskop_small1.png",Zee Bioskop
 https://liveaneviadev.mncnow.id/live/eds/ZeeBIOSKOP/sa_dash_vmx/ZeeBIOSKOP.mpd
 
+#EXTINF:-1 tvg-logo="https://www.dens.tv/images/channel-logo/87.jpg" group-title="Premium Movies",Cinema World
+http://210.210.155.37/dr9445/h/h04/01.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.dens.tv/images/channel-logo/95.jpg" group-title="Premium Movies",My Cinema
+http://210.210.155.37/uq2663/h/h192/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/92.jpg" group-title="Premium Movies",My Cinema Europe
+http://210.210.155.37/uq2663/h/h18/01.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/my-cinema-asia-id.png" group-title="Premium Movies",My Cinema Asia
+http://210.210.155.37/x6bnqe/h/h193/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/114.jpg" group-title="Premium Movies",My Family Channel
+http://210.210.155.37/uq2663/h/h194/index.m3u8
+
 
 ============KNOWLEDGE==================
 
