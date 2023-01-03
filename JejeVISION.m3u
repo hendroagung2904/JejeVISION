@@ -368,7 +368,7 @@ https://liveaneviadev.mncnow.id/live/eds/Soccer-2/sa_dash_vmx/Soccer-2.mpd
 #EXTINF:-1 tvg-id="SoccerChannel.id" tvg-url="https://iptv-org.github.io/epg/guides/id.xml" tvg-logo="https://www.lyngsat.com/logo/tv/ss/soccer-channel-id.png" group-title="Sports"",Soccer Channel
 https://liveaneviadev.mncnow.id/live/eds/soccerchannel-HD/sa_dash_vmx/soccerchannel-HD.mpd
 
-#EXTINF:-1 group-title="Sports"" tvg-id="" tvg-url="https://iptv-org.github.io/epg/guides/id.xml" tvg-logo="https://images.useetv.com/logo_fightsport_small.png",Fight Sports
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTINF:-1 tvg-id="FightSports.us" tvg-url="https://iptv-org.github.io/epg/guides/id.xml" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fight_sports_us.png" group-title="Sports"",Fight Sports
