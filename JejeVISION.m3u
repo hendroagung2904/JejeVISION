@@ -239,42 +239,42 @@ http://210.210.155.37/uq2663/h/h194/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 group-title="Knowledge & Documentary" tvg-id="NationalGeographicIndonesia.id" tvg-url="https://iptv-org.github.io/epg/guides/id.xml" tvg-logo="https://www.useetv.com/pimages/logo_natgeo_big.png?v=1",National Geographic
+#EXTINF:-1 group-title="Knowledge & Documentary" tvg-id="NationalGeographicIndonesia.id" tvg-url="https://iptv-org.github.io/epg/guides/id.xml" tvg-logo="https://github.com/hendroagung2904/TVLogo/blob/main/natgeohd.png",National Geographic
 https://liveaneviadev.mncnow.id/live/eds/NatGeoChannel/sa_dash_vmx/NatGeoChannel.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-id="NationalGeographicWildIndonesia.id" tvg-name="National Geographic Wild" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_204.png" group-title="Knowledge & Documentary",Nat Geo Wild
+#EXTINF:-1 tvg-id="NationalGeographicWildIndonesia.id" tvg-name="National Geographic Wild" tvg-logo="https://github.com/hendroagung2904/TVLogo/blob/main/natgeowildhd.png" group-title="Knowledge & Documentary",Nat Geo Wild
 https://liveaneviadev.mncnow.id/live/eds/NatGeoWild/sa_dash_vmx/NatGeoWild.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:-1 tvg-id="HistoryAsia.us" tvg-url="https://iptv-org.github.io/epg/guides/id.xml" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_206.png" group-title="Knowledge & Documentary",History
+#EXTINF:-1 tvg-id="HistoryAsia.us" tvg-url="https://iptv-org.github.io/epg/guides/id.xml" tvg-logo="https://github.com/hendroagung2904/TVLogo/blob/main/history.png" group-title="Knowledge & Documentary",History
 https://liveaneviadev.mncnow.id/live/eds/History/sa_dash_vmx/History.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 group-title="Knowledge & Documentary" tvg-id="DiscoveryAsia.sg" tvg-url="https://iptv-org.github.io/epg/guides/id.xml" tvg-logo="https://www.useetv.com/pimages/logo_discovery_big.png?v=1",Discovery Channel
+#EXTINF:-1 group-title="Knowledge & Documentary" tvg-id="DiscoveryAsia.sg" tvg-url="https://iptv-org.github.io/epg/guides/id.xml" tvg-logo="https://github.com/hendroagung2904/TVLogo/blob/main/discoveryhd.png",Discovery Channel
 https://liveaneviadev.mncnow.id/live/eds/Discovery/sa_dash_vmx/Discovery.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:-1 tvg-id="BBCEarthAsia.uk" tvg-url="https://iptv-org.github.io/epg/guides/id.xml" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_461.png" group-title="Knowledge & Documentary",BBC Earth HD
+#EXTINF:-1 tvg-id="BBCEarthAsia.uk" tvg-url="https://iptv-org.github.io/epg/guides/id.xml" tvg-logo="https://github.com/hendroagung2904/TVLogo/blob/main/bbcearthhd.png" group-title="Knowledge & Documentary",BBC Earth HD
 https://liveaneviadev.mncnow.id/live/eds/BBCEarth-HD/sa_dash_vmx/BBCEarth-HD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:-1 tvg-id="AnimalPlanetSoutheastAsia.sg" tvg-url="https://iptv-org.github.io/epg/guides/id.xml" tvg-logo="https://pngset.com/images/advertise-animal-planet-new-logo-axe-mammal-sea-life-whale-transparent-png-2563933.png" group-title="Knowledge & Documentary",Animal Planet HD
+#EXTINF:-1 tvg-id="AnimalPlanetSoutheastAsia.sg" tvg-url="https://iptv-org.github.io/epg/guides/id.xml" tvg-logo="https://github.com/hendroagung2904/TVLogo/blob/main/animalplanethd.png" group-title="Knowledge & Documentary",Animal Planet HD
 https://liveaneviadev.mncnow.id/live/eds/AnimalPlanet/sa_dash_vmx/AnimalPlanet.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 group-title="Knowledge & Documentary" tvg-id="CrimePlusInvestigationAsia.sg" tvg-url="https://iptv-org.github.io/epg/guides/id.xml" tvg-logo="https://www.useetv.com/pimages/logo_crimeinvestigation_big.png?v=1",Crime Investigation
+#EXTINF:-1 group-title="Knowledge & Documentary" tvg-id="CrimePlusInvestigationAsia.sg" tvg-url="https://iptv-org.github.io/epg/guides/id.xml" tvg-logo="https://github.com/hendroagung2904/TVLogo/blob/main/crimeinvest.png",Crime Investigation
 https://liveaneviadev.mncnow.id/live/eds/CrimeInvestigation/sa_dash_vmx/CrimeInvestigation.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 group-title="Knowledge & Documentary" tvg-id="CGTNDocumentary.cn" tvg-url="https://iptv-org.github.io/epg/guides/id.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/1200px-CGTN.svg.png",CGTN
+#EXTINF:-1 group-title="Knowledge & Documentary" tvg-id="CGTNDocumentary.cn" tvg-url="https://iptv-org.github.io/epg/guides/id.xml" tvg-logo="https://github.com/hendroagung2904/TVLogo/blob/main/cgtndocumentary.png",CGTN
 https://liveaneviadev.mncnow.id/live/eds/CGTN_Doc/sa_dash_vmx/CGTN_Doc.mpd
 
 
