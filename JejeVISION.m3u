@@ -172,7 +172,7 @@ https://liveaneviadev.mncnow.id/live/eds/tvN/sa_dash_vmx/tvN.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:-1 tvg-id="tvN Movies Asia" tvg-url="https://iptv-org.github.io/epg/guides/id.xml" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tvnmovies.png" group-title="Premium Movies",TvN movies
+#EXTINF:-1 tvg-id="tvN Movies Asia" tvg-url="https://iptv-org.github.io/epg/guides/id.xml" tvg-logo="https://raw.githubusercontent.com/hendroagung2904/TVLogo/main/tvnmovieshd.png" group-title="Premium Movies",TvN movies HD
 https://liveaneviadev.mncnow.id/live/eds/tvNMovies/sa_dash_vmx/tvNMovies.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -182,27 +182,27 @@ https://liveaneviadev.mncnow.id/live/eds/SetOne/sa_dash_vmx/SetOne.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:-1 group-title="Premium Movies" tvg-id="Thrill.hk" tvg-url="https://iptv-org.github.io/epg/guides/id.xml" tvg-logo="https://www.useetv.com/pimages/logo_thrill_big.png?v=1",Thrill
+#EXTINF:-1 group-title="Premium Movies" tvg-id="Thrill.hk" tvg-url="https://iptv-org.github.io/epg/guides/id.xml" tvg-logo="https://raw.githubusercontent.com/hendroagung2904/TVLogo/main/thrill.png",Thrill
 https://liveaneviadev.mncnow.id/live/eds/Thrill/sa_dash_vmx/Thrill.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:-1 group-title="Premium Movies" tvg-id="" tvg-url="https://iptv-org.github.io/epg/guides/id.xml" tvg-logo="https://www.useetv.com/pimages/logo_cinemaworld_big.png?v=1",Cinema World
+#EXTINF:-1 group-title="Premium Movies" tvg-id="" tvg-url="https://iptv-org.github.io/epg/guides/id.xml" tvg-logo="https://raw.githubusercontent.com/hendroagung2904/TVLogo/main/cinemaworldhd.png",Cinema World HD
 https://liveaneviadev.mncnow.id/live/eds/CinemaWorld/sa_dash_vmx/CinemaWorld.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:-1 group-title="Premium Movies" tvg-id="CelestialMoviesIndonesia.id" tvg-url="https://iptv-org.github.io/epg/guides/id.xml" tvg-logo="https://www.useetv.com/pimages/logo_celestialmovie_big.png?v=1",Celestial Movies
+#EXTINF:-1 group-title="Premium Movies" tvg-id="CelestialMoviesIndonesia.id" tvg-url="https://iptv-org.github.io/epg/guides/id.xml" tvg-logo="https://raw.githubusercontent.com/hendroagung2904/TVLogo/main/celestialmovies.png",Celestial Movies
 https://liveaneviadev.mncnow.id/live/eds/CelestialMovie/sa_dash_vmx/CelestialMovie.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:-1 tvg-name="" tvg-id="" tvg-url="https://iptv-org.github.io/epg/guides/id.xml" tvg-logo="https://www.lyngsat.com/logo/tv/cc/celestial-classic-movies-hk.png" group-title="Premium Movies",Celestial Classic Movies
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-url="https://iptv-org.github.io/epg/guides/id.xml" tvg-logo="https://raw.githubusercontent.com/hendroagung2904/TVLogo/main/ccm.png" group-title="Premium Movies",Celestial Classic Movies
 https://liveaneviadev.mncnow.id/live/eds/CelestialClassic/sa_dash_vmx/CelestialClassic.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:-1 group-title="Premium Movies" tvg-id="" tvg-url="https://iptv-org.github.io/epg/guides/id.xml" tvg-logo="https://www.useetv.com/pimages/logo_starchinesemovies_big.png?v=1",STAR Chinese Movies
+#EXTINF:-1 group-title="Premium Movies" tvg-id="" tvg-url="https://iptv-org.github.io/epg/guides/id.xml" tvg-logo="https://raw.githubusercontent.com/hendroagung2904/TVLogo/main/scmhd.png",STAR Chinese Movies HD
 https://liveaneviadev.mncnow.id/live/eds/SCM/sa_dash_vmx/SCM.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -212,7 +212,7 @@ https://liveaneviadev.mncnow.id/live/eds/IndonesiaMovieChannels-HD/sa_dash_vmx/I
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:-1 tvg-id="FMN.id" tvg-url="https://iptv-org.github.io/epg/guides/id.xml" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fmn_id.png" group-title="Premium Movies",FMN (Telenovela)
+#EXTINF:-1 tvg-id="FMN.id" tvg-url="https://iptv-org.github.io/epg/guides/id.xml" tvg-logo="https://raw.githubusercontent.com/hendroagung2904/TVLogo/main/fmn.png" group-title="Premium Movies",FMN (Telenovela)
 https://liveaneviadev.mncnow.id/live/eds/FMN/sa_dash_vmx/FMN.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -283,58 +283,59 @@ https://liveaneviadev.mncnow.id/live/eds/CGTN_Doc/sa_dash_vmx/CGTN_Doc.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:-1 group-title="Entertainment & LifeStyle" tvg-id="AXNIndonesia.id" tvg-url="https://iptv-org.github.io/epg/guides/id.xml" tvg-logo="https://www.useetv.com/pimages/logo_axn_big.png?v=1",AXN
+#EXTINF:-1 group-title="Entertainment & LifeStyle" tvg-id="AXNIndonesia.id" tvg-url="https://iptv-org.github.io/epg/guides/id.xml" tvg-logo="https://raw.githubusercontent.com/hendroagung2904/TVLogo/main/axnhd.png",AXN HD
 https://liveaneviadev.mncnow.id/live/eds/AXN/sa_dash_vmx/AXN.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:-1 group-title="Entertainment & LifeStyle" tvg-id="WarnerTVAsia.us" tvg-url="https://iptv-org.github.io/epg/guides/id.xml" tvg-logo="https://www.useetv.com/pimages/logo_warner_big.png?v=1",Warner TV
+#EXTINF:-1 group-title="Entertainment & LifeStyle" tvg-id="WarnerTVAsia.us" tvg-url="https://iptv-org.github.io/epg/guides/id.xml" tvg-logo="https://raw.githubusercontent.com/hendroagung2904/TVLogo/main/warnertvhd.png",Warner TV HD
 https://liveaneviadev.mncnow.id/live/eds/WarnerTV/sa_dash_vmx/WarnerTV.mpd
 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:-1 tvg-id="FoodNetworkAsia.sg" tvg-url="https://iptv-org.github.io/epg/guides/id.xml" tvg-logo="https://assetsmysky.blob.core.windows.net/assetsmysky/production/plans-and-bundles/1578301669_logo-asian-food-network-lg.png" group-title="Entertainment & LifeStyle",Asian Food Channel
+#EXTINF:-1 tvg-id="FoodNetworkAsia.sg" tvg-url="https://iptv-org.github.io/epg/guides/id.xml" tvg-logo="https://raw.githubusercontent.com/hendroagung2904/TVLogo/main/afnhd.png" group-title="Entertainment & LifeStyle",Asian Food Channel
 https://liveaneviadev.mncnow.id/live/eds/AFN-HD/sa_dash_vmx/AFN-HD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:-1 tvg-id="LifestyleFashion.id" tvg-url="https://iptv-org.github.io/epg/guides/id.xml" tvg-logo="https://www.lyngsat.com/logo/tv/ll/lifestyle-and-fashion-id.png" group-title="Entertainment & LifeStyle",Lifestyle & Fashion
+#EXTINF:-1 tvg-id="LifestyleFashion.id" tvg-url="https://iptv-org.github.io/epg/guides/id.xml" tvg-logo="https://raw.githubusercontent.com/hendroagung2904/TVLogo/main/lifestylefashion.png" group-title="Entertainment & LifeStyle",Lifestyle & Fashion
 https://liveaneviadev.mncnow.id/live/eds/LifeStyleFashion/sa_dash_vmx/LifeStyleFashion.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:-1 tvg-id="HGTVAsia.us" tvg-url="https://iptv-org.github.io/epg/guides/id.xml" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_451.png" group-title="Entertainment & LifeStyle",HGTV
+#EXTINF:-1 tvg-id="HGTVAsia.us" tvg-url="https://iptv-org.github.io/epg/guides/id.xml" tvg-logo="https://raw.githubusercontent.com/hendroagung2904/TVLogo/main/hgtvhd.png" group-title="Entertainment & LifeStyle",HGTV HD
 https://liveaneviadev.mncnow.id/live/eds/HGTV/sa_dash_vmx/HGTV.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:-1 tvg-id="TLCSoutheastAsia.sg" tvg-url="https://iptv-org.github.io/epg/guides/id.xml" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tlc_uk.png" group-title="Entertainment & LifeStyle",TLC
+#EXTINF:-1 tvg-id="TLCSoutheastAsia.sg" tvg-url="https://iptv-org.github.io/epg/guides/id.xml" tvg-logo="https://raw.githubusercontent.com/hendroagung2904/TVLogo/main/tlchd.png" group-title="Entertainment & LifeStyle",TLC HD
 https://liveaneviadev.mncnow.id/live/eds/TLC/sa_dash_vmx/TLC.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 group-title="Entertainment & LifeStyle" tvg-id="" tvg-url="https://iptv-org.github.io/epg/guides/id.xml" tvg-logo="https://www.useetv.com/pimages/logo_lifetime_big.png?v=1",Lifetime
+#EXTINF:-1 group-title="Entertainment & LifeStyle" tvg-id="" tvg-url="https://iptv-org.github.io/epg/guides/id.xml" tvg-logo="https://raw.githubusercontent.com/hendroagung2904/TVLogo/main/lifetime.png",Lifetime
 https://liveaneviadev.mncnow.id/live/eds/Lifetime/sa_dash_vmx/Lifetime.mpd
 
-#EXTINF:-1 group-title="Entertainment & LifeStyle" tvg-id="VisionPrime.id" tvg-url="https://iptv-org.github.io/epg/guides/id.xml" tvg-logo="https://i.imgur.com/2ZuDqYL.png" ,Vision Prime
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 group-title="Entertainment & LifeStyle" tvg-id="VisionPrime.id" tvg-url="https://iptv-org.github.io/epg/guides/id.xml" tvg-logo="https://raw.githubusercontent.com/hendroagung2904/TVLogo/main/visionprimehd.png" ,Vision Prime HD
 https://liveaneviadev.mncnow.id/live/eds/VisionPrime/sa_dash_vmx/VisionPrime.mpd
 
-#EXTINF:-1 group-title="Entertainment & LifeStyle" tvg-id="OKTV.id" tvg-url="https://iptv-org.github.io/epg/guides/id.xml" tvg-logo="https://i.imgur.com/IrS5AOC.png" ,OK TV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOzJkMDk3NGE2
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 group-title="Entertainment & LifeStyle" tvg-id="OKTV.id" tvg-url="https://iptv-org.github.io/epg/guides/id.xml" tvg-logo="https://raw.githubusercontent.com/hendroagung2904/TVLogo/main/oktv.png" ,OK TV
 https://liveaneviadev.mncnow.id/live/eds/OKTV/sa_dash_vmx/OKTV.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:-1 group-title="Entertainment & LifeStyle" tvg-id="Entertainment.id" tvg-url="https://iptv-org.github.io/epg/guides/id.xml" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_86.png",MNC Entertainment
+#EXTINF:-1 group-title="Entertainment & LifeStyle" tvg-id="Entertainment.id" tvg-url="https://iptv-org.github.io/epg/guides/id.xml" tvg-logo="https://raw.githubusercontent.com/hendroagung2904/TVLogo/main/ent.png",MNC Entertainment
 https://liveaneviadev.mncnow.id/live/eds/MNCEntertainment/sa_dash_vmx/MNCEntertainment.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:-1 group-title="Entertainment & LifeStyle" tvg-id="Ie.id" tvg-url="https://iptv-org.github.io/epg/guides/id.xml" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_96.png",MNC Infotainment
+#EXTINF:-1 group-title="Entertainment & LifeStyle" tvg-id="Ie.id" tvg-url="https://iptv-org.github.io/epg/guides/id.xml" tvg-logo="https://raw.githubusercontent.com/hendroagung2904/TVLogo/main/infotainment.png",MNC Infotainment
 https://liveaneviadev.mncnow.id/live/eds/MNCInfotainment/sa_dash_vmx/MNCInfotainment.mpd
 
 =========Sports=========
