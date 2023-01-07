@@ -323,9 +323,9 @@ https://liveaneviadev.mncnow.id/live/eds/Lifetime/sa_dash_vmx/Lifetime.mpd
 #EXTINF:-1 group-title="Entertainment & LifeStyle" tvg-id="VisionPrime.id" tvg-url="https://iptv-org.github.io/epg/guides/id.xml" tvg-logo="https://raw.githubusercontent.com/hendroagung2904/TVLogo/main/visionprimehd.png" ,Vision Prime HD
 https://liveaneviadev.mncnow.id/live/eds/VisionPrime/sa_dash_vmx/VisionPrime.mpd
 
+#EXTINF:0 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_95.png" group-title="Entertainment & LifeStyle",OK TV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 group-title="Entertainment & LifeStyle" tvg-id="OKTV.id" tvg-url="https://iptv-org.github.io/epg/guides/id.xml" tvg-logo="https://raw.githubusercontent.com/hendroagung2904/TVLogo/main/oktv.png" ,OK TV
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 https://liveaneviadev.mncnow.id/live/eds/OKTV/sa_dash_vmx/OKTV.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
