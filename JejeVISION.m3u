@@ -1,5 +1,6 @@
 ﻿#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/id.xml"
 #EXTM3U x-url-tvg="https://iptv-org.github.io/epg/guides/id.xml"
+
 <=================Indonesia Channels=============================
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -596,9 +597,8 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:okey/chunklist.m3u8?id=1|Referer=http
 https://d25tgymtnqzu8s.cloudfront.net/smil:berita/chunklist.m3u8?id=1|Referer=https://rtmklik.rtm.gov.my
 
 <======================================Singapore ====================================>
-#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/sg/mewatch.sg.epg.xml" url-tvg="https://iptv-org.github.io/epg/guides/sg/mewatch.sg.epg.xml" refresh="1440" max-conn="1" refresh="24"
-
-#EXTM3U
+#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/sg/mewatch.sg.epg.xml" 
+url-tvg="https://iptv-org.github.io/epg/guides/sg/mewatch.sg.epg.xml" refresh="1440" max-conn="1" refresh="24"
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TVRRM2ZIZDYzZFFYUWNyVC03b3ZFN1ZTdENrN0stYzdrZmtrREpnd0hYZVRUMXpPSzJPS0dhYjIwNGJDWlJid1puV2lpNHhyUzVZcDlRUXRZejNHRVFjZ3Y4Q0FzT1ZSOE1Vc0tCYVBqSGNOeGxiTTJGdTJEQzc5aldzVU5EZUdXcTdwNEVQNVVrV0c4YVQ0LXh1bkN1OXl6Q1JMSTNxM0RXa19MZnV1WnZ3el9WTFBDbG1jbW9jNUE3UzU1TUd3a2VrWVg5emMyVGxKZUdlMEYzOG9jWDRSaVA3MDVzOTNDeG43dDJSdTBuRTFhdWtDOU9tVHg2ZlhXLWVFejFFdlc2YVhUdmdHcUxWT2lxMVpJWEFrU01rckdkcFdLb1dDYnp1cFU0NVJkZ0ppQUVMa2l2bWpwbjV0OXZseGM3MWFiNEFwbGc9PSZjb250ZXh0VHlwZT1ub25lJmlkPTU3NTQxMTYiLCJhY2NvdW50X2lkIjoyMDgyMzExLCJjb250ZW50X2lkIjoiZnRhX2NoNV9kYXNoX3R2X2RybSIsImZpbGVzIjoiIiwidXNlcl90b2tlbiI6ImRqSjhNVFEzZkhkNjNkUVhRY3JULTdvdkU3VlN0Q2s3Sy1jN2tma2tESmd3SFhlVFQxek9LMk9LR2FiMjA0YkNaUmJ3Wm5XaWk0eHJTNVlwOVFRdFl6M0dFUWNndjhDQXNPVlI4TVVzS0JhUGpIY054bGJNMkZ1MkRDNzlqV3NVTkRlR1dxN3A0RVA1VWtXRzhhVDQteHVuQ3U5eXpDUkxJM3EzRFdrX0xmdXVadnd6X1ZMUENsbWNtb2M1QTdTNTVNR3drZWtZWDl6YzJUbEplR2UwRjM4b2NYNFJpUDcwNXM5M0N4bjd0MlJ1MG5FMWF1a0M5T21UeDZmWFctZUV6MUV2VzZhWFR2Z0dxTFZPaXExWklYQWtTTWtyR2RwV0tvV0NienVwVTQ1UmRnSmlBRUxraXZtanBuNXQ5dmx4YzcxYWI0QXBsZz09IiwidWRpZCI6IiIsImFkZGl0aW9uYWxfY2FzX3N5c3RlbSI6MTQ3fQ%3d%3d&signature=X76%2bgXmkXvSneqUSztlBcLOybzY%3d
