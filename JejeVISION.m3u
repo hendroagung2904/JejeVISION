@@ -559,19 +559,18 @@ https://anevia114.mncnow.id/live/eds/Cbeebies/sa_dash_vmx/Cbeebies.mpd
 https://anevia114.mncnow.id/live/eds/BabyTV-NewHD/sa_dash_vmx/BabyTV-NewHD.mpd
 
 =============Christian Channels==================
-
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TVRRM2ZKSDM2dXpPV1B0dnZtQnJvUnpDd0NXSmc5QUxnaml6eEZIRGlGa00wRHdaYjluV1V2NGlrTFdabDlQODQwZDZzME9melpMcUNxXzdITlRqOERKaHFmZGdhbmU3U21zMTJSWkthSENOSlVGbE9DTU5TN21xSzVvUFBrZjI3M21EaGliajRqcmJNaGd4UWxEWkdoWkxsTjRtdENPUWV5MzBEZTVoWlJUa2FsZG5mcGRBZWtIeU9jeE52OXgyMllUQkJVRDlESkt5X0ExajBWcjZTVlQzRlBKdUNobTg4bXlWbUF5Rng5VjVXelkwSGVueW9oVUVhLWVkLXRnd3RWVjVDc1VIVktOYUJOZWs0bjRacS0tNjJBMGFOalpVY29LSkJxZE5qalB0eUJlbHhhTndDWXQ1Wjl3dXBreFhUaDZwdWc9PSZjb250ZXh0VHlwZT1ub25lJmlkPTEyMzY2MzIwIiwiYWNjb3VudF9pZCI6MjA4MjMxMSwiY29udGVudF9pZCI6ImFkaG9jX29rdG9saWRheXNfZGFzaF90dl9kcm0iLCJmaWxlcyI6IiIsInVzZXJfdG9rZW4iOiJkako4TVRRM2ZKSDM2dXpPV1B0dnZtQnJvUnpDd0NXSmc5QUxnaml6eEZIRGlGa00wRHdaYjluV1V2NGlrTFdabDlQODQwZDZzME9melpMcUNxXzdITlRqOERKaHFmZGdhbmU3U21zMTJSWkthSENOSlVGbE9DTU5TN21xSzVvUFBrZjI3M21EaGliajRqcmJNaGd4UWxEWkdoWkxsTjRtdENPUWV5MzBEZTVoWlJUa2FsZG5mcGRBZWtIeU9jeE52OXgyMllUQkJVRDlESkt5X0ExajBWcjZTVlQzRlBKdUNobTg4bXlWbUF5Rng5VjVXelkwSGVueW9oVUVhLWVkLXRnd3RWVjVDc1VIVktOYUJOZWs0bjRacS0tNjJBMGFOalpVY29LSkJxZE5qalB0eUJlbHhhTndDWXQ1Wjl3dXBreFhUaDZwdWc9PSIsInVkaWQiOiIiLCJhZGRpdGlvbmFsX2Nhc19zeXN0ZW0iOjE0N30%3d&signature=jocLhOWrwHngnnR%2fxSXZxCmeSls%3d
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MGRhNmU1M2UtNGE3Ni0zZGRkLWJhMmQtYTFmMzE2YTRlMTY3
 #EXTINF:-1 tvg-url="https://iptv-org.github.io/epg/guides/id/vidio.com.epg.xml" group-title="Christian Channels" tvg-id="Reformed21.id" tvg-logo="https://www.lyngsat.com/logo/tv/rr/reformed_21_id.png",Reformed 21
 https://anevia114.mncnow.id/live/eds/Reformed21/sa_dash_vmx/Reformed21.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MGRhNmU1M2UtNGE3Ni0zZGRkLWJhMmQtYTFmMzE2YTRlMTY3
 #EXTINF:-1 tvg-id="Life.id" tvg-url="https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml" tvg-id="" tvg-url="https://iptv-org.github.io/epg/guides/id.xml" tvg-logo="https://www.lyngsat.com/logo/tv/ll/life_id.png" group-title="Christian Channels",LIFE
 https://anevia114.mncnow.id/live/eds/Life/sa_dash_vmx/Life.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MGRhNmU1M2UtNGE3Ni0zZGRkLWJhMmQtYTFmMzE2YTRlMTY3
 #EXTINF:-1 tvg-id="EWTNAfricaAsia.us" tvg-url="https://iptv-org.github.io/epg/guides/id.xml" tvg-logo="https://www.lyngsat.com/logo/tv/ee/ewtn_us.png" group-title="Christian Channels",EWTN
 https://anevia114.mncnow.id/live/eds/EWTN/sa_dash_vmx/EWTN.mpd
 
