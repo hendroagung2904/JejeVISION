@@ -21,6 +21,7 @@ http://mpwtv.my.id/vidioye/205-indosiar.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MGRhNmU1M2UtNGE3Ni0zZGRkLWJhMmQtYTFmMzE2YTRlMTY3
+#KODIPROP:inputstream.adaptive.license_key=https://drm.ors.at/acquire-license/widevine?BrandGuid=13f2e056-53fe-4469-ba6d-999970dbe549&userToken=5LP8TLRfoqD5eqKI%2Ft%2FH7BELNn64VSk%2BNgRfW9%2FSPu3B9%2Fo%2FZt98Zc8aP9%2FlHbkv2oEzi3oiMpzfcP0OIcSYohZqn1MtY2wfdnrEirZqkOr4N4Rnaff4GuMEcXQn5sxTfeCwGKW%2Ft30z3khWolbXybdALPVFbqd%2BAbnbLqH2chHWGA6WgVQhGPn%2BvpeeWDu0cJf5CjJESlkV35S%2FX4vXhn6A8M4z%2FGupnJ7h7IQSkkWctg3b%2FiR80DTe49OdCFgc||R{SSM}|
 #EXTINF:0 tvg-id="RCTI.id" group-title="Indonesia Channels" tvg-url="https://iptv-org.github.io/epg/guides/id.xml" tvg-logo="https://raw.githubusercontent.com/hendroagung2904/TVLogo/main/rctihd.png",RCTI
 https://anevia114.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
 
