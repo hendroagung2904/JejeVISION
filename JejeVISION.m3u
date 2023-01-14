@@ -209,6 +209,9 @@ https://liveaneviadev.mncnow.id/live/eds/tvN/sa_dash_vmx/tvN.mpd
 #EXTINF:0 tvg-id="tvN Movies Asia" tvg-url="https://iptv-org.github.io/epg/guides/id/mncvision.id.xml" tvg-logo="https://raw.githubusercontent.com/hendroagung2904/TVLogo/main/tvnmovieshd.png" group-title="Premium Movies",TvN movies HD
 https://liveaneviadev.mncnow.id/live/eds/tvNMovies/sa_dash_vmx/tvNMovies.mpd
 
+#EXTINF:0 tvg-logo="https://assetsmysky.blob.core.windows.net/assetsmysky/production/plans-and-bundles/1557989718_k-plus.png" group-title="Premium Movies",K+
+http://210.210.155.37/uq2663/h/h08/01.m3u8
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MGRhNmU1M2UtNGE3Ni0zZGRkLWJhMmQtYTFmMzE2YTRlMTY3
@@ -277,6 +280,8 @@ http://210.210.155.37/x6bnqe/h/h193/index.m3u8
 
 #EXTINF:0 tvg-logo="http://www.dens.tv/images/channel-logo/114.jpg" group-title="Premium Movies",My Family Channel
 http://210.210.155.37/uq2663/h/h194/index.m3u8
+
+
 
 
 ============KNOWLEDGE==================
@@ -357,6 +362,11 @@ http://210.210.155.37/dr9445/h/h15/01.m3u8
 #EXTINF:0 tvg-id="" tvg-url="https://iptv-org.github.io/epg/guides/id/mncvision.id.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Rock_Entertainment.png/640px-Rock_Entertainment.png" group-title="Entertainment & LifeStyle",Rock Entertainment
 http://210.210.155.37/dr9445/h/h16/01.m3u8
 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MGRhNmU1M2UtNGE3Ni0zZGRkLWJhMmQtYTFmMzE2YTRlMTY3
+#EXTINF:0 tvg-id="TLCSoutheastAsia.sg" tvg-url="https://iptv-org.github.io/epg/guides/id/mncvision.id.xml" tvg-logo="https://raw.githubusercontent.com/hendroagung2904/TVLogo/main/tlchd.png" group-title="Entertainment & LifeStyle",TLC HD
+https://liveaneviadev.mncnow.id/live/eds/TLC/sa_dash_vmx/TLC.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -370,11 +380,6 @@ https://liveaneviadev.mncnow.id/live/eds/LifeStyleFashion/sa_dash_vmx/LifeStyleF
 #EXTINF:0 tvg-id="HGTVAsia.us" tvg-url="https://iptv-org.github.io/epg/guides/id/mncvision.id.xml" tvg-logo="https://raw.githubusercontent.com/hendroagung2904/TVLogo/main/hgtvhd.png" group-title="Entertainment & LifeStyle",HGTV HD
 https://liveaneviadev.mncnow.id/live/eds/HGTV/sa_dash_vmx/HGTV.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MGRhNmU1M2UtNGE3Ni0zZGRkLWJhMmQtYTFmMzE2YTRlMTY3
-#EXTINF:0 tvg-id="TLCSoutheastAsia.sg" tvg-url="https://iptv-org.github.io/epg/guides/id/mncvision.id.xml" tvg-logo="https://raw.githubusercontent.com/hendroagung2904/TVLogo/main/tlchd.png" group-title="Entertainment & LifeStyle",TLC HD
-https://liveaneviadev.mncnow.id/live/eds/TLC/sa_dash_vmx/TLC.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
