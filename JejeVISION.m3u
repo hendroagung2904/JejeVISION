@@ -138,6 +138,11 @@ https://rr2.dens.tv/s/s10/index.m3u8
 =============TV MOVIES==================
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=OTI5MDUxMTktODY0NS0zY2UwLWFlM2UtOWY4M2U5MTUyNDQ4
+#EXTINF:-1 ch-number="408" tvg-id="Paramount Network" tvg-chno="408" tvg-logo="https://playtv.unifi.com.my:7042/CPS/images/universal/film/logo/202101/20210131/20210131162106997oc1.png" group-title="Premium Movies",Paramount Network
+https://web.hypp.tv:443/PLTV/88888888/224/3221227565/3221227565.mpd?rrsip=centerrrs.hypp.tv&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=t4XfRKPznwcm5yNu6Sjobe2aqV5UTV19lUxnBjdlKRt0gkKNfsvZnQa%2BeTCaDSr71Yr1neLb0w6jZ8a8lTawmbLF3gfIeaSzYGqCTxET0w4QDOsQVooi7urHXMw7lnEaQDIX1yOn3SbZEDIDSxhm2ML5D9zc3RocI4byDRafRCg%3D%3A20220311141837%3AUTC%2C10001001314027%2C175.145.39.154%2C20220311141837%2Curn:Huawei:liveTV:XTV100000582%2C10001001314027%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C10000104130084%2C0%2C10000103506212%2C6917d93a-9d86-02cb-65a4-5d72dc816888%2C%2C%2C2%2C1%2CEND&GuardEncType=2&tenantId=6003&from=5&ocs=2_1.9.62.163_80&hms_devid=1799&mount=1000002&targetdev=1799&it=H4sIAAAAAAAAA0XMQQvCIBiA4X-zo6hz0x08FYMuEqy6xjf9FMEm6Rr072MRdH-fdy1g8XTUoAZLQYGUshWi64ArJ1jfD9aDmKVvKj5N1m1jIaW4BJPdzm7T4c4ooYRzRphoLvtuTBA0_5bm9Zix_NmEZYsWtauebFAJhFAwwBrzQs4J3teSfskHhEarY5kAAAA
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MGRhNmU1M2UtNGE3Ni0zZGRkLWJhMmQtYTFmMzE2YTRlMTY3
 #EXTINF:-1  group-title="Premium Movies" tvg-id="HBOAsia.sg" tvg-url="https://iptv-org.github.io/epg/guides/id/mncvision.id.xml" tvg-logo="https://raw.githubusercontent.com/hendroagung2904/TVLogo/main/hbohd.png",HBO HD
