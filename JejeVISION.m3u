@@ -16,7 +16,8 @@
 https://mpwtv.my.id/vidioye/204-sctv.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1280px-INDOSIAR_Logo.png" group-title="Indonesia Channels" tvg-id="Indosiar.id" tvg-name="Indosiar", Indosiar HD
-https://mpwtv.my.id/vidioye/205-indosiar.m3u8
+#https://mpwtv.my.id/vidioye/205-indosiar.m3u8
+https://etslive-2-vidio-com.akamaized.net/vp9/205_stream.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
