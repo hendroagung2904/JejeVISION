@@ -688,6 +688,8 @@ https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/par
 #KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TVRRM2ZLSHBqNVdGVG8zZjJ4VE1TWkJpNl94SGFPQnh6QW55SnZVYktlc1AtRTJySGl1OVd5MjdLQnZjallTVDhoTG9wUEIxbk5NU3k3M2k2QTVtUU5PbTJxMmRUTDJQNFVwNHpJQTd0aDZjT2JQSHlYVVFWQmxXR18tUHZUWEtJdVV0LTJ6ejhTNS1teVE0MGVjSzlQZ05TMjNsa2dLUW50TFZPSXdUejMxNUpuRjNyRE15NWQ2TmQwdkp6dzBRZjU0SmNDVjEzeXBVek93WWR6NUFjNVdWX1RRZlpQeVNKSWVnRURWWGJVaERQUk5xUGV1V2NDUlJpVmNPQ3MxbFBtcFhZQ3FZdU9TVkpBX2ZzTFlQWFhfLVhrbTBXWjB2Z09WaFJqaXlJVHBObnpkaG1qMVFHREZBVGY5Y1BuRE1FOVI4bmc9PSZjb250ZXh0VHlwZT1ub25lJmlkPTU3NTQxMDgiLCJhY2NvdW50X2lkIjoyMDgyMzExLCJjb250ZW50X2lkIjoiZnRhX3Zhc2FudGhhbV9kYXNoX3R2X2RybSIsImZpbGVzIjoiIiwidXNlcl90b2tlbiI6ImRqSjhNVFEzZktIcGo1V0ZUbzNmMnhUTVNaQmk2X3hIYU9CeHpBbnlKdlViS2VzUC1FMnJIaXU5V3kyN0tCdmNqWVNUOGhMb3BQQjFuTk1TeTczaTZBNW1RTk9tMnEyZFRMMlA0VXA0eklBN3RoNmNPYlBIeVhVUVZCbFdHXy1QdlRYS0l1VXQtMnp6OFM1LW15UTQwZWNLOVBnTlMyM2xrZ0tRbnRMVk9Jd1R6MzE1Sm5GM3JETXk1ZDZOZDB2Snp3MFFmNTRKY0NWMTN5cFV6T3dZZHo1QWM1V1ZfVFFmWlB5U0pJZWdFRFZYYlVoRFBSTnFQZXVXY0NSUmlWY09DczFsUG1wWFlDcVl1T1NWSkFfZnNMWVBYWF8tWGttMFdaMHZnT1ZoUmppeUlUcE5uemRobWoxUUdERkFUZjljUG5ETUU5UjhuZz09IiwidWRpZCI6IiIsImFkZGl0aW9uYWxfY2FzX3N5c3RlbSI6MTQ3fQ%3d%3d&signature=raS7rHULO6NQgv8NTEmtVZRDvR0%3d
 #EXTINF:-1 group-title="Mediacorp SG" tvg-id="Vasantham" tvg-chno="Vasantham" tvg-logo="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/%24value?Format=%27png%27&Quality=85&ImageId=%271776032%27&EntityType=%27Item%27&EntityId=%2797096%27&Width=129&Height=63&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27",Vasantham
 https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/147/assetId/237653/assetType/media/assetFileId/5754108/contextType/PLAYBACK/isAltUrl/False/a.mpd
+
+
 <=========================================== Malaysia ==========================================>
 
 #EXTINF:-1 tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/tv1_bckg.png" tvg-url="" group-title="Malaysia",TV 1
@@ -733,6 +735,18 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/chunklist.m3u8?id=1|Referer=htt
 #EXTINF:-1 tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/berita_bckg.png" group-title="Malaysia",Berita RTM
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://d25tgymtnqzu8s.cloudfront.net/smil:berita/chunklist.m3u8?id=1|Referer=https://rtmklik.rtm.gov.my
+
+#EXTINF:-1 tvg-logo="https://www.bernama.com/tv/img/bernama.png" group-title="Malaysia",Bernama TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+https://raw.githubusercontent.com/digitaldotmy/YoutubeLive/main/BERNAMATV.m3u8
+
+#EXTINF:-1 tvg-logo="https://photos.live-tv-channels.org/tv-logo/my-astro-awani-5717.jpg" group-title="Malaysia",Astro Awani
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+https://raw.githubusercontent.com/digitaldotmy/YoutubeLive/main/AstroAWANI.m3u8
+
+#EXTINF:-1 tvg-logo="https://selangortv.my/wp-content/uploads/2020/10/cropped-SelangorTV2.png" group-title="Malaysia",Selangor TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+https://raw.githubusercontent.com/digitaldotmy/YoutubeLive/main/SelangorTV.m3u8
 
 <========================== China ============================================>
 
