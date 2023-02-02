@@ -648,6 +648,8 @@ https://liveaneviadev.mncnow.id/live/eds/EWTN/sa_dash_vmx/EWTN.mpd
 
 
 <=============================== Mediacorp Singapore ========================================>
+
+
 #EXTM3U x-tvg-url="https://github.com/AqFad2811/epg/raw/main/singapore.xml" url-tvg="https://github.com/AqFad2811/epg/raw/main/singapore.xml" refresh="1440" max-conn="1" refresh="24"
 
 #EXTM3U
@@ -681,8 +683,6 @@ https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/par
 #KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TVRRM2ZGQ0RJZGdJNzZOR09oUHYtbHhCMjhrUldXbHhlc2FwbVlWTHN2WkhrZ1RIU2RiY2RZV1NQbTBIVmJpdzNZUG5POFhvSTNIM0s4S0s2Rnhfb1hNX0dNVnFvX1FjRXlDNUNsZ2JyT0pqQjg0T1BtWEE0U1JtQ0NJdW5JeEVkdllvaWl3MTIwanpPdC1CTHhWc0lLeHNBQUZiUjFRLXdEWVQ5WlpUVllJeFUtWmtLUmtwZWxZWmZSMk1RNUJBYVhGLWhkR1dFYV9ZYWpsTkE0RzhWNkRhX0NZQWVHZWdvcmQtX0xvb0tpQ0liREdKLUc0LVQ1VnNZanVxOXdRbWlFMi04MTI4N19Yc1ZWU0EycExzRW1TYmd5Rl9Sbk13TXJQaEpaMFQ2a3RuaGFzMGk4TGc0UDlGejJrUGRwcXUydnlyUzFXZ0lUTmVmT19acUlEQnp2aGZwT3M9JmNvbnRleHRUeXBlPW5vbmUmaWQ9NTc1NDEwOCIsImFjY291bnRfaWQiOjIwODIzMTEsImNvbnRlbnRfaWQiOiJmdGFfdmFzYW50aGFtX2Rhc2hfdHZfZHJtIiwiZmlsZXMiOiIiLCJ1c2VyX3Rva2VuIjoiZGpKOE1UUTNmRkNESWRnSTc2TkdPaFB2LWx4QjI4a1JXV2x4ZXNhcG1ZVkxzdlpIa2dUSFNkYmNkWVdTUG0wSFZiaXczWVBuTzhYb0kzSDNLOEtLNkZ4X29YTV9HTVZxb19RY0V5QzVDbGdick9KakI4NE9QbVhBNFNSbUNDSXVuSXhFZHZZb2lpdzEyMGp6T3QtQkx4VnNJS3hzQUFGYlIxUS13RFlUOVpaVFZZSXhVLVprS1JrcGVsWVpmUjJNUTVCQWFYRi1oZEdXRWFfWWFqbE5BNEc4VjZEYV9DWUFlR2Vnb3JkLV9Mb29LaUNJYkRHSi1HNC1UNVZzWWp1cTl3UW1pRTItODEyODdfWHNWVlNBMnBMc0VtU2JneUZfUm5Nd01yUGhKWjBUNmt0bmhhczBpOExnNFA5Rnoya1BkcHF1MnZ5clMxV2dJVE5lZk9fWnFJREJ6dmhmcE9zPSIsInVkaWQiOiIiLCJhZGRpdGlvbmFsX2Nhc19zeXN0ZW0iOjE0N30%3d&signature=UMbw142%2bYtZIfF6nL6G2v0Sq0SM%3d
 #EXTINF:-1 group-title="Mediacorp SG" tvg-id="Vasantham" tvg-chno="Vasantham" tvg-logo="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/%24value?Format=%27png%27&Quality=85&ImageId=%271776032%27&EntityType=%27Item%27&EntityId=%2797096%27&Width=129&Height=63&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27",Vasantham
 https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/147/assetId/237653/assetType/media/assetFileId/5754108/contextType/PLAYBACK/isAltUrl/False/a.mpd
-
-
 
 
 
