@@ -691,7 +691,7 @@ https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/par
 
 <=========================================== Malaysia ==========================================>
 
-#EXTINF:-1 tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/tv1_bckg.png" tvg-url="" group-title="Malaysia",TV 1
+#EXTINF:-1 tvg-id="TV1.my" tvg-url="https://iptv-org.github.io" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/tv1_bckg.png" tvg-url="" group-title="Malaysia",TV 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/chunklist.m3u8?id=1|Referer=https://rtmklik.rtm.gov.my
 
