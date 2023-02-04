@@ -317,6 +317,11 @@ https://av-live-cdn.mncnow.id/live/eds/CGTN_Doc/sa_dash_vmx/CGTN_Doc.mpd
 
 
 <====================Entertainment & LifeStyle ================================>
+#EXTINF:-1  tvg-logo="https://images.bisnis-cdn.com/posts/2017/03/04/633955/dens-tv.jpg" group-title="Entertainment & LifeStyle",Rock Extrem
+http://rr1.dens.tv/h/h15/index.m3u8
+
+#EXTINF:-1  tvg-logo="https://images.bisnis-cdn.com/posts/2017/03/04/633955/dens-tv.jpg" group-title="Entertainment & LifeStyle",Rock Entertainment
+http://rr1.dens.tv/h/h16/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
