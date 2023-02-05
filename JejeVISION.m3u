@@ -627,6 +627,9 @@ https://av-live-cdn.mncnow.id/live/eds/Cbeebies/sa_dash_vmx/Cbeebies.mpd
 #EXTINF:-1 tvg-name="" tvg-id="BabyTV.uk" tvg-url="https://iptv-org.github.io/epg/guides/id/mncvision.id.xml" tvg-logo="https://www.lyngsat.com/logo/tv/bb/baby_tv_eu.png" group-title="Kids",Baby TV
 https://av-live-cdn.mncnow.id/live/eds/BabyTV-NewHD/sa_dash_vmx/BabyTV-NewHD.mpd
 
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-url="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/ABC_Kids_Logo.svg/1200px-ABC_Kids_Logo.svg.png" group-title="Kids",ABC KIDS
+https://c.mjh.nz/101002210222
+
 <=============Christian Channels==================>
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
