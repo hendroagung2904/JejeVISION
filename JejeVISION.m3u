@@ -445,6 +445,9 @@ https://av-live-cdn.mncnow.id/live/eds/soccerchannel-HD/sa_dash_vmx/soccerchanne
 #EXTINF:-1 tvg-id="FightSports.us" tvg-url="https://iptv-org.github.io/epg/guides/id/mncvision.id.xml" tvg-logo="https://raw.githubusercontent.com/hendroagung2904/TVLogo/main/fightsportshd.png" group-title="Sports"",Fight Sports
 https://av-live-cdn.mncnow.id/live/eds/FightSports/sa_dash_vmx/FightSports.mpd
 
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://web1.tikilive.com/public/files/shows/155/155879/44474-294x165-FFFFFF.jpg" group-title="Sports"",WWE Network HD
+http://box.slweb.tv:8880/cid.efa7edd334db63ad/ekEnMMtNAu/1099
+
 <=============TV NEWS====================>
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
