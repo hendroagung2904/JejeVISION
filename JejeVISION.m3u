@@ -630,6 +630,9 @@ https://av-live-cdn.mncnow.id/live/eds/BabyTV-NewHD/sa_dash_vmx/BabyTV-NewHD.mpd
 #EXTINF:-1 tvg-name="" tvg-id="" tvg-url="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/ABC_Kids_Logo.svg/1200px-ABC_Kids_Logo.svg.png" group-title="Kids",ABC KIDS
 https://c.mjh.nz/101002210222
 
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-url="" tvg-logo="https://static.tvtropes.org/pmwiki/pub/images/abc_me_logo.png" group-title="Kids",ABC Me
+https://c.mjh.nz/101002210224
+
 <=============Christian Channels==================>
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
