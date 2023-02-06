@@ -788,27 +788,38 @@ https://av-live-cdn.mncnow.id/live/eds/AnhuiTV/sa_dash_vmx/AnhuiTV.mpd
 <==================================== TVRI GRoup =========================================>
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/hendroagung2904/TVLogo/main/tvri.png" group-title="TVRI Group",TVRI Nasional
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-https://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/index.m3u8?checkedby:iptvcat.com
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRINasional)/index.m3u8
+http://118.97.50.107/Content/HLS/Live/Channel(TVRINASIONAL)/index.m3u8
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/index.m3u8
 
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/hendroagung2904/TVLogo/main/tvri.png" group-title="TVRI Group",TVRI World
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-https://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI3)/index.m3u8?checkedby:iptvcat.com
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRI3)/index.m3u8
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI3)/index.m3u8
+http://118.97.50.107/Content/HLS/Live/Channel(TVRI3)/index.m3u8
 
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/hendroagung2904/TVLogo/main/tvri.png" group-title="TVRI Group",TVRI Sport HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-https://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/index.m3u8?checkedby:iptvcat.com
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRI4)/index.m3u8
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/index.m3u8
+http://118.97.50.107/Content/HLS/Live/Channel(TVRI4)/index.m3u8
 
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/hendroagung2904/TVLogo/main/tvri.png" group-title="TVRI Group",TVRI Yogyakarta
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-https://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIYOGYAKARTA)/index.m3u8?checkedby:iptvcat.com
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIYogyakarta)/index.m3u8
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIYOGYAKARTA)/index.m3u8
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIYOGYAKARTA)/index.m3u8
 
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/hendroagung2904/TVLogo/main/tvri.png" group-title="TVRI Group",TVRI Sumatra Barat
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-https://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRISUMBARPADANG)/index.m3u8?checkedby:iptvcat.com
+http://118.97.50.107/Content/HLS/Live/Channel(TVRISUMBARPADANG)/index.m3u8
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRISUMBARPADANG)/index.m3u8
 
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/hendroagung2904/TVLogo/main/tvri.png" group-title="TVRI Group",TVRI Sumatra Selatan
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-https://ott.tvri.co.id/Content/HLS/Live/Channel(TVRISumsel)/index.m3u8?checkedby:iptvcat.com
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRISumsel)/index.m3u8
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRISUMSEL)/index.m3u8
+http://118.97.50.107/Content/HLS/Live/Channel(TVRISUMSEL)/index.m3u8
 
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/hendroagung2904/TVLogo/main/tvri.png" group-title="TVRI Group",TVRI Sulawesi Utara
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
@@ -820,7 +831,9 @@ https://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRISULTENGP
 
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/hendroagung2904/TVLogo/main/tvri.png" group-title="TVRI Group",TVRI Sulawesi Barat
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-https://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIsulbarmajene)/index.m3u8?checkedby:iptvcat.com
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIsulbarmajene)/index.m3u8
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIsulbarmajene)/index.m3u8
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIsulbarmajene)/index.m3u8
 
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/hendroagung2904/TVLogo/main/tvri.png" group-title="TVRI Group",TVRI Riau
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
@@ -836,7 +849,9 @@ https://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINTTKUPAN
 
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/hendroagung2904/TVLogo/main/tvri.png" group-title="TVRI Group",TVRI Nusa Tenggara Barat
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-https://ott.tvri.co.id/Content/HLS/Live/Channel(TVRINtbmataram)/index.m3u8?checkedby:iptvcat.com
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRINtbmataram)/index.m3u8
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINTBMATARAM)/index.m3u8
+http://118.97.50.107/Content/HLS/Live/Channel(TVRINTBMATARAM)/index.m3u8
 
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/hendroagung2904/TVLogo/main/tvri.png" group-title="TVRI Group",TVRI Bali
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
@@ -860,7 +875,9 @@ https://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIKALSELBA
 
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/hendroagung2904/TVLogo/main/tvri.png" group-title="TVRI Group",TVRI Kalimantan Barat
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-https://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIKALBAR)/index.m3u8?checkedby:iptvcat.com
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIKalbar)/index.m3u8
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIKALBAR)/index.m3u8
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIKALBAR)/index.m3u8
 
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/hendroagung2904/TVLogo/main/tvri.png" group-title="TVRI Group",TVRI Jawa Timur
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
@@ -869,6 +886,11 @@ https://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIJATIMSUR
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/hendroagung2904/TVLogo/main/tvri.png" group-title="TVRI Group",TVRI Jawa Tengah
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIJatengsemarang)/index.m3u8?checkedby:iptvcat.com
+
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/hendroagung2904/TVLogo/main/tvri.png" group-title="TVRI Group",TVRI Jawa Barat
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIJABARBANDUNG)/index.m3u8
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIJABARBANDUNG)/index.m3u8
 
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/hendroagung2904/TVLogo/main/tvri.png" group-title="TVRI Group",TVRI Jambi
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
