@@ -849,11 +849,15 @@ http://118.97.50.107/Content/HLS/Live/Channel(TVRISULTRA)/index.m3u8
 
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/hendroagung2904/TVLogo/main/tvri.png" group-title="TVRI Group",TVRI Riau
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-https://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIriau)/index.m3u8?checkedby:iptvcat.com
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIriau)/index.m3u8
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIriau)/index.m3u8
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIriau)/index.m3u8
 
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/hendroagung2904/TVLogo/main/tvri.png" group-title="TVRI Group",TVRI Papua
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-https://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIPAPUA)/index.m3u8?checkedby:iptvcat.com
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIPapua)/index.m3u8
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIPAPUA)/index.m3u8
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIPAPUA)/index.m3u8
 
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/hendroagung2904/TVLogo/main/tvri.png" group-title="TVRI Group",TVRI Nusa Tenggara Timur
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
@@ -871,7 +875,9 @@ https://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIBALI)/in
 
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/hendroagung2904/TVLogo/main/tvri.png" group-title="TVRI Group",TVRI Maluku
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-https://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIMALUKUAMBON)/index.m3u8?checkedby:iptvcat.com
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIMalukuambon)/index.m3u8
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIMALUKUAMBON)/index.m3u8
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIMALUKUAMBON)/index.m3u8
 
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/hendroagung2904/TVLogo/main/tvri.png" group-title="TVRI Group",TVRI Lampung
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
