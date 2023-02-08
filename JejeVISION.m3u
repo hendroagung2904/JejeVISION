@@ -393,6 +393,14 @@ http://kotopro.ottc.pro:80/aliisaac2322/I8ZZIEVEV5/415459
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 http://kotopro.ottc.pro:80/aliisaac2322/I8ZZIEVEV5/454884
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Sky_Sport_Arena_-_Logo_2020.svg/1280px-Sky_Sport_Arena_-_Logo_2020.svg.png" tvg-url="" group-title="Sports",Sky Sports Arena HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+http://kotopro.ottc.pro:80/aliisaac2322/I8ZZIEVEV5/4904
+
+#EXTINF:-1 tvg-logo="https://media.info/i/lf/0/1500468425/1514.png" tvg-url="" group-title="Sports",Sky Sports F1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+http://kotopro.ottc.pro:80/aliisaac2322/I8ZZIEVEV5/4902
+
 #EXTINF:-1 tvg-logo="https://i.goalzz.com/?i=o%2Fh%2F1%2F213%2Fbein-sports-english-1.png" tvg-url="" group-title="Sports",Beinsports 1 English
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 http://kotopro.ottc.pro:80/aliisaac2322/I8ZZIEVEV5/4914
