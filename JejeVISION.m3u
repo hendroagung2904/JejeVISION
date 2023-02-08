@@ -317,6 +317,10 @@ https://av-live-cdn.mncnow.id/live/eds/CGTN_Doc/sa_dash_vmx/CGTN_Doc.mpd
 
 <====================Entertainment & LifeStyle ================================>
 
+#EXTINF:-1 tvg-logo="https://cdn.technadu.com/wp-content/uploads/2021/07/SBS-Australia-Logotype.jpg" tvg-url="" group-title="Entertainment & LifeStyle",SBS Australia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+http://kotopro.ottc.pro:80/aliisaac2322/I8ZZIEVEV5/10524
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
@@ -399,7 +403,7 @@ http://kotopro.ottc.pro:80/aliisaac2322/I8ZZIEVEV5/4904
 
 #EXTINF:-1 tvg-logo="https://media.info/i/lf/0/1500468425/1514.png" tvg-url="" group-title="Sports",Sky Sports F1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-http://kotopro.ottc.pro:80/aliisaac2322/I8ZZIEVEV5/4902
+http://kotopro.ottc.pro:80/aliisaac2322/I8ZZIEVEV5/4796
 
 #EXTINF:-1 tvg-logo="https://i.goalzz.com/?i=o%2Fh%2F1%2F213%2Fbein-sports-english-1.png" tvg-url="" group-title="Sports",Beinsports 1 English
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
