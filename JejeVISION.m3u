@@ -317,6 +317,14 @@ https://av-live-cdn.mncnow.id/live/eds/CGTN_Doc/sa_dash_vmx/CGTN_Doc.mpd
 
 <====================Entertainment & LifeStyle ================================>
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Rock_Entertainment.png/640px-Rock_Entertainment.png" tvg-url="" group-title="Entertainment & LifeStyle",Rock Entertainment
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+http://rr1.dens.tv/h/h16/01.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/41/Rock_Action.png/" tvg-url="" group-title="Entertainment & LifeStyle",Rock Action
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+http://rr1.dens.tv/h/h15/01.m3u8
+
 #EXTINF:-1 tvg-logo="https://imageresizer.static9.net.au/RuBHY6ItnYo0aZAkWUGXMRSv4mg=/1920x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2018%2F10%2F182981%2F9Life_Card_Image.png" tvg-url="" group-title="Entertainment & LifeStyle",9 Life Australia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 http://kotopro.ottc.pro:80/aliisaac2322/I8ZZIEVEV5/10545
