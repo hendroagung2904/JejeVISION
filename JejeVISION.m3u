@@ -386,6 +386,15 @@ https://av-live-cdn.mncnow.id/live/eds/MNCInfotainment/sa_dash_vmx/MNCInfotainme
 
 <=========Sports=========>
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/rmZ4Yx47/beinsportspremium1.png" group-title="Sports",BeIN English 1
+https://no2.onlinewebtv.lol/ddy1/premium61/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/GtpQ4bPn/beinsportspremium2.png" group-title="Sports",BeIN English 2
+https://no2.onlinewebtv.lol/ddy1/premium90/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT\
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/kg150tbJ/beinsportsenglish3.png" group-title="Sport",BeIN English 3
+https://no2.onlinewebtv.lol/ddy1/premium46/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
