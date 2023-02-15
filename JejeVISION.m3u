@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/id/mncvision.id.xml"
+﻿#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/id/mncvision.id.xml"
 #EXTM3U x-url-tvg="https://iptv-org.github.io/epg/guides/id/mncvision.id.xml"
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/ms/astro.com.my.xml"
 #EXTM3U x-url-tvg="https://iptv-org.github.io/epg/guides/ms/astro.com.my.xml"
@@ -600,7 +600,7 @@ https://no2.onlinewebtv.lol/ddy1/premium90/index.m3u8?|referer=https://widevine.
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/kg150tbJ/beinsportsenglish3.png" group-title="Sports",BeIN English 3
 https://no2.onlinewebtv.lol/ddy1/premium46/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
 
-#EXTINF:-1 tvg-id="AstroSuperSport.my" tvg-name="Astro SuperSport 1" tvg-logo="https://i.postimg.cc/QtV8Z5b8/ASTRO-SPORT.png" tvg-country="my" group-title=" SPORTS (Astro Malaysia)",ASTRO SUPERSPORT 1
+#EXTINF:-1 tvg-id="AstroSuperSport.my" tvg-name="Astro SuperSport 1" tvg-logo="https://i.postimg.cc/QtV8Z5b8/ASTRO-SPORT.png" tvg-country="my" group-title="Sports",ASTRO SUPERSPORT 1
 #EXTVLCOPT:http-referrer=https://streamservicehd.click/
 https://mooncang.my.id/api/daddy/ch.php?id=premium123&ch=AstroSuperSport1
 
