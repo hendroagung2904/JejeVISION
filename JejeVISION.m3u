@@ -12,7 +12,8 @@
 #KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-h0PrCHAJzNo/Ute6GvqMZGI/AAAAAAAACoI/KF_xPaBLzi0/s1600/Logo+SCTV.png" group-title="Indonesia Channels" tvg-id="SCTV.id" tvg-name="SCTV", SCTV
-https://mpwtv.my.id/vidioye/204-sctv.m3u8
+#https://mpwtv.my.id/vidioye/204-sctv.m3u8
+https://nonton.wap.sh/id/009.m3u8
 
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream=inputstream.ffmpegdirect
@@ -74,7 +75,8 @@ https://av-live-cdn.mncnow.id/live/eds/Trans7-2/sa_dash_vmx/Trans7-2.mpd
 #KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
 #EXTINF:-1 tvg-id=""ANTV.id" "group-title="Indonesia Channels" tvg-url="https://iptv-org.github.io/epg/guides/id/mncvision.id.xml" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_115.png",ANTV
-https://av-live-cdn.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
+#https://av-live-cdn.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
+http://210.210.155.35:80/qwr9ew/s/s07/01.m3u8
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
