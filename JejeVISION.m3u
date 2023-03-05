@@ -1,9 +1,27 @@
-#EXTM3U
-
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/id/mncvision.id.xml"
 #EXTM3U x-url-tvg="https://iptv-org.github.io/epg/guides/id/mncvision.id.xml"
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/ms/astro.com.my.xml"
 #EXTM3U x-url-tvg="https://iptv-org.github.io/epg/guides/ms/astro.com.my.xml"
+
+
+
+<============================ BRI LIGA 1 ===================================>
+
+#EXTINF:0 tvg-logo="https://asset.indosport.com/article/image/q/80/329743/liga_1_bri_1-169.jpg?w=750&h=423"group-title="BRI LIGA INDONESIA", Live BRI 1
+http://golive.yn.lt:80/live/liga1/01.m3u8
+
+#EXTINF:0 tvg-logo="https://asset.indosport.com/article/image/q/80/329743/liga_1_bri_1-169.jpg?w=750&h=423"group-title="BRI LIGA INDONESIA", Live BRI 2
+http://golive.yn.lt:80/live/liga1/02.m3u8
+
+#EXTINF:0 tvg-logo="https://asset.indosport.com/article/image/q/80/329743/liga_1_bri_1-169.jpg?w=750&h=423"group-title="BRI LIGA INDONESIA", Live BRI 3
+http://golive.yn.lt:80/live/liga1/03.m3u8
+
+#EXTINF:0 tvg-logo="https://asset.indosport.com/article/image/q/80/329743/liga_1_bri_1-169.jpg?w=750&h=423"group-title="BRI LIGA INDONESIA", Live BRI 4
+http://golive.yn.lt:80/live/liga1/04.m3u8
+
+#EXTINF:0 tvg-logo="https://asset.indosport.com/article/image/q/80/329743/liga_1_bri_1-169.jpg?w=750&h=423"group-title="BRI LIGA INDONESIA", Live BRI 5
+http://golive.yn.lt:80/live/liga1/05.m3u8
+
 
 <=================Indonesia Channels=============================
 
@@ -397,30 +415,6 @@ https://anevia114.mncnow.id/live/eds/soccerchannel-HD/sa_dash_vmx/soccerchannel-
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTINF:-1 tvg-id="FightSports.us" tvg-url="https://iptv-org.github.io/epg/guides/id/mncvision.id.xml" tvg-logo="https://raw.githubusercontent.com/hendroagung2904/TVLogo/main/fightsportshd.png" group-title="Sports",Fight Sports
 https://anevia114.mncnow.id/live/eds/FightSports/sa_dash_vmx/FightSports.mpd
-
-#EXTINF:-1 tvg-id="" tvg-name="BT Sport 1" tvg-logo="https://i.imgur.com/Wi7rhPs.png" group-title="Sports",BT SPORT 1
-http://ttv.bz:80/live/m2r9EhQfqT/dmMB57FjXv21/1388.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="BT Sport 2" tvg-logo="https://i.imgur.com/MrHjmX4.png" group-title="Sports",BT SPORT 2
-http://ttv.bz:80/live/m2r9EhQfqT/dmMB57FjXv21/1389.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="BT Sport 3" tvg-logo="https://i.imgur.com/Ss2Gf0o.png" group-title="Sports",BT SPORT 3
-http://ttv.bz:80/live/m2r9EhQfqT/dmMB57FjXv21/1390.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="SuperSport Action" tvg-logo="http://platinumxmedia.xyz:8080/images/04f8e0679ed7cbc138d4ac177080b0be.png" group-title="Sports",SuperSport Action
-http://ttv.bz:80/live/m2r9EhQfqT/dmMB57FjXv21/66614.ts
-
-#EXTINF:-1  tvg-id="" tvg-name="Sky Sports F1" group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d9/Sky_Sports_F1_logo_2020.svg/512px-Sky_Sports_F1_logo_2020.svg.png",SKY SPORT F1
-http://ttv.bz:80/live/m2r9EhQfqT/dmMB57FjXv21/1401.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="SuperSport Rugby" tvg-logo="http://platinumxmedia.xyz:8080/images/a2843624bcdb705b82d97a13d862e238.png" group-title="Sports",SuperSport Rugby
-http://ttv.bz:80/live/m2r9EhQfqT/dmMB57FjXv21/66607.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="SuperSport Cricket" tvg-logo="http://platinumxmedia.xyz:8080/images/e2182f27c94adc78e9deecc1da385a34.png" group-title="Sports",SuperSport Cricket
-http://ttv.bz:80/live/m2r9EhQfqT/dmMB57FjXv21/66608.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="SuperSport Grandstand" tvg-logo="http://platinumxmedia.xyz:8080/images/ad4c133b247c9b50a2adae08faffd885.png" group-title="Sports",SuperSport Grandstand
-http://ttv.bz:80/live/m2r9EhQfqT/dmMB57FjXv21/66612.ts
 
 <=============TV NEWS====================>
 
