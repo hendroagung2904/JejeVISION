@@ -371,17 +371,17 @@ https://mooncang.my.id/api/vidio/ch.mpd?id=6317&code=bein-3
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/408
-#EXTINF:-1 group-title="Sports;International" tvg-id="beinsports1.my" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Logo_bein_sports_1.png/800px-Logo_bein_sports_1.png",beIN Sports Malaysia 1
+#EXTINF:-1 group-title="Sports" tvg-id="beinsports1.my" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Logo_bein_sports_1.png/800px-Logo_bein_sports_1.png",beIN Sports Malaysia 1
 https://mooncang.my.id/api/astro/ch.mpd?id=408
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5066
-#EXTINF:-1 group-title="Sports;International" tvg-id="beinsports2.my" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Logo_bein_sports_2.png/800px-Logo_bein_sports_2.png",beIN Sports Malaysia 2
+#EXTINF:-1 group-title="Sports" tvg-id="beinsports2.my" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Logo_bein_sports_2.png/800px-Logo_bein_sports_2.png",beIN Sports Malaysia 2
 https://mooncang.my.id/api/astro/ch.mpd?id=5066
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2705
-#EXTINF:-1 group-title="Sports;International" tvg-id="beinsports3.my" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Logo_bein_sports_3.png/800px-Logo_bein_sports_3.png",beIN Sports Malaysia 3
+#EXTINF:-1 group-title="Sports" tvg-id="beinsports3.my" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Logo_bein_sports_3.png/800px-Logo_bein_sports_3.png",beIN Sports Malaysia 3
 https://mooncang.my.id/api/astro/ch.mpd?id=2705
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
