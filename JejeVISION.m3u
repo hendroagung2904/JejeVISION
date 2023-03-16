@@ -1,9 +1,8 @@
+#EXTM3U
 #EXTM3U x-tvg-url="https://tinyurl.com/jejevisionepg"
 #EXTM3U url-tvg="https://tinyurl.com/jejevisionepg"
 #EXTM3U x-tvg-url="https://tinyurl.com/jejevisionepg2"
 #EXTM3U url-tvg="https://tinyurl.com/jejevisionepg2"
-
-EXTM3U
 
 <============================ BRI LIGA 1 ===================================>
 
@@ -29,7 +28,7 @@ http://golive.yn.lt:80/live/liga1/05.m3u8
 https://mooncang.my.id/api/vidio/ch.m3u8?id=206&code=moji
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MjhkOWZkZjYtOGViOC0zNTkzLWFhOWEtNGFhMzJkMDk3NGE2
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
 #EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/sctv.png" group-title="Indonesia Channels" tvg-id="SCTV.id" tvg-name="SCTV", SCTV
 #https://mpwtv.my.id/vidioye/204-sctv.m3u8
 #https://nonton.wap.sh/id/009.m3u8
