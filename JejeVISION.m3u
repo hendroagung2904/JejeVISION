@@ -203,7 +203,7 @@ https://anevi-live-channel-cdn.mncnow.id/live/eds/tvN/sa_dash_vmx/tvN.mpd
 #EXTINF:-1 tvg-id="tvN Movies Asia" tvg-url="https://tinyurl.com/jejevisionepg" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_415.png" group-title="Premium Movies",TvN movies HD
 https://anevi-live-channel-cdn.mncnow.id/live/eds/tvNMovies/sa_dash_vmx/tvNMovies.mpd
 
-#EXTINF:-1 tvg-logo="https://assetsmysky.blob.core.windows.net/assetsmysky/production/plans-and-bundles/1557989718_k-plus.png" group-title="Premium Movies",K+
+#EXTINF:-1 tvg-logo="https://assetsmysky.blob.core.windows.net/assetsmysky/production/plans-and-bundles/1557989718_k-plus.png" tvg-id="KPlus.sg" tvg-url="https://tinyurl.com/jejevisionepg2" group-title="Premium Movies",K+
 http://rr.dens.tv/h/h08/index2.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -390,7 +390,8 @@ http://golive.yn.lt:80/live/liga1/05.m3u8
 
 <=================Indonesia Channels=============================
 
-#EXTINF:-1 group-title="Indonesia Channels" tvg-id="ochannel.id" tvg-url="https://tinyurl.com/jejevisionepg2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/640px-Moji_blue.svg.png",Moji
+#EXTINF:-1 group-title="Indonesia Channels" tvg-id="ochannel.id" tvg-url="https://tinyurl.com/jejevisionepg2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/
+_blue.svg/640px-Moji_blue.svg.png",Moji
 https://mooncang.my.id/api/vidio/ch.m3u8?id=206&code=moji
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -399,7 +400,6 @@ https://mooncang.my.id/api/vidio/ch.m3u8?id=206&code=moji
 #https://mpwtv.my.id/vidioye/204-sctv.m3u8
 #https://nonton.wap.sh/id/009.m3u8
 http://210.210.155.37/qwr9ew/s/s03/01.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/Indosiar.png" group-title="Indonesia Channels" tvg-id="Indosiar.id" tvg-name="Indosiar", Indosiar HD
 https://mpwtv.my.id/vidioye/205-indosiar.m3u8
@@ -488,7 +488,6 @@ https://anevi-live-channel-cdn.mncnow.id/live/eds/BeritaSatu/sa_dash_vmx/BeritaS
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
 #EXTINF:-1 group-title="Indonesia Channels" tvg-url="https://tinyurl.com/jejevisionepg" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_434.png",MNC News
 https://anevi-live-channel-cdn.mncnow.id/live/eds/MNCnews-HDD/sa_dash_vmx/MNCnews-HDD.mpd
-
 
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-uofM2vEet-0/XE8wsXFAudI/AAAAAAAAGqU/zOlv9fcbBDsS-9PXZ4se5N-hRbIsgSd4QCK4BGAYYCw/s1600/CNN%2BIndonesia%2BLogo%2B%255Bwww.blogovector.com%255D.png" group-title="Indonesia Channels",CNN INDONESIA
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w2069650134_b280000_sleng.m3u8
@@ -892,7 +891,7 @@ https://anevi-live-channel-cdn.mncnow.id/live/eds/TV5/sa_dash_vmx/TV5.mpd
 
 <=============TV KIDS===============>
 
-#EXTINF:-1 group-title="Kids" tvg-id="mentaritv.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Mentari_TV.png",Mentari TV
+#EXTINF:-1 group-title="Kids" tvg-url="https://tinyurl.com/jejevisionepg2" tvg-id="mentaritv.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Mentari_TV.png",Mentari TV
 http://203.29.26.22:8000/play/a05m/index.m3u8
 https://mooncang.my.id/api/vidio/ch.m3u8?id=8237&code=mentari-tv
 
