@@ -388,12 +388,12 @@ https://mooncang.my.id/api/astro/ch.mpd?id=2705
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
-#EXTINF:-1 tvg-id= "SPOTV.kr" tvg-url=”https://tinyurl.com/jejevisionepg2” tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_427.png" group-title="Sports",SpoTV
+#EXTINF:-1 tvg-id= "SPOTV.kr" tvg-url=”https://tinyurl.com/jejevisionepg” tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_427.png" group-title="Sports",SpoTV
 https://anevi-live-channel-cdn.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
-#EXTINF:-1 tvg-id="SPOTV2.kr"tvg-url="https://tinyurl.com/jejevisionepg2" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_428.png" group-title="Sports",SpoTV 2
+#EXTINF:-1 tvg-id="SPOTV2.kr"tvg-url="https://tinyurl.com/jejevisionepg" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_428.png" group-title="Sports",SpoTV 2
 https://anevi-live-channel-cdn.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
