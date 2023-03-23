@@ -1143,3 +1143,110 @@ https://5bf7b725107e5.streamlock.net/tvtabalong/tvtabalong/playlist.m3u8
 
 #EXTINF:-1  tvg-id="" tvg-url="https://tinyurl.com/jejevisionepg" tvg-logo="https://ugtv.co.id/wp-content/uploads/2021/03/LOGO-SANGAJI-TV-2048x475.png" group-title="Local Channels",Sangaji TV
 https://cdn.gunadarma.ac.id/streams/sangajitv/ingestsangajitv.m3u8
+
+<======================= Internet Radio ===============================>
+
+#EXTINF:-1  tvg-id="" tvg-url="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/22/IRadio_2012.png" group-title="Internet Radio",i Radio
+https://live-production.secureswiftcontent.com/exp=1679577525~acl=/hls-p/ingest_7057_*/*~hmac=1034efc109436a2a97f74fe567ed6de8931a2603074fc1738e72920df239fb32/hls-p/ingest_7057_360p/index.m3u8
+
+#EXTINF:-1  tvg-id="" tvg-url="" tvg-logo="https://cdn-radiotime-logos.tunein.com/s89411g.png" group-title="Internet Radio",Prambors FM
+https://live-production.secureswiftcontent.com/exp=1679577593~acl=/hls-p/ingest_7004_*/*~hmac=924a47d2b7d512141238480a4a4891d6945f915d3860063115a265a70fc07e9f/hls-p/ingest_7004_360p/index.m3u8
+
+#EXTINF:-1  tvg-id="" tvg-url="" tvg-logo="https://seeklogo.com/images/A/ardan-logo-926988E6D3-seeklogo.com.png" group-title="Internet Radio",Ardan FM Bandung
+https://live-production.secureswiftcontent.com/exp=1679577657~acl=/hls-p/ingest_7184_*/*~hmac=e96dd1e7844cd86c78d7c9744d776c4685d802c2defcb305fbff73651461f486/hls-p/ingest_7184_360p/index.m3u8
+
+#EXTINF:-1  tvg-id="" tvg-url="" tvg-logo="https://cdn-radiotime-logos.tunein.com/s191292g.png" group-title="Internet Radio",Cakra FM Bandung
+https://live-production.secureswiftcontent.com/exp=1679579203~acl=/hls-p/ingest_7297_*/*~hmac=aff964ad4f240a67d4906480dcfbfbafc015f5d58b5f618d879d0d098101756e/hls-p/ingest_7297_360p/index.m3u8
+
+#EXTINF:-1  tvg-id="" tvg-url="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/dd/Logo_Gen_FM.png" group-title="Internet Radio",Gen FM Jakarta
+https://live-production.secureswiftcontent.com/exp=1679577931~acl=/hls-p/ingest_7443_*/*~hmac=55ea077ecc5e4bea417a16c711491d0831eb5febc120f1a19a1e9bb1bcd820f4/hls-p/ingest_7443_360p/index.m3u8
+
+#EXTINF:-1  tvg-id="" tvg-url="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/dd/Logo_Gen_FM.png" group-title="Internet Radio",Gen FM Surabaya
+https://live-production.secureswiftcontent.com/exp=1679577980~acl=/hls-p/ingest_7446_*/*~hmac=75df6ac792b748d21942e7cab8c1e7e77db4b513ec098790c4aaecaa561e96d6/hls-p/ingest_7446_360p/index.m3u8
+
+#EXTINF:-1  tvg-id="" tvg-url="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Logo-sonora.png/800px-Logo-sonora.png" group-title="Internet Radio",Sonora FM Jakarta
+https://etslive-2-vidio-com.akamaized.net/exp=1679578037~acl=/hls-p/ingest_12237_*/*~hmac=7ef5b6240076fe03753b72fb0e64d70dde4dd16f89b3ae5cbea940a5b6347a19/hls-p/ingest_12237_360p/index.m3u8
+
+#EXTINF:-1  tvg-id="" tvg-url="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/27/Smart_FM_%282017%29.png" group-title="Internet Radio",Smart FM Jakarta
+https://etslive-2-vidio-com.akamaized.net/exp=1679578090~acl=/hls-p/ingest_12239_*/*~hmac=7dd1db8dfa4eeaa4f0666d4696dab9c630708621163fb1ec812bdfac78fed724/hls-p/ingest_12239_360p/index.m3u8
+
+#EXTINF:-1  tvg-id="" tvg-url="" tvg-logo="http://www.mgtradio.com/wp-content/uploads/2018/10/MGTRADIO-HIGH-RES.jpg" group-title="Internet Radio",MGT Radio Bandung
+https://live-production.secureswiftcontent.com/exp=1679578140~acl=/hls-p/ingest_7188_*/*~hmac=996656cbf73a9728216f47667a5dbbba48d73ce561a3d395b445b6f5d0a4cbd9/hls-p/ingest_7188_360p/index.m3u8
+
+#EXTINF:-1  tvg-id="" tvg-url="" tvg-logo="https://elshinta.com/template/elshinta/images/radio_elshinta.png" group-title="Internet Radio",El Shinta FM
+https://live-production.secureswiftcontent.com/exp=1679578202~acl=/hls-p/ingest_7166_*/*~hmac=0f6993c3b3a888515b6107b0fddeab465e52111cac03ff6e1dca3c2b233866f0/hls-p/ingest_7166_360p/index.m3u8
+
+#EXTINF:-1  tvg-id="" tvg-url="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/Trax_FM.png" group-title="Internet Radio",Trax FM Jakarta
+https://live-production.secureswiftcontent.com/exp=1679578273~acl=/hls-p/ingest_7055_*/*~hmac=84700a3fba41443ad097619295e32458191cd5d63eeaecbcdbfc5ecb0872946e/hls-p/ingest_7055_360p/index.m3u8
+
+#EXTINF:-1  tvg-id="" tvg-url="" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/f/fc/Cosmopolitan_FM_Jakarta.png/1200px-Cosmopolitan_FM_Jakarta.png" group-title="Internet Radio",Cosmopolitan FM
+https://live-production.secureswiftcontent.com/exp=1679578326~acl=/hls-p/ingest_7056_*/*~hmac=b2f4aca747a420b65e33131bef908954af3b007e7b2412f2d5daa1152aea1347/hls-p/ingest_7056_360p/index.m3u8
+
+#EXTINF:-1  tvg-id="" tvg-url="" tvg-logo="https://bravaradio.com/wp-content/uploads/2023/02/Brava-Radio.jpg" group-title="Internet Radio",Brava FM
+https://live-production.secureswiftcontent.com/exp=1679578377~acl=/hls-p/ingest_7054_*/*~hmac=0327605f905b8d28dc38d661ae2daa4df79951dcb5b21e8a3b21666001758190/hls-p/ingest_7054_360p/index.m3u8
+
+#EXTINF:-1  tvg-id="" tvg-url="" tvg-logo="https://mediapartner.co.id/wp-content/uploads/2019/05/LOGO_PARAMUDA_NO_BACKGROUND-e1560751442520.jpg" group-title="Internet Radio",Paramuda FM Bandung
+https://live-production.secureswiftcontent.com/exp=1679578421~acl=/hls-p/ingest_7685_*/*~hmac=3a68a602a07a21724ed055c75362ef622c7b5ee706d475181e7381a77e10094b/hls-p/ingest_7685_360p/index.m3u8
+
+#EXTINF:-1  tvg-id="" tvg-url="" tvg-logo="https://upload.wikimedia.org/wikipedia/id/c/c1/HARDROCK-FM-JAKARTA.png" group-title="Internet Radio",HardRock FM Jakarta
+https://live-production.secureswiftcontent.com/exp=1679578470~acl=/hls-p/ingest_7053_*/*~hmac=f7300d178370d631a940c1b82c044d2a21886cf0ea64b9ff0ca84f52215c2bff/hls-p/ingest_7053_360p/index.m3u8
+
+#EXTINF:-1  tvg-id="" tvg-url="" tvg-logo="" group-title="Internet Radio",Female FM
+https://live-production.secureswiftcontent.com/exp=1679578526~acl=/hls-p/ingest_7130_*/*~hmac=3636cba7f98b6365e2c4dbfec96a714d3ff9ef3f3922abe5e62252927e7fc1a3/hls-p/ingest_7130_360p/index.m3u8
+
+#EXTINF:-1  tvg-id="" tvg-url="" tvg-logo="" group-title="Internet Radio",Bahana FM
+https://live-production.secureswiftcontent.com/exp=1679578581~acl=/hls-p/ingest_7091_*/*~hmac=42baba2957c658ce9cb0329b1c781c25cbb64f556274e99e719d4ba84fc98db5/hls-p/ingest_7091_360p/index.m3u8
+
+#EXTINF:-1  tvg-id="" tvg-url="" tvg-logo="" group-title="Internet Radio",Delta FM
+https://live-production.secureswiftcontent.com/exp=1679578660~acl=/hls-p/ingest_7092_*/*~hmac=674982695b12b894aa6fcc7928da808fb656b361f1faef2bfcaaba7ecb5b3f2b/hls-p/ingest_7092_360p/index.m3u8
+
+#EXTINF:-1  tvg-id="" tvg-url="" tvg-logo="" group-title="Internet Radio",Sushi FM Padang
+https://live-production.secureswiftcontent.com/exp=1679578712~acl=/hls-p/ingest_7218_*/*~hmac=f3fe0b412d180048c905d0352f448f073a5b09525cdb1da2b282b2bc9a88f5a6/hls-p/ingest_7218_360p/index.m3u8
+
+#EXTINF:-1  tvg-id="" tvg-url="" tvg-logo="" group-title="Internet Radio",Elgangga Bekasi
+https://live-production.secureswiftcontent.com/exp=1679578769~acl=/hls-p/ingest_7169_*/*~hmac=b936c3d14f521058099d36dea0261d7ecd4ef210bc5198782141b9fb30c57f3e/hls-p/ingest_7169_360p/index.m3u8
+
+#EXTINF:-1  tvg-id="" tvg-url="" tvg-logo="" group-title="Internet Radio",Elmitra FM Sukabumi
+https://live-production.secureswiftcontent.com/exp=1679578830~acl=/hls-p/ingest_7170_*/*~hmac=2f40b28e72a329daf8ef2cf5152c39e0b7f6f46e8b864f0dc558f04c025ede46/hls-p/ingest_7170_360p/index.m3u8
+
+#EXTINF:-1  tvg-id="" tvg-url="" tvg-logo="" group-title="Internet Radio",Dahlia FM Bandung
+https://live-production.secureswiftcontent.com/exp=1679578907~acl=/hls-p/ingest_7242_*/*~hmac=36997968935e3d1cb2fd9bfb25e394030d86d3d7c2cfc7223b10ccdfce0b5db1/hls-p/ingest_7242_360p/index.m3u8
+
+#EXTINF:-1  tvg-id="" tvg-url="" tvg-logo="" group-title="Internet Radio",Swaragama FM Jogja
+https://live-production.secureswiftcontent.com/exp=1679578965~acl=/hls-p/ingest_7248_*/*~hmac=d992a2952dede704a81be13ce768b3e4b52f8bd77f44ffb16ba4b9854ac96f9b/hls-p/ingest_7248_360p/index.m3u8
+
+#EXTINF:-1  tvg-id="" tvg-url="" tvg-logo="" group-title="Internet Radio",Imelda FM Semarang
+https://live-production.secureswiftcontent.com/exp=1679579020~acl=/hls-p/ingest_7281_*/*~hmac=d94bbecdf7594251ee17671812c97948f7074a967ead9a4adeb9307fe465ab14/hls-p/ingest_7281_360p/index.m3u8
+
+#EXTINF:-1  tvg-id="" tvg-url="" tvg-logo="" group-title="Internet Radio",Swara FM Semarang
+https://live-production.secureswiftcontent.com/exp=1679579074~acl=/hls-p/ingest_7283_*/*~hmac=f4a03f07be406665aa32a82722fb2a0ac5997f0ebde0de56482a703a332e7d02/hls-p/ingest_7283_360p/index.m3u8
+
+#EXTINF:-1  tvg-id="" tvg-url="" tvg-logo="" group-title="Internet Radio",Gajahmada FM Semarang
+https://live-production.secureswiftcontent.com/exp=1679579133~acl=/hls-p/ingest_7284_*/*~hmac=0d9da84751bd0a498ec0ac7be591b88e16153d8d4eacb1790a5d288640b4292a/hls-p/ingest_7284_360p/index.m3u8
+
+#EXTINF:-1  tvg-id="" tvg-url="" tvg-logo="" group-title="Internet Radio",KIS FM
+https://live-production.secureswiftcontent.com/exp=1679579288~acl=/hls-p/ingest_7445_*/*~hmac=1b4e85c39a790d691c326c884c21acbcc68976d82e17ccd159a3edec7eb13426/hls-p/ingest_7445_360p/index.m3u8
+
+#EXTINF:-1  tvg-id="" tvg-url="" tvg-logo="" group-title="Internet Radio",Mustang FM
+https://live-production.secureswiftcontent.com/exp=1679579339~acl=/hls-p/ingest_7447_*/*~hmac=ac2de941b9972c3d128ccae18d0dca84011070f3ddbd604b480508cb249c7752/hls-p/ingest_7447_360p/index.m3u8
+
+#EXTINF:-1  tvg-id="" tvg-url="" tvg-logo="" group-title="Internet Radio",Hot FM
+https://live-production.secureswiftcontent.com/exp=1679579382~acl=/hls-p/ingest_7448_*/*~hmac=63af08ccdd96f1a0618b17073dfb088bc4a86703f6536d63a0a3aa0752543dfa/hls-p/ingest_7448_360p/index.m3u8
+
+#EXTINF:-1  tvg-id="" tvg-url="" tvg-logo="" group-title="Internet Radio",Jak FM
+https://etslive-2-vidio-com.akamaized.net/exp=1679579739~acl=/hls-p/ingest_7449_*/*~hmac=a77420b687186ab9bfe6bb8d97ab108835da1e3d71e9e2a6c5695cc0456e97c3/hls-p/ingest_7449_360p/index.m3u8
+
+#EXTINF:-1  tvg-id="" tvg-url="" tvg-logo="" group-title="Internet Radio",Most Radio
+https://live-production.secureswiftcontent.com/exp=1679579785~acl=/hls-p/ingest_7450_*/*~hmac=3c6ec20ce9ee4293575664938193812ee652201801f3505e8cf5c16743444309/hls-p/ingest_7450_360p/index.m3u8
+
+#EXTINF:-1  tvg-id="" tvg-url="" tvg-logo="" group-title="Internet Radio",JIZ FM
+https://live-production.secureswiftcontent.com/exp=1679579875~acl=/hls-p/ingest_7792_*/*~hmac=979047c1fa1bab6714c609253348d50d316570b2465ed02c7ef7e7024d939fa7/hls-p/ingest_7792_360p/index.m3u8
+
+#EXTINF:-1  tvg-id="" tvg-url="" tvg-logo="" group-title="Internet Radio",Indika FM
+https://live-production.secureswiftcontent.com/exp=1679579925~acl=/hls-p/ingest_8024_*/*~hmac=250e2da898e7963d8658e6600e03f8e20109f3c386ccf321002e59b51aea27f1/hls-p/ingest_8024_360p/index.m3u8
+
+#EXTINF:-1  tvg-id="" tvg-url="" tvg-logo="" group-title="Internet Radio",Nagaswara FM
+https://live-production.secureswiftcontent.com/exp=1679579975~acl=/hls-p/ingest_8638_*/*~hmac=f8f894dec47655c6878c0aaee20ad964f634d40c3a8dd118e6314c81fc1b2fac/hls-p/ingest_8638_360p/index.m3u8
+
+#EXTINF:-1  tvg-id="" tvg-url="" tvg-logo="" group-title="Internet Radio",Classy FM Padang
+https://live-production.secureswiftcontent.com/exp=1679580020~acl=/hls-p/ingest_9106_*/*~hmac=97c3c8e4da246b24761e05f3573d9f7683c5258be690c4310dabbc55e180a66f/hls-p/ingest_9106_360p/index.m3u8
