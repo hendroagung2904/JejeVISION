@@ -1146,6 +1146,9 @@ https://cdn.gunadarma.ac.id/streams/sangajitv/ingestsangajitv.m3u8
 
 <======================= Internet Radio ===============================>
 
+#EXTINF:-1  tvg-id="" tvg-url="" tvg-logo="http://p2k.unkris.ac.id/_sepakbola/_baca_image.php?td=12&kodegb=SSFM_Logo.png" group-title="Internet Radio",Suara Surabaya FM
+https://ssfm.siar.us/ssfm/live/playlist.m3u8
+
 #EXTINF:-1  tvg-id="" tvg-url="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/22/IRadio_2012.png" group-title="Internet Radio",i Radio
 https://live-production.secureswiftcontent.com/exp=1679577525~acl=/hls-p/ingest_7057_*/*~hmac=1034efc109436a2a97f74fe567ed6de8931a2603074fc1738e72920df239fb32/hls-p/ingest_7057_360p/index.m3u8
 
