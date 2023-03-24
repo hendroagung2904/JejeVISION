@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://tinyurl.com/jejevisionepg"
+﻿#EXTM3U x-tvg-url="https://tinyurl.com/jejevisionepg"
 #EXTM3U url-tvg="https://tinyurl.com/jejevisionepg"
 #EXTM3U x-tvg-url="https://tinyurl.com/jejevisionepg2"
 #EXTM3U url-tvg="https://tinyurl.com/jejevisionepg2"
@@ -1153,7 +1153,7 @@ https://ssfm.siar.us/ssfm/live/playlist.m3u8
 https://live-production.secureswiftcontent.com/exp=1679577525~acl=/hls-p/ingest_7057_*/*~hmac=1034efc109436a2a97f74fe567ed6de8931a2603074fc1738e72920df239fb32/hls-p/ingest_7057_360p/index.m3u8
 
 #EXTINF:-1  tvg-id="" tvg-url="" tvg-logo="https://cdn-radiotime-logos.tunein.com/s89411g.png" group-title="Internet Radio",Prambors FM
-https://live-production.secureswiftcontent.com/exp=1679577593~acl=/hls-p/ingest_7004_*/*~hmac=924a47d2b7d512141238480a4a4891d6945f915d3860063115a265a70fc07e9f/hls-p/ingest_7004_360p/index.m3u8
+https://live-production.secureswiftcontent.com/exp=1679630901~acl=/hls-p/ingest_7004_*/*~hmac=32b88e300d3e272bd9d75b0e5ea7cd107b4b8890aba7d65fe25d76c1d43d1e30/hls-p/ingest_7004_360p/index.m3u8
 
 #EXTINF:-1  tvg-id="" tvg-url="" tvg-logo="https://seeklogo.com/images/A/ardan-logo-926988E6D3-seeklogo.com.png" group-title="Internet Radio",Ardan FM Bandung
 https://live-production.secureswiftcontent.com/exp=1679577657~acl=/hls-p/ingest_7184_*/*~hmac=e96dd1e7844cd86c78d7c9744d776c4685d802c2defcb305fbff73651461f486/hls-p/ingest_7184_360p/index.m3u8
