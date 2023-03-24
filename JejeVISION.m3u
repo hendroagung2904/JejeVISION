@@ -1,8 +1,8 @@
 ﻿
 
+<============================ BRI LIGA 1 ==================================>
 #EXTM3U x-tvg-url="https://tinyurl.com/jejevisionepg" url-tvg="https://tinyurl.com/jejevisionepg x-tvg-url="https://tinyurl.com/jejevisionepg2" url-tvg="https://tinyurl.com/jejevisionepg2" refresh="1440" max-conn="1" refresh="24"
 
-<============================ BRI LIGA 1 ==================================>
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/aThN9BYQG4Y0_qtqym6rOwM7bNs=/filters:quality(70)/vidio-web-prod-category/uploads/category/image/59/bri-liga-1-2fbb85.png"group-title="BRI LIGA INDONESIA", Live BRI 1
@@ -22,6 +22,10 @@ http://golive.yn.lt:80/live/liga1/05.m3u8
 
 
 <=================Indonesia Channels=============================
+#EXTM3U x-tvg-url="https://tinyurl.com/jejevisionepg" url-tvg="https://tinyurl.com/jejevisionepg x-tvg-url="https://tinyurl.com/jejevisionepg2" url-tvg="https://tinyurl.com/jejevisionepg2" refresh="1440" max-conn="1" refresh="24"
+
+#EXTM3U
+
 
 #EXTINF:-1 group-title="Indonesia Channels" tvg-id="ochannel.id" tvg-url="https://tinyurl.com/jejevisionepg2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/640px-Moji_blue.svg.png",Moji
 https://mooncang.my.id/api/vidio/ch.m3u8?id=206&code=moji
@@ -166,6 +170,10 @@ https://edge.medcom.id/live-edge/smil:magna.smil/chunklist_w657754957_b3884000_s
 https://nusantaratv.siar.us/nusantaratv/live/chunks.m3u8
 
 =============TV MOVIES==================
+
+#EXTM3U x-tvg-url="https://tinyurl.com/jejevisionepg" url-tvg="https://tinyurl.com/jejevisionepg x-tvg-url="https://tinyurl.com/jejevisionepg2" url-tvg="https://tinyurl.com/jejevisionepg2" refresh="1440" max-conn="1" refresh="24"
+
+#EXTM3U
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -317,6 +325,10 @@ https://anevi-live-channel-cdn.mncnow.id/live/eds/ZeeBIOSKOP/sa_dash_vmx/ZeeBIOS
 
 ============KNOWLEDGE==================
 
+#EXTM3U x-tvg-url="https://tinyurl.com/jejevisionepg" url-tvg="https://tinyurl.com/jejevisionepg x-tvg-url="https://tinyurl.com/jejevisionepg2" url-tvg="https://tinyurl.com/jejevisionepg2" refresh="1440" max-conn="1" refresh="24"
+
+#EXTM3U
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -375,6 +387,10 @@ https://anevi-live-channel-cdn.mncnow.id/live/eds/CGTN_Doc/sa_dash_vmx/CGTN_Doc.
 
 
 <====================Entertainment & LifeStyle ================================>
+
+#EXTM3U x-tvg-url="https://tinyurl.com/jejevisionepg" url-tvg="https://tinyurl.com/jejevisionepg x-tvg-url="https://tinyurl.com/jejevisionepg2" url-tvg="https://tinyurl.com/jejevisionepg2" refresh="1440" max-conn="1" refresh="24"
+
+#EXTM3U
 
 #EXTINF:-1 tvg-id= "ROCKEntertainment.sg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Rock_Entertainment.png/640px-Rock_Entertainment.png" tvg-url="https://tinyurl.com/jejevisionepg2" group-title="Entertainment & LifeStyle",Rock Entertainment
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
@@ -468,6 +484,11 @@ https://anevi-live-channel-cdn.mncnow.id/live/eds/MNCInfotainment/sa_dash_vmx/MN
 
 
 <=========Sports=========>
+
+#EXTM3U x-tvg-url="https://tinyurl.com/jejevisionepg" url-tvg="https://tinyurl.com/jejevisionepg x-tvg-url="https://tinyurl.com/jejevisionepg2" url-tvg="https://tinyurl.com/jejevisionepg2" refresh="1440" max-conn="1" refresh="24"
+
+#EXTM3U
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -532,6 +553,10 @@ https://anevi-live-channel-cdn.mncnow.id/live/eds/soccerchannel-HD/sa_dash_vmx/s
 https://anevi-live-channel-cdn.mncnow.id/live/eds/FightSports/sa_dash_vmx/FightSports.mpd
 
 <=============TV NEWS====================>
+
+#EXTM3U x-tvg-url="https://tinyurl.com/jejevisionepg" url-tvg="https://tinyurl.com/jejevisionepg x-tvg-url="https://tinyurl.com/jejevisionepg2" url-tvg="https://tinyurl.com/jejevisionepg2" refresh="1440" max-conn="1" refresh="24"
+
+#EXTM3U
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -673,10 +698,9 @@ https://anevi-live-channel-cdn.mncnow.id/live/eds/TV5/sa_dash_vmx/TV5.mpd
 
 <=============TV KIDS===============>
 
-#EXTINF:-1 group-title="Kids" tvg-id="mentaritv.id" tvg-url="https://tinyurl.com/jejevisionepg2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Mentari_TV.png",Mentari TV
-http://203.29.26.22:8000/play/a05m/index.m3u8
-https://mooncang.my.id/api/vidio/ch.m3u8?id=8237&code=mentari-tv
+#EXTM3U x-tvg-url="https://tinyurl.com/jejevisionepg" url-tvg="https://tinyurl.com/jejevisionepg x-tvg-url="https://tinyurl.com/jejevisionepg2" url-tvg="https://tinyurl.com/jejevisionepg2" refresh="1440" max-conn="1" refresh="24"
 
+#EXTM3U
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -751,6 +775,10 @@ https://anevi-live-channel-cdn.mncnow.id/live/eds/BabyTV-NewHD/sa_dash_vmx/BabyT
 
 <=============Christian Channels==================>
 
+#EXTM3U x-tvg-url="https://tinyurl.com/jejevisionepg" url-tvg="https://tinyurl.com/jejevisionepg x-tvg-url="https://tinyurl.com/jejevisionepg2" url-tvg="https://tinyurl.com/jejevisionepg2" refresh="1440" max-conn="1" refresh="24"
+
+#EXTM3U
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -779,40 +807,39 @@ https://anevi-live-channel-cdn.mncnow.id/live/eds/EWTN/sa_dash_vmx/EWTN.mpd
 #EXTM3U
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TVRRM2ZERUo0VTROTHozenZabzBsVU9kcW0xaFY3QXFJeXc3VGl6d3pYTkFwa1FxM293b2lwaDBQb2xIRi1ZRUlEcHhXbTdmVlM5RmpNT0NMdUZNeUYyUk50OG10aVozNFdYWlpJaUU4MU1MazhLVktIU3lCVnNjVkJackJzRHAwNmhydWROaFllRXBmdXgzYVluX3lKS1RRU3NVYlJJMWtiYllNOWdpZjRxSUI0czcycnI3ODBUY1hLM0VSdndCMlVkNHFsTlQ5OUwwdE1YRGgtZkl5RmNOcHVfWVZkQzdYU2FLaXhsQ0pUUXQyZkQtLTh2ZzRmQUR1TDRWaFAwdlNKTjAtaXpLZjJ1cUJWVkJQZm1RSmlyVzAwMUpPX3c4aWRXRjQ1ZlJZS0gxWlp2TUlVT2NzVU9aNjVvNTNJNDl0dGlQNVpmdUJaeUxyQkFxUkw4d3hlaGNlU2s9JmNvbnRleHRUeXBlPW5vbmUmaWQ9NTc1NDExNiIsImFjY291bnRfaWQiOjIwODIzMTEsImNvbnRlbnRfaWQiOiJmdGFfY2g1X2Rhc2hfdHZfZHJtIiwiZmlsZXMiOiIiLCJ1c2VyX3Rva2VuIjoiZGpKOE1UUTNmREVKNFU0Tkx6M3p2Wm8wbFVPZHFtMWhWN0FxSXl3N1Rpend6WE5BcGtRcTNvd29pcGgwUG9sSEYtWUVJRHB4V203ZlZTOUZqTU9DTHVGTXlGMlJOdDhtdGlaMzRXWFpaSWlFODFNTGs4S1ZLSFN5QlZzY1ZCWnJCc0RwMDZocnVkTmhZZUVwZnV4M2FZbl95SktUUVNzVWJSSTFrYmJZTTlnaWY0cUlCNHM3MnJyNzgwVGNYSzNFUnZ3QjJVZDRxbE5UOTlMMHRNWERoLWZJeUZjTnB1X1lWZEM3WFNhS2l4bENKVFF0MmZELS04dmc0ZkFEdUw0VmhQMHZTSk4wLWl6S2YydXFCVlZCUGZtUUppclcwMDFKT193OGlkV0Y0NWZSWUtIMVpadk1JVU9jc1VPWjY1bzUzSTQ5dHRpUDVaZnVCWnlMckJBcVJMOHd4ZWhjZVNrPSIsInVkaWQiOiIiLCJhZGRpdGlvbmFsX2Nhc19zeXN0ZW0iOjE0N30%3d&signature=zX4juuiZFiO8FTUYcE0Pk1%2fgu38%3d
+#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TVRRM2ZLZkJEQzdDTENlV0RSbXRCdWpnZVhUM0RhUlFnV195WUxldWF3ZUd5UENvVklvc0huN01odktKaFpZWm52dnVyY1hldEtsOWtBSE50dDJpMS1hY0swbXFsWTVNZjdqTjRDcGpaMlM1cW1Pb2tPc0pVcHpZVXBrbDVWRDNVQjhXcmJjRDh0YXJSVUtPWGdDUE02RTlucTJtOVhQcWdmOTRieWYwdW95Nl9VbVlTclVGU1BRbkduTDk1ODJwcHJFWXJBMDZxcTZBSGxfTjcyVDBBUzRKYm93eWFVbmFaRk9fR3h4SnZYNzczNUFFQ0VhbDdlWnZtZHU1VTlSa1R2ano3RWJIc0FzSXBlcTYzMjk0d3RsUTJXeUhnZUg3YmRHU1pIY2FuOFItcklyb1YtQVpkWDB0ZTRpbFk2THVVUFJVbFFDUjcwZ1VrekxzZ3phZXY3dGhSNXNDbnlHUkdEWWt4NkVhOUZUbDFuYU4mY29udGV4dFR5cGU9bm9uZSZpZD01NzU0MTE2IiwiYWNjb3VudF9pZCI6MjA4MjMxMSwiY29udGVudF9pZCI6ImZ0YV9jaDVfZGFzaF90dl9kcm0iLCJmaWxlcyI6IiIsInVzZXJfdG9rZW4iOiJkako4TVRRM2ZLZkJEQzdDTENlV0RSbXRCdWpnZVhUM0RhUlFnV195WUxldWF3ZUd5UENvVklvc0huN01odktKaFpZWm52dnVyY1hldEtsOWtBSE50dDJpMS1hY0swbXFsWTVNZjdqTjRDcGpaMlM1cW1Pb2tPc0pVcHpZVXBrbDVWRDNVQjhXcmJjRDh0YXJSVUtPWGdDUE02RTlucTJtOVhQcWdmOTRieWYwdW95Nl9VbVlTclVGU1BRbkduTDk1ODJwcHJFWXJBMDZxcTZBSGxfTjcyVDBBUzRKYm93eWFVbmFaRk9fR3h4SnZYNzczNUFFQ0VhbDdlWnZtZHU1VTlSa1R2ano3RWJIc0FzSXBlcTYzMjk0d3RsUTJXeUhnZUg3YmRHU1pIY2FuOFItcklyb1YtQVpkWDB0ZTRpbFk2THVVUFJVbFFDUjcwZ1VrekxzZ3phZXY3dGhSNXNDbnlHUkdEWWt4NkVhOUZUbDFuYU4iLCJ1ZGlkIjoiIiwiYWRkaXRpb25hbF9jYXNfc3lzdGVtIjoxNDd9&signature=qe9gweMgkqSKut9v39h0eCo77dg%3d
 #EXTINF:-1 group-title="Mediacorp SG" tvg-id="Channel 5" tvg-chno="Channel 5" tvg-logo="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/%24value?Format=%27png%27&Quality=85&ImageId=%271776036%27&EntityType=%27Item%27&EntityId=%2797098%27&Width=114&Height=114&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27",Channel 5
 https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/147/assetId/316288/assetType/media/assetFileId/5754116/contextType/PLAYBACK/isAltUrl/False/a.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TVRRM2ZFVGFPTG9OY0huektVUXhqUC0wdkJoN2RBM2pWM3dfd1IzNXRzOTRJQTRQYjYxSG9LV0VKczhxWVgzQ2Q0aHhNcjFZUVVhems5ZnhpS2N2bGdVMldUQTM1ZkdiQW5TX0pSYkJUVWhIX2w0QWxhQ24wQnViNkg4dE1meDFvUDE4WkdnNjVLRVk4Q21UQTVsdm9KdjE3akN5alZnTnJMUU5DZ2piYWIwZlB2cDFtbWhtd1NTYThwTEhQTTdQNnN5UXQ5UGxrZHVyRUhObW5hT0RmaWtsN3hSbTBiZ3hiRE9SOFVCMUdLTkR0SmVMalpLaDduTGpscW5VVkVNRlY5Wms1N0RaTHpsaWRiTDM2ektoRkNkWnZKdGdzbDNVOWJsdTRibVRCUm5ISDRRbDlWTk85c0l1OGNOc2N3dFVUWFBiTGx3Q1BYZExqMmhxN2VDTzlEYmZsME52ZThhRW1hQkRxLTcyem1aOGVkNUsmY29udGV4dFR5cGU9bm9uZSZpZD01NzU0MTI0IiwiYWNjb3VudF9pZCI6MjA4MjMxMSwiY29udGVudF9pZCI6ImZ0YV9jaDhfZGFzaF90dl9kcm0iLCJmaWxlcyI6IiIsInVzZXJfdG9rZW4iOiJkako4TVRRM2ZFVGFPTG9OY0huektVUXhqUC0wdkJoN2RBM2pWM3dfd1IzNXRzOTRJQTRQYjYxSG9LV0VKczhxWVgzQ2Q0aHhNcjFZUVVhems5ZnhpS2N2bGdVMldUQTM1ZkdiQW5TX0pSYkJUVWhIX2w0QWxhQ24wQnViNkg4dE1meDFvUDE4WkdnNjVLRVk4Q21UQTVsdm9KdjE3akN5alZnTnJMUU5DZ2piYWIwZlB2cDFtbWhtd1NTYThwTEhQTTdQNnN5UXQ5UGxrZHVyRUhObW5hT0RmaWtsN3hSbTBiZ3hiRE9SOFVCMUdLTkR0SmVMalpLaDduTGpscW5VVkVNRlY5Wms1N0RaTHpsaWRiTDM2ektoRkNkWnZKdGdzbDNVOWJsdTRibVRCUm5ISDRRbDlWTk85c0l1OGNOc2N3dFVUWFBiTGx3Q1BYZExqMmhxN2VDTzlEYmZsME52ZThhRW1hQkRxLTcyem1aOGVkNUsiLCJ1ZGlkIjoiIiwiYWRkaXRpb25hbF9jYXNfc3lzdGVtIjoxNDd9&signature=ffXHBARcWZnbiGgSkurBO14lZPA%3d
+#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TVRRM2ZMVlk4UTdyenVmdnQ2SHByTkxmX3VMU2tpZ0NVQ0QtTndCVWxpR01wMVNIRE5zeU10bGZaQ2ZONlYzWUN4b0NpWXMwd0VKc2tjamVKdWlqTFJKdFNkTVlBQndYVXY1aDM0OHcyWTdHNnJLRHlfS1NxM2ZFZGgzRFhVV0xIem16T1djc2ZJdTNkRVdIa1M2dENCQWdveVkwOEdLVVhRVHJLenZsaTZmcUhuUU1vZUNWUU16bWRLcE9NYzNPVXFmWXhiQ2FXZC1OODE0c3kxUlQxdGFpVnAxSEw1S3JQdDFOSUhDWjBLMFNQSUlwUThuZFpBSVJYNHNCeXFKREpwX2xtbnU4NWdwMm1ER1YybnNzUHhZV1BDdnc1aUNqX19HVnRmNU1zR3E0SkRSbGNBX2JudkdUS3pyWlZPYVFPNjV4Nnc9PSZjb250ZXh0VHlwZT1ub25lJmlkPTU3NTQxMjQiLCJhY2NvdW50X2lkIjoyMDgyMzExLCJjb250ZW50X2lkIjoiZnRhX2NoOF9kYXNoX3R2X2RybSIsImZpbGVzIjoiIiwidXNlcl90b2tlbiI6ImRqSjhNVFEzZkxWWThRN3J6dWZ2dDZIcHJOTGZfdUxTa2lnQ1VDRC1Od0JVbGlHTXAxU0hETnN5TXRsZlpDZk42VjNZQ3hvQ2lZczB3RUpza2NqZUp1aWpMUkp0U2RNWUFCd1hVdjVoMzQ4dzJZN0c2cktEeV9LU3EzZkVkaDNEWFVXTEh6bXpPV2NzZkl1M2RFV0hrUzZ0Q0JBZ295WTA4R0tVWFFUckt6dmxpNmZxSG5RTW9lQ1ZRTXptZEtwT01jM09VcWZZeGJDYVdkLU44MTRzeTFSVDF0YWlWcDFITDVLclB0MU5JSENaMEswU1BJSXBROG5kWkFJUlg0c0J5cUpESnBfbG1udTg1Z3AybURHVjJuc3NQeFlXUEN2dzVpQ2pfX0dWdGY1TXNHcTRKRFJsY0FfYm52R1RLenJaVk9hUU82NXg2dz09IiwidWRpZCI6IiIsImFkZGl0aW9uYWxfY2FzX3N5c3RlbSI6MTQ3fQ%3d%3d&signature=UoYwf%2f%2flK9jvDZOTgv26t6EvXzY%3d
 #EXTINF:-1 group-title="Mediacorp SG" tvg-id="Channel 8" tvg-chno="Channel 8" tvg-logo="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/%24value?Format=%27png%27&Quality=85&ImageId=%271776034%27&EntityType=%27Item%27&EntityId=%2797104%27&Width=75&Height=101&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27",Channel 8 / 8 频道
 https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/147/assetId/260581/assetType/media/assetFileId/5754124/contextType/PLAYBACK/isAltUrl/False/a.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TVRRM2ZQbHY5SWFoOFlVaVVic3NtcWJvNXJyQlZKSVJGQXZpSFJVejllaS1OTldHM204N053WC1RTFlPTFpzdHR2UHR6Rlc4MzFOdXh6ZVJCOW9hTDJaUnJPUGNTRDBUblNZUTVmRGpUekZxZDJPTE5PWFFnd0pUcjZ2QnV1Z05YYXBFclp6UFBweTlxaUd1TjVSS2NSSkU2ejRUdW0yUHdLZmMxdnBnc2hLUUsyN3J1YjBNdjN0UmlGRmk1ZnoyUjR3RHNJNWJQT21DdWpqTE5ieUZKZ3Q0TzNvUUp6R0pGYjJ1TURKZVlpWDZsVVpLd1B0b0F4V0hZSjV5MklHajBnd2JBQXpzMmpOWUFnWGFSYXBJVlVzVmtjSzVXRnFLZENhdGMxdTVnWC1JbGdrak5rT2Fjb3gxQ0ZiX3doSG1nVF93R3FZWnFIY1pVQ2lKRml3d1FKZU5kVUE9JmNvbnRleHRUeXBlPW5vbmUmaWQ9NTc1NDE1NyIsImFjY291bnRfaWQiOjIwODIzMTEsImNvbnRlbnRfaWQiOiJmdGFfY2hVX2Rhc2hfdHZfZHJtIiwiZmlsZXMiOiIiLCJ1c2VyX3Rva2VuIjoiZGpKOE1UUTNmUGx2OUlhaDhZVWlVYnNzbXFibzVyckJWSklSRkF2aUhSVXo5ZWktTk5XRzNtODdOd1gtUUxZT0xac3R0dlB0ekZXODMxTnV4emVSQjlvYUwyWlJyT1BjU0QwVG5TWVE1ZkRqVHpGcWQyT0xOT1hRZ3dKVHI2dkJ1dWdOWGFwRXJaelBQcHk5cWlHdU41UktjUkpFNno0VHVtMlB3S2ZjMXZwZ3NoS1FLMjdydWIwTXYzdFJpRkZpNWZ6MlI0d0RzSTViUE9tQ3VqakxOYnlGSmd0NE8zb1FKekdKRmIydU1ESmVZaVg2bFVaS3dQdG9BeFdIWUo1eTJJR2owZ3diQUF6czJqTllBZ1hhUmFwSVZVc1ZrY0s1V0ZxS2RDYXRjMXU1Z1gtSWxna2pOa09hY294MUNGYl93aEhtZ1Rfd0dxWVpxSGNaVUNpSkZpd3dRSmVOZFVBPSIsInVkaWQiOiIiLCJhZGRpdGlvbmFsX2Nhc19zeXN0ZW0iOjE0N30%3d&signature=Ib3jTD3Jy7b6Zif9GYbiy9h47qY%3d
+#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TVRRM2ZPQTNxb3JLY1A1X3B2VV9YWndaYlQ3azZtLWMtRzRPQTRmbkJDbWhmdTlKR2x0UzM5aERCa21BYjlCVDRDSlZmcjRxWkN1NkRteU1ld0ZRSHU2X3Z6QXg0bmlzSWpsLTNQNUlqNVFYcjJyd1BKWFQ4Wm81MkkxT2NIbDAyZWVMcW5RVnJYQW8tR2dCb3FkV2xkMEpEdFF5T2RlRVVEUEZPNHFBc2IxYUtqMHRqMWNUTWkxSGFmRHlYMHZKQzFXM2N6X2RrdlhodVpLYUFsU0dXb09BTXN1anJwd09kUW1CSjEyY29JY3FDbDV2ei1VcHE2dlBsd2tOUTFwM3prNFNndFl2Y2V6cHdtWEYtMElNcjM3M19aR1ZwMzlLT2Vja1FxUjZDd2xPemVWRS1idzFaRVV6Y3g1cFd2dHBXSFNzMVZ3WWxSbHJ1aVNGSUVhNUpkMjZETXc9JmNvbnRleHRUeXBlPW5vbmUmaWQ9NTc1NDE1NyIsImFjY291bnRfaWQiOjIwODIzMTEsImNvbnRlbnRfaWQiOiJmdGFfY2hVX2Rhc2hfdHZfZHJtIiwiZmlsZXMiOiIiLCJ1c2VyX3Rva2VuIjoiZGpKOE1UUTNmT0EzcW9yS2NQNV9wdlVfWFp3WmJUN2s2bS1jLUc0T0E0Zm5CQ21oZnU5SkdsdFMzOWhEQmttQWI5QlQ0Q0pWZnI0cVpDdTZEbXlNZXdGUUh1Nl92ekF4NG5pc0lqbC0zUDVJajVRWHIycndQSlhUOFpvNTJJMU9jSGwwMmVlTHFuUVZyWEFvLUdnQm9xZFdsZDBKRHRReU9kZUVVRFBGTzRxQXNiMWFLajB0ajFjVE1pMUhhZkR5WDB2SkMxVzNjel9ka3ZYaHVaS2FBbFNHV29PQU1zdWpycHdPZFFtQkoxMmNvSWNxQ2w1dnotVXBxNnZQbHdrTlExcDN6azRTZ3RZdmNlenB3bVhGLTBJTXIzNzNfWkdWcDM5S09lY2tRcVI2Q3dsT3plVkUtYncxWkVVemN4NXBXdnRwV0hTczFWd1lsUmxydWlTRklFYTVKZDI2RE13PSIsInVkaWQiOiIiLCJhZGRpdGlvbmFsX2Nhc19zeXN0ZW0iOjE0N30%3d&signature=eA5xOOPobthMQPZVhPhTJjHqur4%3d
 #EXTINF:-1 group-title="Mediacorp SG" tvg-id="Channel U" tvg-chno="Channel U" tvg-logo="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/%24value?Format=%27png%27&Quality=85&ImageId=%271776040%27&EntityType=%27Item%27&EntityId=%2797129%27&Width=114&Height=114&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27",Channel U / U 频道
 https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/147/assetId/330332/assetType/media/assetFileId/5754157/contextType/PLAYBACK/isAltUrl/False/a.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TVRRM2ZFbDl1eUZwVFZTaTRHRHVRTFMzelNGNUxCRlpxUlU2eFlJbktoY25TdFNIMWI5bFFlTWk4NENPVkxaakxtUktaQ3Y1TjBkMXRMcWdacVNOOFdaUURYSnB2anF5QkExNmJwWV9XY3pFaC16eS1LV2lvMS1sckkxN3BjUEI3YXFVNk11ODk4anEtVzgzdkdlbkZNUGREZ2czbHd5aUx6NWJ3dndkck1TREtZRHhUaGc0dl9rUE9wSllkZkdMME9rcEFMNmxUd25LcWJpY3ZrTjNVNWlGWjNJWGtud05nMHM2bV9MLWRPMWVLWGlneFJEWjJCN3dXVFVRbF9ISGlxQ21MckRuQmVjN0dfaFMwZC12VWZ3blBodERpbjQ5OXVsamtaSUowUElYeTJwUy1UTkJ6TUFhcGdURDJhdWtCLUlsYVdvMGp2aFkxQjJvUTJGb1JIcks3azg9JmNvbnRleHRUeXBlPW5vbmUmaWQ9NTc1NDE0OSIsImFjY291bnRfaWQiOjIwODIzMTEsImNvbnRlbnRfaWQiOiJmdGFfY25hU19kYXNoX3R2X2RybSIsImZpbGVzIjoiIiwidXNlcl90b2tlbiI6ImRqSjhNVFEzZkVsOXV5RnBUVlNpNEdEdVFMUzN6U0Y1TEJGWnFSVTZ4WUluS2hjblN0U0gxYjlsUWVNaTg0Q09WTFpqTG1SS1pDdjVOMGQxdExxZ1pxU044V1pRRFhKcHZqcXlCQTE2YnBZX1djekVoLXp5LUtXaW8xLWxySTE3cGNQQjdhcVU2TXU4OThqcS1XODN2R2VuRk1QZERnZzNsd3lpTHo1Ynd2d2RyTVNES1lEeFRoZzR2X2tQT3BKWWRmR0wwT2twQUw2bFR3bktxYmljdmtOM1U1aUZaM0lYa253TmcwczZtX0wtZE8xZUtYaWd4UkRaMkI3d1dUVVFsX0hIaXFDbUxyRG5CZWM3R19oUzBkLXZVZnduUGh0RGluNDk5dWxqa1pJSjBQSVh5MnBTLVROQnpNQWFwZ1REMmF1a0ItSWxhV28wanZoWTFCMm9RMkZvUkhySzdrOD0iLCJ1ZGlkIjoiIiwiYWRkaXRpb25hbF9jYXNfc3lzdGVtIjoxNDd9&signature=KHQxjoTRQQDd7NCyzFD3jSY3jRo%3d
+#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TVRRM2ZJUGZKZ3ZYcWxTV19QNjlmY0pxYlo5RGJRMVA4VDRfNUtaYmp2eUNmU2tKblkzRE9OUnZJc0xuaGg2d3Q1TmRIWGVJeU0yOEphX2VlZkFrWEhCQXVUNl96R040RFJSYnVFTFR6c3d4YkVXYTg1c0NyMHFvOE9kWGg0czdOd0k0dXhVNXI5akg3Y2hBc1VKV3ByTG01NUZyTzNWQWRCZXdCVDZBQ1FSRXdNdkZzcG1SelF6dlEzRWNyZlRCY1RxWlVlMHctMndmd3pnUWo3Ylk2UWN6N182RUVlaWpvRzYyWGdUVXA5R0pISVpDTWtNUHJQNU1wSF9nVU9qbmlfNnJPUjl5NXVMQzU1Zmk0SDFEVHFjMFJUNXZWSHU2ZVJneWFaUWxiT3V6Q3dNdjhPS21ZcUpySTVfb3Y5akxtYmFTNFgxMGF0djBWSXQwbThfc1ljcXNpY0lpWHJYNHZlaXo4RzFpTGkyTnZ6LTcmY29udGV4dFR5cGU9bm9uZSZpZD01NzU0MTQ5IiwiYWNjb3VudF9pZCI6MjA4MjMxMSwiY29udGVudF9pZCI6ImZ0YV9jbmFTX2Rhc2hfdHZfZHJtIiwiZmlsZXMiOiIiLCJ1c2VyX3Rva2VuIjoiZGpKOE1UUTNmSVBmSmd2WHFsU1dfUDY5ZmNKcWJaOURiUTFQOFQ0XzVLWmJqdnlDZlNrSm5ZM0RPTlJ2SXNMbmhoNnd0NU5kSFhlSXlNMjhKYV9lZWZBa1hIQkF1VDZfekdONERSUmJ1RUxUenN3eGJFV2E4NXNDcjBxbzhPZFhoNHM3TndJNHV4VTVyOWpIN2NoQXNVSldwckxtNTVGck8zVkFkQmV3QlQ2QUNRUkV3TXZGc3BtUnpRenZRM0VjcmZUQmNUcVpVZTB3LTJ3Znd6Z1FqN2JZNlFjejdfNkVFZWlqb0c2MlhnVFVwOUdKSElaQ01rTVByUDVNcEhfZ1VPam5pXzZyT1I5eTV1TEM1NWZpNEgxRFRxYzBSVDV2Vkh1NmVSZ3lhWlFsYk91ekN3TXY4T0ttWXFKckk1X292OWpMbWJhUzRYMTBhdHYwVkl0MG04X3NZY3FzaWNJaVhyWDR2ZWl6OEcxaUxpMk52ei03IiwidWRpZCI6IiIsImFkZGl0aW9uYWxfY2FzX3N5c3RlbSI6MTQ3fQ%3d%3d&signature=yIcLAtgDaYBXsTXpAc94370CGNw%3d
 #EXTINF:-1 group-title="Mediacorp SG" tvg-id="CNA" tvg-chno="CNA" tvg-logo="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/%24value?Format=%27png%27&Quality=85&ImageId=%271776042%27&EntityType=%27Item%27&EntityId=%2797072%27&Width=78&Height=96&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27",CNA
 https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/147/assetId/197985/assetType/media/assetFileId/5754149/contextType/PLAYBACK/isAltUrl/False/a.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TVRRM2ZJRjJHazEwVkVXZHd5bjJuR3hNcnBfS3J1Wjl5cFk2TUVRV1EwWTV2VExDeTFxSXIyOFVZMkNrVHlONUxaeERYQ3lnQ0J5VjRHcmROUFg4YldJZVBUa3ozUm5ielR2S1kwZXNZYWwtUTI1dVVNUWs2czRIVU14TjJyTkJYUkdISldHbTNsX3pSWlIzYmlzcGxHUUE2WVcySXN1TkpWSDVqdVgxNFY2a25OM2xybzh6NnR6LVU1TGFhYXZXZ3UzV185VVVqMG11NW5Kb0V0TEFFejBXOWkwZjFFLTFGdW85VmJzMTBqMXNQYWh1MnRneV82MVhTZ1Y0ejNJNXhzZVBfbXVwTEVWaGxyZmtSZ1VxRENpRHFJaVlfXzBjU2FldExwcWFiQ0p6U1hJeVpWRkZXM0ZEczFYSXgyZ1FmeHlOTm1tT0xUQkpsUXR0emhvMjBuclJRUlE9JmNvbnRleHRUeXBlPW5vbmUmaWQ9NTc1NDA2NiIsImFjY291bnRfaWQiOjIwODIzMTEsImNvbnRlbnRfaWQiOiJmdGFfc3VyaWFfZGFzaF90dl9kcm0iLCJmaWxlcyI6IiIsInVzZXJfdG9rZW4iOiJkako4TVRRM2ZJRjJHazEwVkVXZHd5bjJuR3hNcnBfS3J1Wjl5cFk2TUVRV1EwWTV2VExDeTFxSXIyOFVZMkNrVHlONUxaeERYQ3lnQ0J5VjRHcmROUFg4YldJZVBUa3ozUm5ielR2S1kwZXNZYWwtUTI1dVVNUWs2czRIVU14TjJyTkJYUkdISldHbTNsX3pSWlIzYmlzcGxHUUE2WVcySXN1TkpWSDVqdVgxNFY2a25OM2xybzh6NnR6LVU1TGFhYXZXZ3UzV185VVVqMG11NW5Kb0V0TEFFejBXOWkwZjFFLTFGdW85VmJzMTBqMXNQYWh1MnRneV82MVhTZ1Y0ejNJNXhzZVBfbXVwTEVWaGxyZmtSZ1VxRENpRHFJaVlfXzBjU2FldExwcWFiQ0p6U1hJeVpWRkZXM0ZEczFYSXgyZ1FmeHlOTm1tT0xUQkpsUXR0emhvMjBuclJRUlE9IiwidWRpZCI6IiIsImFkZGl0aW9uYWxfY2FzX3N5c3RlbSI6MTQ3fQ%3d%3d&signature=9Lacutuug8sZNr%2bWf5tL0fqCZ%2bg%3d
+#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TVRRM2ZQU3hwckF3U1l0TTlNdDROQ2JqXzFIVXkzZFRvR0dfVVpCSlhqU2twTllsUkZBbC1uV0hZZmYyYnZBbUp6R2E1MFI5N1V0VmhIdUg2eW1faGN5M1EyTjc1ZDBmaUlKSE85Uy1lS3piTHNuVWhtZ2NmOHlEbHZTaEMzNGVNRlFwN0NobzlmQldvbWlITGZfVGZTRFlySG5pU3loODdvQ0ZQQ3N3WmxsbXBfM2xPdEJMSExHZlFDTzFyMzFlMTRnSGFNTjIzeHdtNFFEZGNPSkJMelF0Z0NkTExpNG5PRE1ObklBT1ZzcElVRE9zOEtPejZjUHpmME9FRFdWTVd2WGdOcDB3YV9tRm05UXo4bGdRUjRSQ0ZhTlFfZVNRblFBVE5FeE43TUFsTHBvTUhPTGdyVFRZazFqdGZ6bFhJVmYzUEpDRmx3QV9iLTU2Vjh2VWtJSGlaMXJtNjNRZzBwMUM0dmZVdldtQWVodHMmY29udGV4dFR5cGU9bm9uZSZpZD01NzU0MDY2IiwiYWNjb3VudF9pZCI6MjA4MjMxMSwiY29udGVudF9pZCI6ImZ0YV9zdXJpYV9kYXNoX3R2X2RybSIsImZpbGVzIjoiIiwidXNlcl90b2tlbiI6ImRqSjhNVFEzZlBTeHByQXdTWXRNOU10NE5DYmpfMUhVeTNkVG9HR19VWkJKWGpTa3BOWWxSRkFsLW5XSFlmZjJidkFtSnpHYTUwUjk3VXRWaEh1SDZ5bV9oY3kzUTJONzVkMGZpSUpITzlTLWVLemJMc25VaG1nY2Y4eURsdlNoQzM0ZU1GUXA3Q2hvOWZCV29taUhMZl9UZlNEWXJIbmlTeWg4N29DRlBDc3dabGxtcF8zbE90QkxITEdmUUNPMXIzMWUxNGdIYU1OMjN4d200UURkY09KQkx6UXRnQ2RMTGk0bk9ETU5uSUFPVnNwSVVET3M4S096NmNQemYwT0VEV1ZNV3ZYZ05wMHdhX21GbTlRejhsZ1FSNFJDRmFOUV9lU1FuUUFUTkV4TjdNQWxMcG9NSE9MZ3JUVFlrMWp0ZnpsWElWZjNQSkNGbHdBX2ItNTZWOHZVa0lIaVoxcm02M1FnMHAxQzR2ZlV2V21BZWh0cyIsInVkaWQiOiIiLCJhZGRpdGlvbmFsX2Nhc19zeXN0ZW0iOjE0N30%3d&signature=mX%2f7znV75Gc09fzOXzq9aAjtRP4%3d
 #EXTINF:-1 group-title="Mediacorp SG" tvg-id="Suria" tvg-chno="Suria" tvg-logo="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/%24value?Format=%27png%27&Quality=85&ImageId=%271375229%27&EntityType=%27Item%27&EntityId=%2797084%27&Width=300&Height=300&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27",Suria
 https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/147/assetId/237652/assetType/media/assetFileId/5754066/contextType/PLAYBACK/isAltUrl/False/a.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TVRRM2ZNTHNjNFBETEhvWWl0VHY4UExpQ2RobC1tTk1sdjcyRjE2TW44NHNScW5ic1dkaXc2R3o0VmRjclZWcWFZMDc4bjFSTmplY1Atb3BRLTZHU0tPc0dJX1BGMFRIQ0ZwcEs3Y09YOUhRZWRWOE1Mc0VVbTg1R2NrSEd3aVpkS0FOS3h1NlZOdk10cjAybC1TTzZuLUsyVWpsaWVocDVsZGd0NDA3WlZaSFpXU2oyWlNGQUp4cl94aDRpc2Q4OFB0WGtqT3ZHblRKWlU1ZTBJWm5Fam15T3B5dEhRTldwdkVXUDB5blNNYlIyVWJhcm54REVwUlRMVzg0U0VhX3RFQlhuOUpuYmRiaHVGOGhGMTVRNzVsdmNxR3JhbDhJMFlHbXE1MDJGWkVMS2hmOCZjb250ZXh0VHlwZT1ub25lJmlkPTU3NTQxMDgiLCJhY2NvdW50X2lkIjoyMDgyMzExLCJjb250ZW50X2lkIjoiZnRhX3Zhc2FudGhhbV9kYXNoX3R2X2RybSIsImZpbGVzIjoiIiwidXNlcl90b2tlbiI6ImRqSjhNVFEzZk1Mc2M0UERMSG9ZaXRUdjhQTGlDZGhsLW1OTWx2NzJGMTZNbjg0c1JxbmJzV2RpdzZHejRWZGNyVlZxYVkwNzhuMVJOamVjUC1vcFEtNkdTS09zR0lfUEYwVEhDRnBwSzdjT1g5SFFlZFY4TUxzRVVtODVHY2tIR3dpWmRLQU5LeHU2Vk52TXRyMDJsLVNPNm4tSzJVamxpZWhwNWxkZ3Q0MDdaVlpIWldTajJaU0ZBSnhyX3hoNGlzZDg4UHRYa2pPdkduVEpaVTVlMElabkVqbXlPcHl0SFFOV3B2RVdQMHluU01iUjJVYmFybnhERXBSVExXODRTRWFfdEVCWG45Sm5iZGJodUY4aEYxNVE3NWx2Y3FHcmFsOEkwWUdtcTUwMkZaRUxLaGY4IiwidWRpZCI6IiIsImFkZGl0aW9uYWxfY2FzX3N5c3RlbSI6MTQ3fQ%3d%3d&signature=svibPqslo9u2731jE%2fmoxdqbn64%3d
+#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TVRRM2ZING54anQ3dzNjZEtTVXYtNGRtMkVUdkphZmFlVUY1ZzJKRjIxWUZiZU5BRU1veVk0ZXBjeExIV3JHMWxSVlhXTC02a3hSWVNzdVZiQUd5X09pTkxJUFBUY3BGcXZQQ0Q0alA3MHFJWHdIZGoyaUptbjk5MkhBZVhHLWg0RVhFSkFOMlpPdWF0MU44UE1PcEF2NWcwR3d3UUpFcGxZWVp5dzN1SE1TUmM4ZVhQM0I2NlY0QlZQZHJEdmVoT0JoNlhfNGpXbzhDV2dDb3Y2cjlVV2R5TndsdnhxNVkxT3h0WlYyY0hWT1dURUVEeDA0WW5rZ3o2RHpWcF9zdG1abWNzanM0RFpaRUJMTl8wUGJPMzdOS1lXTDdqSDZ4S2EzeXF3d0dNcG4wMEVqRnlqVkJyQjF2VDBUOEZxZ24tNTlMR3c9PSZjb250ZXh0VHlwZT1ub25lJmlkPTU3NTQxMDgiLCJhY2NvdW50X2lkIjoyMDgyMzExLCJjb250ZW50X2lkIjoiZnRhX3Zhc2FudGhhbV9kYXNoX3R2X2RybSIsImZpbGVzIjoiIiwidXNlcl90b2tlbiI6ImRqSjhNVFEzZkg0bnhqdDd3M2NkS1NVdi00ZG0yRVR2SmFmYWVVRjVnMkpGMjFZRmJlTkFFTW95WTRlcGN4TEhXckcxbFJWWFdMLTZreFJZU3N1VmJBR3lfT2lOTElQUFRjcEZxdlBDRDRqUDcwcUlYd0hkajJpSm1uOTkySEFlWEctaDRFWEVKQU4yWk91YXQxTjhQTU9wQXY1ZzBHd3dRSkVwbFlZWnl3M3VITVNSYzhlWFAzQjY2VjRCVlBkckR2ZWhPQmg2WF80aldvOENXZ0NvdjZyOVVXZHlOd2x2eHE1WTFPeHRaVjJjSFZPV1RFRUR4MDRZbmtnejZEelZwX3N0bVptY3NqczREWlpFQkxOXzBQYk8zN05LWVdMN2pINnhLYTN5cXd3R01wbjAwRWpGeWpWQnJCMXZUMFQ4RnFnbi01OUxHdz09IiwidWRpZCI6IiIsImFkZGl0aW9uYWxfY2FzX3N5c3RlbSI6MTQ3fQ%3d%3d&signature=ZeAMAEc1RQN5zUGIh85MJM3OPbk%3d
 #EXTINF:-1 group-title="Mediacorp SG" tvg-id="Vasantham" tvg-chno="Vasantham" tvg-logo="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/%24value?Format=%27png%27&Quality=85&ImageId=%271776032%27&EntityType=%27Item%27&EntityId=%2797096%27&Width=129&Height=63&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27",Vasantham
 https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/147/assetId/237653/assetType/media/assetFileId/5754108/contextType/PLAYBACK/isAltUrl/False/a.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TVRRM2ZISHRlZGRwVmJaWUtLcjVDb0tSMEszZ204anJ5bEoxallJeUJlUU9LYnA5dWJSaVBLV1BTa1RvLXRjU1B6N2VnczdRc2lKT1lCNHZUYVlneVlLcURCVWxxTkpjLXd4eGw2Q1N5Z0JmZ1RVbDU3b3hjampMa2lkSlhjVVBGckZHS2xmb0tNbE9fU3I3VlFKZmpXWXVoQ0NCZnZyMXkwVFZGQTVuc3IxakR4dEoySnZZQzNMY25vOHUtR2FOVndTQmdOLTkwQ0pHX09RUW1VazZ0RVlzMlk3SjdVVmJmSDBHS05XbGdtQmJzNlhrN3lTUC1uekdBVkk5a1JneWxXODFqYkN1bnl3M1dadnFTb1BMWm8tYzhadjFtUUxNZ3UtZ2RJVFkxZDA2VE0zMGE4dVhMemhDeURVRlNpT21EcC10NUE9PSZjb250ZXh0VHlwZT1ub25lJmlkPTEyMzY2MzIwIiwiYWNjb3VudF9pZCI6MjA4MjMxMSwiY29udGVudF9pZCI6ImFkaG9jX29rdG9saWRheXNfZGFzaF90dl9kcm0iLCJmaWxlcyI6IiIsInVzZXJfdG9rZW4iOiJkako4TVRRM2ZISHRlZGRwVmJaWUtLcjVDb0tSMEszZ204anJ5bEoxallJeUJlUU9LYnA5dWJSaVBLV1BTa1RvLXRjU1B6N2VnczdRc2lKT1lCNHZUYVlneVlLcURCVWxxTkpjLXd4eGw2Q1N5Z0JmZ1RVbDU3b3hjampMa2lkSlhjVVBGckZHS2xmb0tNbE9fU3I3VlFKZmpXWXVoQ0NCZnZyMXkwVFZGQTVuc3IxakR4dEoySnZZQzNMY25vOHUtR2FOVndTQmdOLTkwQ0pHX09RUW1VazZ0RVlzMlk3SjdVVmJmSDBHS05XbGdtQmJzNlhrN3lTUC1uekdBVkk5a1JneWxXODFqYkN1bnl3M1dadnFTb1BMWm8tYzhadjFtUUxNZ3UtZ2RJVFkxZDA2VE0zMGE4dVhMemhDeURVRlNpT21EcC10NUE9PSIsInVkaWQiOiIiLCJhZGRpdGlvbmFsX2Nhc19zeXN0ZW0iOjE0N30%3d&signature=FyhV2cGtf9VXRTROTf%2flqGnz2KQ%3d
+#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TVRRM2ZKdGN3VEN1UlNSMkwwTGt4blotZWl3QUJmcFpoYkt4dmJZSUJXcW9VTmxPdUlUb0FKS0VKazBGWVh4V0c5bGl0YldoQWRDSzdDUnc3amE0MU9QMWJUcDZubDRjcHpKNGQ3eTJPdGJ1MkpURm1KRVNRZ0ppRDQ0V0trYllwV3ZxZzdIYTVkcGEtMDNOSVdqY3VMZ25CUlNxZnVTTDhRbHFrUXVoSm1xWE92dXNlNWw5RllITnQ5YWx5LWZCVXFUOHh2ekdPTVBKWWtaOGNGMnV4ZGpjbUVWSmhnSE0tdWEyWFBiNTNmeVRjOWlJMlQ1Y0pZcllKN2s0QnRJM2wxT2lFQnZSUTNjb0J0SDBRejdMN2FIemxJZktIM1dnNk1iZ2NuRjh1VnFmS0VscDRyQjNXSnF1UnpzeFNnNFlMNTZYaFVsQnp3a1VXbnNNVDQ0UVIwODNxTlk9JmNvbnRleHRUeXBlPW5vbmUmaWQ9MTIzNjYzMjAiLCJhY2NvdW50X2lkIjoyMDgyMzExLCJjb250ZW50X2lkIjoiYWRob2Nfb2t0b2xpZGF5c19kYXNoX3R2X2RybSIsImZpbGVzIjoiIiwidXNlcl90b2tlbiI6ImRqSjhNVFEzZkp0Y3dUQ3VSU1IyTDBMa3huWi1laXdBQmZwWmhiS3h2YllJQldxb1VObE91SVRvQUpLRUprMEZZWHhXRzlsaXRiV2hBZENLN0NSdzdqYTQxT1AxYlRwNm5sNGNweko0ZDd5Mk90YnUySlRGbUpFU1FnSmlENDRXS2tiWXBXdnFnN0hhNWRwYS0wM05JV2pjdUxnbkJSU3FmdVNMOFFscWtRdWhKbXFYT3Z1c2U1bDlGWUhOdDlhbHktZkJVcVQ4eHZ6R09NUEpZa1o4Y0YydXhkamNtRVZKaGdITS11YTJYUGI1M2Z5VGM5aUkyVDVjSllyWUo3azRCdEkzbDFPaUVCdlJRM2NvQnRIMFF6N0w3YUh6bElmS0gzV2c2TWJnY25GOHVWcWZLRWxwNHJCM1dKcXVSenN4U2c0WUw1NlhoVWxCendrVVduc01UNDRRUjA4M3FOWT0iLCJ1ZGlkIjoiIiwiYWRkaXRpb25hbF9jYXNfc3lzdGVtIjoxNDd9&signature=%2bGKeajC%2bMRnSIhXzBNJaxSShzcU%3d
 #EXTINF:-1 group-title="Mediacorp SG" tvg-id="oktolidays.sg" tvg-chno="oktolidays.sg" tvg-logo="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/%24value?Format='png'&Quality=85&ImageId='4132072'&EntityType='Item'&EntityId='258705'&Width=237&Height=237&ResizeAction='fill'&HorizontalAlignment='center'&VerticalAlignment='top'",Oktolidays
 https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/147/assetId/879237/assetType/media/assetFileId/12366320/contextType/PLAYBACK/isAltUrl/False/a.mpd
-
 <=========================================== Malaysia ==========================================>
 
 #EXTINF:-1 tvg-id="TV1.my" tvg-url="https://iptv-org.github.io/epg/guides/ms/rtmklik.rtm.gov.my.xml" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/tv1_bckg.png" tvg-url="" group-title="Malaysia",TV 1
@@ -884,6 +911,10 @@ https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist.m3u8
 
 <========================== China ============================================>
 
+#EXTM3U x-tvg-url="https://tinyurl.com/jejevisionepg" url-tvg="https://tinyurl.com/jejevisionepg x-tvg-url="https://tinyurl.com/jejevisionepg2" url-tvg="https://tinyurl.com/jejevisionepg2" refresh="1440" max-conn="1" refresh="24"
+
+#EXTM3U
+
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -922,6 +953,11 @@ https://anevi-live-channel-cdn.mncnow.id/live/eds/AnhuiTV/sa_dash_vmx/AnhuiTV.mp
 
 
 <==================================== TVRI GRoup =========================================>
+
+#EXTM3U x-tvg-url="https://tinyurl.com/jejevisionepg" url-tvg="https://tinyurl.com/jejevisionepg x-tvg-url="https://tinyurl.com/jejevisionepg2" url-tvg="https://tinyurl.com/jejevisionepg2" refresh="1440" max-conn="1" refresh="24"
+
+#EXTM3U 
+
 #EXTINF:-1  tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_118.jpg" group-title="TVRI Group",TVRI Nasional
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/index.m3u8
@@ -1049,6 +1085,10 @@ https://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIACEH)/in
 
 
 <=============MUSIC=================>
+#EXTM3U x-tvg-url="https://tinyurl.com/jejevisionepg" url-tvg="https://tinyurl.com/jejevisionepg x-tvg-url="https://tinyurl.com/jejevisionepg2" url-tvg="https://tinyurl.com/jejevisionepg2" refresh="1440" max-conn="1" refresh="24"
+
+#EXTM3U
+
 #EXTINF:-1 group-title="Music"", MTV Biggest Pop
 https://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8
 
@@ -1066,6 +1106,10 @@ https://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS01/master.m3u8
 
 
 <=======================Local Channels===============>
+
+#EXTM3U x-tvg-url="https://tinyurl.com/jejevisionepg" url-tvg="https://tinyurl.com/jejevisionepg x-tvg-url="https://tinyurl.com/jejevisionepg2" url-tvg="https://tinyurl.com/jejevisionepg2" refresh="1440" max-conn="1" refresh="24"
+
+#EXTM3U
 
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
