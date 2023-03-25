@@ -1177,7 +1177,7 @@ https://v2.siar.us/jawapostv/live/chunks.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MjhkOWZkZjYtOGViOC0zNTkzLWFhOWEtNGFhMzJkMDk3NGE2
 #EXTINF:-1 tvg-id="" tvg-url="https://tinyurl.com/jejevisionepg" tvg-logo="https://tatv.co.id/wp-content/uploads/2018/01/logotatv2017.png" group-title="Local Channels",TATV Solo
-https://v2.siar.us/tatv/live.sdp/playlist.m3u8
+https://v2.siar.us/tatv/live.sdp/chunks.m3u8
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1188,6 +1188,9 @@ https://5bf7b725107e5.streamlock.net/tvtabalong/tvtabalong/playlist.m3u8
 
 #EXTINF:-1  tvg-id="" tvg-url="https://tinyurl.com/jejevisionepg" tvg-logo="https://ugtv.co.id/wp-content/uploads/2021/03/LOGO-SANGAJI-TV-2048x475.png" group-title="Local Channels",Sangaji TV
 https://cdn.gunadarma.ac.id/streams/sangajitv/ingestsangajitv.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/0294xtFk/20221117-135633.png" group-title="Local Channels",Jaya TV
+https://h1.intechmedia.net/intech/ch52.m3u8
 
 <======================= Internet Radio ===============================>
 
