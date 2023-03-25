@@ -1198,8 +1198,3 @@ https://h1.intechmedia.net/intech/ch52.m3u8
 #EXTINF:-1  tvg-id="" tvg-url="" tvg-logo="http://p2k.unkris.ac.id/_sepakbola/_baca_image.php?td=12&kodegb=SSFM_Logo.png" group-title="Internet Radio",Suara Surabaya FM
 https://ssfm.siar.us/ssfm/live/playlist.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://cdn.renotv.my.id/cenc/?key=ZjNjMWY0ZTc3ZDA5YWVmOS9HWEZlZGRJN2pXRVhBZFE2NE1zZE1yM2V4N2dxUmJVTVpvc3hnWHRzYUlobzcrRmFNdTBObTVnRUhpU0JualRpZjB6QlhJaWl3ckhHT01iWUYrRUJxUWExT3BLdUlBM3NVVTF1TEo0Zk1jTEZvdEowWDRncWx1cEdBZTZrS00w
-#EXTINF:-1 tvg-logo="https://cdnjkt.transvision.co.id/image/web/channel/4028c6856b6088c3016b87d64b970b53/20190628041940.jpg" tvg-id="HBO.id" tvg-name="HBO" group-title="Film",HBO (Cubmu)
-https://cdn.renotv.my.id/go/playt/3/4028c6856b6088c3016b87d64b970b53/manifest.mpd
-
