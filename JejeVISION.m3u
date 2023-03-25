@@ -22,7 +22,7 @@ http://golive.yn.lt:80/live/liga1/05.m3u8
 
 
 <=================Indonesia Channels=============================
-#EXTM3U x-tvg-url="https://tinyurl.com/jejevisionepg" url-tvg="https://tinyurl.com/jejevisionepg x-tvg-url="https://tinyurl.com/jejevisionepg2" url-tvg="https://tinyurl.com/jejevisionepg2" refresh="1440" max-conn="1" refresh="24"
+#EXTM3U x-tvg-url="https://tinyurl.com/jejevisionepg, url-tvg=https://tinyurl.com/jejevisionepg, x-tvg-url="https://tinyurl.com/jejevisionepg2, url-tvg="https://tinyurl.com/jejevisionepg2, x-tvg-url=https://tinyurl.com/mediacorp-singapore, url-tvg=https://tinyurl.com/mediacorp-singapore" refresh="1440" max-conn="1" refresh="24"
 
 #EXTM3U
 
@@ -171,7 +171,7 @@ https://nusantaratv.siar.us/nusantaratv/live/chunks.m3u8
 
 =============TV MOVIES==================
 
-#EXTM3U x-tvg-url="https://tinyurl.com/jejevisionepg" url-tvg="https://tinyurl.com/jejevisionepg x-tvg-url="https://tinyurl.com/jejevisionepg2" url-tvg="https://tinyurl.com/jejevisionepg2" refresh="1440" max-conn="1" refresh="24"
+#EXTM3U x-tvg-url="https://tinyurl.com/jejevisionepg, url-tvg=https://tinyurl.com/jejevisionepg, x-tvg-url="https://tinyurl.com/jejevisionepg2, url-tvg="https://tinyurl.com/jejevisionepg2, x-tvg-url=https://tinyurl.com/mediacorp-singapore, url-tvg=https://tinyurl.com/mediacorp-singapore" refresh="1440" max-conn="1" refresh="24"
 
 #EXTM3U
 
@@ -325,7 +325,7 @@ https://anevi-live-channel-cdn.mncnow.id/live/eds/ZeeBIOSKOP/sa_dash_vmx/ZeeBIOS
 
 ============KNOWLEDGE==================
 
-#EXTM3U x-tvg-url="https://tinyurl.com/jejevisionepg" url-tvg="https://tinyurl.com/jejevisionepg x-tvg-url="https://tinyurl.com/jejevisionepg2" url-tvg="https://tinyurl.com/jejevisionepg2" refresh="1440" max-conn="1" refresh="24"
+#EXTM3U x-tvg-url="https://tinyurl.com/jejevisionepg, url-tvg=https://tinyurl.com/jejevisionepg, x-tvg-url="https://tinyurl.com/jejevisionepg2, url-tvg="https://tinyurl.com/jejevisionepg2, x-tvg-url=https://tinyurl.com/mediacorp-singapore, url-tvg=https://tinyurl.com/mediacorp-singapore" refresh="1440" max-conn="1" refresh="24"
 
 #EXTM3U
 
@@ -391,7 +391,7 @@ https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(abe4ead2-1a88-43
 
 <====================Entertainment & LifeStyle ================================>
 
-#EXTM3U x-tvg-url="https://tinyurl.com/jejevisionepg" url-tvg="https://tinyurl.com/jejevisionepg x-tvg-url="https://tinyurl.com/jejevisionepg2" url-tvg="https://tinyurl.com/jejevisionepg2" refresh="1440" max-conn="1" refresh="24"
+#EXTM3U x-tvg-url="https://tinyurl.com/jejevisionepg, url-tvg=https://tinyurl.com/jejevisionepg, x-tvg-url="https://tinyurl.com/jejevisionepg2, url-tvg="https://tinyurl.com/jejevisionepg2, x-tvg-url=https://tinyurl.com/mediacorp-singapore, url-tvg=https://tinyurl.com/mediacorp-singapore" refresh="1440" max-conn="1" refresh="24"
 
 #EXTM3U
 
@@ -488,7 +488,7 @@ https://anevi-live-channel-cdn.mncnow.id/live/eds/MNCInfotainment/sa_dash_vmx/MN
 
 <=========Sports=========>
 
-#EXTM3U x-tvg-url="https://tinyurl.com/jejevisionepg" url-tvg="https://tinyurl.com/jejevisionepg x-tvg-url="https://tinyurl.com/jejevisionepg2" url-tvg="https://tinyurl.com/jejevisionepg2" refresh="1440" max-conn="1" refresh="24"
+#EXTM3U x-tvg-url="https://tinyurl.com/jejevisionepg, url-tvg=https://tinyurl.com/jejevisionepg, x-tvg-url="https://tinyurl.com/jejevisionepg2, url-tvg="https://tinyurl.com/jejevisionepg2, x-tvg-url=https://tinyurl.com/mediacorp-singapore, url-tvg=https://tinyurl.com/mediacorp-singapore" refresh="1440" max-conn="1" refresh="24"
 
 #EXTM3U
 
@@ -557,7 +557,7 @@ https://anevi-live-channel-cdn.mncnow.id/live/eds/FightSports/sa_dash_vmx/FightS
 
 <=============TV NEWS====================>
 
-#EXTM3U x-tvg-url="https://tinyurl.com/jejevisionepg" url-tvg="https://tinyurl.com/jejevisionepg x-tvg-url="https://tinyurl.com/jejevisionepg2" url-tvg="https://tinyurl.com/jejevisionepg2" refresh="1440" max-conn="1" refresh="24"
+#EXTM3U x-tvg-url="https://tinyurl.com/jejevisionepg, url-tvg=https://tinyurl.com/jejevisionepg, x-tvg-url="https://tinyurl.com/jejevisionepg2, url-tvg="https://tinyurl.com/jejevisionepg2, x-tvg-url=https://tinyurl.com/mediacorp-singapore, url-tvg=https://tinyurl.com/mediacorp-singapore" refresh="1440" max-conn="1" refresh="24"
 
 #EXTM3U
 
@@ -701,7 +701,7 @@ https://anevi-live-channel-cdn.mncnow.id/live/eds/TV5/sa_dash_vmx/TV5.mpd
 
 <=============TV KIDS===============>
 
-#EXTM3U x-tvg-url="https://tinyurl.com/jejevisionepg" url-tvg="https://tinyurl.com/jejevisionepg x-tvg-url="https://tinyurl.com/jejevisionepg2" url-tvg="https://tinyurl.com/jejevisionepg2" refresh="1440" max-conn="1" refresh="24"
+#EXTM3U x-tvg-url="https://tinyurl.com/jejevisionepg, url-tvg=https://tinyurl.com/jejevisionepg, x-tvg-url="https://tinyurl.com/jejevisionepg2, url-tvg="https://tinyurl.com/jejevisionepg2, x-tvg-url=https://tinyurl.com/mediacorp-singapore, url-tvg=https://tinyurl.com/mediacorp-singapore" refresh="1440" max-conn="1" refresh="24"
 
 #EXTM3U
 
@@ -778,7 +778,7 @@ https://anevi-live-channel-cdn.mncnow.id/live/eds/BabyTV-NewHD/sa_dash_vmx/BabyT
 
 <=============Christian Channels==================>
 
-#EXTM3U x-tvg-url="https://tinyurl.com/jejevisionepg" url-tvg="https://tinyurl.com/jejevisionepg x-tvg-url="https://tinyurl.com/jejevisionepg2" url-tvg="https://tinyurl.com/jejevisionepg2" refresh="1440" max-conn="1" refresh="24"
+#EXTM3U x-tvg-url="https://tinyurl.com/jejevisionepg, url-tvg=https://tinyurl.com/jejevisionepg, x-tvg-url="https://tinyurl.com/jejevisionepg2, url-tvg="https://tinyurl.com/jejevisionepg2, x-tvg-url=https://tinyurl.com/mediacorp-singapore, url-tvg=https://tinyurl.com/mediacorp-singapore" refresh="1440" max-conn="1" refresh="24"
 
 #EXTM3U
 
@@ -805,45 +805,49 @@ https://anevi-live-channel-cdn.mncnow.id/live/eds/EWTN/sa_dash_vmx/EWTN.mpd
 
 
 <=============================== Mediacorp Singapore ========================================>
-#EXTM3U x-tvg-url="https://github.com/AqFad2811/epg/raw/main/singapore.xml" url-tvg="https://github.com/AqFad2811/epg/raw/main/singapore.xml" refresh="1440" max-conn="1" refresh="24"
+
+#EXTM3U x-tvg-url="https://tinyurl.com/jejevisionepg, url-tvg=https://tinyurl.com/jejevisionepg, x-tvg-url="https://tinyurl.com/jejevisionepg2, url-tvg="https://tinyurl.com/jejevisionepg2, x-tvg-url=https://tinyurl.com/mediacorp-singapore, url-tvg=https://tinyurl.com/mediacorp-singapore" refresh="1440" max-conn="1" refresh="24"
 
 #EXTM3U
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TVRRM2ZLZkJEQzdDTENlV0RSbXRCdWpnZVhUM0RhUlFnV195WUxldWF3ZUd5UENvVklvc0huN01odktKaFpZWm52dnVyY1hldEtsOWtBSE50dDJpMS1hY0swbXFsWTVNZjdqTjRDcGpaMlM1cW1Pb2tPc0pVcHpZVXBrbDVWRDNVQjhXcmJjRDh0YXJSVUtPWGdDUE02RTlucTJtOVhQcWdmOTRieWYwdW95Nl9VbVlTclVGU1BRbkduTDk1ODJwcHJFWXJBMDZxcTZBSGxfTjcyVDBBUzRKYm93eWFVbmFaRk9fR3h4SnZYNzczNUFFQ0VhbDdlWnZtZHU1VTlSa1R2ano3RWJIc0FzSXBlcTYzMjk0d3RsUTJXeUhnZUg3YmRHU1pIY2FuOFItcklyb1YtQVpkWDB0ZTRpbFk2THVVUFJVbFFDUjcwZ1VrekxzZ3phZXY3dGhSNXNDbnlHUkdEWWt4NkVhOUZUbDFuYU4mY29udGV4dFR5cGU9bm9uZSZpZD01NzU0MTE2IiwiYWNjb3VudF9pZCI6MjA4MjMxMSwiY29udGVudF9pZCI6ImZ0YV9jaDVfZGFzaF90dl9kcm0iLCJmaWxlcyI6IiIsInVzZXJfdG9rZW4iOiJkako4TVRRM2ZLZkJEQzdDTENlV0RSbXRCdWpnZVhUM0RhUlFnV195WUxldWF3ZUd5UENvVklvc0huN01odktKaFpZWm52dnVyY1hldEtsOWtBSE50dDJpMS1hY0swbXFsWTVNZjdqTjRDcGpaMlM1cW1Pb2tPc0pVcHpZVXBrbDVWRDNVQjhXcmJjRDh0YXJSVUtPWGdDUE02RTlucTJtOVhQcWdmOTRieWYwdW95Nl9VbVlTclVGU1BRbkduTDk1ODJwcHJFWXJBMDZxcTZBSGxfTjcyVDBBUzRKYm93eWFVbmFaRk9fR3h4SnZYNzczNUFFQ0VhbDdlWnZtZHU1VTlSa1R2ano3RWJIc0FzSXBlcTYzMjk0d3RsUTJXeUhnZUg3YmRHU1pIY2FuOFItcklyb1YtQVpkWDB0ZTRpbFk2THVVUFJVbFFDUjcwZ1VrekxzZ3phZXY3dGhSNXNDbnlHUkdEWWt4NkVhOUZUbDFuYU4iLCJ1ZGlkIjoiIiwiYWRkaXRpb25hbF9jYXNfc3lzdGVtIjoxNDd9&signature=qe9gweMgkqSKut9v39h0eCo77dg%3d
-#EXTINF:-1 group-title="Mediacorp SG" tvg-id="Channel 5" tvg-chno="Channel 5" tvg-logo="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/%24value?Format=%27png%27&Quality=85&ImageId=%271776036%27&EntityType=%27Item%27&EntityId=%2797098%27&Width=114&Height=114&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27",Channel 5
+#EXTINF:-1 group-title="Mediacorp SG" tvg-url="https://tinyurl.com/mediacorp-singapore" tvg-id="Channel 5" tvg-chno="Channel 5" tvg-logo="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/%24value?Format=%27png%27&Quality=85&ImageId=%271776036%27&EntityType=%27Item%27&EntityId=%2797098%27&Width=114&Height=114&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27",Channel 5
 https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/147/assetId/316288/assetType/media/assetFileId/5754116/contextType/PLAYBACK/isAltUrl/False/a.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TVRRM2ZMVlk4UTdyenVmdnQ2SHByTkxmX3VMU2tpZ0NVQ0QtTndCVWxpR01wMVNIRE5zeU10bGZaQ2ZONlYzWUN4b0NpWXMwd0VKc2tjamVKdWlqTFJKdFNkTVlBQndYVXY1aDM0OHcyWTdHNnJLRHlfS1NxM2ZFZGgzRFhVV0xIem16T1djc2ZJdTNkRVdIa1M2dENCQWdveVkwOEdLVVhRVHJLenZsaTZmcUhuUU1vZUNWUU16bWRLcE9NYzNPVXFmWXhiQ2FXZC1OODE0c3kxUlQxdGFpVnAxSEw1S3JQdDFOSUhDWjBLMFNQSUlwUThuZFpBSVJYNHNCeXFKREpwX2xtbnU4NWdwMm1ER1YybnNzUHhZV1BDdnc1aUNqX19HVnRmNU1zR3E0SkRSbGNBX2JudkdUS3pyWlZPYVFPNjV4Nnc9PSZjb250ZXh0VHlwZT1ub25lJmlkPTU3NTQxMjQiLCJhY2NvdW50X2lkIjoyMDgyMzExLCJjb250ZW50X2lkIjoiZnRhX2NoOF9kYXNoX3R2X2RybSIsImZpbGVzIjoiIiwidXNlcl90b2tlbiI6ImRqSjhNVFEzZkxWWThRN3J6dWZ2dDZIcHJOTGZfdUxTa2lnQ1VDRC1Od0JVbGlHTXAxU0hETnN5TXRsZlpDZk42VjNZQ3hvQ2lZczB3RUpza2NqZUp1aWpMUkp0U2RNWUFCd1hVdjVoMzQ4dzJZN0c2cktEeV9LU3EzZkVkaDNEWFVXTEh6bXpPV2NzZkl1M2RFV0hrUzZ0Q0JBZ295WTA4R0tVWFFUckt6dmxpNmZxSG5RTW9lQ1ZRTXptZEtwT01jM09VcWZZeGJDYVdkLU44MTRzeTFSVDF0YWlWcDFITDVLclB0MU5JSENaMEswU1BJSXBROG5kWkFJUlg0c0J5cUpESnBfbG1udTg1Z3AybURHVjJuc3NQeFlXUEN2dzVpQ2pfX0dWdGY1TXNHcTRKRFJsY0FfYm52R1RLenJaVk9hUU82NXg2dz09IiwidWRpZCI6IiIsImFkZGl0aW9uYWxfY2FzX3N5c3RlbSI6MTQ3fQ%3d%3d&signature=UoYwf%2f%2flK9jvDZOTgv26t6EvXzY%3d
-#EXTINF:-1 group-title="Mediacorp SG" tvg-id="Channel 8" tvg-chno="Channel 8" tvg-logo="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/%24value?Format=%27png%27&Quality=85&ImageId=%271776034%27&EntityType=%27Item%27&EntityId=%2797104%27&Width=75&Height=101&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27",Channel 8 / 8 频道
+#EXTINF:-1 group-title="Mediacorp SG" tvg-url="https://tinyurl.com/mediacorp-singapore" tvg-id="Channel 8" tvg-chno="Channel 8" tvg-logo="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/%24value?Format=%27png%27&Quality=85&ImageId=%271776034%27&EntityType=%27Item%27&EntityId=%2797104%27&Width=75&Height=101&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27",Channel 8 / 8 频道
 https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/147/assetId/260581/assetType/media/assetFileId/5754124/contextType/PLAYBACK/isAltUrl/False/a.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TVRRM2ZPQTNxb3JLY1A1X3B2VV9YWndaYlQ3azZtLWMtRzRPQTRmbkJDbWhmdTlKR2x0UzM5aERCa21BYjlCVDRDSlZmcjRxWkN1NkRteU1ld0ZRSHU2X3Z6QXg0bmlzSWpsLTNQNUlqNVFYcjJyd1BKWFQ4Wm81MkkxT2NIbDAyZWVMcW5RVnJYQW8tR2dCb3FkV2xkMEpEdFF5T2RlRVVEUEZPNHFBc2IxYUtqMHRqMWNUTWkxSGFmRHlYMHZKQzFXM2N6X2RrdlhodVpLYUFsU0dXb09BTXN1anJwd09kUW1CSjEyY29JY3FDbDV2ei1VcHE2dlBsd2tOUTFwM3prNFNndFl2Y2V6cHdtWEYtMElNcjM3M19aR1ZwMzlLT2Vja1FxUjZDd2xPemVWRS1idzFaRVV6Y3g1cFd2dHBXSFNzMVZ3WWxSbHJ1aVNGSUVhNUpkMjZETXc9JmNvbnRleHRUeXBlPW5vbmUmaWQ9NTc1NDE1NyIsImFjY291bnRfaWQiOjIwODIzMTEsImNvbnRlbnRfaWQiOiJmdGFfY2hVX2Rhc2hfdHZfZHJtIiwiZmlsZXMiOiIiLCJ1c2VyX3Rva2VuIjoiZGpKOE1UUTNmT0EzcW9yS2NQNV9wdlVfWFp3WmJUN2s2bS1jLUc0T0E0Zm5CQ21oZnU5SkdsdFMzOWhEQmttQWI5QlQ0Q0pWZnI0cVpDdTZEbXlNZXdGUUh1Nl92ekF4NG5pc0lqbC0zUDVJajVRWHIycndQSlhUOFpvNTJJMU9jSGwwMmVlTHFuUVZyWEFvLUdnQm9xZFdsZDBKRHRReU9kZUVVRFBGTzRxQXNiMWFLajB0ajFjVE1pMUhhZkR5WDB2SkMxVzNjel9ka3ZYaHVaS2FBbFNHV29PQU1zdWpycHdPZFFtQkoxMmNvSWNxQ2w1dnotVXBxNnZQbHdrTlExcDN6azRTZ3RZdmNlenB3bVhGLTBJTXIzNzNfWkdWcDM5S09lY2tRcVI2Q3dsT3plVkUtYncxWkVVemN4NXBXdnRwV0hTczFWd1lsUmxydWlTRklFYTVKZDI2RE13PSIsInVkaWQiOiIiLCJhZGRpdGlvbmFsX2Nhc19zeXN0ZW0iOjE0N30%3d&signature=eA5xOOPobthMQPZVhPhTJjHqur4%3d
-#EXTINF:-1 group-title="Mediacorp SG" tvg-id="Channel U" tvg-chno="Channel U" tvg-logo="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/%24value?Format=%27png%27&Quality=85&ImageId=%271776040%27&EntityType=%27Item%27&EntityId=%2797129%27&Width=114&Height=114&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27",Channel U / U 频道
+#EXTINF:-1 group-title="Mediacorp SG" tvg-url="https://tinyurl.com/mediacorp-singapore" tvg-id="Channel U" tvg-chno="Channel U" tvg-logo="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/%24value?Format=%27png%27&Quality=85&ImageId=%271776040%27&EntityType=%27Item%27&EntityId=%2797129%27&Width=114&Height=114&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27",Channel U / U 频道
 https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/147/assetId/330332/assetType/media/assetFileId/5754157/contextType/PLAYBACK/isAltUrl/False/a.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TVRRM2ZJUGZKZ3ZYcWxTV19QNjlmY0pxYlo5RGJRMVA4VDRfNUtaYmp2eUNmU2tKblkzRE9OUnZJc0xuaGg2d3Q1TmRIWGVJeU0yOEphX2VlZkFrWEhCQXVUNl96R040RFJSYnVFTFR6c3d4YkVXYTg1c0NyMHFvOE9kWGg0czdOd0k0dXhVNXI5akg3Y2hBc1VKV3ByTG01NUZyTzNWQWRCZXdCVDZBQ1FSRXdNdkZzcG1SelF6dlEzRWNyZlRCY1RxWlVlMHctMndmd3pnUWo3Ylk2UWN6N182RUVlaWpvRzYyWGdUVXA5R0pISVpDTWtNUHJQNU1wSF9nVU9qbmlfNnJPUjl5NXVMQzU1Zmk0SDFEVHFjMFJUNXZWSHU2ZVJneWFaUWxiT3V6Q3dNdjhPS21ZcUpySTVfb3Y5akxtYmFTNFgxMGF0djBWSXQwbThfc1ljcXNpY0lpWHJYNHZlaXo4RzFpTGkyTnZ6LTcmY29udGV4dFR5cGU9bm9uZSZpZD01NzU0MTQ5IiwiYWNjb3VudF9pZCI6MjA4MjMxMSwiY29udGVudF9pZCI6ImZ0YV9jbmFTX2Rhc2hfdHZfZHJtIiwiZmlsZXMiOiIiLCJ1c2VyX3Rva2VuIjoiZGpKOE1UUTNmSVBmSmd2WHFsU1dfUDY5ZmNKcWJaOURiUTFQOFQ0XzVLWmJqdnlDZlNrSm5ZM0RPTlJ2SXNMbmhoNnd0NU5kSFhlSXlNMjhKYV9lZWZBa1hIQkF1VDZfekdONERSUmJ1RUxUenN3eGJFV2E4NXNDcjBxbzhPZFhoNHM3TndJNHV4VTVyOWpIN2NoQXNVSldwckxtNTVGck8zVkFkQmV3QlQ2QUNRUkV3TXZGc3BtUnpRenZRM0VjcmZUQmNUcVpVZTB3LTJ3Znd6Z1FqN2JZNlFjejdfNkVFZWlqb0c2MlhnVFVwOUdKSElaQ01rTVByUDVNcEhfZ1VPam5pXzZyT1I5eTV1TEM1NWZpNEgxRFRxYzBSVDV2Vkh1NmVSZ3lhWlFsYk91ekN3TXY4T0ttWXFKckk1X292OWpMbWJhUzRYMTBhdHYwVkl0MG04X3NZY3FzaWNJaVhyWDR2ZWl6OEcxaUxpMk52ei03IiwidWRpZCI6IiIsImFkZGl0aW9uYWxfY2FzX3N5c3RlbSI6MTQ3fQ%3d%3d&signature=yIcLAtgDaYBXsTXpAc94370CGNw%3d
-#EXTINF:-1 group-title="Mediacorp SG" tvg-id="CNA" tvg-chno="CNA" tvg-logo="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/%24value?Format=%27png%27&Quality=85&ImageId=%271776042%27&EntityType=%27Item%27&EntityId=%2797072%27&Width=78&Height=96&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27",CNA
+#EXTINF:-1 group-title="Mediacorp SG" tvg-url="https://tinyurl.com/mediacorp-singapore" tvg-id="CNA" tvg-chno="CNA" tvg-logo="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/%24value?Format=%27png%27&Quality=85&ImageId=%271776042%27&EntityType=%27Item%27&EntityId=%2797072%27&Width=78&Height=96&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27",CNA
 https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/147/assetId/197985/assetType/media/assetFileId/5754149/contextType/PLAYBACK/isAltUrl/False/a.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TVRRM2ZQU3hwckF3U1l0TTlNdDROQ2JqXzFIVXkzZFRvR0dfVVpCSlhqU2twTllsUkZBbC1uV0hZZmYyYnZBbUp6R2E1MFI5N1V0VmhIdUg2eW1faGN5M1EyTjc1ZDBmaUlKSE85Uy1lS3piTHNuVWhtZ2NmOHlEbHZTaEMzNGVNRlFwN0NobzlmQldvbWlITGZfVGZTRFlySG5pU3loODdvQ0ZQQ3N3WmxsbXBfM2xPdEJMSExHZlFDTzFyMzFlMTRnSGFNTjIzeHdtNFFEZGNPSkJMelF0Z0NkTExpNG5PRE1ObklBT1ZzcElVRE9zOEtPejZjUHpmME9FRFdWTVd2WGdOcDB3YV9tRm05UXo4bGdRUjRSQ0ZhTlFfZVNRblFBVE5FeE43TUFsTHBvTUhPTGdyVFRZazFqdGZ6bFhJVmYzUEpDRmx3QV9iLTU2Vjh2VWtJSGlaMXJtNjNRZzBwMUM0dmZVdldtQWVodHMmY29udGV4dFR5cGU9bm9uZSZpZD01NzU0MDY2IiwiYWNjb3VudF9pZCI6MjA4MjMxMSwiY29udGVudF9pZCI6ImZ0YV9zdXJpYV9kYXNoX3R2X2RybSIsImZpbGVzIjoiIiwidXNlcl90b2tlbiI6ImRqSjhNVFEzZlBTeHByQXdTWXRNOU10NE5DYmpfMUhVeTNkVG9HR19VWkJKWGpTa3BOWWxSRkFsLW5XSFlmZjJidkFtSnpHYTUwUjk3VXRWaEh1SDZ5bV9oY3kzUTJONzVkMGZpSUpITzlTLWVLemJMc25VaG1nY2Y4eURsdlNoQzM0ZU1GUXA3Q2hvOWZCV29taUhMZl9UZlNEWXJIbmlTeWg4N29DRlBDc3dabGxtcF8zbE90QkxITEdmUUNPMXIzMWUxNGdIYU1OMjN4d200UURkY09KQkx6UXRnQ2RMTGk0bk9ETU5uSUFPVnNwSVVET3M4S096NmNQemYwT0VEV1ZNV3ZYZ05wMHdhX21GbTlRejhsZ1FSNFJDRmFOUV9lU1FuUUFUTkV4TjdNQWxMcG9NSE9MZ3JUVFlrMWp0ZnpsWElWZjNQSkNGbHdBX2ItNTZWOHZVa0lIaVoxcm02M1FnMHAxQzR2ZlV2V21BZWh0cyIsInVkaWQiOiIiLCJhZGRpdGlvbmFsX2Nhc19zeXN0ZW0iOjE0N30%3d&signature=mX%2f7znV75Gc09fzOXzq9aAjtRP4%3d
-#EXTINF:-1 group-title="Mediacorp SG" tvg-id="Suria" tvg-chno="Suria" tvg-logo="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/%24value?Format=%27png%27&Quality=85&ImageId=%271375229%27&EntityType=%27Item%27&EntityId=%2797084%27&Width=300&Height=300&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27",Suria
+#EXTINF:-1 group-title="Mediacorp SG" tvg-url="https://tinyurl.com/mediacorp-singapore" tvg-id="Suria" tvg-chno="Suria" tvg-logo="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/%24value?Format=%27png%27&Quality=85&ImageId=%271375229%27&EntityType=%27Item%27&EntityId=%2797084%27&Width=300&Height=300&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27",Suria
 https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/147/assetId/237652/assetType/media/assetFileId/5754066/contextType/PLAYBACK/isAltUrl/False/a.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TVRRM2ZING54anQ3dzNjZEtTVXYtNGRtMkVUdkphZmFlVUY1ZzJKRjIxWUZiZU5BRU1veVk0ZXBjeExIV3JHMWxSVlhXTC02a3hSWVNzdVZiQUd5X09pTkxJUFBUY3BGcXZQQ0Q0alA3MHFJWHdIZGoyaUptbjk5MkhBZVhHLWg0RVhFSkFOMlpPdWF0MU44UE1PcEF2NWcwR3d3UUpFcGxZWVp5dzN1SE1TUmM4ZVhQM0I2NlY0QlZQZHJEdmVoT0JoNlhfNGpXbzhDV2dDb3Y2cjlVV2R5TndsdnhxNVkxT3h0WlYyY0hWT1dURUVEeDA0WW5rZ3o2RHpWcF9zdG1abWNzanM0RFpaRUJMTl8wUGJPMzdOS1lXTDdqSDZ4S2EzeXF3d0dNcG4wMEVqRnlqVkJyQjF2VDBUOEZxZ24tNTlMR3c9PSZjb250ZXh0VHlwZT1ub25lJmlkPTU3NTQxMDgiLCJhY2NvdW50X2lkIjoyMDgyMzExLCJjb250ZW50X2lkIjoiZnRhX3Zhc2FudGhhbV9kYXNoX3R2X2RybSIsImZpbGVzIjoiIiwidXNlcl90b2tlbiI6ImRqSjhNVFEzZkg0bnhqdDd3M2NkS1NVdi00ZG0yRVR2SmFmYWVVRjVnMkpGMjFZRmJlTkFFTW95WTRlcGN4TEhXckcxbFJWWFdMLTZreFJZU3N1VmJBR3lfT2lOTElQUFRjcEZxdlBDRDRqUDcwcUlYd0hkajJpSm1uOTkySEFlWEctaDRFWEVKQU4yWk91YXQxTjhQTU9wQXY1ZzBHd3dRSkVwbFlZWnl3M3VITVNSYzhlWFAzQjY2VjRCVlBkckR2ZWhPQmg2WF80aldvOENXZ0NvdjZyOVVXZHlOd2x2eHE1WTFPeHRaVjJjSFZPV1RFRUR4MDRZbmtnejZEelZwX3N0bVptY3NqczREWlpFQkxOXzBQYk8zN05LWVdMN2pINnhLYTN5cXd3R01wbjAwRWpGeWpWQnJCMXZUMFQ4RnFnbi01OUxHdz09IiwidWRpZCI6IiIsImFkZGl0aW9uYWxfY2FzX3N5c3RlbSI6MTQ3fQ%3d%3d&signature=ZeAMAEc1RQN5zUGIh85MJM3OPbk%3d
-#EXTINF:-1 group-title="Mediacorp SG" tvg-id="Vasantham" tvg-chno="Vasantham" tvg-logo="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/%24value?Format=%27png%27&Quality=85&ImageId=%271776032%27&EntityType=%27Item%27&EntityId=%2797096%27&Width=129&Height=63&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27",Vasantham
+#EXTINF:-1 group-title="Mediacorp SG" tvg-url="https://tinyurl.com/mediacorp-singapore" tvg-id="Vasantham" tvg-chno="Vasantham" tvg-logo="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/%24value?Format=%27png%27&Quality=85&ImageId=%271776032%27&EntityType=%27Item%27&EntityId=%2797096%27&Width=129&Height=63&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27",Vasantham
 https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/147/assetId/237653/assetType/media/assetFileId/5754108/contextType/PLAYBACK/isAltUrl/False/a.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TVRRM2ZKdGN3VEN1UlNSMkwwTGt4blotZWl3QUJmcFpoYkt4dmJZSUJXcW9VTmxPdUlUb0FKS0VKazBGWVh4V0c5bGl0YldoQWRDSzdDUnc3amE0MU9QMWJUcDZubDRjcHpKNGQ3eTJPdGJ1MkpURm1KRVNRZ0ppRDQ0V0trYllwV3ZxZzdIYTVkcGEtMDNOSVdqY3VMZ25CUlNxZnVTTDhRbHFrUXVoSm1xWE92dXNlNWw5RllITnQ5YWx5LWZCVXFUOHh2ekdPTVBKWWtaOGNGMnV4ZGpjbUVWSmhnSE0tdWEyWFBiNTNmeVRjOWlJMlQ1Y0pZcllKN2s0QnRJM2wxT2lFQnZSUTNjb0J0SDBRejdMN2FIemxJZktIM1dnNk1iZ2NuRjh1VnFmS0VscDRyQjNXSnF1UnpzeFNnNFlMNTZYaFVsQnp3a1VXbnNNVDQ0UVIwODNxTlk9JmNvbnRleHRUeXBlPW5vbmUmaWQ9MTIzNjYzMjAiLCJhY2NvdW50X2lkIjoyMDgyMzExLCJjb250ZW50X2lkIjoiYWRob2Nfb2t0b2xpZGF5c19kYXNoX3R2X2RybSIsImZpbGVzIjoiIiwidXNlcl90b2tlbiI6ImRqSjhNVFEzZkp0Y3dUQ3VSU1IyTDBMa3huWi1laXdBQmZwWmhiS3h2YllJQldxb1VObE91SVRvQUpLRUprMEZZWHhXRzlsaXRiV2hBZENLN0NSdzdqYTQxT1AxYlRwNm5sNGNweko0ZDd5Mk90YnUySlRGbUpFU1FnSmlENDRXS2tiWXBXdnFnN0hhNWRwYS0wM05JV2pjdUxnbkJSU3FmdVNMOFFscWtRdWhKbXFYT3Z1c2U1bDlGWUhOdDlhbHktZkJVcVQ4eHZ6R09NUEpZa1o4Y0YydXhkamNtRVZKaGdITS11YTJYUGI1M2Z5VGM5aUkyVDVjSllyWUo3azRCdEkzbDFPaUVCdlJRM2NvQnRIMFF6N0w3YUh6bElmS0gzV2c2TWJnY25GOHVWcWZLRWxwNHJCM1dKcXVSenN4U2c0WUw1NlhoVWxCendrVVduc01UNDRRUjA4M3FOWT0iLCJ1ZGlkIjoiIiwiYWRkaXRpb25hbF9jYXNfc3lzdGVtIjoxNDd9&signature=%2bGKeajC%2bMRnSIhXzBNJaxSShzcU%3d
-#EXTINF:-1 group-title="Mediacorp SG" tvg-id="oktolidays.sg" tvg-chno="oktolidays.sg" tvg-logo="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/%24value?Format='png'&Quality=85&ImageId='4132072'&EntityType='Item'&EntityId='258705'&Width=237&Height=237&ResizeAction='fill'&HorizontalAlignment='center'&VerticalAlignment='top'",Oktolidays
+#EXTINF:-1 group-title="Mediacorp SG" tvg-url="https://tinyurl.com/mediacorp-singapore" tvg-id="oktolidays.sg" tvg-chno="oktolidays.sg" tvg-logo="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/%24value?Format='png'&Quality=85&ImageId='4132072'&EntityType='Item'&EntityId='258705'&Width=237&Height=237&ResizeAction='fill'&HorizontalAlignment='center'&VerticalAlignment='top'",Oktolidays
 https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/147/assetId/879237/assetType/media/assetFileId/12366320/contextType/PLAYBACK/isAltUrl/False/a.mpd
+
+
 <=========================================== Malaysia ==========================================>
+
 
 #EXTINF:-1 tvg-id="TV1.my" tvg-url="https://iptv-org.github.io/epg/guides/ms/rtmklik.rtm.gov.my.xml" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/tv1_bckg.png" tvg-url="" group-title="Malaysia",TV 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
@@ -914,10 +918,9 @@ https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist.m3u8
 
 <========================== China ============================================>
 
-#EXTM3U x-tvg-url="https://tinyurl.com/jejevisionepg" url-tvg="https://tinyurl.com/jejevisionepg x-tvg-url="https://tinyurl.com/jejevisionepg2" url-tvg="https://tinyurl.com/jejevisionepg2" refresh="1440" max-conn="1" refresh="24"
+#EXTM3U x-tvg-url="https://tinyurl.com/jejevisionepg, url-tvg=https://tinyurl.com/jejevisionepg, x-tvg-url="https://tinyurl.com/jejevisionepg2, url-tvg="https://tinyurl.com/jejevisionepg2, x-tvg-url=https://tinyurl.com/mediacorp-singapore, url-tvg=https://tinyurl.com/mediacorp-singapore" refresh="1440" max-conn="1" refresh="24"
 
 #EXTM3U
-
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -957,7 +960,7 @@ https://anevi-live-channel-cdn.mncnow.id/live/eds/AnhuiTV/sa_dash_vmx/AnhuiTV.mp
 
 <==================================== TVRI GRoup =========================================>
 
-#EXTM3U x-tvg-url="https://tinyurl.com/jejevisionepg" url-tvg="https://tinyurl.com/jejevisionepg x-tvg-url="https://tinyurl.com/jejevisionepg2" url-tvg="https://tinyurl.com/jejevisionepg2" refresh="1440" max-conn="1" refresh="24"
+#EXTM3U x-tvg-url="https://tinyurl.com/jejevisionepg, url-tvg=https://tinyurl.com/jejevisionepg, x-tvg-url="https://tinyurl.com/jejevisionepg2, url-tvg="https://tinyurl.com/jejevisionepg2, x-tvg-url=https://tinyurl.com/mediacorp-singapore, url-tvg=https://tinyurl.com/mediacorp-singapore" refresh="1440" max-conn="1" refresh="24"
 
 #EXTM3U 
 
@@ -1088,7 +1091,8 @@ https://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIACEH)/in
 
 
 <=============MUSIC=================>
-#EXTM3U x-tvg-url="https://tinyurl.com/jejevisionepg" url-tvg="https://tinyurl.com/jejevisionepg x-tvg-url="https://tinyurl.com/jejevisionepg2" url-tvg="https://tinyurl.com/jejevisionepg2" refresh="1440" max-conn="1" refresh="24"
+
+#EXTM3U x-tvg-url="https://tinyurl.com/jejevisionepg, url-tvg=https://tinyurl.com/jejevisionepg, x-tvg-url="https://tinyurl.com/jejevisionepg2, url-tvg="https://tinyurl.com/jejevisionepg2, x-tvg-url=https://tinyurl.com/mediacorp-singapore, url-tvg=https://tinyurl.com/mediacorp-singapore" refresh="1440" max-conn="1" refresh="24"
 
 #EXTM3U
 
@@ -1110,10 +1114,9 @@ https://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS01/master.m3u8
 
 <=======================Local Channels===============>
 
-#EXTM3U x-tvg-url="https://tinyurl.com/jejevisionepg" url-tvg="https://tinyurl.com/jejevisionepg x-tvg-url="https://tinyurl.com/jejevisionepg2" url-tvg="https://tinyurl.com/jejevisionepg2" refresh="1440" max-conn="1" refresh="24"
+#EXTM3U x-tvg-url="https://tinyurl.com/jejevisionepg, url-tvg=https://tinyurl.com/jejevisionepg, x-tvg-url="https://tinyurl.com/jejevisionepg2, url-tvg="https://tinyurl.com/jejevisionepg2, x-tvg-url=https://tinyurl.com/mediacorp-singapore, url-tvg=https://tinyurl.com/mediacorp-singapore" refresh="1440" max-conn="1" refresh="24"
 
 #EXTM3U
-
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
