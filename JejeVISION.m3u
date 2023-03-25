@@ -1139,7 +1139,7 @@ https://anevi-live-channel-cdn.mncnow.id/live/eds/JTV/sa_dash/JTV.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MjhkOWZkZjYtOGViOC0zNTkzLWFhOWEtNGFhMzJkMDk3NGE2
 #EXTINF:-1 group-title="Local Channels" tvg-id="" tvg-url="https://tinyurl.com/jejevisionepg" tvg-logo="https://i.imgur.com/wkK7YNx.png",JITV Jogja
-https://mam.jogjaprov.go.id:1937/tv/jitv/chunklist_w163357330.m3u8
+https://h1.intechmedia.net/intech/ch65.m3u8
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
