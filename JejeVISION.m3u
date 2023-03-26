@@ -914,7 +914,7 @@ https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/SBS_Korea_Logo_%28Word_Only%29.svg/1280px-SBS_Korea_Logo_%28Word_Only%29.svg.png" group-title="Korea Channels",SBS
 https://hypera.live/api/delivery/stream/sbs/playlist.m3u8?token=a7kcc&auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1YSI6Ik1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDYuMTsgcnY6MTA5LjApIEdlY2tvLzIwMTAwMTAxIEZpcmVmb3gvMTExLjAiLCJpYXQiOjE2Nzk3OTUwMzksImV4cCI6MTY3OTgxNjYzOX0.GNIm5McW3_L1ei-5oWIX9vjug-yMe0P-76NHeQP08dE
 
-#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://cdn.worldvectorlogo.com/logos/kbs-logo.svg" group-title="Korea Channels",KBS-1
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/KBS_1_logo.svg/2560px-KBS_1_logo.svg.png" group-title="Korea Channels",KBS-1
 https://hypera.live/api/delivery/stream/kbs1/playlist.m3u8?token=a7kcc&auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1YSI6Ik1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDYuMTsgcnY6MTA5LjApIEdlY2tvLzIwMTAwMTAxIEZpcmVmb3gvMTExLjAiLCJpYXQiOjE2Nzk3OTU2OTMsImV4cCI6MTY3OTgxNzI5M30.ShXCQHdR_Y7uyekrV9XAQw8zty3eNzkzkFpKbp0wQHI
 
 #EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/KBS_2_logo.svg/512px-KBS_2_logo.svg.png" group-title="Korea Channels",KBS-2
