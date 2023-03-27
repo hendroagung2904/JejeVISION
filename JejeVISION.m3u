@@ -1,4 +1,4 @@
-
+﻿
 <============================ BRI LIGA 1 ==================================>
 #EXTM3U x-tvg-url="https://tinyurl.com/jejevisionepg, url-tvg=https://tinyurl.com/jejevisionepg, x-tvg-url="https://tinyurl.com/jejevisionepg2, url-tvg="https://tinyurl.com/jejevisionepg2, x-tvg-url=https://tinyurl.com/mediacorp-singapore, url-tvg=https://tinyurl.com/mediacorp-singapore" refresh="1440" max-conn="1" refresh="24"
 
@@ -893,42 +893,6 @@ https://d1211whpimeups.cloudfront.net/smil:rtb2/chunklist.m3u8
 #EXTINF:-1 group-title="Brunei" tvg-id="GoLive" tvg-logo="https://i.imgur.com/CGlzsD5.png",RTB Go Live FHD
 #EXTVLCOPT:network-caching=1000
 https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist.m3u8
-
-<==================== Korea ==========================>
-
-#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/SBS_Korea_Logo_%28Word_Only%29.svg/1280px-SBS_Korea_Logo_%28Word_Only%29.svg.png" group-title="Korea Channels",SBS
-https://hypera.live/api/delivery/stream/sbs/playlist.m3u8?token=a7kcc&auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1YSI6Ik1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDYuMTsgcnY6MTA5LjApIEdlY2tvLzIwMTAwMTAxIEZpcmVmb3gvMTExLjAiLCJpYXQiOjE2Nzk3OTUwMzksImV4cCI6MTY3OTgxNjYzOX0.GNIm5McW3_L1ei-5oWIX9vjug-yMe0P-76NHeQP08dE
-
-#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/KBS_1_logo.svg/2560px-KBS_1_logo.svg.png" group-title="Korea Channels",KBS-1
-https://hypera.live/api/delivery/stream/kbs1/playlist.m3u8?token=a7kcc&auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1YSI6Ik1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDYuMTsgcnY6MTA5LjApIEdlY2tvLzIwMTAwMTAxIEZpcmVmb3gvMTExLjAiLCJpYXQiOjE2Nzk3OTU2OTMsImV4cCI6MTY3OTgxNzI5M30.ShXCQHdR_Y7uyekrV9XAQw8zty3eNzkzkFpKbp0wQHI
-
-#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/KBS_2_logo.svg/512px-KBS_2_logo.svg.png" group-title="Korea Channels",KBS-2
-https://hypera.live/api/delivery/stream/kbs2/playlist.m3u8?token=a7kcc&auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1YSI6Ik1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDYuMTsgcnY6MTA5LjApIEdlY2tvLzIwMTAwMTAxIEZpcmVmb3gvMTExLjAiLCJpYXQiOjE2Nzk3OTU0MjcsImV4cCI6MTY3OTgxNzAyN30.fRYBrLd6TZ_bxvSj5YupYyQ2rMCQG43Unh8En2WpOGQ
-
-#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/11/MBC_Newsdesk_logo_2017_Korean_language_01.png" group-title="Korea Channels",MBC" group-title="Korea Channels",MBC
-https://hypera.live/api/delivery/stream/mbc/playlist.m3u8?token=a7kcc&auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1YSI6Ik1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDYuMTsgcnY6MTA5LjApIEdlY2tvLzIwMTAwMTAxIEZpcmVmb3gvMTExLjAiLCJpYXQiOjE2Nzk3OTU3NDksImV4cCI6MTY3OTgxNzM0OX0.xrrOm0B-dQtTthrgg4oxmhX9S1yJPpx4-WV9iMmfy1s\
-
-#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/Music_Makes_One_Mnet_Logo.png" group-title="Korea Channels",Mnet
-https://hypera.live/api/delivery/stream/mnet/playlist.m3u8?token=a7kcc&auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1YSI6Ik1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDYuMTsgcnY6MTA5LjApIEdlY2tvLzIwMTAwMTAxIEZpcmVmb3gvMTExLjAiLCJpYXQiOjE2Nzk3OTU4ODIsImV4cCI6MTY3OTgxNzQ4Mn0.7aegEBYMpzbOaqtQha6MqHCaswvdiFyD2qgi6jeiAQM
-
-#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/TVN_Logo.png" group-title="Korea Channels",tVn
-https://hypera.live/api/delivery/stream/tvn_kr/playlist.m3u8?token=a7kcc&auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1YSI6Ik1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDYuMTsgcnY6MTA5LjApIEdlY2tvLzIwMTAwMTAxIEZpcmVmb3gvMTExLjAiLCJpYXQiOjE2Nzk3OTU5NjksImV4cCI6MTY3OTgxNzU2OX0.MfFKiTGcu4Br0oX_oR6uTw6DyvWPrj61wgBpI2qmfMM
-
-#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://img2.pngdownload.id/20180406/wgq/kisspng-television-in-south-korea-jtbc-television-in-south-svg-5ac7487f0b1fc6.1245906115230096630456.jpg" group-title="Korea Channels",JTBC
-https://hypera.live/api/delivery/stream/jtbc/playlist.m3u8?token=a7kcc&auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1YSI6Ik1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDYuMTsgcnY6MTA5LjApIEdlY2tvLzIwMTAwMTAxIEZpcmVmb3gvMTExLjAiLCJpYXQiOjE2Nzk3OTYwOTMsImV4cCI6MTY3OTgxNzY5M30.fL3fk4hrgBl0hQDkAHFnvwyzr61hVWIagCb9XBQC-18
-
-#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/MBN_Logo.jpg" group-title="Korea Channels",MBN
-https://hypera.live/api/delivery/stream/mbn/playlist.m3u8?token=a7kcc&auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1YSI6Ik1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDYuMTsgcnY6MTA5LjApIEdlY2tvLzIwMTAwMTAxIEZpcmVmb3gvMTExLjAiLCJpYXQiOjE2Nzk3OTYxNzgsImV4cCI6MTY3OTgxNzc3OH0.uV7xPcCXp67XhoVl6wyK6x077IemYIrhHwNoXI7he3w
-
-#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Channel_A_Logo_transparent.png/440px-Channel_A_Logo_transparent.png",Channel A
-https://hypera.live/api/delivery/stream/cha/playlist.m3u8?token=a7kcc&auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1YSI6Ik1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDYuMTsgcnY6MTA5LjApIEdlY2tvLzIwMTAwMTAxIEZpcmVmb3gvMTExLjAiLCJpYXQiOjE2Nzk3OTYyNDAsImV4cCI6MTY3OTgxNzg0MH0.hxnS91L-Cyx6TvTFcDCzPv8H70zFCBNmJcQEgm6Ds2U
-
-#EXTINF:-1 tvg-id="" tvg-url="https://upload.wikimedia.org/wikipedia/commons/1/1e/TV_Chosun_Logo_%28English%29.svg" tvg-logo="",TV Chosun
-https://hypera.live/api/delivery/stream/chosun/playlist.m3u8?token=a7kcc&auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1YSI6Ik1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDYuMTsgcnY6MTA5LjApIEdlY2tvLzIwMTAwMTAxIEZpcmVmb3gvMTExLjAiLCJpYXQiOjE2Nzk3OTYzMzQsImV4cCI6MTY3OTgxNzkzNH0.jwcCXWjmDZOkK5VCBrpYOpUOLBniqWrvFf8_5_tSOSs
-
-#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0a/YTN_Logo.png",YTN
-https://hypera.live/api/delivery/stream/ytn/playlist.m3u8?token=a7kcc&auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1YSI6Ik1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDYuMTsgcnY6MTA5LjApIEdlY2tvLzIwMTAwMTAxIEZpcmVmb3gvMTExLjAiLCJpYXQiOjE2Nzk3OTY0NTYsImV4cCI6MTY3OTgxODA1Nn0.W6_0KcPQXWhLTegwF6YImBUnd5zQ2nbFpWbk4XCBO_E
-
 
 
 <========================== China ============================================>
