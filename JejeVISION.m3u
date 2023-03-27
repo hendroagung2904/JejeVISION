@@ -34,6 +34,9 @@ https://nonton.wap.sh/id/009.m3u8
 #EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/Indosiar.png" group-title="Indonesia Channels" tvg-url="https://tinyurl.com/jejevisionepg" tvg-id="Indosiar.id" tvg-name="Indosiar", Indosiar HD
 https://mpwtv.my.id/vidioye/205-indosiar.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.moji.id/site/uploads/logo/62f9387ce00a2-224-x-71.png" group-title="Indonesia Channels" tvg-url="https://tinyurl.com/jejevisionepg2" tvg-id="OChannel.id" tvg-name="Indosiar",Moji Channel
+https://etslive-2-vidio-com.akamaized.net/exp=1679906754~acl=/hls-p/ingest_206_*/*~hmac=5647b6b94c08db4a29bfed780f738cd98847ace86585a1b13918c808f645f7eb/hls-p/ingest_206_720p/index.m3u8
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
