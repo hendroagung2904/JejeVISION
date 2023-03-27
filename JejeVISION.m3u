@@ -536,6 +536,34 @@ https://hw8871-live-cdn.mncnow.id/live/eds/soccerchannel-HD/sa_dash_vmx/soccerch
 #EXTINF:-1 tvg-id="FightSports.us" tvg-url="https://tinyurl.com/jejevisionepg" tvg-logo="https://www.mncvision.id/userfiles/image/channel/150x150fightsport.jpg" group-title="Sports",Fight Sports
 https://hw8871-live-cdn.mncnow.id/live/eds/FightSports/sa_dash_vmx/FightSports.mpd
 
+#EXTINF:-1 tvg-id="" tvg-name="BT Sport 1" tvg-logo="https://i.imgur.com/Wi7rhPs.png",BT SPORT 1
+http://ttv.bz:80/live/m2r9EhQfqT/dmMB57FjXv21/1388.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="BT Sport 2" tvg-logo="https://i.imgur.com/MrHjmX4.png",BT SPORT 2
+http://ttv.bz:80/live/m2r9EhQfqT/dmMB57FjXv21/1389.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="BT Sport 3" tvg-logo="https://i.imgur.com/Ss2Gf0o.png",BT SPORT 3
+http://ttv.bz:80/live/m2r9EhQfqT/dmMB57FjXv21/1390.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="SuperSport Action" tvg-logo="http://platinumxmedia.xyz:8080/images/04f8e0679ed7cbc138d4ac177080b0be.png" group-title="Sports",SuperSport Action
+http://ttv.bz:80/live/m2r9EhQfqT/dmMB57FjXv21/66614.ts
+
+#EXTINF:-1  tvg-id="" tvg-name="Sky Sports F1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d9/Sky_Sports_F1_logo_2020.svg/512px-Sky_Sports_F1_logo_2020.svg.png",SKY SPORT F1
+http://ttv.bz:80/live/m2r9EhQfqT/dmMB57FjXv21/1401.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="SuperSport Rugby" tvg-logo="http://platinumxmedia.xyz:8080/images/a2843624bcdb705b82d97a13d862e238.png" group-title="Sports",SuperSport Rugby
+http://ttv.bz:80/live/m2r9EhQfqT/dmMB57FjXv21/66607.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="SuperSport Cricket" tvg-logo="http://platinumxmedia.xyz:8080/images/e2182f27c94adc78e9deecc1da385a34.png" group-title="Sports",SuperSport Cricket
+http://ttv.bz:80/live/m2r9EhQfqT/dmMB57FjXv21/66608.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="SuperSport Grandstand" tvg-logo="http://platinumxmedia.xyz:8080/images/ad4c133b247c9b50a2adae08faffd885.png" group-title="Sports",SuperSport Grandstand
+http://ttv.bz:80/live/m2r9EhQfqT/dmMB57FjXv21/66612.ts
+
+
+
+
+
 <=============TV NEWS====================>
 
 #EXTM3U x-tvg-url="https://tinyurl.com/jejevisionepg, url-tvg=https://tinyurl.com/jejevisionepg, x-tvg-url="https://tinyurl.com/jejevisionepg2, url-tvg="https://tinyurl.com/jejevisionepg2, x-tvg-url=https://tinyurl.com/mediacorp-singapore, url-tvg=https://tinyurl.com/mediacorp-singapore" refresh="1440" max-conn="1" refresh="24"
