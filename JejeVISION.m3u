@@ -33,8 +33,6 @@ http://210.210.155.37/qwr9ew/s/s03/01.m3u8
 #EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/Indosiar.png" group-title="Indonesia Channels" tvg-url="https://tinyurl.com/jejevisionepg" tvg-id="Indosiar.id" tvg-name="Indosiar", Indosiar HD
 https://mpwtv.my.id/vidioye/205-indosiar.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.moji.id/site/uploads/logo/62f9387ce00a2-224-x-71.png" group-title="Indonesia Channels" tvg-url="https://tinyurl.com/jejevisionepg2" tvg-id="OChannel.id" tvg-name="Indosiar",Moji Channel
-https://etslive-2-vidio-com.akamaized.net/exp=1679906754~acl=/hls-p/ingest_206_*/*~hmac=5647b6b94c08db4a29bfed780f738cd98847ace86585a1b13918c808f645f7eb/hls-p/ingest_206_720p/index.m3u8
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -536,19 +534,19 @@ https://hw8871-live-cdn.mncnow.id/live/eds/soccerchannel-HD/sa_dash_vmx/soccerch
 #EXTINF:-1 tvg-id="FightSports.us" tvg-url="https://tinyurl.com/jejevisionepg" tvg-logo="https://www.mncvision.id/userfiles/image/channel/150x150fightsport.jpg" group-title="Sports",Fight Sports
 https://hw8871-live-cdn.mncnow.id/live/eds/FightSports/sa_dash_vmx/FightSports.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="BT Sport 1" tvg-logo="https://i.imgur.com/Wi7rhPs.png",BT SPORT 1
+#EXTINF:-1 tvg-id="" group-title="Sports" tvg-name="BT Sport 1" tvg-logo="https://i.imgur.com/Wi7rhPs.png",BT SPORT 1
 http://ttv.bz:80/live/m2r9EhQfqT/dmMB57FjXv21/1388.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="BT Sport 2" tvg-logo="https://i.imgur.com/MrHjmX4.png",BT SPORT 2
+#EXTINF:-1 tvg-id="" group-title="Sports" tvg-name="BT Sport 2" tvg-logo="https://i.imgur.com/MrHjmX4.png",BT SPORT 2
 http://ttv.bz:80/live/m2r9EhQfqT/dmMB57FjXv21/1389.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="BT Sport 3" tvg-logo="https://i.imgur.com/Ss2Gf0o.png",BT SPORT 3
+#EXTINF:-1 tvg-id="" group-title="Sports" tvg-name="BT Sport 3" tvg-logo="https://i.imgur.com/Ss2Gf0o.png",BT SPORT 3
 http://ttv.bz:80/live/m2r9EhQfqT/dmMB57FjXv21/1390.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="SuperSport Action" tvg-logo="http://platinumxmedia.xyz:8080/images/04f8e0679ed7cbc138d4ac177080b0be.png" group-title="Sports",SuperSport Action
+#EXTINF:-1 tvg-id="" group-title="Sports" tvg-name="SuperSport Action" tvg-logo="http://platinumxmedia.xyz:8080/images/04f8e0679ed7cbc138d4ac177080b0be.png" group-title="Sports",SuperSport Action
 http://ttv.bz:80/live/m2r9EhQfqT/dmMB57FjXv21/66614.ts
 
-#EXTINF:-1  tvg-id="" tvg-name="Sky Sports F1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d9/Sky_Sports_F1_logo_2020.svg/512px-Sky_Sports_F1_logo_2020.svg.png",SKY SPORT F1
+#EXTINF:-1  tvg-id="" group-title="Sports" tvg-name="Sky Sports F1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d9/Sky_Sports_F1_logo_2020.svg/512px-Sky_Sports_F1_logo_2020.svg.png",SKY SPORT F1
 http://ttv.bz:80/live/m2r9EhQfqT/dmMB57FjXv21/1401.ts
 
 
