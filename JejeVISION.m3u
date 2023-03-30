@@ -27,8 +27,8 @@ http://golive.yn.lt:80/live/liga1/05.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/sctv.png" group-title="Indonesia Channels" tvg-url="https://tinyurl.com/jejevisionepg" tvg-id="SCTV.id" tvg-name="SCTV", SCTV
 #https://mpwtv.my.id/vidioye/204-sctv.m3u8
-#https://nonton.wap.sh/id/009.m3u8
-http://210.210.155.37/qwr9ew/s/s03/01.m3u8
+https://nonton.wap.sh/id/009.m3u8
+#http://210.210.155.37/qwr9ew/s/s03/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/Indosiar.png" group-title="Indonesia Channels" tvg-url="https://tinyurl.com/jejevisionepg" tvg-id="Indosiar.id" tvg-name="Indosiar", Indosiar HD
 https://sub.home-tv.my.id/first/indosiar.m3u8
