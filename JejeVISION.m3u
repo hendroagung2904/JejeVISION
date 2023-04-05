@@ -140,6 +140,9 @@ https://edge.medcom.id/live-edge/smil:magna.smil/chunklist_w657754957_b3884000_s
 #EXTINF:-1 tvg-id="NusantaraTV.id" tvg-url=”https://tinyurl.com/jejevisionepg2” tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Logo_ntv.png/1200px-Logo_ntv.png" group-title="Indonesia Channels", Nusantara TV
 https://nusantaratv.siar.us/nusantaratv/live/chunks.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-url=”” tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f4/The_Indonesia_Channel_Logo.jpg" group-title="Indonesia Channels", The Indonesia Channels
+https://cdn3.wowza.com/1/NEtzTTZ4c1FTTUN2/SkJBbVJs/hls/fmkb3vv1/2728/chunklist.m3u8
+
 =============TV MOVIES==================
 
 #EXTM3U x-tvg-url="https://tinyurl.com/jejevisionepg, url-tvg=https://tinyurl.com/jejevisionepg, x-tvg-url="https://tinyurl.com/jejevisionepg2, url-tvg="https://tinyurl.com/jejevisionepg2, x-tvg-url=https://tinyurl.com/mediacorp-singapore, url-tvg=https://tinyurl.com/mediacorp-singapore" refresh="1440" max-conn="1" refresh="24"
@@ -355,9 +358,6 @@ https://hw8871-live-cdn.mncnow.id/live/eds/CrimeInvestigation/sa_dash_vmx/CrimeI
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
 #EXTINF:-1 group-title="Knowledge & Documentary" tvg-id="CGTNDocumentary.cn" tvg-url="https://tinyurl.com/jejevisionepg" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_205.png",CGTN Documentary
 https://hw8871-live-cdn.mncnow.id/live/eds/CGTN_Doc/sa_dash_vmx/CGTN_Doc.mpd
-
-#EXTINF:-1 group-title="Knowledge & Documentary" tvg-url="https://tinyurl.com/jejevisionepg2" tvg-logo="https://i.postimg.cc/FsCCnVFg/lokalch.jpg",TECHSTROM
-https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(abe4ead2-1a88-4330-9f41-382fcf94bba2)/05.m3u8
 
 
 <====================Entertainment & LifeStyle ================================>
