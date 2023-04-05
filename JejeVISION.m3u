@@ -660,6 +660,39 @@ https://hw8871-live-cdn.mncnow.id/live/eds/TV5/sa_dash_vmx/TV5.mpd
 #EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2c/TVR_Parlemen.jpg/" group-title="News",TV Parlemen
 http://103.18.181.69:1935/golive/livestream/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2c/TVR_Parlemen.jpg/" group-title="News",TV Parlemen Komisi I
+http://103.18.181.69:1935/golive/livestream1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2c/TVR_Parlemen.jpg/" group-title="News",TV Parlemen Komisi II
+http://103.18.181.69:1935/golive/livestream2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2c/TVR_Parlemen.jpg/" group-title="News",TV Parlemen Komisi III
+http://103.18.181.69:1935/golive/livestream3/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2c/TVR_Parlemen.jpg/" group-title="News",TV Parlemen Komisi IV
+http://103.18.181.69:1935/golive/livestream4/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2c/TVR_Parlemen.jpg/" group-title="News",TV Parlemen Komisi V
+http://103.18.181.69:1935/golive/livestream5/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2c/TVR_Parlemen.jpg/" group-title="News",TV Parlemen Komisi VI
+http://103.18.181.69:1935/golive/livestream6/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2c/TVR_Parlemen.jpg/" group-title="News",TV Parlemen Komisi VII
+http://103.18.181.69:1935/golive/livestream7/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2c/TVR_Parlemen.jpg/" group-title="News",TV Parlemen Komisi VIII
+http://103.18.181.69:1935/golive/livestream8/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2c/TVR_Parlemen.jpg/" group-title="News",TV Parlemen Komisi IX
+http://103.18.181.69:1935/golive/livestream9/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2c/TVR_Parlemen.jpg/" group-title="News",TV Parlemen Komisi X
+http://103.18.181.69:1935/golive/livestream10/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2c/TVR_Parlemen.jpg/" group-title="News",TV Parlemen Komisi XI
+http://103.18.181.69:1935/golive/livestream11/playlist.m3u8
+
 <=============TV KIDS===============>
 
 #EXTM3U x-tvg-url="https://tinyurl.com/jejevisionepg, url-tvg=https://tinyurl.com/jejevisionepg, x-tvg-url="https://tinyurl.com/jejevisionepg2, url-tvg="https://tinyurl.com/jejevisionepg2, x-tvg-url=https://tinyurl.com/mediacorp-singapore, url-tvg=https://tinyurl.com/mediacorp-singapore" refresh="1440" max-conn="1" refresh="24"
