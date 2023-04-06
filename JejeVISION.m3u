@@ -651,6 +651,9 @@ https://hw8871-live-cdn.mncnow.id/live/eds/ChannelNewsAsia/sa_dash_vmx/ChannelNe
 #EXTINF:-1 group-title="News" tvg-id="ABCAustralia.au" tvg-url="https://tinyurl.com/jejevisionepg" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_350.png" ,ABC Australia
 https://hw8871-live-cdn.mncnow.id/live/eds/AustraliaPlus/sa_dash_vmx/AustraliaPlus.mpd
 
+#EXTINF:-1 group-title="News" tvg-id="" tvg-url="" tvg-logo="https://pixlok.com/wp-content/uploads/2021/04/WION-News-Logo-PNG.jpg" ,WION
+https://dai.google.com/linear/hls/event/x_dFvsORSZWERbxrltEk0g/master.m3u8?checkedby:iptvcat.com
+
 #EXTINF:-1 tvg-id="TV5MondeAsia.fr" tvg-url="https://tinyurl.com/jejevisionepg2" tvg-logo="http://www.lcf-magazine.com/wp-content/uploads/2014/09/logo-TV5Monde.jpg" group-title="News",TV 5 Monde
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
