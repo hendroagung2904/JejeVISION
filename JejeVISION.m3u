@@ -463,6 +463,22 @@ https://anevi-live-channel-cdn.mncnow.id/live/eds/MNCInfotainment/sa_dash_vmx/MN
 
 #EXTM3U
 
+#EXTINF:-1 group-title="Sports;International" tvg-id="beinsports1.my" tvg-logo="https://i.postimg.cc/5yDM3wrP/be-IN-SPORTS1-DIGITAL-Mono-picsay.png",beIN Sports Malaysia 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/408
+https://daddyhd.mammothtv.workers.dev/dash-wv/linear/408/default_primary.mpd
+
+#EXTINF:-1 group-title="Sports;International" tvg-id="beinsports2.my" tvg-logo="https://i.postimg.cc/FRWvftVX/be-IN-SPORTS2-DIGITAL-Mono-picsay.png",beIN Sports Malaysia 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5066
+https://daddyhd.mammothtv.workers.dev/dash-wv/linear/5066/default_primary.mpd
+
+#EXTINF:-1 group-title="Sports;International" tvg-id="beinsports3.my" tvg-logo="https://i.postimg.cc/Gm3bPNdZ/be-IN-SPORTS3-DIGITAL-Mono-picsay.png",beIN Sports Malaysia 3
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2705
+https://daddyhd.mammothtv.workers.dev/dash-wv/linear/2705/default_primary.mpd
+
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
