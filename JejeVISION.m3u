@@ -2,6 +2,11 @@
 #EXTM3U x-tvg-url="https://tinyurl.com/jejevisionepg, url-tvg=https://tinyurl.com/jejevisionepg, x-tvg-url="https://tinyurl.com/jejevisionepg2, url-tvg="https://tinyurl.com/jejevisionepg2, x-tvg-url=https://tinyurl.com/mediacorp-singapore, url-tvg=https://tinyurl.com/mediacorp-singapore" refresh="1440" max-conn="1" refresh="24"
 
 #EXTM3U
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/1200px-Moji_blue.svg.png" group-title="Indonesia Channels" tvg-url="https://tinyurl.com/jejevisionepg" tvg-id="" tvg-name="",Moji TV
+https://etslive-2-vidio-com.akamaized.net/exp=1683049400~acl=/hls-p/ingest_206_*/*~hmac=31864d5fc49e4d843b502cae65afd4dcb93459f09be093c208bc4e6db3f7e243/hls-p/ingest_206_720p/index.m3u8
+
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
