@@ -765,6 +765,8 @@ https://nyanv-live-cdn.mncnow.id/live/eds/BabyTV-NewHD/sa_dash_vmx/BabyTV-NewHD.
 #EXTM3U x-tvg-url="https://tinyurl.com/jejevisionepg, url-tvg=https://tinyurl.com/jejevisionepg, x-tvg-url="https://tinyurl.com/jejevisionepg2, url-tvg="https://tinyurl.com/jejevisionepg2, x-tvg-url=https://tinyurl.com/mediacorp-singapore, url-tvg=https://tinyurl.com/mediacorp-singapore" refresh="1440" max-conn="1" refresh="24"
 
 #EXTM3U
+#EXTINF:-1 tvg-url="https://iptv-org.github.io/epg/guides/id/vidio.com.epg.xml" group-title="Christian Channels" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c3/U-Channel_id.png",U Channel
+https://live-production.secureswiftcontent.com/exp=1683050054~acl=/hls-p/ingest_6898_*/*~hmac=4ab529a619b06cf29b9c5c9ed29815a2570469d7dd133fcde8c2cc07ae234bed/hls-p/ingest_6898_720p/index.m3u8
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
