@@ -3,6 +3,10 @@
 
 #EXTM3U
 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.manifest_type=m3u8
+#KODIPROP:inputstream.adaptive.license_key=https://o554588.ingest.sentry.io/api/4504472826019840/envelope/?sentry_key=157aeb435e4b4556a4fbc7dcb45b6c48&sentry_version=7&sentry_client=sentry.javascript.react%2F7.37
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/1200px-Moji_blue.svg.png" group-title="Indonesia Channels" tvg-url="https://tinyurl.com/jejevisionepg" tvg-id="" tvg-name="",Moji TV
 https://etslive-2-vidio-com.akamaized.net/exp=1683049400~acl=/hls-p/ingest_206_*/*~hmac=31864d5fc49e4d843b502cae65afd4dcb93459f09be093c208bc4e6db3f7e243/hls-p/ingest_206_720p/index.m3u8
 
@@ -10,23 +14,23 @@ https://etslive-2-vidio-com.akamaized.net/exp=1683049400~acl=/hls-p/ingest_206_*
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=https://o554588.ingest.sentry.io/api/4504472826019840/envelope/?sentry_key=157aeb435e4b4556a4fbc7dcb45b6c48&sentry_version=7&sentry_client=sentry.javascript.react%2F7.37.2
-#EXTINF:-1 ttvg-id="SCTV.id" group-title="Indonesia Channels" tvg-url="https://tinyurl.com/jejevisionepg" tvg-logo="https://www.mncvision.id/userfiles/image/channel/sctv.png",SCTV Vidio
+#EXTINF:-1 ttvg-id="SCTV.id" group-title="Indonesia Channels" tvg-url="https://tinyurl.com/jejevisionepg" tvg-logo="https://www.mncvision.id/userfiles/image/channel/sctv.png",SCTV HD
 https://etslive-2-vidio-com.akamaized.net/exp=1683048006~acl=/vp9/204_stream.mpd!/vp9/204/*!/vp9/*/204_stream.mpd!/vp9/*/204/*~hmac=7e7564365e688974d3a34ff5ad7f5e2e7f143839d86bf952ab91618081f21338/vp9/204_stream.mpd
 
-#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/sctv.png" group-title="Indonesia Channels" tvg-url="https://tinyurl.com/jejevisionepg" tvg-id="SCTV.id" tvg-name="SCTV", SCTV
-#https://mpwtv.my.id/vidioye/204-sctv.m3u8
-https://nonton.wap.sh/id/009.m3u8
-#http://210.210.155.37/qwr9ew/s/s03/01.m3u8
+==>#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/sctv.png" group-title="Indonesia Channels" tvg-url="https://tinyurl.com/jejevisionepg" tvg-id="SCTV.id" tvg-name="SCTV", SCTV
+==>#https://mpwtv.my.id/vidioye/204-sctv.m3u8
+==>https://nonton.wap.sh/id/009.m3u8
+==>#http://210.210.155.37/qwr9ew/s/s03/01.m3u8
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=https://o554588.ingest.sentry.io/api/4504472826019840/envelope/?sentry_key=157aeb435e4b4556a4fbc7dcb45b6c48&sentry_version=7&sentry_client=sentry.javascript.react%2F7.37.2
-#EXTINF:-1 ttvg-id="SCTV.id" group-title="Indonesia Channels" tvg-url="https://tinyurl.com/jejevisionepg" tvg-logo="https://www.mncvision.id/userfiles/image/channel/Indosiar.png",Indosiar Vidio
+#EXTINF:-1 ttvg-id="SCTV.id" group-title="Indonesia Channels" tvg-url="https://tinyurl.com/jejevisionepg" tvg-logo="https://www.mncvision.id/userfiles/image/channel/Indosiar.png",Indosiar HD
 https://etslive-2-vidio-com.akamaized.net/exp=1683048887~acl=/vp9/205_stream.mpd!/vp9/205/*!/vp9/*/205_stream.mpd!/vp9/*/205/*~hmac=dca4239187067a321ee310467a7420898df9eebad88644288c32bcf1ac28bb48/vp9/205_stream.mpd
 
-#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/Indosiar.png" group-title="Indonesia Channels" tvg-url="https://tinyurl.com/jejevisionepg" tvg-id="Indosiar.id" tvg-name="Indosiar", Indosiar HD
-https://raw.githubusercontent.com/bmeidch/ytlok/cd0da4ff423dcd07f4ec0b9eba074fc70fb0e0e8/indosiar.m3u8
+==>#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/Indosiar.png" group-title="Indonesia Channels" tvg-url="https://tinyurl.com/jejevisionepg" tvg-id="Indosiar.id" tvg-name="Indosiar", Indosiar HD
+==>https://raw.githubusercontent.com/bmeidch/ytlok/cd0da4ff423dcd07f4ec0b9eba074fc70fb0e0e8/indosiar.m3u8
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -482,6 +486,10 @@ https://nyanv-live-cdn.mncnow.id/live/eds/MNCEntertainment/sa_dash_vmx/MNCEntert
 #EXTINF:-1 group-title="Entertainment & LifeStyle" tvg-id="Ie.id" tvg-url="https://tinyurl.com/jejevisionepg" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_96.png",MNC Infotainment
 https://nyanv-live-cdn.mncnow.id/live/eds/MNCInfotainment/sa_dash_vmx/MNCInfotainment.mpd
 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.manifest_type=m3u8
+#KODIPROP:inputstream.adaptive.license_key=https://o554588.ingest.sentry.io/api/4504472826019840/envelope/?sentry_key=157aeb435e4b4556a4fbc7dcb45b6c48&sentry_version=7&sentry_client=sentry.javascript.react%2F7.37
 #EXTINF:-1 group-title="Entertainment & LifeStyle" tvg-id="" tvg-url="https://tinyurl.com/jejevisionepg" tvg-logo="https://img2.pngdownload.id/20180704/bit/kisspng-fashion-television-television-channel-fashiontv-5b3c4d2d10bc01.9431469515306785730686.jpg",Fashion TV
 https://production-premium-fashiontv-vidio.akamaized.net/slive/_definst_/ftv_ftv_pg13_hd_uir_43438_vidio_id_1609_hls.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
 
@@ -695,12 +703,24 @@ https://nyanv-live-cdn.mncnow.id/live/eds/TV5/sa_dash_vmx/TV5.mpd
 #EXTM3U
 
 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.manifest_type=m3u8
+#KODIPROP:inputstream.adaptive.license_key=https://o554588.ingest.sentry.io/api/4504472826019840/envelope/?sentry_key=157aeb435e4b4556a4fbc7dcb45b6c48&sentry_version=7&sentry_client=sentry.javascript.react%2F7.37
 #EXTINF:-1 group-title="Kids" tvg-id="" tvg-url="https://tinyurl.com/jejevisionepg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Mentari_TV.png",Mentari TV
 https://live-production.secureswiftcontent.com/exp=1683046937~acl=/hls-p/ingest_8237_*/*~hmac=0a1117057263c8a736e369ecb77867773c5f900f937107b6926c09d688cc9527/hls-p/ingest_8237_720p/index.m3u8
 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.manifest_type=m3u8
+#KODIPROP:inputstream.adaptive.license_key=https://o554588.ingest.sentry.io/api/4504472826019840/envelope/?sentry_key=157aeb435e4b4556a4fbc7dcb45b6c48&sentry_version=7&sentry_client=sentry.javascript.react%2F7.37
 #EXTINF:-1 group-title="Kids" tvg-id="" tvg-url="https://tinyurl.com/jejevisionepg" tvg-logo="https://gdplayer.tv/assets/img/logo/hip-hip-horee-tv.png",Hip Hip Hore
 https://live-production.secureswiftcontent.com/exp=1683037489~acl=/hls-p/ingest_7052_*/*~hmac=c801cafb25bc1679ecfef2452c123bd2645374bdb7625297a9f995c97299d837/hls-p/ingest_7052_720p/index.m3u8
 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.manifest_type=m3u8
+#KODIPROP:inputstream.adaptive.license_key=https://o554588.ingest.sentry.io/api/4504472826019840/envelope/?sentry_key=157aeb435e4b4556a4fbc7dcb45b6c48&sentry_version=7&sentry_client=sentry.javascript.react%2F7.37
 #EXTINF:-1 group-title="Kids" tvg-id="" tvg-url="https://tinyurl.com/jejevisionepg" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0e/HOREE_logo.png",Hore
 https://live-production.secureswiftcontent.com/exp=1683037949~acl=/hls-b/ingest_6397_*/*~hmac=07b52c6ee81950ad6cc0be66f64eaee96b6963f8ae1fc9454470de90789acedf/hls-b/ingest_6397_480p/index.m3u8
 
@@ -780,6 +800,11 @@ https://nyanv-live-cdn.mncnow.id/live/eds/BabyTV-NewHD/sa_dash_vmx/BabyTV-NewHD.
 #EXTM3U x-tvg-url="https://tinyurl.com/jejevisionepg, url-tvg=https://tinyurl.com/jejevisionepg, x-tvg-url="https://tinyurl.com/jejevisionepg2, url-tvg="https://tinyurl.com/jejevisionepg2, x-tvg-url=https://tinyurl.com/mediacorp-singapore, url-tvg=https://tinyurl.com/mediacorp-singapore" refresh="1440" max-conn="1" refresh="24"
 
 #EXTM3U
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.manifest_type=m3u8
+#KODIPROP:inputstream.adaptive.license_key=https://o554588.ingest.sentry.io/api/4504472826019840/envelope/?sentry_key=157aeb435e4b4556a4fbc7dcb45b6c48&sentry_version=7&sentry_client=sentry.javascript.react%2F7.37
 #EXTINF:-1 tvg-url="https://iptv-org.github.io/epg/guides/id/vidio.com.epg.xml" group-title="Christian Channels" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c3/U-Channel_id.png",U Channel
 https://live-production.secureswiftcontent.com/exp=1683050054~acl=/hls-p/ingest_6898_*/*~hmac=4ab529a619b06cf29b9c5c9ed29815a2570469d7dd133fcde8c2cc07ae234bed/hls-p/ingest_6898_720p/index.m3u8
 
