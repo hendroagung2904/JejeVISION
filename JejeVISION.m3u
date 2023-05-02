@@ -2,22 +2,27 @@
 #EXTM3U x-tvg-url="https://tinyurl.com/jejevisionepg, url-tvg=https://tinyurl.com/jejevisionepg, x-tvg-url="https://tinyurl.com/jejevisionepg2, url-tvg="https://tinyurl.com/jejevisionepg2, x-tvg-url=https://tinyurl.com/mediacorp-singapore, url-tvg=https://tinyurl.com/mediacorp-singapore" refresh="1440" max-conn="1" refresh="24"
 
 #EXTM3U
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=https://o554588.ingest.sentry.io/api/4504472826019840/envelope/?sentry_key=157aeb435e4b4556a4fbc7dcb45b6c48&sentry_version=7&sentry_client=sentry.javascript.react%2F7.37.2
+#EXTINF:-1 ttvg-id="SCTV.id" group-title="Indonesia Channels" tvg-url="https://tinyurl.com/jejevisionepg" tvg-logo="https://www.mncvision.id/userfiles/image/channel/sctv.png",SCTV Vidio
+https://etslive-2-vidio-com.akamaized.net/exp=1683048006~acl=/vp9/204_stream.mpd!/vp9/204/*!/vp9/*/204_stream.mpd!/vp9/*/204/*~hmac=7e7564365e688974d3a34ff5ad7f5e2e7f143839d86bf952ab91618081f21338/vp9/204_stream.mpd
 
 #EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/sctv.png" group-title="Indonesia Channels" tvg-url="https://tinyurl.com/jejevisionepg" tvg-id="SCTV.id" tvg-name="SCTV", SCTV
 #https://mpwtv.my.id/vidioye/204-sctv.m3u8
 https://nonton.wap.sh/id/009.m3u8
 #http://210.210.155.37/qwr9ew/s/s03/01.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/Indosiar.png" group-title="Indonesia Channels" tvg-url="https://tinyurl.com/jejevisionepg" tvg-id="Indosiar.id" tvg-name="Indosiar", Indosiar HD
-https://raw.githubusercontent.com/bmeidch/ytlok/cd0da4ff423dcd07f4ec0b9eba074fc70fb0e0e8/indosiar.m3u8
-
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=https://o554588.ingest.sentry.io/api/4504472826019840/envelope/?sentry_key=157aeb435e4b4556a4fbc7dcb45b6c48&sentry_version=7&sentry_client=sentry.javascript.react%2F7.37.2
-#EXTINF:-1 ttvg-id="SCTV.id" group-title="Indonesia Channels" tvg-url="https://tinyurl.com/jejevisionepg" tvg-logo="",SCTV Vidio
-https://etslive-2-vidio-com.akamaized.net/exp=1683048006~acl=/vp9/204_stream.mpd!/vp9/204/*!/vp9/*/204_stream.mpd!/vp9/*/204/*~hmac=7e7564365e688974d3a34ff5ad7f5e2e7f143839d86bf952ab91618081f21338/vp9/204_stream.mpd
+#EXTINF:-1 ttvg-id="SCTV.id" group-title="Indonesia Channels" tvg-url="https://tinyurl.com/jejevisionepg" tvg-logo="https://www.mncvision.id/userfiles/image/channel/Indosiar.png",Indosiar Vidio
+https://etslive-2-vidio-com.akamaized.net/exp=1683048887~acl=/vp9/205_stream.mpd!/vp9/205/*!/vp9/*/205_stream.mpd!/vp9/*/205/*~hmac=dca4239187067a321ee310467a7420898df9eebad88644288c32bcf1ac28bb48/vp9/205_stream.mpd
 
+#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/Indosiar.png" group-title="Indonesia Channels" tvg-url="https://tinyurl.com/jejevisionepg" tvg-id="Indosiar.id" tvg-name="Indosiar", Indosiar HD
+https://raw.githubusercontent.com/bmeidch/ytlok/cd0da4ff423dcd07f4ec0b9eba074fc70fb0e0e8/indosiar.m3u8
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
