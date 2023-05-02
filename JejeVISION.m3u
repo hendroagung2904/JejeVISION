@@ -115,6 +115,9 @@ https://nyanv-live-cdn.mncnow.id/live/eds/Metro-TV2/sa_dash_vmx/Metro-TV2.mpd
 #EXTINF:-1 group-title="Indonesia Channels" tvg-id="" tvg-url="" tvg-logo="https://thumbor.prod.vidiocdn.com/A9PXp2pjYWnd8NZ0oQbwniC31So=/640x360/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/8815/metro-globe-network-1ab3f1.jpg",Metro Globe Network
 https://edge.medcom.id/live-edge/smil:mgnch.smil/playlist.m3u8
 
+#EXTINF:-1 group-title="Indonesia Channels" tvg-id="" tvg-url="" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/5/59/TvTempo_%282014%29.png/200px-TvTempo_%282014%29.png",TV Tempo
+https://live-production.secureswiftcontent.com/exp=1683047067~acl=/hls-p/ingest_7946_*/*~hmac=1e3d301e2e3a937ddf1aed42e2b9f2e545bab039678e458d65ea58873efbf37c/hls-p/ingest_7946_720p/index.m3u8
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
