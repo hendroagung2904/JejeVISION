@@ -710,21 +710,6 @@ https://nyanv-live-cdn.mncnow.id/live/eds/TV5/sa_dash_vmx/TV5.mpd
 #EXTINF:-1 group-title="Kids" tvg-id="" tvg-url="https://tinyurl.com/jejevisionepg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Mentari_TV.png",Mentari TV
 https://live-production.secureswiftcontent.com/exp=1683046937~acl=/hls-p/ingest_8237_*/*~hmac=0a1117057263c8a736e369ecb77867773c5f900f937107b6926c09d688cc9527/hls-p/ingest_8237_720p/index.m3u8
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.manifest_type=m3u8
-#KODIPROP:inputstream.adaptive.license_key=https://o554588.ingest.sentry.io/api/4504472826019840/envelope/?sentry_key=157aeb435e4b4556a4fbc7dcb45b6c48&sentry_version=7&sentry_client=sentry.javascript.react%2F7.37
-#EXTINF:-1 group-title="Kids" tvg-id="" tvg-url="https://tinyurl.com/jejevisionepg" tvg-logo="https://gdplayer.tv/assets/img/logo/hip-hip-horee-tv.png",Hip Hip Hore
-https://live-production.secureswiftcontent.com/exp=1683037489~acl=/hls-p/ingest_7052_*/*~hmac=c801cafb25bc1679ecfef2452c123bd2645374bdb7625297a9f995c97299d837/hls-p/ingest_7052_720p/index.m3u8
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.manifest_type=m3u8
-#KODIPROP:inputstream.adaptive.license_key=https://o554588.ingest.sentry.io/api/4504472826019840/envelope/?sentry_key=157aeb435e4b4556a4fbc7dcb45b6c48&sentry_version=7&sentry_client=sentry.javascript.react%2F7.37
-#EXTINF:-1 group-title="Kids" tvg-id="" tvg-url="https://tinyurl.com/jejevisionepg" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0e/HOREE_logo.png",Hore
-https://live-production.secureswiftcontent.com/exp=1683037949~acl=/hls-b/ingest_6397_*/*~hmac=07b52c6ee81950ad6cc0be66f64eaee96b6963f8ae1fc9454470de90789acedf/hls-b/ingest_6397_480p/index.m3u8
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
