@@ -15,7 +15,7 @@ https://raw.githubusercontent.com/bmeidch/ytlok/cd0da4ff423dcd07f4ec0b9eba074fc7
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=https://o554588.ingest.sentry.io/api/4504472826019840/envelope/?sentry_key=157aeb435e4b4556a4fbc7dcb45b6c48&sentry_version=7&sentry_client=sentry.javascript.react%2F7.37.2
-#EXTINF:-1 ttvg-id="SCTV.id" group-title="Indonesia Channels" tvg-url="https://tinyurl.com/jejevisionepg" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_430.png",SCTV Vidio
+#EXTINF:-1 ttvg-id="SCTV.id" group-title="Indonesia Channels" tvg-url="https://tinyurl.com/jejevisionepg" tvg-logo="",SCTV Vidio
 https://etslive-2-vidio-com.akamaized.net/exp=1683048006~acl=/vp9/204_stream.mpd!/vp9/204/*!/vp9/*/204_stream.mpd!/vp9/*/204/*~hmac=7e7564365e688974d3a34ff5ad7f5e2e7f143839d86bf952ab91618081f21338/vp9/204_stream.mpd
 
 
