@@ -365,6 +365,9 @@ https://nyanv-live-cdn.mncnow.id/live/eds/CGTN_Doc/sa_dash_vmx/CGTN_Doc.mpd
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.smithsonianchannel.ca/wp-content/uploads/2018/10/SMC_HORIZ_logo_WHITE.png" group-title="Knowledge & Documentary", SMITHSONIAN CHANNEL
 https://smithsonianaus-samsungau.amagi.tv/playlist720p.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://w7.pngwing.com/pngs/409/533/png-transparent-united-nations-headquarters-united-nations-department-of-economic-and-social-affairs-organization-symbol-symbol-miscellaneous-blue-text.png" group-title="Knowledge & Documentary",United Nations TV
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1683356588/ei/TKdVZNv7K7rs4-EPiYa3-AQ/ip/180.253.161.94/id/wfAa1GiNdgM.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAMJ16ysSZBjqqtIG82e4cuKw28bjZV2pdOgIo4BPu0zHAiBBSyHxRx0SQ1owYMYZOIUODJ0yro-p28mJ_3bQuRCpdA%3D%3D/file/index.m3u8
+
 
 <====================Entertainment & LifeStyle ================================>
 
@@ -524,7 +527,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/FightSports/sa_dash_vmx/FightSports.mp
 
 #EXTM3U
 
-#EXTINF:-1 group-title="News" tvg-id="" tvg-url="http://strimz.my.id/epg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/1200px-CGTN.svg.png",CGTN Europe
+#EXTINF:-1 group-title="News" tvg-id="" tvg-url="http://strimz.my.id/epg" tvg-logo="https://mms.businesswire.com/media/20191209005868/en/761088/5/CGTN_logo.jpg",CGTN Europe
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1683356724/ei/1KdVZIbSGoKj8QPep7rACQ/ip/180.253.161.94/id/gYUfs9RX95s.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhANYgMkB7wBYWAeITkUZmf1vvKzYfbZFCHzZUJZIBd16xAiEAi46EyHA2HDbmJ_NIe50I9gN27gP5Rm4saJKSoOk4Vio%3D/file/index.m3u8
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
