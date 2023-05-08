@@ -1138,12 +1138,6 @@ https://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS01/master.m3u8
 #EXTINF:-1 group-title="Local Channels" tvg-id="" tvg-url="http://strimz.my.id/epg" tvg-logo="https://i.imgur.com/wkK7YNx.png",JITV Jogja
 https://mam.jogjaprov.go.id:1937/tv/jitv_720p/chunklist_w60235457.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-url="http://strimz.my.id/epg" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1c/Kawanua_TV.png/revision/latest?cb=20181005160144" group-title="Local Channels",Kawanua TV
-http://122.248.43.138:1935/ch18/myStream/live.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-url="http://strimz.my.id/epg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Logo_JPM_TV.png/200px-Logo_JPM_TV.png" group-title="Local Channels",Jawa Pos Multimedia Network
-http://122.248.43.138:1935/ch6/myStream/live.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-id="" tvg-url="http://strimz.my.id/epg" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/3/3b/Logo_Jawapos_TV.png/300px-Logo_Jawapos_TV.png" group-title="Local Channels",Jawapos TV
 https://v2.siar.us/jawapostv/live/chunks.m3u8
 
@@ -1185,8 +1179,6 @@ https://v2.siar.us/tatv/live.sdp/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-url="http://strimz.my.id/epg" tvg-logo="https://tvtabalong.com/wp-content/uploads/2022/03/logo-tv-tabalong.png" group-title="Local Channels",TV Tabalong
 https://5bf7b725107e5.streamlock.net/tvtabalong/tvtabalong/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/0294xtFk/20221117-135633.png" group-title="Local Channels",Jaya TV
-https://h1.intechmedia.net/intech/ch52.m3u8
 
 <============== Parliement =========================>
 
