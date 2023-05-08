@@ -365,9 +365,6 @@ https://nyanv-live-cdn.mncnow.id/live/eds/CGTN_Doc/sa_dash_vmx/CGTN_Doc.mpd
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.smithsonianchannel.ca/wp-content/uploads/2018/10/SMC_HORIZ_logo_WHITE.png" group-title="Knowledge & Documentary", SMITHSONIAN CHANNEL
 https://smithsonianaus-samsungau.amagi.tv/playlist720p.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://w7.pngwing.com/pngs/409/533/png-transparent-united-nations-headquarters-united-nations-department-of-economic-and-social-affairs-organization-symbol-symbol-miscellaneous-blue-text.png" group-title="Knowledge & Documentary",United Nations TV
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1683356588/ei/TKdVZNv7K7rs4-EPiYa3-AQ/ip/180.253.161.94/id/wfAa1GiNdgM.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAMJ16ysSZBjqqtIG82e4cuKw28bjZV2pdOgIo4BPu0zHAiBBSyHxRx0SQ1owYMYZOIUODJ0yro-p28mJ_3bQuRCpdA%3D%3D/file/index.m3u8
-
 
 <====================Entertainment & LifeStyle ================================>
 
@@ -513,72 +510,6 @@ https://webudit.salamus1.lol/lb/premium90/index.m3u8
 https://webudit.salamus1.lol/lb/premium46/index.m3u8
 
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ezzdecode.webcindario.com/results.php?keyid=cfb5e2b73bef4f3c878f25ab86a7451f&key=0d6712bf2a84edcc93d001a9613f6fec
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/SRm67bb8/2036px-DAZN-logo-svg.png",Dazn 1 Es
-https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-037/stream.mpd
-
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ezzdecode.webcindario.com/results.php?keyid=cfb5e2b73bef4f3c878f25ab86a7451f&key=0d6712bf2a84edcc93d001a9613f6fec
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/SRm67bb8/2036px-DAZN-logo-svg.png",Dazn 2 Es
-https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-038/stream.mpd
-
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ezzdecode.webcindario.com/results.php?keyid=cfb5e2b73bef4f3c878f25ab86a7451f&key=0d6712bf2a84edcc93d001a9613f6fec
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/SRm67bb8/2036px-DAZN-logo-svg.png",Dazn Bein Sports
-https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-039/stream.mpd
-
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ezzdecode.webcindario.com/results.php?keyid=cfb5e2b73bef4f3c878f25ab86a7451f&key=0d6712bf2a84edcc93d001a9613f6fec
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/SRm67bb8/2036px-DAZN-logo-svg.png",Dazn Bein Sports 2
-https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-040/stream.mpd
-
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ezzdecode.webcindario.com/results.php?keyid=cfb5e2b73bef4f3c878f25ab86a7451f&key=0d6712bf2a84edcc93d001a9613f6fec
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/SRm67bb8/2036px-DAZN-logo-svg.png",Dazn Bein Sports 3
-https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-041/stream.mpd
-
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ezzdecode.webcindario.com/results.php?keyid=cfb5e2b73bef4f3c878f25ab86a7451f&key=0d6712bf2a84edcc93d001a9613f6fec
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/SRm67bb8/2036px-DAZN-logo-svg.png",Dazn Bein Sports 3
-https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-042/stream.mpd
-
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ezzdecode.webcindario.com/results.php?keyid=cfb5e2b73bef4f3c878f25ab86a7451f&key=0d6712bf2a84edcc93d001a9613f6fec
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/SRm67bb8/2036px-DAZN-logo-svg.png",Dazn F1 Es
-https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-016/stream.mpd
-
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"XlpE5rpGAhwSfEtoNYhYBw", "kid":"pSdXI8lMR2qrjjTQR4VWMA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="Ksport1hd" group-title="Sports" tvg-logo="https://i.ibb.co/pPhLGqn/k1.png", K+ Sport 1 
-http://vas-mobiletv3.cdn.mytv.vn/pkg20/wrap/xlive.mpd?c=vstv341&offset=1&nodelay=1
-
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"VOO7hRkYHjke00zEoKVlVw", "kid":"/1G2wwGYROGJv+Wmo8pT1w" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="Ksport2hd" group-title="Sports" tvg-logo="https://i.ibb.co/smmzvfX/k2.png", K+ Sport 2
-http://s70132.cdn.mytvnet.vn/pkg20/wrap/xlive.mpd?c=vstv373&offset=1&nodelay=1
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -640,9 +571,6 @@ https://webudit.salamus1.lol/lb/premium376/index.m3u8
 #EXTM3U x-tvg-url="http://strimz.my.id/epg, url-tvg="http://strimz.my.id/epg, x-tvg-url=https://tinyurl.com/mediacorp-singapore, url-tvg=https://tinyurl.com/mediacorp-singapore" refresh="1440" max-conn="1" refresh="24"
 
 #EXTM3U
-
-#EXTINF:-1 group-title="News" tvg-id="" tvg-url="http://strimz.my.id/epg" tvg-logo="https://mms.businesswire.com/media/20191209005868/en/761088/5/CGTN_logo.jpg",CGTN Europe
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1683356724/ei/1KdVZIbSGoKj8QPep7rACQ/ip/180.253.161.94/id/gYUfs9RX95s.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhANYgMkB7wBYWAeITkUZmf1vvKzYfbZFCHzZUJZIBd16xAiEAi46EyHA2HDbmJ_NIe50I9gN27gP5Rm4saJKSoOk4Vio%3D/file/index.m3u8
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
