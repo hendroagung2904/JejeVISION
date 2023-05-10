@@ -1245,7 +1245,7 @@ https://svara-stream.radioddns.net:8443/jakarta_smoothfm_mp3
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://lic.drmtoday.com/license-proxy-widevine/cenc/?specConform=true
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.transvision.co.id/img/channel/dunia_lain.png" group-title="Trial Channel",Channel 2
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Trial Channel",Channel 2
 https://cdnjkt2.transvision.co.id:1001/live/master/2/4028c6856ea34e35016ef8e9fdf951c1/manifest.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -1253,7 +1253,7 @@ https://cdnjkt2.transvision.co.id:1001/live/master/2/4028c6856ea34e35016ef8e9fdf
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://lic.drmtoday.com/license-proxy-widevine/cenc/?specConform=true
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.transvision.co.id/img/channel/dunia_lain.png" group-title="Trial Channel",Channel 3
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Trial Channel",Channel 3
 https://cdnjkt2.transvision.co.id:1001/live/master/3/4028c6856ea34e35016ef8e9fdf951c1/manifest.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -1261,7 +1261,7 @@ https://cdnjkt2.transvision.co.id:1001/live/master/3/4028c6856ea34e35016ef8e9fdf
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://lic.drmtoday.com/license-proxy-widevine/cenc/?specConform=true
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.transvision.co.id/img/channel/dunia_lain.png" group-title="Trial Channel",Channel 4
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Trial Channel",Channel 4
 https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856ea34e35016ef8e9fdf951c1/manifest.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -1269,7 +1269,7 @@ https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856ea34e35016ef8e9fdf
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://lic.drmtoday.com/license-proxy-widevine/cenc/?specConform=true
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.transvision.co.id/img/channel/dunia_lain.png" group-title="Trial Channel",Channel 5
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Trial Channel",Channel 5
 https://cdnjkt2.transvision.co.id:1001/live/master/5/4028c6856ea34e35016ef8e9fdf951c1/manifest.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -1277,7 +1277,7 @@ https://cdnjkt2.transvision.co.id:1001/live/master/5/4028c6856ea34e35016ef8e9fdf
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://lic.drmtoday.com/license-proxy-widevine/cenc/?specConform=true
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.transvision.co.id/img/channel/dunia_lain.png" group-title="Trial Channel",Channel 6
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Trial Channel",Channel 6
 https://cdnjkt2.transvision.co.id:1001/live/master/6/4028c6856ea34e35016ef8e9fdf951c1/manifest.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -1285,7 +1285,7 @@ https://cdnjkt2.transvision.co.id:1001/live/master/6/4028c6856ea34e35016ef8e9fdf
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://lic.drmtoday.com/license-proxy-widevine/cenc/?specConform=true
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.transvision.co.id/img/channel/dunia_lain.png" group-title="Trial Channel",Channel 7
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Trial Channel",Channel 7
 https://cdnjkt2.transvision.co.id:1001/live/master/7/4028c6856ea34e35016ef8e9fdf951c1/manifest.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -1293,7 +1293,7 @@ https://cdnjkt2.transvision.co.id:1001/live/master/7/4028c6856ea34e35016ef8e9fdf
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://lic.drmtoday.com/license-proxy-widevine/cenc/?specConform=true
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.transvision.co.id/img/channel/dunia_lain.png" group-title="Trial Channel",Channel 8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Trial Channel",Channel 8
 https://cdnjkt2.transvision.co.id:1001/live/master/8/4028c6856ea34e35016ef8e9fdf951c1/manifest.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -1301,7 +1301,7 @@ https://cdnjkt2.transvision.co.id:1001/live/master/8/4028c6856ea34e35016ef8e9fdf
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://lic.drmtoday.com/license-proxy-widevine/cenc/?specConform=true
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.transvision.co.id/img/channel/dunia_lain.png" group-title="Trial Channel",Channel 9
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Trial Channel",Channel 9
 https://cdnjkt2.transvision.co.id:1001/live/master/9/4028c6856ea34e35016ef8e9fdf951c1/manifest.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -1309,8 +1309,13 @@ https://cdnjkt2.transvision.co.id:1001/live/master/9/4028c6856ea34e35016ef8e9fdf
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://lic.drmtoday.com/license-proxy-widevine/cenc/?specConform=true
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.transvision.co.id/img/channel/dunia_lain.png" group-title="Trial Channel",Channel 10
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Trial Channel",Channel 10
 https://cdnjkt2.transvision.co.id:1001/live/master/10/4028c6856ea34e35016ef8e9fdf951c1/manifest.mpd
+
+
+
+
+
 
 
 
