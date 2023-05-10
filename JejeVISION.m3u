@@ -2,6 +2,10 @@
 #EXTM3U x-tvg-url="http://strimz.my.id/epg, url-tvg="http://strimz.my.id/epg"
 #EXTM3U
 
+
+#EXTINF:-1 tvg-id="OChannel.id" tvg-name="O Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/1200px-Moji_blue.svg.png" group-title="Indonesia Channels",Moji
+http://edge.linknetott.swiftserve.com/channelgroup4/cg409production/ch26/03.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/sctv.png" group-title="Indonesia Channels" tvg-url="http://strimz.my.id/epg" tvg-id="SCTV.id" tvg-name="SCTV", SCTV
 #https://mpwtv.my.id/vidioye/204-sctv.m3u8
 https://nonton.wap.sh/id/009.m3u8
