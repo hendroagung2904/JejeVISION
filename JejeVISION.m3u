@@ -146,6 +146,9 @@ https://nusantaratv.siar.us/nusantaratv/live/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-url=”” tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f4/The_Indonesia_Channel_Logo.jpg" group-title="Indonesia Channels", The Indonesia Channels
 https://cdn3.wowza.com/1/NEtzTTZ4c1FTTUN2/SkJBbVJs/hls/fmkb3vv1/2728/chunklist.m3u8
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSI4MneSVgEtCTr1bTcY2db9hW6VFIv8XOoZg&usqp=CAU" group-title="Indonesia Channels",Indonesiana TV
+https://kbtv.akamaized.net/hls/live/2031188/kanalbuya/1.m3u8
+
 =============TV MOVIES==================
 
 #EXTM3U x-tvg-url="http://strimz.my.id/epg, url-tvg="http://strimz.my.id/epg, x-tvg-url=https://tinyurl.com/mediacorp-singapore, url-tvg=https://tinyurl.com/mediacorp-singapore" refresh="1440" max-conn="1" refresh="24"
