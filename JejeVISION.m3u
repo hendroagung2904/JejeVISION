@@ -274,6 +274,18 @@ https://nyanv-live-cdn.mncnow.id/live/eds/FMN/sa_dash_vmx/FMN.mpd
 #EXTINF:-1 group-title="Premium Movies" tvg-id="ZeeBioskop.id" tvg-url="http://strimz.my.id/epg" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_23.png",Zee Bioskop
 https://nyanv-live-cdn.mncnow.id/live/eds/ZeeBIOSKOP/sa_dash_vmx/ZeeBIOSKOP.mpd
 
+#EXTINF:-1  group-title="Premium Movies"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/My_Cinema_Logo_kedua.png' tvg-url="http://strimz.my.id/epg" tvg-id="MyCinema.id",My Cinema 
+http://210.210.155.37/uq2663/h/h192/index.m3u8
+
+#EXTINF:-1  group-title="Premium Movies"  tvg-url="http://strimz.my.id/epg" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ea/MCA_%282019%29.png" tvg-id="MyCinemaAsia.id",My Cinema Asia
+http://210.210.155.37/uq2663/h/h193/index.m3u8
+
+#EXTINF:-1  group-title="Premium Movies"  tvg-url="http://strimz.my.id/epg" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1c/MFC.png/revision/latest/scale-to-width-down/250?cb=20200201131051" tvg-id="MyFamily.id",My Family Channel
+http://210.210.155.37/uq2663/h/h194/index.m3u8
+
+#EXTINF:-1  group-title="Premium Movies"  tvg-url="http://strimz.my.id/epg" tvg-logo="https://subsystem.indihome.co.id/cms-ih/assets/uploads/channel_list/UPLOAD-1655920070-.png" tvg-id="MyKidz.id",My Kidz 
+http://210.210.155.37/uq2663/h/h191/index.m3u8
+
 
 <==================== Korean Channels =================>
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -1182,6 +1194,9 @@ https://v2.siar.us/tatv/live.sdp/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-url="http://strimz.my.id/epg" tvg-logo="https://tvtabalong.com/wp-content/uploads/2022/03/logo-tv-tabalong.png" group-title="Local Channels",TV Tabalong
 https://5bf7b725107e5.streamlock.net/tvtabalong/tvtabalong/playlist.m3u8
 
+#EXTINF:-1 tvg-id="JayaTVJayapura.id" user-agent="Mozilla/5.0 (X11; Linux x86_64)",Jaya TV (360p) [Geo-blocked]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
+https://h1.intechmedia.net/intech/ch52.m3u8
 
 <============== Parliement =========================>
 
