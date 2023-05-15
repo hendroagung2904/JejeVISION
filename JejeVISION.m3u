@@ -872,7 +872,6 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/manifest.mpd
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-gtHTXEHRkB4/XLbD5dqsOII/AAAAAAAAKMw/qll1uaqTjs8JGYHKXE0C6jJyqYA03YYuwCPcBGAYYCw/s0/tv3%2Bmalaysia.jpg" tvg-url="http://strimz.my.id/epg" group-title="Malaysia",TV 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://unifi-live01.secureswiftcontent.com/UnifiHD/live03.mpd
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c6/Drama_Sangat_%28TV_on-screen%29.png" tvg-url="http://strimz.my.id/epg" group-title="Malaysia",Drama Sangat
