@@ -1291,14 +1291,14 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/live03/
 #EXTINF:-1 tvg-id="" group-title="Trial" tvg-logo="",Channel 7
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live03.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/live06/
 #EXTINF:-1 tvg-id="" group-title="Trial" tvg-logo="",Channel 8
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live06.mpd
 
