@@ -1318,3 +1318,8 @@ https://unifi-live05.secureswiftcontent.com/UnifiHD/live08.mpd
 #EXTINF:-1 tvg-id="" group-title="Trial" tvg-logo="",Channel 10
 https://unifi-live09.secureswiftcontent.com/UnifiHD/live09.mpd
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e5ac299099f8bd93d1cc5a96180d7810:6d931bb991f70059daba1d552f2b4427
+#EXTINF:-1 tvg-id="553" tvg-name="Discovery Asia HD" group-title="Trial" tvg-logo="https://iili.io/1NnLR1.png",553 Discovery Asia
+https://vips-livecdn.fptplay.net/hda2/discoveryasia_vhls.smil/chunklist_b5000000.m3u8
+
