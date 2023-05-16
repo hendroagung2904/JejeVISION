@@ -315,7 +315,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/NatGeoChannel/sa_dash_vmx/NatGeoChanne
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=Nzk1MmNjNWYtMDExYy0zMTk3LTk1YWMtNzA3N2E5ODEzZDcy
-#EXTINF:-1 tvg-id="NationalGeographicWildIndonesia.id" tvg-url="http://strimz.my.id/epg" tvg-name="National Geographic Wild" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_463.png" group-title="Knowledge & Documentary",Nat Geo Wild
+#EXTINF:-1 tvg-id="natgeowild.id" tvg-url="http://strimz.my.id/epg" tvg-name="National Geographic Wild" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_463.png" group-title="Knowledge & Documentary",Nat Geo Wild
 https://nyanv-live-cdn.mncnow.id/live/eds/NatGeoWild/sa_dash_vmx/NatGeoWild.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
