@@ -883,7 +883,7 @@ https://live-sg1.global.ssl.fastly.net/live-hls/tonton5_720p/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/SALURAN_1920x1080px_TVOKEY.jpg" tvg-id="tvokey.my" tvg-url="http://strimz.my.id/epg" group-title="Malaysia",TV Okey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-https://d25tgymtnqzu8s.cloudfront.net/smil:okey/chunklist_b4596000_slENG.m3u8?id=3
+https://v-t-e-r.github.io/Umbrella/Playlist/Ch/Okey.m3u8
 
 #EXTINF:-1 tvg-url="http://strimz.my.id/epg" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/SALURAN_1920x1080px_TV6.jpg" group-title="Malaysia",TV 6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
@@ -896,7 +896,7 @@ https://aqfadtv.xyz/live/8tv/index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/tv9/
-#EXTINF:-1 tvg-id="TV9" group-title="Malaysia" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/149.png",TV9
+#EXTINF:-1, group-title="LIVE TV" tvg-name="TV9" tvg-logo="https://telegra.ph/file/34773617ec0ae051424b8.png",TV9
 https://aqfadtv.xyz/live/tv9/index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
