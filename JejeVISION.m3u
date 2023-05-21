@@ -1268,11 +1268,7 @@ https://svara-stream.radioddns.net:8443/jakarta_smoothfm_mp3
 
 <==========Trial ===================>
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_key=https://lic.drmtoday.com/license-proxy-widevine/cenc/
-#EXTINF:-1 tvg-id="" tvg-url="http://strimz.my.id/epg" tvg-logo="" group-title="Local Channels",Trial 1
+#EXTINF:-1 tvg-id="" tvg-url="http://strimz.my.id/epg" tvg-logo="" group-title="Local Channels",Trial Channel
 https://cdnjkt2.transvision.co.id:1001/live/master/3/4028c6857e04fca5017f3100bab72abc/manifest.mpd
 
 
