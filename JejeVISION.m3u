@@ -710,6 +710,9 @@ http://210.210.155.35/x6bnqe/s/s63/S4/mnf.m3u8
 
 #EXTM3U
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.davinci.tv/wp-content/uploads/2023/02/Da_Vinci_Primary_Logo_RGB_Red_AW.png"  group-title="Kids",Da Vinci
+http://edge.linknetott.swiftserve.com/channelgroup3/cg332production/ch371/02.m3u8
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
