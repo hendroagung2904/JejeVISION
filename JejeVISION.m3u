@@ -1262,12 +1262,9 @@ https://svara-stream.radioddns.net:8443/jakarta_smoothfm_mp3
 
 
 <==========Trial ===================>
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-https://lic.drmtoday.com/license-proxy-widevine/cenc/AAAAOHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABgSEFV5QUczOWd0YWVCTFBvV21I88aJmwY=
+
 #EXTINF:-1 tvg-id="" tvg-url="http://strimz.my.id/epg" tvg-logo="" group-title="Trial",Trial Channel
-https://cdnjkt2.transvision.co.id:1001/live/master/3/4028c6857e04fca5017f3100bab72abc/manifest.mpd
+https://cdnjkt2.transvision.co.id:1001/live/master/5/4028c6856b8d2390016b9c47b6f01de1/manifest.mpd
 
 
 
