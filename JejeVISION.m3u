@@ -190,7 +190,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/Rockaction/sa_dash_vmx/Rockaction.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=Nzk1MmNjNWYtMDExYy0zMTk3LTk1YWMtNzA3N2E5ODEzZDcy
-#EXTINF:-1 group-title="Premium Movies" tvg-id="" tvg-url="http://strimz.my.id/epg" tvg-logo="",Paramount
+#EXTINF:-1 group-title="Premium Movies" tvg-id="" tvg-url="http://strimz.my.id/epg" tvg-logo="https://w7.pngwing.com/pngs/537/26/png-transparent-paramount-s-paramount-channel-television-channel-film-others-television-blue-text.png",Paramount
 https://nyanv-live-cdn.mncnow.id/live/eds/Paramount-HD/sa_dash_vmx/Paramount-HD.mpd
 
 
@@ -1204,7 +1204,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/MusicChannel/sa_dash_vmx/MusicChannel.
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=Nzk1MmNjNWYtMDExYy0zMTk3LTk1YWMtNzA3N2E5ODEzZDcy
-#EXTINF:-1 tvg-id="musictv.id" tvg-url="http://strimz.my.id/epg" tvg-logo="" group-title="Music",MTV
+#EXTINF:-1 tvg-id="musictv.id" tvg-url="http://strimz.my.id/epg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/MTV_Live_2021_logo.svg/1200px-MTV_Live_2021_logo.svg.png" group-title="Music",MTV Live HD
 https://nyanv-live-cdn.mncnow.id/live/eds/MTV/sa_dash_vmx/MTV.mpd
 
 #EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/841/865/png-transparent-viacom-media-networks-logo-mtv-television-channel-others-television-text-logo.png" group-title="Music"", MTV Biggest Pop
