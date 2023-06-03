@@ -1064,6 +1064,71 @@ https://tglmp02.akamaized.net/out/v1/3170252e3fb0453085f2f4b0f8401a6b/manifest.m
 
 <=========================================== Malaysia ==========================================>
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2407
+#EXTINF:-1 tvg-id="" group-title="Malaysia" tvg-logo="https://i.ibb.co/LPvQ65Q/Boo-hometv.jpg",ASTRO BOO
+https://cloudserver.home-tv.my.id/my/dash-wv/linear/2407/default_ott.mpd
+
+#EXTINF:-1, group-title="Malaysia" tvg-id="" tvg-logo="https://i.ibb.co/zNhKyxb/Awesome-hometv.jpg",ASTRO AWESOME
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/211
+https://cloudserver.home-tv.my.id/my/dash-wv/linear/211/default_ott.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5054
+#EXTINF:-1 tvg-id="" group-title="Malaysia" tvg-logo="https://i.ibb.co/StKxM05/Showcase-hometv.jpg",SHOWCHASE
+https://cloudserver.home-tv.my.id/my/dash-wv/linear/5054/default_ott.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2109
+#EXTINF:-1 tvg-id="" group-title="Malaysia" tvg-logo="https://i.ibb.co/xJPS7zC/Abo-hometv.jpg",ASTRO BOX OFFICE
+https://cloudserver.home-tv.my.id/my/dash-wv/linear/2109/default_ott.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2101
+#EXTINF:-1 tvg-id="" group-title="Malaysia" tvg-logo="https://i.ibb.co/m8zzztb/Colors-hometv.jpg",COLORS
+https://cloudserver.home-tv.my.id/my/dash-wv/linear/2101/default_ott.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/2505
+#EXTINF:-1, group-title="Malaysia" tvg-id="" tvg-logo="https://i.ibb.co/Y0fhz0C/Oasis-hometv.jpg",ASTRO OASIS
+https://cloudserver.home-tv.my.id/my/dash-wv/linear/2505/default_ott.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/609
+#EXTINF:-1 tvg-id="" group-title="Malaysia" tvg-logo="https://i.ibb.co/YTgCTDq/Aura-hometv.jpg",ASTRO AURA
+https://cloudserver.home-tv.my.id/my/dash-wv/linear/609/default_primary.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://rmvberantakan.com/clearkeyxmakanja/astro/608
+#EXTINF:-1 tvg-id="" group-title="Malaysia" tvg-logo="https://i.ibb.co/F4b4Dg5/Rania-hometv.jpg",ASTRO RANIA
+https://cloudserver.home-tv.my.id/my/dash-wv/linear/608/default_primary.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5025
+#EXTINF:-1 tvg-id="" group-title="Malaysia" tvg-logo="https://i.ibb.co/g9WW75g/Awani-hometv.jpg",ASTRO AWANI
+https://cloudserver.home-tv.my.id/my/dash-wv/linear/5025/default_primary.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://rmvberantakan.com/clearkeyxmakanja/astro/1006
+#EXTINF:-1 tvg-id="" group-title="Malaysia" tvg-logo="https://i.ibb.co/BwFc6pF/Iqiyi-hometv.jpg",IQIYI
+https://1.yurend.xyz/dash-wv/linear/1006/default_primary.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://rmvberantakan.com/clearkeyxmakanja/astro/2706
+#EXTINF:-1 tvg-id="" group-title="Malaysia" tvg-logo="https://i.ibb.co/GspyP2P/Aod-hometv.jpg",A0D
+https://1.yurend.xyz/dash-wv/linear/2706/default_primary.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://rmvberantakan.com/clearkeyxmakanja/astro/2507
+#EXTINF:-1 tvg-id="" group-title="Malaysia" tvg-logo="https://i.ibb.co/m0VmD8S/Quan-jia-hometv.jpg",QUAN JIA
+https://cloudserver.home-tv.my.id/my/dash-wv/linear/2507/default_primary.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://rmvberantakan.com/clearkeyxmakanja/astro/2711
+#EXTINF:-1 tvg-id="" group-title="Malaysia" tvg-logo="https://i.ibb.co/YDNCcX9/Xiao-tai-yang-hometv.jpg",XIAO TAI YANG
+https://cloudserver.home-tv.my.id/my/dash-wv/linear/2711/default_primary.mpd
+
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
