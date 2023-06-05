@@ -158,12 +158,7 @@ https://cdn3.wowza.com/1/NEtzTTZ4c1FTTUN2/SkJBbVJs/hls/fmkb3vv1/2728/chunklist.m
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSI4MneSVgEtCTr1bTcY2db9hW6VFIv8XOoZg&usqp=CAU" group-title="Indonesia Channels",Indonesiana TV
 https://kbtv.akamaized.net/hls/live/2031188/kanalbuya/1.m3u8
 
-=============TV MOVIES==================
-
-#EXTM3U x-tvg-url="http://strimz.my.id/epg, url-tvg="http://strimz.my.id/epg, x-tvg-url=https://tinyurl.com/mediacorp-singapore, url-tvg=https://tinyurl.com/mediacorp-singapore" refresh="1440" max-conn="1" refresh="24"
-
-#EXTM3U
-
+<=============TV MOVIES==================>
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTHTTP:{"dt-custom-data": "eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
@@ -283,14 +278,12 @@ https://nyanv-live-cdn.mncnow.id/live/eds/Cinemachi-Action/sa_dash_vmx/Cinemachi
 #EXTINF:-1 group-title="Premium Movies" tvg-id="CinemachiMax" tvg-url="http://tinyurtl.com/jejeEpg" tvg-logo="https://www.mimyuni.com/assets2020/images/logo-channel/cinemachi-max.png",Cinemachi Max-HD
 https://nyanv-live-cdn.mncnow.id/live/eds/Cinemachi-Max-HD/sa_dash_vmx/Cinemachi-Max-HD.mpd
 
-
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTINF:-1 group-title="Premium Movies" tvg-id="CinemachiXtra" tvg-url="http://tinyurtl.com/jejeEpg" tvg-logo="https://www.mimyuni.com/assets2020/images/logo-channel/cinemachi-xtra.png",Cinemachi Xtra-HD
 https://nyanv-live-cdn.mncnow.id/live/eds/Cinemachi-Xtra-HD/sa_dash_vmx/Cinemachi-Xtra-HD.mpd
-
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -358,7 +351,6 @@ https://nyanv-live-cdn.mncnow.id/live/eds/MyFamily/sa_dash_vmx/MyFamily.mpd
 #EXTINF:-1 tvg-id="IMC" tvg-url="http://tinyurtl.com/jejeEpg" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_14.png" group-title="Premium Movies",Indonesia Movie Channel
 https://nyanv-live-cdn.mncnow.id/live/eds/IndonesiaMovieChannels-HD/sa_dash_vmx/IndonesiaMovieChannels-HD.mpd
 
-
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTHTTP:{"dt-custom-data": "eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -366,7 +358,6 @@ https://nyanv-live-cdn.mncnow.id/live/eds/IndonesiaMovieChannels-HD/sa_dash_vmx/
 #KODIPROP:inputstream.adaptive.license_key=https://yang-nyuri-bintitan.openwindows037.workers.dev/
 #EXTINF:-1 tvg-logo="https://globalxtreme.net/images/channels/loc-16.png" tvg-id="" tvg-name="" group-title="Premium Movies",Bioskop Indonesia
 https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856fd0d66d0170341bf1000905/manifest.mpd
-
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -382,8 +373,8 @@ https://nyanv-live-cdn.mncnow.id/live/eds/FMN/sa_dash_vmx/FMN.mpd
 #EXTINF:-1 group-title="Premium Movies" tvg-id="ZeeBioskop.id" tvg-url="http://tinyurtl.com/jejeEpg" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_23.png",Zee Bioskop
 https://nyanv-live-cdn.mncnow.id/live/eds/ZeeBIOSKOP/sa_dash_vmx/ZeeBIOSKOP.mpd
 
-
 <==================== Korean Channels =================>
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -415,11 +406,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/SetOne/sa_dash_vmx/SetOne.mpd
 http://edge.linknetott.swiftserve.com/channelgroup5/cg542production/ch262/03.m3u8
 
 
-============KNOWLEDGE==================
-
-#EXTM3U x-tvg-url="http://strimz.my.id/epg, url-tvg="http://strimz.my.id/epg, x-tvg-url=https://tinyurl.com/mediacorp-singapore, url-tvg=https://tinyurl.com/mediacorp-singapore" refresh="1440" max-conn="1" refresh="24"
-
-#EXTM3U
+<============KNOWLEDGE==================>
 
 #EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_203.png" group-title="Knowledge & Documentary",Animal Planet
 http://edge.linknetott.swiftserve.com/channelgroup2/cg206production/ch31/02.m3u8
@@ -491,10 +478,6 @@ https://smithsonianaus-samsungau.amagi.tv/playlist720p.m3u8
 
 <====================Entertainment & LifeStyle ================================>
 
-#EXTM3U x-tvg-url="http://strimz.my.id/epg, url-tvg="http://strimz.my.id/epg, x-tvg-url=https://tinyurl.com/mediacorp-singapore, url-tvg=https://tinyurl.com/mediacorp-singapore" refresh="1440" max-conn="1" refresh="24"
-
-#EXTM3U
-
 #EXTINF:=1 tvg-logo="https://seeklogo.com/images/A/asian-food-network-logo-317857506A-seeklogo.com.png" group-title="Entertainment & LifeStyle",Asian Food Network
 http://edge.linknetott.swiftserve.com/channelgroup4/cg419production/ch76/02.m3u8
 http://103.150.197.226:25461/home_smile_lokal/Wdk8VzyYTG/3002
@@ -513,7 +496,6 @@ https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c68582449a2e0182597009c
 #EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/HGTV_150x150px-01.png" group-title="Entertainment & LifeStyle",HGTV
 http://edge.linknetott.swiftserve.com/channelgroup4/cg429production/ch354/02.m3u8
 http://103.150.197.226:25461/home_smile_lokal/Wdk8VzyYTG/2999
-
 
 #EXTINF:-1 tvg-logo="https://assets.stickpng.com/images/622f4615ae7f8f3715381b48.png" group-title="Entertainment & LifeStyle",TLC
 http://103.150.197.226:25461/home_smile_lokal/Wdk8VzyYTG/3000
@@ -808,8 +790,6 @@ https://nyanv-live-cdn.mncnow.id/live/eds/TV5/sa_dash_vmx/TV5.mpd
 #EXTINF:-1 tvg-url="http://tinyurtl.com/jejeEpg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Rai_Italia_-_Logo_2017.svg/1200px-Rai_Italia_-_Logo_2017.svg.png" group-title="News",Rai Italia
 http://210.210.155.35/x6bnqe/s/s63/S4/mnf.m3u8
 
-
-
 <=============TV KIDS===============>
 
 #EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_39.jpg" group-title="Kids",Boomerang South East Asia
@@ -929,10 +909,6 @@ https://cdnjkt2.transvision.co.id:1001/live/master/100/4028c685840ff049018455f48
 
 <=============Christian Channels==================>
 
-#EXTM3U x-tvg-url="http://strimz.my.id/epg, url-tvg="http://strimz.my.id/epg, x-tvg-url=https://tinyurl.com/mediacorp-singapore, url-tvg=https://tinyurl.com/mediacorp-singapore" refresh="1440" max-conn="1" refresh="24"
-
-#EXTM3U
-
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -964,10 +940,6 @@ https://nyanv-live-cdn.mncnow.id/live/eds/EWTN/sa_dash_vmx/EWTN.mpd
 
 
 <=============================== Mediacorp Singapore ========================================>
-#EXTM3U x-tvg-url="https://github.com/AqFad2811/epg/raw/main/singapore.xml" url-tvg="https://github.com/AqFad2811/epg/raw/main/singapore.xml" refresh="1440" max-conn="1" refresh="24"
-
-#EXTM3U
-
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://run.mocky.io/v3/480ea21e-b72e-42bd-81fe-bb3e6133b964
@@ -1173,10 +1145,6 @@ https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist.m3u8
 
 <========================== China ============================================>
 
-#EXTM3U x-tvg-url="http://strimz.my.id/epg, url-tvg="http://strimz.my.id/epg, x-tvg-url=https://tinyurl.com/mediacorp-singapore, url-tvg=https://tinyurl.com/mediacorp-singapore" refresh="1440" max-conn="1" refresh="24"
-
-#EXTM3U
-
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -1214,10 +1182,6 @@ https://nyanv-live-cdn.mncnow.id/live/eds/AnhuiTV/sa_dash_vmx/AnhuiTV.mpd
 
 
 <==================================== TVRI GRoup =========================================>
-
-#EXTM3U x-tvg-url="http://strimz.my.id/epg, url-tvg="http://strimz.my.id/epg, x-tvg-url=https://tinyurl.com/mediacorp-singapore, url-tvg=https://tinyurl.com/mediacorp-singapore" refresh="1440" max-conn="1" refresh="24"
-
-#EXTM3U 
 
 #EXTINF:-1  tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_118.jpg" group-title="TVRI Group",TVRI Nasional
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
@@ -1347,10 +1311,6 @@ https://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIACEH)/in
 
 <=============MUSIC=================>
 
-#EXTM3U x-tvg-url="http://strimz.my.id/epg, url-tvg="http://strimz.my.id/epg, x-tvg-url=https://tinyurl.com/mediacorp-singapore, url-tvg=https://tinyurl.com/mediacorp-singapore" refresh="1440" max-conn="1" refresh="24"
-
-#EXTM3U
-
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -1376,10 +1336,6 @@ https://nyanv-live-cdn.mncnow.id/live/eds/MTV/sa_dash_vmx/MTV.mpd
 
 <=======================Local Channels===============>
 
-#EXTM3U x-tvg-url="http://strimz.my.id/epg, url-tvg="http://strimz.my.id/epg, x-tvg-url=https://tinyurl.com/mediacorp-singapore, url-tvg=https://tinyurl.com/mediacorp-singapore" refresh="1440" max-conn="1" refresh="24"
-
-#EXTM3U
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/d/d7/Channel_Jowo.png" group-title="Local Channels",Jowo Channel
 http://103.150.197.226:25461/home_smile_lokal/Wdk8VzyYTG/2997
 
@@ -1396,14 +1352,12 @@ https://v2.siar.us/jawapostv/live/chunks.m3u8
 #EXTINF:-1 group-title="Local Channels" tvg-id="BaliTV.id" tvg-url="http://tinyurtl.com/jejeEpg" tvg-logo="https://static.mncnow.id/images/channel/cda6a457/7e41_r32.jpg",Bali TV
 https://nyanv-live-cdn.mncnow.id/live/eds/BaliTV/sa_dash_vmx/BaliTV.mpd
 
-
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTINF:-1 tvg-id="JakTV.id" tvg-url="http://tinyurtl.com/jejeEpg" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_113.jpg" group-title="Local Channels",JAK TV
 https://nyanv-live-cdn.mncnow.id/live/eds/JakTV/sa_dash_vmx/JakTV.mpd
-
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1412,14 +1366,12 @@ https://nyanv-live-cdn.mncnow.id/live/eds/JakTV/sa_dash_vmx/JakTV.mpd
 #EXTINF:-1 group-title="Local Channels" "jtv.id" tvg-url="http://tinyurtl.com/jejeEpg" tvg-logo="https://static.mncnow.id/images/channel/9e658daa/252e_r32.jpg",JTV
 https://nyanv-live-cdn.mncnow.id/live/eds/JTV/sa_dash/JTV.mpd
 
-
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTINF:-1 group-title="Local Channels" tvg-id="BandungTV.id" tvg-url="http://tinyurtl.com/jejeEpg" tvg-logo="https://static.mncnow.id/images/channel/d4154d1c/d082_r32.jpg",Bandung TV
 https://nyanv-live-cdn.mncnow.id/live/eds/BandungTV/sa_dash_vmx/BandungTV.mpd
-
 
 #EXTINF:-1 tvg-id="" tvg-url="http://tinyurtl.com/jejeEpg" tvg-logo="https://tatv.co.id/wp-content/uploads/2018/01/logotatv2017.png" group-title="Local Channels",TATV Solo
 https://v2.siar.us/tatv/live.sdp/chunks.m3u8
@@ -1489,9 +1441,3 @@ http://live.serverstreaming.net:9340/kisifm
 
 #EXTINF:-1  tvg-id="" tvg-url="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/63/Smooth_fm_jkt.png/" group-title="Internet Radio",KISI FM Bogor
 https://svara-stream.radioddns.net:8443/jakarta_smoothfm_mp3
-
-
-
-
-
-
