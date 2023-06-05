@@ -1,4 +1,4 @@
-﻿<=================Indonesia Channels=============================
+<=================Indonesia Channels=============================
 #EXTM3U url-tvg="http://tinyurl.com/jejeEpg"
 
 
@@ -92,7 +92,10 @@ https://nyanv-live-cdn.mncnow.id/live/eds/RTV/sa_dash_vmx/RTV.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTINF:-1 tvg-logo="https://static.mncnow.id/images/channel/ff1edb6e/3741_r32.jpg" tvg-id="DAAITV.id" tvg-url="http://tinyurtl.com/jejeEpg" group-title="Indonesia Channels", DAAI TV
-https://nyanv-live-cdn.mncnow.id/live/eds/DAAITV/sa_dash_vmx/DAAITV.mpd
+#https://nyanv-live-cdn.mncnow.id/live/eds/DAAITV/sa_dash_vmx/DAAITV.mpd
+
+#EXTINF:-1 tvg-logo="https://static.mncnow.id/images/channel/ff1edb6e/3741_r32.jpg" tvg-id="DAAITV.id" tvg-url="http://tinyurtl.com/jejeEpg" group-title="Indonesia Channels", DAAI TV
+https://dacastmmd.mmdlive.lldns.net/dacastmmd/683cc426c19442a4ba31c53be5c963bb/chunklist_b2592000.m3u8
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
