@@ -637,7 +637,8 @@ http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/8
 #EXTINF:-1 tvg-id= "" tvg-url=”https://tinyurl.com/jejevisionepg” tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/7lxofw1656964140.png" group-title="Sports",Super Sports Football
 http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/9
 
-
+#EXTINF:-1 tvg-id= "" tvg-url=”https://tinyurl.com/jejevisionepg” tvg-logo="https://img.kooora.com/?i=o%2Fh%2F1%2F901%2Fsupersport-laliga-hd-1.png" group-title="Sports",Super Sports La Liga
+http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/10
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
