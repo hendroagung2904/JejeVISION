@@ -640,6 +640,18 @@ http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/9
 #EXTINF:-1 tvg-id= "" tvg-url=”https://tinyurl.com/jejevisionepg” tvg-logo="https://img.kooora.com/?i=o%2Fh%2F1%2F901%2Fsupersport-laliga-hd-1.png" group-title="Sports",Super Sports La Liga
 http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/10
 
+#EXTINF:-1 tvg-id= "" tvg-url=”https://tinyurl.com/jejevisionepg” tvg-logo="https://supersport.azureedge.net/web-assets/channels/hos/supersport-motorsport.png" group-title="Sports",Super Sports Motorsport
+http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/11
+
+#EXTINF:-1 tvg-id= "" tvg-url=”https://tinyurl.com/jejevisionepg” tvg-logo="https://archive.org/download/supersport-tennis/supersport-tennis.png" group-title="Sports",Super Sports Tennis
+http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/12
+
+#EXTINF:-1 tvg-id= "" tvg-url=”https://tinyurl.com/jejevisionepg” tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/Eurosport_1_Logo_2015.png" group-title="Sports",Eurosport 1
+http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/41
+
+#EXTINF:-1 tvg-id= "" tvg-url=”https://tinyurl.com/jejevisionepg” tvg-logo="https://www.salt.ch/sites/default/files/tvchannels/Eurosport_2_Logo.jpg" group-title="Sports",Eurosport 2
+http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/42
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
