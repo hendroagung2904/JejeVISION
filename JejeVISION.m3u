@@ -601,6 +601,35 @@ http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/59
 #EXTINF:-1 tvg-id= "" tvg-url=”https://tinyurl.com/jejevisionepg” tvg-logo="https://i.goalzz.com/?i=o%2Fh%2F1%2F215%2Fbein-sports-english-1.png" group-title="Sports",Bein Sports 3 English
 http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/60
 
+#EXTINF:-1 tvg-id= "" tvg-url=”https://tinyurl.com/jejevisionepg” tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sports-premier-league-uk.svg" group-title="Sports",Sky Sports Premiere League
+http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/33
+
+#EXTINF:-1 tvg-id= "" tvg-url=”https://tinyurl.com/jejevisionepg” tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-sports-premier-league-uk.svg" group-title="Sports",Sky Sports Premiere League
+http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/33
+
+#EXTINF:-1 tvg-id= "" tvg-url=”https://tinyurl.com/jejevisionepg” tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Sky_Sport_Football_-_Logo_2020.svg/2560px-Sky_Sport_Football_-_Logo_2020.svg.png" group-title="Sports",Sky Sports Football
+http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/34
+
+#EXTINF:-1 tvg-id= "" tvg-url=”https://tinyurl.com/jejevisionepg” tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Sky_Sport_F1_-_Logo_2020.svg/2560px-Sky_Sport_F1_-_Logo_2020.svg.png" group-title="Sports",Sky Sports Premiere F1
+http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/35
+
+#EXTINF:-1 tvg-id= "" tvg-url=”https://tinyurl.com/jejevisionepg” tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" group-title="Sports",Astro SuperSports 1
+http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/1
+
+#EXTINF:-1 tvg-id= "" tvg-url=”https://tinyurl.com/jejevisionepg” tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/vvrtqw1475246255.png" group-title="Sports",Astro SuperSports 2
+http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/2
+
+#EXTINF:-1 tvg-id= "" tvg-url=”https://tinyurl.com/jejevisionepg” tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/Astro_ASSP3.png" group-title="Sports",Astro SuperSports 3
+http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/3
+
+#EXTINF:-1 tvg-id= "" tvg-url=”https://tinyurl.com/jejevisionepg” tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/Astro_ASSP4.png" group-title="Sports",Astro SuperSports 4
+http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/4
+
+#EXTINF:-1 tvg-id= "" tvg-url=”https://tinyurl.com/jejevisionepg” tvg-logo="https://dj7fdt04hl8tv.cloudfront.net/acm/media/njoi/supersport-5-656x388.jpg" group-title="Sports",Astro SuperSports 5
+http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/5
+
+
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
