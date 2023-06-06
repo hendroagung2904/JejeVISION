@@ -631,6 +631,12 @@ http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/5
 #EXTINF:-1 tvg-id= "" tvg-url=”https://tinyurl.com/jejevisionepg” tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/72/Astro_Arena.png" group-title="Sports",Astro Arena
 http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/6
 
+#EXTINF:-1 tvg-id= "" tvg-url=”https://tinyurl.com/jejevisionepg” tvg-logo="https://supersport.azureedge.net/web-assets/channels/hos/supersport-premier-league.png" group-title="Sports",Super Sports Premiere League
+http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/8
+
+#EXTINF:-1 tvg-id= "" tvg-url=”https://tinyurl.com/jejevisionepg” tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/7lxofw1656964140.png" group-title="Sports",Super Sports Football
+http://103.150.117.215:25461/home_smile_v2/Ykh5KymH8D/9
+
 
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
