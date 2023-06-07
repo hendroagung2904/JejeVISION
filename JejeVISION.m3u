@@ -153,7 +153,13 @@ https://edge.medcom.id/live-edge/smil:magna.smil/chunklist_w657754957_b3884000_s
 #EXTINF:-1 tvg-id="NusantaraTV.id" tvg-url=”https://tinyurl.com/jejevisionepg2” tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Logo_ntv.png/1200px-Logo_ntv.png" group-title="Indonesia Channels", Nusantara TV
 https://nusantaratv.siar.us/nusantaratv/live/chunks.m3u8
 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"dt-custom-data": "eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://yang-nyuri-bintitan.openwindows037.workers.dev/
 #EXTINF:-1 tvg-id="" tvg-url=”” tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f4/The_Indonesia_Channel_Logo.jpg" group-title="Indonesia Channels", The Indonesia Channels
+https://cdnjkt2.transvision.co.id:1001/live/master/5/4028c6857f48ecd2017f6ec01d7f0d4f/manifest.mpd
 https://cdn3.wowza.com/1/NEtzTTZ4c1FTTUN2/SkJBbVJs/hls/fmkb3vv1/2728/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSI4MneSVgEtCTr1bTcY2db9hW6VFIv8XOoZg&usqp=CAU" group-title="Indonesia Channels",Indonesiana TV
