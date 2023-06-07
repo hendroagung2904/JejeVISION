@@ -822,7 +822,7 @@ http://103.150.197.226:25461/home_smile_lokal/Wdk8VzyYTG/3006
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:-1 group-title="News" tvg-id="TRTWorld.tr" tvg-url="http://tinyurtl.com/jejeEpg" tvg-logo="https://raw.githubusercontent.com/hendroagung2904/TVLogo/main/trthd.png",TRT World
+#EXTINF:-1 group-title="News" tvg-id="TRTWorld.tr" tvg-url="http://tinyurtl.com/jejeEpg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/TRT_World_logosu.png",TRT World
 https://nyanv-live-cdn.mncnow.id/live/eds/TRTWorld/sa_dash_vmx/TRTWorld.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
