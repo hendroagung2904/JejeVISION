@@ -1476,44 +1476,6 @@ https://5bf7b725107e5.streamlock.net/tvtabalong/tvtabalong/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
 https://h1.intechmedia.net/intech/ch52.m3u8
 
-<============== Parliement =========================>
-
-#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2c/TVR_Parlemen.jpg/" group-title="Parliement News",TV Parlemen
-http://103.18.181.69:1935/golive/livestream/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2c/TVR_Parlemen.jpg/" group-title="Parliement News",TV Parlemen Komisi I
-http://103.18.181.69:1935/golive/livestream1/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2c/TVR_Parlemen.jpg/" group-title="Parliement News",TV Parlemen Komisi II
-http://103.18.181.69:1935/golive/livestream2/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2c/TVR_Parlemen.jpg/" group-title="Parliement News",TV Parlemen Komisi III
-http://103.18.181.69:1935/golive/livestream3/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2c/TVR_Parlemen.jpg/" group-title="Parliement News",TV Parlemen Komisi IV
-http://103.18.181.69:1935/golive/livestream4/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2c/TVR_Parlemen.jpg/" group-title="Parliement News",TV Parlemen Komisi V
-http://103.18.181.69:1935/golive/livestream5/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2c/TVR_Parlemen.jpg/" group-title="Parliement News",TV Parlemen Komisi VI
-http://103.18.181.69:1935/golive/livestream6/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2c/TVR_Parlemen.jpg/" group-title="Parliement News",TV Parlemen Komisi VII
-http://103.18.181.69:1935/golive/livestream7/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2c/TVR_Parlemen.jpg/" group-title="Parliement News",TV Parlemen Komisi VIII
-http://103.18.181.69:1935/golive/livestream8/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2c/TVR_Parlemen.jpg/" group-title="Parliement News",TV Parlemen Komisi IX
-http://103.18.181.69:1935/golive/livestream9/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2c/TVR_Parlemen.jpg/" group-title="Parliement News",TV Parlemen Komisi X
-http://103.18.181.69:1935/golive/livestream10/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2c/TVR_Parlemen.jpg/" group-title="Parliement News",TV Parlemen Komisi XI
-http://103.18.181.69:1935/golive/livestream11/playlist.m3u8
-
 
 <======================= Internet Radio ===============================>
 
