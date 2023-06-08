@@ -1584,7 +1584,7 @@ https://cdnjkt2.transvision.co.id:1001/live/master/1/4028c6856c3db2cc016cd6e773b
 #KODIPROP:inputstream.adaptive.license_key=https://cubmu.testapivi.workers.dev/
 https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856c3db2cc016cf0b533fe73e3/manifest.mpd
 
-#EXTINF:0 tvg-logo="http://www.ranklogos.com/wp-content/uploads/2014/07/Discovery-Channel-Logo.png" group-title="Trial",Discovery Channel
+#EXTINF:-1 tvg-logo="http://www.ranklogos.com/wp-content/uploads/2014/07/Discovery-Channel-Logo.png" group-title="Trial",Discovery Channel
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://cubmu.testapivi.workers.dev/
 https://cdnjkt2.transvision.co.id:1001/live/master/2/4028c6857baa1174017bd9f231e362a9/manifest.mpd
