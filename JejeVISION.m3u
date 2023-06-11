@@ -173,10 +173,10 @@ https://kbtv.akamaized.net/hls/live/2031188/kanalbuya/1.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://yang-nyuri-bintitan.openwindows037.workers.dev/
 #EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/504/253/png-transparent-hbo-hd-logo.png" tvg-id="HBO.id" tvg-name="HBO" group-title="Premium Movies",HBO (Transvision)
-https://cdnjkt2.transvision.co.id:1001/live/master/3/4028c6856b6088c3016b87d64b970b53/manifest.m3u8
+#https://cdnjkt2.transvision.co.id:1001/live/master/3/4028c6856b6088c3016b87d64b970b53/manifest.m3u8
 
 #EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/504/253/png-transparent-hbo-hd-logo.png" tvg-id="HBO.id" tvg-name="HBO" group-title="Premium Movies",HBO
-#http://103.150.197.226:25461/home_smile_lokal/Wdk8VzyYTG/3008
+http://103.150.197.226:25461/home_smile_lokal/Wdk8VzyYTG/3008
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTHTTP:{"dt-custom-data": "eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
@@ -184,10 +184,10 @@ https://cdnjkt2.transvision.co.id:1001/live/master/3/4028c6856b6088c3016b87d64b9
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://yang-nyuri-bintitan.openwindows037.workers.dev/
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png" tvg-url="http://tinyurtl.com/jejeEpg" tvg-id="HBOSignature.id" tvg-name="HBO Signature" group-title="Premium Movies",HBO Signature (Transvision)
-https://cdnjkt2.transvision.co.id:1001/live/master/3/4028c6856c3db2cc016d0552e0ca37a2/manifest.m3u8
+#https://cdnjkt2.transvision.co.id:1001/live/master/3/4028c6856c3db2cc016d0552e0ca37a2/manifest.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png" tvg-url="http://tinyurtl.com/jejeEpg" tvg-id="HBOSignature.id" tvg-name="HBO Signature" group-title="Premium Movies",HBO Signature
-#http://103.150.197.226:25461/home_smile_lokal/Wdk8VzyYTG/3009
+http://103.150.197.226:25461/home_smile_lokal/Wdk8VzyYTG/3009
 #http://208.115.225.174:14160
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -196,10 +196,10 @@ https://cdnjkt2.transvision.co.id:1001/live/master/3/4028c6856c3db2cc016d0552e0c
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://yang-nyuri-bintitan.openwindows037.workers.dev/
 #EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/hbo_hits.png" tvg-url="http://tinyurtl.com/jejeEpg" tvg-id="HBOHits.id" tvg-name="HBO Hits" group-title="Premium Movies",HBO Hits (Transvision)
-https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856c3db2cc016d054fbf67379f/manifest.m3u8
+#https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856c3db2cc016d054fbf67379f/manifest.m3u8
 
 #EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/hbo_hits.png" tvg-url="http://tinyurtl.com/jejeEpg" tvg-id="HBOHits.id" tvg-name="HBO Hits" group-title="Premium Movies",HBO Hits
-#http://103.150.197.226:25461/home_smile_lokal/Wdk8VzyYTG/3010
+http://103.150.197.226:25461/home_smile_lokal/Wdk8VzyYTG/3010
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTHTTP:{"dt-custom-data": "eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
@@ -207,10 +207,10 @@ https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856c3db2cc016d054fbf6
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://yang-nyuri-bintitan.openwindows037.workers.dev/
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/1200px-HBO_Family_Asia_logo.svg.png" tvg-url="http://tinyurtl.com/jejeEpg" tvg-id="HBOFamily.id" tvg-name="HBO Family" group-title="Premium Movies",HBO Family (Transvision)
-https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856c3db2cc016d055927fe37a4/manifest.m3u8
+#https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856c3db2cc016d055927fe37a4/manifest.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/1200px-HBO_Family_Asia_logo.svg.png" tvg-url="http://tinyurtl.com/jejeEpg" tvg-id="HBOFamily.id" tvg-name="HBO Family" group-title="Premium Movies",HBO Family 
-#http://103.150.197.226:25461/home_smile_lokal/Wdk8VzyYTG/3011
+http://103.150.197.226:25461/home_smile_lokal/Wdk8VzyYTG/3011
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTHTTP:{"dt-custom-data": "eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
@@ -218,10 +218,10 @@ https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856c3db2cc016d055927f
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://yang-nyuri-bintitan.openwindows037.workers.dev/
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_(Yellow).svg/1200px-Cinemax_(Yellow).svg.png" tvg-url="http://tinyurtl.com/jejeEpg" tvg-id="Cinemax.id" tvg-name="Cinemax" group-title="Premium Movies",Cinemax (Transvision)
-https://cdnjkt2.transvision.co.id:1001/live/master/1/4028c6856c3db2cc016cdbfc4a1934bf/manifest.m3u8
+#https://cdnjkt2.transvision.co.id:1001/live/master/1/4028c6856c3db2cc016cdbfc4a1934bf/manifest.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_(Yellow).svg/1200px-Cinemax_(Yellow).svg.png" tvg-url="http://tinyurtl.com/jejeEpg" tvg-id="Cinemax.id" tvg-name="Cinemax" group-title="Premium Movies",Cinemax 
-#http://103.150.197.226:25461/home_smile_lokal/Wdk8VzyYTG/3012
+http://103.150.197.226:25461/home_smile_lokal/Wdk8VzyYTG/3012
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
