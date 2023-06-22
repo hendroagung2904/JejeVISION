@@ -198,9 +198,9 @@ https://nusantaratv.siar.us/nusantaratv/live/chunks.m3u8
 #EXTHTTP:{"dt-custom-data": "eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://yang-nyuri-bintitan.openwindows037.workers.dev/#EXTINF:-1 tvg-id="" tvg-url=”” tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f4/The_Indonesia_Channel_Logo.jpg" group-title="Indonesia Channels", The Indonesia Channels
+#KODIPROP:inputstream.adaptive.license_key=https://yang-nyuri-bintitan.openwindows037.workers.dev/
+#EXTINF:-1 tvg-id="" tvg-url=”” tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f4/The_Indonesia_Channel_Logo.jpg" group-title="Indonesia Channels", The Indonesia Channels
 https://cdnjkt2.transvision.co.id:1001/live/master/5/4028c6857f48ecd2017f6ec01d7f0d4f/manifest.mpd
-https://cdn3.wowza.com/1/NEtzTTZ4c1FTTUN2/SkJBbVJs/hls/fmkb3vv1/2728/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSI4MneSVgEtCTr1bTcY2db9hW6VFIv8XOoZg&usqp=CAU" group-title="Indonesia Channels",Indonesiana TV
 https://kbtv.akamaized.net/hls/live/2031188/kanalbuya/1.m3u8
@@ -415,7 +415,8 @@ https://nyanv-live-cdn.mncnow.id/live/eds/IndonesiaMovieChannels-HD/sa_dash_vmx/
 #EXTHTTP:{"dt-custom-data": "eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://yang-nyuri-bintitan.openwindows037.workers.dev/#EXTINF:-1 tvg-logo="https://globalxtreme.net/images/channels/loc-16.png" tvg-id="" tvg-name="" group-title="Premium Movies",Bioskop Indonesia
+#KODIPROP:inputstream.adaptive.license_key=https://yang-nyuri-bintitan.openwindows037.workers.dev/
+#EXTINF:-1 tvg-logo="https://globalxtreme.net/images/channels/loc-16.png" tvg-id="" tvg-name="" group-title="Premium Movies",Bioskop Indonesia
 https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856fd0d66d0170341bf1000905/manifest.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -543,7 +544,7 @@ https://smithsonianaus-samsungau.amagi.tv/playlist720p.m3u8
 
 <====================Entertainment & LifeStyle ================================>
 
-#EXTINF:=1 tvg-logo="https://seeklogo.com/images/A/asian-food-network-logo-317857506A-seeklogo.com.png" group-title="Entertainment & LifeStyle",Asian Food Network 
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/A/asian-food-network-logo-317857506A-seeklogo.com.png" group-title="Entertainment & LifeStyle",Asian Food Network 
 http://edge.linknetott.swiftserve.com/channelgroup4/cg419production/ch76/02.m3u8
 
 
@@ -554,7 +555,8 @@ http://edge.linknetott.swiftserve.com/channelgroup4/cg430production/ch355/02.m3u
 #EXTHTTP:{"dt-custom-data": "eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://yang-nyuri-bintitan.openwindows037.workers.dev/#EXTINF:-1 tvg-logo="https://www.transvision.co.id/img/channel/new/COOKING%20TV.jpg" group-title="Entertainment & LifeStyle" tvg-url="http://tinyurtl.com/jejeEpg" tvg-id="" tvg-name="",Cooking TV
+#KODIPROP:inputstream.adaptive.license_key=https://yang-nyuri-bintitan.openwindows037.workers.dev/
+#EXTINF:-1 tvg-logo="https://www.transvision.co.id/img/channel/new/COOKING%20TV.jpg" group-title="Entertainment & LifeStyle" tvg-url="http://tinyurtl.com/jejeEpg" tvg-id="" tvg-name="",Cooking TV
 https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c68582449a2e0182597009c021ef/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/HGTV_150x150px-01.png" group-title="Entertainment & LifeStyle",HGTV 
@@ -582,7 +584,8 @@ https://nyanv-live-cdn.mncnow.id/live/eds/AXN/sa_dash_vmx/AXN.mpd
 #EXTHTTP:{"dt-custom-data": "eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://yang-nyuri-bintitan.openwindows037.workers.dev/#EXTINF:-1 tvg-logo="https://www.exorbeo.com/wp-content/uploads/2013/10/warner+logo+hd.png" group-title="Entertainment & LifeStyle",Warner TV 
+#KODIPROP:inputstream.adaptive.license_key=https://yang-nyuri-bintitan.openwindows037.workers.dev/
+#EXTINF:-1 tvg-logo="https://www.exorbeo.com/wp-content/uploads/2013/10/warner+logo+hd.png" group-title="Entertainment & LifeStyle",Warner TV 
 https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856c3db2cc016cf0b533fe73e3/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://www.exorbeo.com/wp-content/uploads/2013/10/warner+logo+hd.png" group-title="Entertainment & LifeStyle",Warner TV
@@ -631,21 +634,29 @@ https://nyanv-live-cdn.mncnow.id/live/eds/MNCEntertainment/sa_dash_vmx/MNCEntert
 https://nyanv-live-cdn.mncnow.id/live/eds/MNCInfotainment/sa_dash_vmx/MNCInfotainment.mpd
 
 
-<=========Sports=========>
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"dt-custom-data": "eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://yang-nyuri-bintitan.openwindows037.workers.dev/
+#EXTINF:-1 group-title="Entertainment & LifeStyle" tvg-id="" tvg-url="http://tinyurtl.com/jejeEpg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/1280px-Fashion_TV_logo.svg.png",Fashion TV
+https://cdnjkt2.transvision.co.id:1001/live/master/3/4028c6857fe540a1018060ac364140ba/manifest.mpd
 
-#EXTINF: -1 tvg-id="beinsports1englishdigital.en" tvg-name="beIN Sports English 1" tvg-logo="https://logo.iptveditor.com/beinsports.png" group-title="Sports", beIN Sports English 1
+
+<=========Sports=========>
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+#EXTINF:-1 tvg-id="beinsports1englishdigital.en" tvg-name="beIN Sports English 1" tvg-logo="https://logo.iptveditor.com/beinsports.png" group-title="Sports", beIN Sports English 1
 https://m3u-editor.com/serve/c224f7a0-cbe7-11ed-b3a0-51b43ddb2078/806099251
 
-#EXTINF: -1 tvg-id="beinsports1englishdigital.en" tvg-name="beIN Sports English 2" tvg-logo="https://logo.iptveditor.com/aubeinsports2.png" group-title="Sports", beIN Sports English 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+#EXTINF:-1 tvg-id="beinsports1englishdigital.en" tvg-name="beIN Sports English 2" tvg-logo="https://logo.iptveditor.com/aubeinsports2.png" group-title="Sports", beIN Sports English 2
 https://m3u-editor.com/serve/c224f7a0-cbe7-11ed-b3a0-51b43ddb2078/806099252
 
-#EXTINF: -1 tvg-id="beinsports1englishdigital.en" tvg-name="beIN Sports English 3" tvg-logo="https://logo.iptveditor.com/aubeinsports3.png" group-title="Sports", beIN Sports English 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+#EXTINF:-1 tvg-id="beinsports1englishdigital.en" tvg-name="beIN Sports English 3" tvg-logo="https://logo.iptveditor.com/aubeinsports3.png" group-title="Sports", beIN Sports English 3
 https://m3u-editor.com/serve/c224f7a0-cbe7-11ed-b3a0-51b43ddb2078/806099253
 
 
@@ -808,7 +819,10 @@ https://nyanv-live-cdn.mncnow.id/live/eds/EuroNews/sa_dash_vmx/EuroNews.mpd
 #EXTINF:-1 tvg-name="" tvg-id="BBCNews.id" tvg-url="http://tinyurtl.com/jejeEpg" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_332.jpg" group-title="News",BBC World
 https://nyanv-live-cdn.mncnow.id/live/eds/BBCWorldNews/sa_dash_vmx/BBCWorldNews.mpd
 
-#EXTINF:-1 tvg-logo="http://1000logos.net/wp-content/uploads/2016/11/CNN-Logo.png" group-title="News",CNN
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"dt-custom-data": "eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://yang-nyuri-bintitan.openwindows037.workers.dev/
 #EXTINF:-1 group-title="News" tvg-id="CNNInternationalAsiaPacific.hk" tvg-url="http://tinyurtl.com/jejeEpg" tvg-logo="https://www.mncvision.id/userfiles/image/channel/cnn_new.jpg",CNN International 
@@ -874,9 +888,11 @@ https://nyanv-live-cdn.mncnow.id/live/eds/AustraliaPlus/sa_dash_vmx/AustraliaPlu
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/WION_news_Logo.svg/574px-WION_news_Logo.svg.png" group-title="News" tvg-url="http://tinyurtl.com/jejeEpg" tvg-id="" tvg-name="",WION
 https://cdnjkt2.transvision.co.id:1001/live/master/2/4028c68572841ba301729d434e393c21/manifest.mpd
 
-#EXTINF:-1 tvg-id="TV5MondeAsia.fr" tvg-url="http://tinyurtl.com/jejeEpg" tvg-logo="http://www.lcf-magazine.com/wp-content/uploads/2014/09/logo-TV5Monde.jpg" group-title="News",TV 5 Monde
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTINF:-1 tvg-id="TV5MondeAsia.fr" tvg-url="http://tinyurtl.com/jejeEpg" tvg-logo="http://www.lcf-magazine.com/wp-content/uploads/2014/09/logo-TV5Monde.jpg" group-title="News",TV 5 Monde
 https://nyanv-live-cdn.mncnow.id/live/eds/TV5/sa_dash_vmx/TV5.mpd
 
 #EXTINF:-1 tvg-url="http://tinyurtl.com/jejeEpg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Rai_Italia_-_Logo_2017.svg/1200px-Rai_Italia_-_Logo_2017.svg.png" group-title="News",Rai Italia
@@ -884,9 +900,9 @@ http://210.210.155.35/x6bnqe/s/s63/S4/mnf.m3u8
 
 <=============TV KIDS===============>
 
-#EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_39.jpg" group-title="Kids",Boomerang South East Asia
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5ff6154f28d6950063f9f5b4db7be009:93cac38fd15124acce5b658896df0a25
+#EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_39.jpg" group-title="Kids",Boomerang South East Asia
 #https://nyanv-live-cdn.mncnow.id/live/eds/Boomerang/sa_dash_vmx/Boomerang.mpd
 
 #EXTINF:-1 tvg-logo="https://www.freepnglogos.com/uploads/cartoon-network-png-logo/c-n-png-logo-3.png" tvg-id="CartoonNetwork.id" tvg-name="Cartoon Network" group-title="Kids",Cartoon Network
