@@ -1561,6 +1561,9 @@ http://edge.linknetott.swiftserve.com/channelgroup2/cg218production/ch103/03.m3u
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.davinci.tv/wp-content/uploads/2023/02/Da_Vinci_Primary_Logo_RGB_Red_AW.png" group-title="FirstMedia X",DaVinci Kids
 http://edge.linknetott.swiftserve.com/channelgroup3/cg332production/ch371/03.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://seeklogo.com/images/N/nick-jr-logo-DC18CDB75D-seeklogo.com.png" group-title="FirstMedia X",Nickelodeon Junior
+http://edge.linknetott.swiftserve.com/channelgroup2/cg219production/ch124/03.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://w7.pngwing.com/pngs/494/315/png-transparent-shanghai-media-group-dragon-television-china-central-television-television-show-dragon-tv-television-text-dragon-thumbnail.png" group-title="FirstMedia X",Dragon TV
 http://edge.linknetott.swiftserve.com/channelgroup3/cg344production/ch220/03.m3u8
 
@@ -1612,6 +1615,13 @@ http://edge.linknetott.swiftserve.com/channelgroup5/cg506production/ch2/03.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/SEA_Today_Indonesia_Logo.png" group-title="FirstMedia X",Sea Today
 http://edge.linknetott.swiftserve.com/channelgroup5/cg546production/ch416/03.m3u8
 
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/1200px-NHK_World.svg.png" group-title="FirstMedia X",NHK World Japan
+http://edge.linknetott.swiftserve.com/channelgroup3/cg315production/ch223/03.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.mm-eu.tv/wordpress/wp-content/uploads/2019/04/rai-italia.jpg" group-title="FirstMedia X",RAI Italia
+http://edge.linknetott.swiftserve.com/channelgroup4/cg427production/ch258/03.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.pngfind.com/pngs/m/265-2659271_logo-kompas-di-layar-kaca-1024x300-kompas-tv.png" group-title="FirstMedia X",Kompas TV
 http://edge.linknetott.swiftserve.com/channelgroup3/cg358production/ch410/03.m3u8
 
@@ -1621,17 +1631,27 @@ http://edge.linknetott.swiftserve.com/channelgroup5/cg536production/ch394/03.m3u
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/1200px-Moji_blue.svg.png" group-title="FirstMedia X",Moji TV
 http://edge.linknetott.swiftserve.com/channelgroup4/cg409production/ch26/03.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/1200px-NHK_World.svg.png" group-title="FirstMedia X",NHK World Japan
-http://edge.linknetott.swiftserve.com/channelgroup3/cg315production/ch223/03.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.mm-eu.tv/wordpress/wp-content/uploads/2019/04/rai-italia.jpg" group-title="FirstMedia X",RAI Italia
-http://edge.linknetott.swiftserve.com/channelgroup4/cg427production/ch258/03.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://1.bp.blogspot.com/-Zw8oUmxnVuc/YILzpTfoolI/AAAAAAAACmw/dQ8h_hkVDJAbp_JL0RKZBS-igZGrsRymwCNcBGAsYHQ/s2048/Trans%2BTV.png" group-title="FirstMedia X",TransTV HD
+http://edge.linknetott.swiftserve.com/channelgroup3/cg326production/ch396/03.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/03/BerkasLogotrans7small.png" group-title="FirstMedia X",Trans7 HD
+http://edge.linknetott.swiftserve.com/channelgroup5/cg548production/ch397/03.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://e7.pngegg.com/pngimages/107/247/png-clipart-tvri-jambi-television-tvone-logo-tvri-jambi-blue-text.png" group-title="FirstMedia X",TVRI HD
+http://edge.linknetott.swiftserve.com/channelgroup2/cg221production/ch399/03.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://w7.pngwing.com/pngs/602/156/png-transparent-sctv-logo-sctv-television-channel-tvone-broadcasting-about-us-miscellaneous-television-blue-thumbnail.png" group-title="FirstMedia X",SCTV
+http://edge.linknetott.swiftserve.com/channelgroup3/cg357production/ch395/03.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://1.bp.blogspot.com/-Nn3mSqkopKI/XDAMIvMEIBI/AAAAAAAAGn0/xjy0uz4-MoQXEN97pOiXVeSr8oCw_bKvgCLcBGAs/s640/bm-image-762346.png" group-title="FirstMedia X",Indosiar
+http://edge.linknetott.swiftserve.com/channelgroup3/cg331production/ch8/03.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Logo_GarudaTV_Merah_Flat_2022.svg/2560px-Logo_GarudaTV_Merah_Flat_2022.svg.png" group-title="FirstMedia X",Garuda TV
+http://edge.linknetott.swiftserve.com/channelgroup1/cg002production/ch45/03.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/DAAI_TV_Jakarta.png" group-title="FirstMedia X",Daai TV
+http://edge.linknetott.swiftserve.com/channelgroup4/cg418production/ch128/03.m3u8
 
 
 <=========Trial Transvision=======>
