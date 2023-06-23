@@ -6,7 +6,6 @@ http://kuchini.site:8080/Vladisergeevic/7eef2c4388/298550
 http://edge.linknetott.swiftserve.com/channelgroup4/cg409production/ch26/03.m3u8
 http://premiumiptvmk.com:8080/euroiptv400cox/E6TDpeMPfrZt4eSn/298550
 
-
 #EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/sctv.png" group-title="Indonesia Channels" tvg-url="http://tinyurtl.com/jejeEpg" tvg-id="sctv.id" tvg-name="SCTV",SCTV 
 http://edge.linknetott.swiftserve.com/channelgroup3/cg357production/ch395/index.m3u8
 #https://mpwtv.my.id/vidioye/204-sctv.m3u8
@@ -57,7 +56,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
 #EXTINF:-1 tvg-id="GTV.id" group-title="Indonesia Channels" tvg-url="http://tinyurtl.com/jejeEpg" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_431.png",GTV
 #https://nyanv-live-cdn.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
+##KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTHTTP:{"dt-custom-data": "eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -389,7 +388,6 @@ http://edge.linknetott.swiftserve.com/channelgroup4/cg435production/ch376/02.m3u
 
 #EXTINF:-1 tvg-id="Flik" tvg-name="Flik" group-title="Premium Movies" tvg-logo="https://cdn.macan.tv/img/flik.png",FLIK
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/165095
-
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4a/ETV_Mongolia_logo.png" group-title="Premium Movies", ETV BIOSKOP 1
 #http://kuchini.site:8080/Vladisergeevic/7eef2c4388/298526
@@ -1720,7 +1718,6 @@ https://cdnjkt2.transvision.co.id:1001/live/master/1/4028c6856c3db2cc016cd6df935
 #EXTINF:-1 tvg-id="cnn.id" tvg-name="cnn" tvg-logo="https://i.postimg.cc/fLmG5W7N/20230518-221916.png" group-title="Trial Transvision",CNN Indonesia 
 https://cdnjkt2.transvision.co.id:1001/live/master/5/4028c685651d7bcc01651f0e4ce10098/manifest.m3u8
 
-
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTHTTP:{"dt-custom-data": "eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -1728,7 +1725,6 @@ https://cdnjkt2.transvision.co.id:1001/live/master/5/4028c685651d7bcc01651f0e4ce
 #KODIPROP:inputstream.adaptive.license_key=https://yang-nyuri-bintitan.openwindows037.workers.dev/
 #EXTINF:-1 tvg-id="CCTV4" tvg-logo="https://i.imgur.com/nR0Mu2i.png" group-title="Trial Transvision",CCTV4 
 https://cdnjkt2.transvision.co.id:1001/live/master/5/4028c685730a4243017317e334101575/manifest.mpd
-
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTHTTP:{"dt-custom-data": "eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
