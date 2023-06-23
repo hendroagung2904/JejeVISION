@@ -2,8 +2,9 @@
 #EXTM3U url-tvg="http://tinyurl.com/jejeEpg"
 
 #EXTINF:-1 tvg-url="http://tinyurl.com/jejeEpg" tvg-id="MOJI" tvg-name="Moji" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/1200px-Moji_blue.svg.png" group-title="Indonesia Channels",Moji
+http://kuchini.site:8080/Vladisergeevic/7eef2c4388/298550
 #http://edge.linknetott.swiftserve.com/channelgroup4/cg409production/ch26/03.m3u8
-http://edge.linknetott.swiftserve.com/channelgroup4/cg409production/ch26/03.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/sctv.png" group-title="Indonesia Channels" tvg-url="http://tinyurtl.com/jejeEpg" tvg-id="sctv.id" tvg-name="SCTV",SCTV 
 http://edge.linknetott.swiftserve.com/channelgroup3/cg357production/ch395/index.m3u8
@@ -222,6 +223,7 @@ https://kbtv.akamaized.net/hls/live/2031188/kanalbuya/1.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://yang-nyuri-bintitan.openwindows037.workers.dev/
 #EXTINF:-1 tvg-id="411.astro" tvg-logo="https://i.imgur.com/HfoZk5z.png" group-title="Premium Movies",HBO 
 https://cdnjkt2.transvision.co.id:1001/live/master/3/4028c6856b6088c3016b87d64b970b53/manifest.mpd
+http://kuchini.site:8080/Vladisergeevic/7eef2c4388/197972
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTHTTP:{"dt-custom-data": "eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
@@ -230,6 +232,7 @@ https://cdnjkt2.transvision.co.id:1001/live/master/3/4028c6856b6088c3016b87d64b9
 #KODIPROP:inputstream.adaptive.license_key=https://yang-nyuri-bintitan.openwindows037.workers.dev/
 #EXTINF:-1 tvg-id="415.astro" tvg-logo="https://i.imgur.com/Cd70C6B.png" group-title="Premium Movies",HBO Hits 
 https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856c3db2cc016d054fbf67379f/manifest.mpd
+http://kuchini.site:8080/Vladisergeevic/7eef2c4388/196480
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTHTTP:{"dt-custom-data": "eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
@@ -238,6 +241,7 @@ https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856c3db2cc016d054fbf6
 #KODIPROP:inputstream.adaptive.license_key=https://yang-nyuri-bintitan.openwindows037.workers.dev/
 #EXTINF:-1 tvg-id="HBO Signature HD" tvg-logo="https://i.imgur.com/qfV9dBF.png" group-title="Premium Movies",HBO Signature 
 https://cdnjkt2.transvision.co.id:1001/live/master/3/4028c6856c3db2cc016d0552e0ca37a2/manifest.mpd
+http://kuchini.site:8080/Vladisergeevic/7eef2c4388/221948
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTHTTP:{"dt-custom-data": "eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
@@ -246,6 +250,7 @@ https://cdnjkt2.transvision.co.id:1001/live/master/3/4028c6856c3db2cc016d0552e0c
 #KODIPROP:inputstream.adaptive.license_key=https://yang-nyuri-bintitan.openwindows037.workers.dev/
 #EXTINF:-1 tvg-id="414.astro" tvg-logo="https://i.imgur.com/Okzj190.png" group-title="Premium Movies",HBO Family 
 https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856c3db2cc016d055927fe37a4/manifest.mpd
+http://kuchini.site:8080/Vladisergeevic/7eef2c4388/197055
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTHTTP:{"dt-custom-data": "eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
@@ -254,6 +259,7 @@ https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856c3db2cc016d055927f
 #KODIPROP:inputstream.adaptive.license_key=https://yang-nyuri-bintitan.openwindows037.workers.dev/
 #EXTINF:-1 tvg-id="cinemax.id" tvg-logo="https://i.postimg.cc/g2gBC2rC/20230519-230619.jpg" group-title="Premium Movies",Cinemax  
 https://cdnjkt2.transvision.co.id:1001/live/master/1/4028c6856c3db2cc016cdbfc4a1934bf/manifest.mpd
+http://kuchini.site:8080/Vladisergeevic/7eef2c4388/197964
 
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -297,7 +303,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/Rockaction/sa_dash_vmx/Rockaction.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTINF:-1 group-title="Premium Movies" tvg-id="ParamountNetwork.id" tvg-url="http://tinyurtl.com/jejeEpg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9d/Paramount_Network_%28Blue%29_Logo.png",Paramount Network 
-https://nyanv-live-cdn.mncnow.id/live/eds/Paramount-HD/sa_dash_vmx/Paramount-HD.mpd
+#https://nyanv-live-cdn.mncnow.id/live/eds/Paramount-HD/sa_dash_vmx/Paramount-HD.mpd
 
 #EXTINF:-1 group-title="Premium Movies" tvg-id="ParamountNetwork.id" tvg-url="http://tinyurtl.com/jejeEpg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9d/Paramount_Network_%28Blue%29_Logo.png",Paramount Network 
 http://edge.linknetott.swiftserve.com/channelgroup2/cg232production/ch309/02.m3u8
@@ -375,6 +381,9 @@ https://nyanv-live-cdn.mncnow.id/live/eds/CelestialClassic/sa_dash_vmx/Celestial
 
 #EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHWPZAEX10uqUxUytHwuHnNKTDTwm3iUFbZA&usqp=CAU" group-title="Premium Movies",Citra Bioskop
 http://edge.linknetott.swiftserve.com/channelgroup4/cg435production/ch376/02.m3u8
+
+#EXTINF:-1 tvg-id="Flik" tvg-name="Flik" group-title="Premium Movies" tvg-logo="https://cdn.macan.tv/img/flik.png", FLIK
+http://kuchini.site:8080/Vladisergeevic/7eef2c4388/165095
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -580,9 +589,8 @@ https://nyanv-live-cdn.mncnow.id/live/eds/AXN/sa_dash_vmx/AXN.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://yang-nyuri-bintitan.openwindows037.workers.dev/
 #EXTINF:-1 tvg-logo="https://www.exorbeo.com/wp-content/uploads/2013/10/warner+logo+hd.png" group-title="Entertainment & LifeStyle",Warner TV 
 https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856c3db2cc016cf0b533fe73e3/manifest.mpd
+http://kuchini.site:8080/Vladisergeevic/7eef2c4388/157594
 
-#EXTINF:-1 tvg-logo="https://www.exorbeo.com/wp-content/uploads/2013/10/warner+logo+hd.png" group-title="Entertainment & LifeStyle",Warner TV
-http://103.150.197.226:25461/home_smile_lokal/Wdk8VzyYTG/3005
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
