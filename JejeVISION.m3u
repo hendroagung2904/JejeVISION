@@ -265,7 +265,6 @@ http://kuchini.site:8080/Vladisergeevic/7eef2c4388/197055
 https://cdnjkt2.transvision.co.id:1001/live/master/1/4028c6856c3db2cc016cdbfc4a1934bf/manifest.mpd
 http://kuchini.site:8080/Vladisergeevic/7eef2c4388/197964
 
-
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -311,7 +310,6 @@ https://nyanv-live-cdn.mncnow.id/live/eds/Rockaction/sa_dash_vmx/Rockaction.mpd
 
 #EXTINF:-1 group-title="Premium Movies" tvg-id="ParamountNetwork.id" tvg-url="http://tinyurtl.com/jejeEpg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9d/Paramount_Network_%28Blue%29_Logo.png",Paramount Network 
 http://edge.linknetott.swiftserve.com/channelgroup2/cg232production/ch309/02.m3u8
-#http://103.150.197.226:25461/home_smile_lokal/Wdk8VzyYTG/3004
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -386,23 +384,16 @@ https://nyanv-live-cdn.mncnow.id/live/eds/CelestialClassic/sa_dash_vmx/Celestial
 #EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHWPZAEX10uqUxUytHwuHnNKTDTwm3iUFbZA&usqp=CAU" group-title="Premium Movies",Citra Bioskop
 http://edge.linknetott.swiftserve.com/channelgroup4/cg435production/ch376/02.m3u8
 
-#EXTINF:-1 tvg-id="Flik" tvg-name="Flik" group-title="Premium Movies" tvg-logo="https://cdn.macan.tv/img/flik.png",FLIK
-http://kuchini.site:8080/Vladisergeevic/7eef2c4388/165095
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4a/ETV_Mongolia_logo.png" group-title="Premium Movies", ETV BIOSKOP 1
-#http://kuchini.site:8080/Vladisergeevic/7eef2c4388/298526
 http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/298526
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4a/ETV_Mongolia_logo.png" group-title="Premium Movies", ETV BIOSKOP 2
-#http://kuchini.site:8080/Vladisergeevic/7eef2c4388/298527
 http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/298527
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4a/ETV_Mongolia_logo.png" group-title="Premium Movies", ETV BIOSKOP 3
-#http://kuchini.site:8080/Vladisergeevic/7eef2c4388/298528
 http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/298528
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4a/ETV_Mongolia_logo.png" group-title="Premium Movies", ETV BIOSKOP 4
-#http://kuchini.site:8080/Vladisergeevic/7eef2c4388/298529
 http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/298529
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -418,10 +409,6 @@ https://nyanv-live-cdn.mncnow.id/live/eds/MyCinema/sa_dash_vmx/MyCinema.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTINF:-1  group-title="Premium Movies"  tvg-url="http://tinyurtl.com/jejeEpg" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ea/MCA_%282019%29.png" tvg-id="MyCinemaAsia",My Cinema Asia
 https://nyanv-live-cdn.mncnow.id/live/eds/MyCinema-Asia/sa_dash_vmx/MyCinema-Asia.mpd
-
-#EXTINF:-1 tvg-id="ChineseDrama.MACAN" tvg-name="" group-title="Premium Movies" tvg-logo="https://cdn.macan.tv/img/chinesedrama.png", Chinese Drama
-http://kuchini.site:8080/Vladisergeevic/7eef2c4388/298516
-http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/298516
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -587,9 +574,6 @@ https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c68582449a2e0182597009c
 #EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/HGTV_150x150px-01.png" group-title="Entertainment & LifeStyle",HGTV 
 http://edge.linknetott.swiftserve.com/channelgroup4/cg429production/ch354/02.m3u8
 
-#EXTINF:-1 tvg-logo="https://assets.stickpng.com/images/622f4615ae7f8f3715381b48.png" group-title="Entertainment & LifeStyle",TLC
-#http://103.150.197.226:25461/home_smile_lokal/Wdk8VzyYTG/3000
-
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -612,8 +596,6 @@ https://nyanv-live-cdn.mncnow.id/live/eds/AXN/sa_dash_vmx/AXN.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://yang-nyuri-bintitan.openwindows037.workers.dev/
 #EXTINF:-1 tvg-logo="https://www.exorbeo.com/wp-content/uploads/2013/10/warner+logo+hd.png" group-title="Entertainment & LifeStyle",Warner TV 
 https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856c3db2cc016cf0b533fe73e3/manifest.mpd
-http://kuchini.site:8080/Vladisergeevic/7eef2c4388/157594
-
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -656,7 +638,6 @@ https://nyanv-live-cdn.mncnow.id/live/eds/MNCEntertainment/sa_dash_vmx/MNCEntert
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTINF:-1 group-title="Entertainment & LifeStyle" tvg-id="Ie.id" tvg-url="http://tinyurtl.com/jejeEpg" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_96.png",MNC Infotainment
 https://nyanv-live-cdn.mncnow.id/live/eds/MNCInfotainment/sa_dash_vmx/MNCInfotainment.mpd
-
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTHTTP:{"dt-custom-data": "eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
