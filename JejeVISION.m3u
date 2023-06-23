@@ -27,7 +27,11 @@ https://cdnjkt2.transvision.co.id:1001/live/master/5/4028c6856c3db2cc016cd6e6475
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://yang-nyuri-bintitan.openwindows037.workers.dev/
 #EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/Indosiar.png" group-title="Indonesia Channels" tvg-url="http://tinyurtl.com/jejeEpg" tvg-id="Indosiar.id" tvg-name="Indosiar", Indosiar HD 
-https://cdnjkt2.transvision.co.id:1001/live/master/1/4028c6856c3db2cc016cd6e773b02392/manifest.mpd
+#https://cdnjkt2.transvision.co.id:1001/live/master/1/4028c6856c3db2cc016cd6e773b02392/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/Indosiar.png" group-title="Indonesia Channels" tvg-url="http://tinyurtl.com/jejeEpg" tvg-id="Indosiar.id" tvg-name="Indosiar", Indosiar HD 
+http://kuchini.site:8080/Vladisergeevic/7eef2c4388/162138
+http://edge.linknetott.swiftserve.com/channelgroup3/cg331production/ch8/index.m3u8
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
