@@ -1498,6 +1498,30 @@ https://svara-stream.radioddns.net:8443/jakarta_smoothfm_mp3
 
 <==========Trial First Media =====================>
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Asian_Food_Network.svg/1200px-Asian_Food_Network.svg.png" group-title="FirstMedia X",Asian Food Network
+http://edge.linknetott.swiftserve.com/channelgroup4/cg419production/ch76/03.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://seeklogo.com/images/F/food-network-logo-9D0CB10F04-seeklogo.com.png" group-title="FirstMedia X",Food Network
+http://edge.linknetott.swiftserve.com/channelgroup4/cg430production/ch355/03.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/HGTV_2010.svg/1200px-HGTV_2010.svg.png" group-title="FirstMedia X",HGTV
+http://edge.linknetott.swiftserve.com/channelgroup4/cg429production/ch354/03.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1d/Love_Nature_TV.png" group-title="FirstMedia X",Love Nature TV
+http://edge.linknetott.swiftserve.com/channelgroup3/cg350production/ch368/03.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Nat_Geo_HD.png" group-title="FirstMedia X",National Geographic Channel HD
+http://edge.linknetott.swiftserve.com/channelgroup1/cg015production/ch38/03.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://w7.pngwing.com/pngs/364/342/png-transparent-logo-nat-geo-wild-national-geographic-television-channel-high-definition-television-others.png" group-title="FirstMedia X",National Geographic Wild HD
+http://edge.linknetott.swiftserve.com/channelgroup1/cg014production/ch39/03.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/41/Rock_Action.png/" group-title="FirstMedia X",Rock Actions
+http://edge.linknetott.swiftserve.com/channelgroup2/cg255production/ch330/03.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/f/f6/Rock_Entertainment_%282021-.n.v.%29.png/" group-title="FirstMedia X",Rock Entertainment
+http://edge.linknetott.swiftserve.com/channelgroup2/cg257production/ch335/03.m3u8
+
 
 
 <=========Trial Transvision=======>
