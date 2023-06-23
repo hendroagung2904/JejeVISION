@@ -1555,11 +1555,22 @@ http://edge.linknetott.swiftserve.com/channelgroup4/cg401production/ch174/03.m3u
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/wvvVcxv8/zee-bioskop-channel-tv-logo.png" group-title="FirstMedia X",Zee Bioskop
 http://edge.linknetott.swiftserve.com/channelgroup2/cg216production/ch161/02.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/1200px-Cartoon_Network_2010_logo.svg.png" group-title="FirstMedia X",Cartoon Network
+http://edge.linknetott.swiftserve.com/channelgroup2/cg218production/ch103/03.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="FirstMedia X",DaVinci Kids
+http://edge.linknetott.swiftserve.com/channelgroup3/cg332production/ch371/03.m3u8
+
+
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/39/Anhui_Television.png" group-title="FirstMedia X",Anhui TV
 http://edge.linknetott.swiftserve.com/channelgroup3/cg346production/ch222/02.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://ewsat.com/img/JIANGSU.png" group-title="FirstMedia X",Anhui TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://ewsat.com/img/JIANGSU.png" group-title="FirstMedia X",JiangSu TV
 http://edge.linknetott.swiftserve.com/channelgroup3/cg345production/ch221/03.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.favpng.com/23/0/9/shenzhen-satellite-tv-logo-digital-on-screen-graphic-png-favpng-n9BqnbbjzZY6VMS0virS32Ydn.jpg" group-title="FirstMedia X",Shenzen TV
+http://edge.linknetott.swiftserve.com/channelgroup1/cg034production/ch218/03.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.pinimg.com/originals/a8/9f/b7/a89fb7db4fb4b24cca97d6f5cb41da3d.jpg" group-title="FirstMedia X",Arirang
 http://edge.linknetott.swiftserve.com/channelgroup1/cg022production/ch253/03.m3u8
@@ -1588,11 +1599,34 @@ http://edge.linknetott.swiftserve.com/channelgroup3/cg325production/ch341/03.m3u
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/65/FRANCE_24_logo.svg/1200px-FRANCE_24_logo.svg.png" group-title="FirstMedia X",France 24
 http://edge.linknetott.swiftserve.com/channelgroup5/cg507production/ch261/03.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://media.kompas.tv/library/image/content_article/article_img/20210929120611.jpg" group-title="FirstMedia X",Rusia Today
+http://edge.linknetott.swiftserve.com/channelgroup3/cg349production/ch3981/03.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.idxchannel.com/desktop/img/IDXlogo.png" group-title="FirstMedia X",IDX
 http://edge.linknetott.swiftserve.com/channelgroup3/cg341production/ch389/02.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ea/Jakarta_globe_news_channel_id.png" group-title="FirstMedia X",Jakarta Globe News
 http://edge.linknetott.swiftserve.com/channelgroup5/cg506production/ch2/03.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/SEA_Today_Indonesia_Logo.png" group-title="FirstMedia X",Sea Today
+http://edge.linknetott.swiftserve.com/channelgroup5/cg546production/ch416/03.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.pngfind.com/pngs/m/265-2659271_logo-kompas-di-layar-kaca-1024x300-kompas-tv.png" group-title="FirstMedia X",Kompas TV
+http://edge.linknetott.swiftserve.com/channelgroup3/cg358production/ch410/03.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/MetroTV_2000.svg/2560px-MetroTV_2000.svg.png" group-title="FirstMedia X",Metro TV HD
+http://edge.linknetott.swiftserve.com/channelgroup5/cg536production/ch394/03.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/1200px-Moji_blue.svg.png" group-title="FirstMedia X",Moji TV
+http://edge.linknetott.swiftserve.com/channelgroup4/cg409production/ch26/03.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/1200px-NHK_World.svg.png" group-title="FirstMedia X",NHK World Japan
+http://edge.linknetott.swiftserve.com/channelgroup3/cg315production/ch223/03.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.mm-eu.tv/wordpress/wp-content/uploads/2019/04/rai-italia.jpg" group-title="FirstMedia X",RAI Italia
+http://edge.linknetott.swiftserve.com/channelgroup4/cg427production/ch258/03.m3u8
+
+
 
 
 
