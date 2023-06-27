@@ -405,6 +405,9 @@ https://nyanv-live-cdn.mncnow.id/live/eds/tvN/sa_dash_vmx/tvN.mpd
 #EXTINF:-1 tvg-id="tvNMovies.kr" tvg-url="http://tinyurtl.com/jejeEpg" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_415.png" group-title="Korean Channels",TvN movies HD
 https://nyanv-live-cdn.mncnow.id/live/eds/tvNMovies/sa_dash_vmx/tvNMovies.mpd
 
+#EXTINF:-1 tvg-id="" tvg-url="http://tinyurtl.com/jejeEpg" tvg-logo="https://www.dens.tv/images/channel-logo/126.jpg" group-title="Korean Channels",NaDoo Korean
+http://op-group1-swiftservehd-1.dens.tv/h/h125/live.m3u8
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -534,6 +537,9 @@ https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856c3db2cc016cf0b533f
 
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/A/asian-food-network-logo-317857506A-seeklogo.com.png" group-title="Entertainment & LifeStyle",Asian Food Network 
 http://edge.linknetott.swiftserve.com/channelgroup4/cg419production/ch76/02.m3u8
+
+#EXTINF:-1 tvg-logo="https://picture.dens.tv/wp/img/whatson_v2/1280x720/Logo%20DFC.png" group-title="Entertainment & LifeStyle",Dens Food Channel 
+http://op-group1-swiftservesd-1.dens.tv/s/s38/S4/mnf.m3u8
 
 #EXTINF:-1 tvg-id="TFN.id" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Food_Network_logo.svg/1200px-Food_Network_logo.svg.png" group-title="Entertainment & LifeStyle",The Food Network
 http://edge.linknetott.swiftserve.com/channelgroup4/cg430production/ch355/02.m3u8
@@ -1222,7 +1228,8 @@ https://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI3)/index
 
 #EXTINF:-1  tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_118.jpg" group-title="TVRI Group",TVRI Sport HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-https://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/index.m3u8
+#https://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/index.m3u8
+http://210.210.155.35/session/7cf53f90-1487-11ee-bf9c-c81f66f89318/qwr9ew/s/s107/01.m3u8
 
 #EXTINF:-1  tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_118.jpg" group-title="TVRI Group",TVRI Yogyakarta
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
