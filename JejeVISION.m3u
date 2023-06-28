@@ -2,7 +2,8 @@
 #EXTM3U url-tvg="http://tinyurl.com/jejeEpg"
 
 #EXTINF:-1 tvg-url="http://tinyurl.com/jejeEpg" tvg-id="MOJI" tvg-name="Moji" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/1200px-Moji_blue.svg.png" group-title="Indonesia Channels",Moji
-https://raw.githubusercontent.com/thefirefox12537/streams/master/moji_2.m3u8
+https://github.com/mimipipi22/nontontv/raw/main/FMX/moji.m3u8
+#https://raw.githubusercontent.com/thefirefox12537/streams/master/moji_2.m3u8
 #http://kuchini.site:8080/Vladisergeevic/7eef2c4388/298550
 #http://edge.linknetott.swiftserve.com/channelgroup4/cg409production/ch26/03.m3u8
 
