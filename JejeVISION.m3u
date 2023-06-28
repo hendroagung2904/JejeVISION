@@ -662,6 +662,9 @@ https://webudit.cdnhks.lol/lb/premium43/index.m3u8
 #EXTINF:-1 tvg-id= "" tvg-url=”https://tinyurl.com/jejevisionepg” tvg-logo="https://i0.wp.com/www.horizonsports.com/wp-content/uploads/2018/06/logo-horizon_wellness-transp.png?fit=1467%2C549&ssl=1" group-title="Sports",Horizon Sports
 https://cdnjkt2.transvision.co.id:1001/live/master/1/4028c6856b6088c3016b87d55f480b52/manifest.mpd
 
+#EXTINF:-1 tvg-id= "" tvg-url=”https://tinyurl.com/jejevisionepg” tvg-logo="https://w7.pngwing.com/pngs/1003/693/png-transparent-eurosport-2-television-channel-logo-live-stream-miscellaneous-television-blue.png" group-title="Sports",Euro Sports
+http://edge.linknetott.swiftserve.com/channelgroup3/cg319production/ch21/02.m3u8
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
