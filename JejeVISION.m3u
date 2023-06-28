@@ -429,19 +429,11 @@ http://edge.linknetott.swiftserve.com/channelgroup5/cg542production/ch262/03.m3u
 #EXTINF:-1 tvg-id="History.id" tvg-url="http://tinyurtl.com/jejeEpg" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_206.png" group-title="Knowledge & Documentary",History
 https://nyanv-live-cdn.mncnow.id/live/eds/History/sa_dash_vmx/History.mpd
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTINF:-1 group-title="Knowledge & Documentary" tvg-id="NationalGeographic" tvg-url="http://tinyurtl.com/jejeEpg" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_450.png",National Geographic
-https://nyanv-live-cdn.mncnow.id/live/eds/NatGeoChannel/sa_dash_vmx/NatGeoChannel.mpd
+http://edge.linknetott.swiftserve.com/channelgroup1/cg015production/ch38/03.m3u8
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:-1 tvg-id="NatGeoWild" tvg-url="http://tinyurtl.com/jejeEpg" tvg-name="NatGeoWild" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_463.png" group-title="Knowledge & Documentary",Nat Geo Wild
-https://nyanv-live-cdn.mncnow.id/live/eds/NatGeoWild/sa_dash_vmx/NatGeoWild.mpd
+#EXTINF:-1 group-title="Knowledge & Documentary" tvg-id="NationalGeographic" tvg-url="http://tinyurtl.com/jejeEpg" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_450.png",National Geographic
+http://edge.linknetott.swiftserve.com/channelgroup1/cg014production/ch39/03.m3u8
 
 #EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/482/735/png-transparent-discovery-channel-television-channel-logo-television-show-others-television-globe-logo.png" group-title="Knowledge & Documentary",Discovery Channel 
 http://edge.linknetott.swiftserve.com/channelgroup1/cg013production/ch29/02.m3u8
