@@ -2379,28 +2379,28 @@ https://nyanv-live-cdn.mncnow.id/live/eds/JakTV/sa_dash_vmx/JakTV.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ODg5MzMzNDItNmFiZS0zNDU3LWE3ZjUtMTBkZmY2OWViNWIw
-#EXTINF:-1 tvg-id="" tvg-url="http://tinyurtl.com/jejeEpg" tvg-logo="" group-title="Trial Vision+",JTV
+#EXTINF:-1 tvg-id="" tvg-url="http://tinyurtl.com/jejeEpg" tvg-logo="https://vmp-cms.telkomsel.com/sites/default/files/entry/0_qesewoxv/banner_hdpi.jpg" group-title="Trial Vision+",JTV
 https://nyanv-live-cdn.mncnow.id//live/eds/JTV/sa_dash_vmx/JTV.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ODg5MzMzNDItNmFiZS0zNDU3LWE3ZjUtMTBkZmY2OWViNWIw
-#EXTINF:-1 tvg-id="" tvg-url="http://tinyurtl.com/jejeEpg" tvg-logo="" group-title="Trial Vision+",Bali TV
+#EXTINF:-1 tvg-id="" tvg-url="http://tinyurtl.com/jejeEpg" tvg-logo="https://upload.wikimedia.org/wikipedia/id/b/b9/BaliTV_2014.png" group-title="Trial Vision+",Bali TV
 https://nyanv-live-cdn.mncnow.id/live/eds/BaliTV/sa_dash_vmx/BaliTV.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ODg5MzMzNDItNmFiZS0zNDU3LWE3ZjUtMTBkZmY2OWViNWIw
-#EXTINF:-1 tvg-id="" tvg-url="http://tinyurtl.com/jejeEpg" tvg-logo="" group-title="Trial Vision+",DAAI TV
+#EXTINF:-1 tvg-id="" tvg-url="http://tinyurtl.com/jejeEpg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/DAAI_TV_Jakarta.png" group-title="Trial Vision+",DAAI TV
 https://nyanv-live-cdn.mncnow.id/live/eds/DAAITV/sa_dash_vmx/DAAITV.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ODg5MzMzNDItNmFiZS0zNDU3LWE3ZjUtMTBkZmY2OWViNWIw
-#EXTINF:-1 tvg-id="" tvg-url="http://tinyurtl.com/jejeEpg" tvg-logo="" group-title="Trial Vision+",Bandung TV
+#EXTINF:-1 tvg-id="" tvg-url="http://tinyurtl.com/jejeEpg" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f0/Bandung_TV_2005.png/revision/latest?cb=20140204120420" group-title="Trial Vision+",Bandung TV
 https://nyanv-live-cdn.mncnow.id/live/eds/BandungTV/sa_dash_vmx/BandungTV.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
