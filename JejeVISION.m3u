@@ -543,7 +543,7 @@ https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856c3db2cc016cf0b533f
 #EXTINF:-1 tvg-id="HGTVAsia.us" tvg-logo="https://mncvision.id/userfiles/image/channel/HGTV_150x150px-01.png" group-title="Entertainment & LifeStyle",HGTV 
 http://edge.linknetott.swiftserve.com/channelgroup4/cg429production/ch354/02.m3u8
 
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/A/asian-food-network-logo-317857506A-seeklogo.com.png" group-title="Entertainment & LifeStyle",Asian Food Network 
+#EXTINF:-1 tvg-id="AsianFoodNetwork.sg" tvg-logo="https://seeklogo.com/images/A/asian-food-network-logo-317857506A-seeklogo.com.png" group-title="Entertainment & LifeStyle",Asian Food Network 
 http://edge.linknetott.swiftserve.com/channelgroup4/cg419production/ch76/02.m3u8
 
 #EXTINF:-1 tvg-logo="https://picture.dens.tv/wp/img/whatson_v2/1280x720/Logo%20DFC.png" group-title="Entertainment & LifeStyle",Dens Food Channel 
