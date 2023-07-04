@@ -540,6 +540,9 @@ https://nyanv-live-cdn.mncnow.id/live/eds/Rockentertainment/sa_dash_vmx/Rockente
 #EXTINF:-1 tvg-url="https://tinyurl.com/JejeEPGNew" tvg-id="WarnerTVAsia.us" tvg-logo="https://www.exorbeo.com/wp-content/uploads/2013/10/warner+logo+hd.png" group-title="Entertainment & LifeStyle",Warner TV 
 https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856c3db2cc016cf0b533fe73e3/manifest.mpd
 
+#EXTINF:-1 tvg-id="" tvg-url="https://tinyurl.com/JejeEPGNew" tvg-logo="https://1000logos.net/wp-content/uploads/2020/08/TLC-Logo.png" group-title="Entertainment & LifeStyle",TLC
+http://edge.linknetott.swiftserve.com/channelgroup1/cg017production/ch35/02.m3u8
+
 #EXTINF:-1 tvg-id="HGTVAsia.us" tvg-url="https://tinyurl.com/JejeEPGNew" tvg-logo="https://mncvision.id/userfiles/image/channel/HGTV_150x150px-01.png" group-title="Entertainment & LifeStyle",HGTV 
 http://edge.linknetott.swiftserve.com/channelgroup4/cg429production/ch354/02.m3u8
 
