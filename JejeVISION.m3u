@@ -555,7 +555,7 @@ http://op-group1-swiftservesd-1.dens.tv/s/s38/S4/mnf.m3u8
 #EXTINF:-1 tvg-url="https://tinyurl.com/JejeEPGNew" tvg-id="TFN.id" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Food_Network_logo.svg/1200px-Food_Network_logo.svg.png" group-title="Entertainment & LifeStyle",The Food Network
 http://edge.linknetott.swiftserve.com/channelgroup4/cg430production/ch355/02.m3u8
 
-#EXTINF:-1 tvg-url="https://tinyurl.com/JejeEPGNew" tvg-id="" tvg-name="" tvg-logo="https://staging.firstmedia.com:8443/files/logos/channels/7-LIFESTYLE/First%20Lifestyle%20HD-FirstMedia-Chl-303.jpg" group-title="Entertainment & LifeStyle",First Media Lifestyle
+#EXTINF:-1 tvg-url="https://tinyurl.com/JejeEPGNew" tvg-id="" tvg-name="" tvg-logo="https://staging.firstmedia.com:8443/files/logos/channels/7-LIFESTYLE/First%20Lifestyle%20HD-FirstMedia-Chl-303.jpg" group-title="Entertainment & LifeStyle",First Lifestyle
 http://edge.linknetott.swiftserve.com/channelgroup3/cg339production/ch3/03.m3u8
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
