@@ -1274,14 +1274,14 @@ https://nyanv-live-cdn.mncnow.id/live/eds/EWTN/sa_dash_vmx/EWTN.mpd
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#EXTINF:-1 tvg-id="tv1.my" tvg-url="https://tinyurl.com/JejeEPGNew" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f4/Logo_of_TV1_%28Malaysia%29.svg/1200px-Logo_of_TV1_%28Malaysia%29.svg.png" tvg-url="" group-title="Malaysia",TV 1
+#EXTINF:-1 tvg-id="TV1" tvg-url="https://tinyurl.com/JejeEPGNew" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f4/Logo_of_TV1_%28Malaysia%29.svg/1200px-Logo_of_TV1_%28Malaysia%29.svg.png" tvg-url="" group-title="Malaysia",TV 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/manifest.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#EXTINF:-1 tvg-id="tv2.my" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/71/TV2_%28Malaysia%29_logo.svg/1200px-TV2_%28Malaysia%29_logo.svg.png" tvg-url="https://tinyurl.com/JejeEPGNew" group-title="Malaysia",TV 2
+#EXTINF:-1 tvg-id="TV2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/71/TV2_%28Malaysia%29_logo.svg/1200px-TV2_%28Malaysia%29_logo.svg.png" tvg-url="https://tinyurl.com/JejeEPGNew" group-title="Malaysia",TV 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd
 
@@ -1295,10 +1295,10 @@ https://aqfadtv.xyz/live/tv3/index.mpd
 #EXTINF:-1 group-title="Malaysia" tvg-id="" tvg-chno="128" tvg-url="https://tinyurl.com/JejeEPGNew" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716074123890vav.png",Dunia Sinema HD
 https://aqfadtv.xyz/live/unifitv/duniasinema/index.mpd
 
-#EXTINF:-1 tvg-id="tvokey.my" tvg-name="TV Okey" group-title="Malaysia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Okey_RTM.png",TV Okey
+#EXTINF:-1 tvg-id="OKEY" tvg-name="TV Okey" tvg-url="https://tinyurl.com/JejeEPGNew" group-title="Malaysia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Okey_RTM.png",TV Okey
 https://d25tgymtnqzu8s.cloudfront.net/smil:okey/chunklist_b4596000_slENG.m3u8?id=3
 
-#EXTINF:-1 tvg-url="https://tinyurl.com/JejeEPGNew" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/SALURAN_1920x1080px_TV6.jpg" group-title="Malaysia",TV 6
+#EXTINF:-1 tvg-id="" tvg-url="https://tinyurl.com/JejeEPGNew" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/SALURAN_1920x1080px_TV6.jpg" group-title="Malaysia",TV 6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/chunklist.m3u8?id=1|Referer=https://rtmklik.rtm.gov.my
 
@@ -1309,7 +1309,7 @@ https://aqfadtv.xyz/live/8tv/index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/tv9/
-#EXTINF:-1, group-title="Malaysia" tvg-name="TV9" tvg-url="https://tinyurl.com/JejeEPGNew" tvg-logo="https://telegra.ph/file/34773617ec0ae051424b8.png",TV9
+#EXTINF:-1, tvg-id="TV9" group-title="Malaysia" tvg-name="TV9" tvg-url="https://tinyurl.com/JejeEPGNew" tvg-logo="https://telegra.ph/file/34773617ec0ae051424b8.png",TV9
 https://aqfadtv.xyz/live/tv9/index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1327,19 +1327,19 @@ https://aqfadtv.xyz/live/unifitv/sensasi/index.mpd
 #EXTINF:-1 tvg-id="DidikTVKPM" group-title="Malaysia" tvg-url="https://tinyurl.com/JejeEPGNew" tvg-logo="https://didik.tv/images/logotv2.png",DidikTV KPM
 https://aqfadtv.xyz/live/didiktvkpm/index.mpd
 
-#EXTINF:-1 tvg-url="https://tinyurl.com/JejeEPGNew" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/SALURAN_1920x1080px_SUKANRTM.jpg" group-title="Malaysia",Sukan RTM
+#EXTINF:-1 tvg-id="" tvg-url="https://tinyurl.com/JejeEPGNew" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/SALURAN_1920x1080px_SUKANRTM.jpg" group-title="Malaysia",Sukan RTM
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/chunklist.m3u8?id=1|Referer=https://rtmklik.rtm.gov.my
 
-#EXTINF:-1 tvg-url="https://tinyurl.com/JejeEPGNew" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/berita_bckg.png" group-title="Malaysia",Berita RTM
+#EXTINF:-1 tvg-id="Berita RTM" tvg-url="https://tinyurl.com/JejeEPGNew" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/berita_bckg.png" group-title="Malaysia",Berita RTM
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://d25tgymtnqzu8s.cloudfront.net/smil:berita/manifest.mpd
 
-#EXTINF:-1 tvg-url="https://tinyurl.com/JejeEPGNew" tvg-logo="https://www.bernama.com/tv/img/bernama.png" group-title="Malaysia",Bernama TV
+#EXTINF:-1 thv-id="BernamaTV" tvg-url="https://tinyurl.com/JejeEPGNew" tvg-logo="https://www.bernama.com/tv/img/bernama.png" group-title="Malaysia",Bernama TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://raw.githubusercontent.com/digitaldotmy/YoutubeLive/main/BERNAMATV.m3u8
 
-#EXTINF:-1 tvg-url="https://tinyurl.com/JejeEPGNew" tvg-logo="https://photos.live-tv-channels.org/tv-logo/my-astro-awani-5717.jpg" group-title="Malaysia",Astro Awani
+#EXTINF:-1 tvg-id="AstroAwani" tvg-url="https://tinyurl.com/JejeEPGNew" tvg-logo="https://photos.live-tv-channels.org/tv-logo/my-astro-awani-5717.jpg" group-title="Malaysia",Astro Awani
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index.m3u8
 
