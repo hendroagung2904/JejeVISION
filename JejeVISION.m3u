@@ -264,6 +264,18 @@ https://nyanv-live-cdn.mncnow.id/live/eds/Paramount-HD/sa_dash_vmx/Paramount-HD.
 #EXTINF:-1 group-title="Premium Movies" tvg-id="ParamountNetworkIndonesia.id" tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9d/Paramount_Network_%28Blue%29_Logo.png",Paramount Network (Sub Indonesia)
 http://edge.linknetott.swiftserve.com/channelgroup2/cg232production/ch309/03.m3u8
 
+#EXTINF:-1 tvg-name="ID: Etv Bioskop" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Premium Movies",Etv Bioskop
+http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/298526
+
+#EXTINF:-1 tvg-name="ID: Etv Bioskop 02" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Premium Movies",Etv Bioskop 02
+http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/298527
+
+#EXTINF:-1 tvg-name="ID: Etv Bioskop 03" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Premium Movies"",Etv Bioskop 03
+http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/298528
+
+#EXTINF:-1 tvg-name="ID: Etv Bioskop 04" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Premium Movies",Etv Bioskop 04
+http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/298529
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
