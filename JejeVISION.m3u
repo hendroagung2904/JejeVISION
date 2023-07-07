@@ -132,7 +132,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/PemersatuBangsa/sa_dash_vmx/PemersatuB
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ODg5MzMzNDItNmFiZS0zNDU3LWE3ZjUtMTBkZmY2OWViNWIw
-#EXTINF:-1 tvg-id="BeritaSatu.id" tvg-url="https://tinyurl.com/JejeEPGNew" tvg-logo="https://static.mncnow.id/images/channel/763ae675/4ca7_r32.jpg" group-title="Indonesia Channels",BTV
+#EXTINF:-1 tvg-id="BeritaSatuNewsChannel.id" tvg-url="https://tinyurl.com/JejeEPGNew" tvg-logo="https://static.mncnow.id/images/channel/763ae675/4ca7_r32.jpg" group-title="Indonesia Channels",BTV
 https://nyanv-live-cdn.mncnow.id/live/eds/BeritaSatu/sa_dash_vmx/BeritaSatu.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
