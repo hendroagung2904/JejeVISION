@@ -373,10 +373,10 @@ https://nyanv-live-cdn.mncnow.id/live/eds/IndonesiaMovieChannels-HD/sa_dash_vmx/
 https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856fd0d66d0170341bf1000905/manifest.mpd
 
 #EXTINF: -1 tvg-url="https://tinyurl.com/JejeEPGNew" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHWPZAEX10uqUxUytHwuHnNKTDTwm3iUFbZA&usqp=CAU" group-title="Premium Movies",Citra Bioskop
-http://edge.linknetott.swiftserve.com/channelgroup4/cg435production/ch376/02.m3u8
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch376)/index.m3u8
 
 #EXTINF:-1 tvg-url="https://tinyurl.com/JejeEPGNew" tvg-id="CitraDrama.id" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/72/Citra_Drama.PNG" group-title="Premium Movies",Citra Drama
-http://edge.linknetott.swiftserve.com/channelgroup4/cg436production/ch378/02.m3u8
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch378)/index.m3u8
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
