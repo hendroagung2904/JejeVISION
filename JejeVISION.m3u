@@ -914,7 +914,6 @@ https://nyanv-live-cdn.mncnow.id/live/eds/EWTN/sa_dash_vmx/EWTN.mpd
 <=========================================== Malaysia ==========================================>
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-
 #EXTINF:-1 tvg-id="TV1" tvg-url="https://tinyurl.com/JejeEPGNew" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f4/Logo_of_TV1_%28Malaysia%29.svg/1200px-Logo_of_TV1_%28Malaysia%29.svg.png" tvg-url="" group-title="Malaysia",TV 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/manifest.mpd
