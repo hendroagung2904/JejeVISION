@@ -125,10 +125,6 @@ https://nusantaratv.siar.us/nusantaratv/live/chunks.m3u8
 #EXTINF:-1 tvg-url="https://tinyurl.com/JejeEPGNew" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSI4MneSVgEtCTr1bTcY2db9hW6VFIv8XOoZg&usqp=CAU" group-title="Indonesia Channels",Indonesiana TV
 https://kbtv.akamaized.net/hls/live/2031188/kanalbuya/1.m3u8
 
-#EXTINF:-1 tvg-url="https://tinyurl.com/JejeEPGNew" tvg-logo="https://www.pngitem.com/pimgs/m/25-257438_tempo-tv-tempo-tv-logo-hd-png-download.png" group-title="Indonesia Channels",Tempo TV
-https://raw.githubusercontent.com/thefirefox12537/streams/master/tempo.m3u8
-
-
 <================== Premium Movies ====================>
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
