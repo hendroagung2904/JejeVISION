@@ -444,30 +444,30 @@ https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c68582449a2e0182597009c
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ODg5MzMzNDItNmFiZS0zNDU3LWE3ZjUtMTBkZmY2OWViNWIw
-#EXTINF:-1 tvg-id="" tvg-url="https://tinyurl.com/JejeEPGNew" tvg-logo="https://static.mncnow.id/images/channel/f0de64cc/3b1d_r32.jpg" ggroup-title="Entertainment & LifeStyle",CelebritiesTV
+#EXTINF:-1 tvg-id="" tvg-url="https://tinyurl.com/JejeEPGNew" tvg-logo="https://static.mncnow.id/images/channel/f0de64cc/3b1d_r32.jpg" group-title="Entertainment & LifeStyle",CelebritiesTV
 https://nyanv-live-cdn.mncnow.id/live/eds/MNCInfotainment/sa_dash_vmx/MNCInfotainment.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ODg5MzMzNDItNmFiZS0zNDU3LWE3ZjUtMTBkZmY2OWViNWIw
-#EXTINF:-1 tvg-id="VisionPrime.id" tvg-url="https://tinyurl.com/JejeEPGNew" tvg-logo="https://static.mncnow.id/images/channel/a09752e1/c6ca_r32.jpg" ggroup-title="Entertainment & LifeStyle",Vision Prime
+#EXTINF:-1 tvg-id="VisionPrime.id" tvg-url="https://tinyurl.com/JejeEPGNew" tvg-logo="https://static.mncnow.id/images/channel/a09752e1/c6ca_r32.jpg" group-title="Entertainment & LifeStyle",Vision Prime
 https://nyanv-live-cdn.mncnow.id/live/eds/VisionPrime/sa_dash_vmx/VisionPrime.mpd
 
-#EXTINF:-1 tvg-id="" tvg-url="https://tinyurl.com/JejeEPGNew" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3d/Citra_Entertainment_Logo_September_2019.png" ggroup-title="Entertainment & LifeStyle",Citra Entertainment
+#EXTINF:-1 tvg-id="" tvg-url="https://tinyurl.com/JejeEPGNew" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3d/Citra_Entertainment_Logo_September_2019.png" group-title="Entertainment & LifeStyle",Citra Entertainment
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch379)/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ODg5MzMzNDItNmFiZS0zNDU3LWE3ZjUtMTBkZmY2OWViNWIw
-#EXTINF:-1 tvg-id="Ent.id" tvg-url="https://tinyurl.com/JejeEPGNew" tvg-logo="https://static.mncnow.id/images/channel/fc642b52/ae2e_r32.jpg" ggroup-title="Entertainment & LifeStyle",Entertainment
+#EXTINF:-1 tvg-id="Ent.id" tvg-url="https://tinyurl.com/JejeEPGNew" tvg-logo="https://static.mncnow.id/images/channel/fc642b52/ae2e_r32.jpg" group-title="Entertainment & LifeStyle",Entertainment
 https://nyanv-live-cdn.mncnow.id/live/eds/MNCEntertainment/sa_dash_vmx/MNCEntertainment.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ODg5MzMzNDItNmFiZS0zNDU3LWE3ZjUtMTBkZmY2OWViNWIw
-#EXTINF:-1 tvg-id="OKTV.id" tvg-url="https://tinyurl.com/JejeEPGNew" tvg-logo="https://static.mncnow.id/images/channel/4f4a02c0/c9b7_r32.jpg" ggroup-title="Entertainment & LifeStyle",OK TV
+#EXTINF:-1 tvg-id="OKTV.id" tvg-url="https://tinyurl.com/JejeEPGNew" tvg-logo="https://static.mncnow.id/images/channel/4f4a02c0/c9b7_r32.jpg" group-title="Entertainment & LifeStyle",OK TV
 https://nyanv-live-cdn.mncnow.id/live/eds/OKTV/sa_dash_vmx/OKTV.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ODg5MzMzNDItNmFiZS0zNDU3LWE3ZjUtMTBkZmY2OWViNWIw
-#EXTINF:-1 tvg-id="" tvg-url="https://tinyurl.com/JejeEPGNew" tvg-logo="https://static.mncnow.id/images/channel/dbf6bf70/42d8_r32.jpg" ggroup-title="Entertainment & LifeStyle",OkZoneTV
+#EXTINF:-1 tvg-id="" tvg-url="https://tinyurl.com/JejeEPGNew" tvg-logo="https://static.mncnow.id/images/channel/dbf6bf70/42d8_r32.jpg" group-title="Entertainment & LifeStyle",OkZoneTV
 https://nyanv-live-cdn.mncnow.id/live/eds/LifeStyleFashion/sa_dash_vmx/LifeStyleFashion.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
