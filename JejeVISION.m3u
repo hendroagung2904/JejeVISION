@@ -27,10 +27,8 @@ https://nyanv-live-cdn.mncnow.id/live/eds/TransTV-2/sa_dash_vmx/TransTV-2.mpd
 https://nyanv-live-cdn.mncnow.id/live/eds/Trans7-2/sa_dash_vmx/Trans7-2.mpd
 
 #EXTINF:-1 tvg-url="http://tinyurl.com/jejeEpg" tvg-id="MOJI" tvg-name="Moji" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/1200px-Moji_blue.svg.png" group-title="Indonesia Channels",Moji
-https://github.com/mimipipi22/nontontv/raw/main/FMX/moji.m3u8
-https://raw.githubusercontent.com/thefirefox12537/streams/master/moji_2.m3u8
-http://kuchini.site:8080/Vladisergeevic/7eef2c4388/298550
-http://edge.linknetott.swiftserve.com/channelgroup4/cg409production/ch26/03.m3u8
+http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/298550
+#http://edge.linknetott.swiftserve.com/channelgroup4/cg409production/ch26/03.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/sctv.png" group-title="Indonesia Channels" tvg-url="https://tinyurl.com/JejeEPGNew" tvg-id="SCTV.id" tvg-name="SCTV", SCTV 
 http://edge.linknetott.swiftserve.com/channelgroup3/cg357production/ch395/03.m3u8
