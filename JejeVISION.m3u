@@ -1020,7 +1020,7 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:berita/manifest.mpd
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1689886291/ei/80m5ZMvCGMaKz7sPlMCHoAg/ip/182.253.90.107/id/n_2hkumijGE.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/Ul2Sq5__6QvQbYJYs7vdyVWEuhjA_AK0KfVZLZV0ew/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246%2C24362687%2C24363392/beids/24350017/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgcyDlt7_W1OwxbXV5rDphLeXz7V1mCcTY4oOLST0HLbUCIClA8M08igWuM2zJFKmIEBaT00IfG0zRygUc6CjDxFch/file/index.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#EXTINF:-1 tvg-id="AstroAwani" tvg-url="https://tinyurl.com/JejeEPGNew" tvg-logo="https://photos.live-tv-channels.org/tv-logo/my-astro-awani-5717.jpg" group-title="Malaysia",Astro Awani
+#EXTINF:-1 tvg-id="AstroAwani" tvg-url="https://tinyurl.com/JejeEPGNew" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/Astro_Awani.png" group-title="Malaysia",Astro Awani
 https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index.m3u8
 
 
