@@ -168,7 +168,10 @@ http://edge.linknetott.swiftserve.com/channelgroup2/cg232production/ch309/03.m3u
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTINF:-1 group-title="Premium Movies" tvg-id= "KIX.id" tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml" tvg-logo="https://www.mncvision.id/userfiles/image/channel/KIX_LOGO_150x150.jpg",KIX
-https://nyanv-live-cdn.mncnow.id/live/eds/KIX/sa_dash_vmx/KIX.mpd
+#https://nyanv-live-cdn.mncnow.id/live/eds/KIX/sa_dash_vmx/KIX.mpd
+
+#EXTINF:-1 group-title="Premium Movies" tvg-id= "KIX.id" tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml" tvg-logo="https://www.mncvision.id/userfiles/image/channel/KIX_LOGO_150x150.jpg",KIX
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch336)/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
@@ -260,10 +263,18 @@ https://nyanv-live-cdn.mncnow.id/live/eds/FMN/sa_dash_vmx/FMN.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTINF:-1 group-title="Premium Movies" tvg-id="ZeeBioskop.id" tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_23.png",Zee Bioskop
-https://nyanv-live-cdn.mncnow.id/live/eds/ZeeBIOSKOP/sa_dash_vmx/ZeeBIOSKOP.mpd
+#https://nyanv-live-cdn.mncnow.id/live/eds/ZeeBIOSKOP/sa_dash_vmx/ZeeBIOSKOP.mpd
+
+#EXTINF:-1 group-title="Premium Movies" tvg-id="ZeeBioskop.id" tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_23.png",Zee Bioskop
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch161)/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b6/Sony_Max_new.png" group-title="Premium Movies",Sony Max
-http://edge.linknetott.swiftserve.com/channelgroup4/cg401production/ch174/03.m3u8
+#http://edge.linknetott.swiftserve.com/channelgroup4/cg401production/ch174/03.m3u8
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch174)/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/de/Sony_TV_new.png" group-title="Premium Movies",Sony TV
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch173)/index.m3u8
+
 
 <================ Korean Channels ===================>
 
@@ -324,11 +335,12 @@ https://newanv-live-cdn.mncnow.id/live/eds/NatGeoWild/sa_dash_vmx/NatGeoWild.mpd
 #http://edge.linknetott.swiftserve.com/channelgroup1/cg014production/ch39/03.m3u8
 
 #EXTINF:-1 tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml" tvg-id="DiscoveryChannel" tvg-logo="https://w7.pngwing.com/pngs/482/735/png-transparent-discovery-channel-television-channel-logo-television-show-others-television-globe-logo.png" group-title="Knowledge & Documentary",Discovery Channel 
-http://edge.linknetott.swiftserve.com/channelgroup1/cg013production/ch29/02.m3u8
+#http://edge.linknetott.swiftserve.com/channelgroup1/cg013production/ch29/02.m3u8
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch29)/index.m3u8
 
 #EXTINF:-1 tvg-id="DiscoveryAsia" tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Discovery_Asia_logo.svg/1280px-Discovery_Asia_logo.svg.png" group-title="Knowledge & Documentary",Discovery Asia
 #http://edge.linknetott.swiftserve.com/channelgroup1/cg010production/ch30/02.m3u8
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch29)/index.m3u8
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch302)/index.m3u8
 
 #EXTINF:-1 tvg-id="Discovery Science" tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml" tvg-logo="https://i.imgur.com/34WQfut.png" group-title="Knowledge & Documentary",Discovery Science
 #https://github.com/kusnadipepenk/ntn/raw/master/discien.m3u8
@@ -500,7 +512,8 @@ https://nyanv-live-cdn.mncnow.id/live/eds/Arirang/sa_dash_vmx/Arirang.mpd
 #EXTINF:-1 group-title="Entertainment & LifeStyle" tvg-id="FashionTVAsia.fr" tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/1280px-Fashion_TV_logo.svg.png",Fashion TV
 https://cdnjkt2.transvision.co.id:1001/live/master/3/4028c6857fe540a1018060ac364140ba/manifest.mpd
 
-
+#EXTINF:-1 group-title="Entertainment & LifeStyle" tvg-id="FashionTVAsia.fr" tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/1280px-Fashion_TV_logo.svg.png",Fashion TV
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch168)/index.m3u8
 
 <=============== Kids Channels =====================>
 
@@ -914,7 +927,8 @@ https://cdnjkt2.transvision.co.id:1001/live/master/2/4028c68572841ba301729d434e3
 https://nyanv-live-cdn.mncnow.id/live/eds/TV5/sa_dash_vmx/TV5.mpd
 
 #EXTINF:-1 tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Rai_Italia_-_Logo_2017.svg/1200px-Rai_Italia_-_Logo_2017.svg.png" group-title="News",Rai Italia
-http://edge.linknetott.swiftserve.com/channelgroup4/cg427production/ch258/03.m3u8
+#http://edge.linknetott.swiftserve.com/channelgroup4/cg427production/ch258/03.m3u8
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch258)/index.m3u8
 
 <=============Christian Channels==================>
 
@@ -936,7 +950,10 @@ https://nyanv-live-cdn.mncnow.id/live/eds/Life/sa_dash_vmx/Life.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTINF:-1 tvg-id="EWTNAfricaAsia.us" tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml" tvg-logo="https://static.mncnow.id/images/channel/d8af9a0a/db05_r32.jpg" group-title="Christian Channels",EWTN
-https://nyanv-live-cdn.mncnow.id/live/eds/EWTN/sa_dash_vmx/EWTN.mpd
+#https://nyanv-live-cdn.mncnow.id/live/eds/EWTN/sa_dash_vmx/EWTN.mpd
+
+#EXTINF:-1 tvg-id="EWTNAfricaAsia.us" tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml" tvg-logo="https://static.mncnow.id/images/channel/d8af9a0a/db05_r32.jpg" group-title="Christian Channels",EWTN
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch299)/index.m3u8
 
 
 <=========================================== Malaysia ==========================================>
