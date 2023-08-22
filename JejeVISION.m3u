@@ -355,7 +355,7 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch35)/index.m3u8
 #EXTINF:-1 tvg-id="HGTV" tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml" tvg-logo="https://mncvision.id/userfiles/image/channel/HGTV_150x150px-01.png" group-title="Entertainment & LifeStyle",HGTV 
 http://edge.linknetott.swiftserve.com/channelgroup4/cg429production/ch354/02.m3u8
 
-#EXTINF:-1 tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Asian_Food_Network.svg/640px-Asian_Food_Network.svg.png" group-title="Entertainment & Lifestyle",Asian Food Network
+#EXTINF:-1 tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Asian_Food_Network.svg/640px-Asian_Food_Network.svg.png" group-title="Entertainment & LifeStyle",Asian Food Network
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch76)/index.m3u8
 
 #EXTINF:-1 tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml" tvg-logo="https://picture.dens.tv/wp/img/whatson_v2/1280x720/Logo%20DFC.png" group-title="Entertainment & LifeStyle",Dens Food Channel 
@@ -491,43 +491,6 @@ https://nyanv-live-cdn.mncnow.id/live/eds/MTV-90-HD/sa_dash_vmx/MTV-90-HD.mpd
 https://github.com/mimipipi22/lalajo/raw/main/stingrayjazz.m3u8
 
 <============================ Sports ========================>
-
-#EXTINF:-1 tvg-logo="https://www.nicepng.com/png/full/213-2133982_sky-sports-logo-png.png" group-title="Sports",Sky Sports Premier League 
-http://62.182.83.91:80/protoniom1201/wMLkbzV8dXCC/13900
-
-#EXTINF:-1 tvg-logo="https://livetv.watch/img/Logo-Sky-Sport-News-HD-SSNHD.png" group-title="Sports",Sky Sport News 
-http://62.182.83.91:80/protoniom1201/wMLkbzV8dXCC/13891
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Sky_Sport_Action.svg/2560px-Sky_Sport_Action.svg.png" group-title="Sports",Sky Sports Action 
-http://62.182.83.91:80/protoniom1201/wMLkbzV8dXCC/13892
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Sky_Sport_Football_-_Logo_2020.svg/2560px-Sky_Sport_Football_-_Logo_2020.svg.png" group-title="Sports",Sky Sports Football 
-http://62.182.83.91:80/protoniom1201/wMLkbzV8dXCC/13893
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Sky_Sport_Golf_Logo_2022.svg/1200px-Sky_Sport_Golf_Logo_2022.svg.png" group-title="Sports",Sky Sports Golf 
-http://62.182.83.91:80/protoniom1201/wMLkbzV8dXCC/13894
-
-#EXTINF:-1 tvg-logo="https://www.pngkey.com/png/detail/921-9211380_sky-sports-cricket-sky-sports-main-event-logo.png" group-title="Sports",Sky Sports Cricket 
-http://62.182.83.91:80/protoniom1201/wMLkbzV8dXCC/13895
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Sky_Sport_F1_-_Logo_2020.svg/2560px-Sky_Sport_F1_-_Logo_2020.svg.png" group-title="Sports",Sky Sports F1 
-http://62.182.83.91:80/protoniom1201/wMLkbzV8dXCC/13896
-
-#EXTINF:-1 tvg-logo="https://www.pngkey.com/png/full/961-9612367_sky-sports-arena-sky-sports-arena-live-sky.png" group-title="Sports",Sky Sports Arena 
-http://62.182.83.91:80/protoniom1201/wMLkbzV8dXCC/13897
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Sky_Sport_Mix_Logo_2022.svg/2560px-Sky_Sport_Mix_Logo_2022.svg.png" group-title="Sports",Sky Sports Mix 
-http://62.182.83.91:80/protoniom1201/wMLkbzV8dXCC/13898
-
-#EXTINF:-1 tvg-logo="https://songslover.in/wp-content/uploads/Sky-Sports-Main-Event.png" group-title="Sports",Sky Sports Main Event 
-http://62.182.83.91:80/protoniom1201/wMLkbzV8dXCC/13899
-
-#EXTINF:-1 tvg-id="" tvg-url=”https://tinyurl.com/jejevisionepg” tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Sky_Sport_MotoGP_HD_-_Logo_2020.svg/1280px-Sky_Sport_MotoGP_HD_-_Logo_2020.svg.png" group-title="Sports",Sky Sport MotoGP
-http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=692422&extension=ts&play_token=Nc9qifjsYN
-
-#EXTINF:-1 tvg-id="" tvg-url=”https://tinyurl.com/jejevisionepg” tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Sky_Sport_Tennis.svg/2560px-Sky_Sport_Tennis.svg.png" group-title="Sports",Sky Sport Tennis
-http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=692431&extension=ts&play_token=zKyDwE3Cw4
-
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
