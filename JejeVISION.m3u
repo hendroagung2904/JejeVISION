@@ -1067,3 +1067,58 @@ http://live.serverstreaming.net:9340/kisifm
 #EXTINF:-1  tvg-id="" tvg-url="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/63/Smooth_fm_jkt.png/" group-title="Internet Radio",KISI FM Bogor
 https://svara-stream.radioddns.net:8443/jakarta_smoothfm_mp3
 
+<====================== Trial Channel ============================>
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Trial Channel", US: AMC
+http://kuchini.site:8080/LeCyGodF/thYAg86ShLywX9FL/751
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Trial Channel", US: Cine Life
+http://kuchini.site:8080/LeCyGodF/thYAg86ShLywX9FL/298472
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Trial Channel", US: FX Movie Channel
+http://kuchini.site:8080/LeCyGodF/thYAg86ShLywX9FL/39873
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Trial Channel", US: Gravitas Movies
+http://kuchini.site:8080/LeCyGodF/thYAg86ShLywX9FL/281943
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Trial Channel", US: Hallmark Movies & Mysteries
+http://kuchini.site:8080/LeCyGodF/thYAg86ShLywX9FL/3388
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Trial Channel", US: HBO
+http://kuchini.site:8080/LeCyGodF/thYAg86ShLywX9FL/2336
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Trial Channel", US: HBO 2
+http://kuchini.site:8080/LeCyGodF/thYAg86ShLywX9FL/5844
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Trial Channel", US: HBO Comedy
+http://kuchini.site:8080/LeCyGodF/thYAg86ShLywX9FL/2335
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Trial Channel", US: HBO Family
+http://kuchini.site:8080/LeCyGodF/thYAg86ShLywX9FL/760
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Trial Channel", US: HBO Signature
+http://kuchini.site:8080/LeCyGodF/thYAg86ShLywX9FL/6305
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Trial Channel", US: HBO Zone
+http://kuchini.site:8080/LeCyGodF/thYAg86ShLywX9FL/6328
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Trial Channel", US: HDNet Movies
+http://kuchini.site:8080/LeCyGodF/thYAg86ShLywX9FL/200162
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Trial Channel", US: Lifetime Movies
+http://kuchini.site:8080/LeCyGodF/thYAg86ShLywX9FL/12992
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Trial Channel", US: MovieMax
+http://kuchini.site:8080/LeCyGodF/thYAg86ShLywX9FL/15110
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Trial Channel", US: MoviePlex
+http://kuchini.site:8080/LeCyGodF/thYAg86ShLywX9FL/38477
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Trial Channel", US: Sony Movies
+http://kuchini.site:8080/LeCyGodF/thYAg86ShLywX9FL/5831
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Trial Channel", US: Starz Cinema
+http://kuchini.site:8080/LeCyGodF/thYAg86ShLywX9FL/767
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Trial Channel", US: TCM Movies
+http://kuchini.site:8080/LeCyGodF/thYAg86ShLywX9FL/193459
