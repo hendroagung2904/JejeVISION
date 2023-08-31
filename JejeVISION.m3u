@@ -700,24 +700,6 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch23)/index.m3u8
 
 <=========================================== Malaysia ==========================================>
 
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-04/f9cbb250de1822306dc0b7e9cdd23c9a.png" group-title="Malaysia",Astro Arena
-http://sysadminhost.net:8080/stadnik/6a627b52a9/157485
-
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/e976949486bc089b9dec986e9a860ff8.png" group-title="Malaysia",Astro Awani
-http://sysadminhost.net:8080/stadnik/6a627b52a9/157478
-
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/edc8a9c38c820781eb4785f4e5ee89ca.png" group-title="Malaysia",Astro Cricket
-http://sysadminhost.net:8080/stadnik/6a627b52a9/157565
-
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-08/28fc1cfc2e9b5b2ba64f6bf5bcaa357d.png" group-title="Malaysia",Astro Oasis
-http://sysadminhost.net:8080/stadnik/6a627b52a9/157489
-
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/584608e7b0eb904734396e6cc6831811.png" group-title="Malaysia",Astro Prima
-http://sysadminhost.net:8080/stadnik/6a627b52a9/157467
-
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/98eeb75a39995d2c6ab45fb716af8310.png" group-title="Malaysia",Astro Ria
-http://sysadminhost.net:8080/stadnik/6a627b52a9/158347
-
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #EXTINF:-1 tvg-id="TV1" tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f4/Logo_of_TV1_%28Malaysia%29.svg/1200px-Logo_of_TV1_%28Malaysia%29.svg.png" tvg-url="" group-title="Malaysia",TV 1
