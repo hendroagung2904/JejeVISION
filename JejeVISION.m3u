@@ -489,6 +489,9 @@ https://github.com/mimipipi22/lalajo/raw/main/stingrayjazz.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/cb/Fox_Soccer_Plus_logo.svg/1200px-Fox_Soccer_Plus_logo.svg.png" group-title="Sports",Fox Soccer Plus
 https://livecdn-iptv001.rumsport.com/stream/2314/stream/2314_hd/chunks.m3u8
 
+#EXTINF:-1 tvg-logo="https://roozrang.com/wp-content/uploads/2023/03/A7044291-0DE3-4685-8192-4866A37010AB.png" group-title="Sports",Fubo Sports
+https://livecdn-iptv001.rumsport.com/stream/147553/stream/147553_hd/chunks.m3u8
+
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDQzYTRlODMtMGE2Mi0zNTNlLWFlMzctZjUxNDk4NDliYjM5
