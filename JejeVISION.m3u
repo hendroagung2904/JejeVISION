@@ -112,11 +112,15 @@ http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/197972
 #EXTINF:-1 tvg-id=""HBO Hits HD" tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml" tvg-logo="https://www.pngfind.com/pngs/m/71-717989_1500-x-700-2-hbo-hits-hd-png.png" group-title="Premium Movies",HBO Hits
 http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/196480
 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://hbofamp.openwindow040.workers.dev
 #EXTINF:-1 tvg-id="HBO Family HD" tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml" tvg-logo="https://www.logolynx.com/images/logolynx/f6/f698eb722f634f9ce32a39a63cc845af.png" group-title="Premium Movies",HBO Family
-http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/197055
+https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(cec31cdd-d2ff-4c23-8a76-ad1c0ef025e2)/manifest.mpd
 
-#EXTINF:-1 tvg-id="HBO Signature HD" tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml" tvg-logo="https://image.pngaaa.com/786/3837786-middle.png" group-title="Premium Movies",HBO Signature
-http://aflaxtv.xyz:8080/Giobox2/aPnVqQVT6GXhu92E/221948
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://hbosigp.openwindow040.workers.dev
+EXTINF:-1 tvg-id="HBO Signature HD" tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml" tvg-logo="https://image.pngaaa.com/786/3837786-middle.png" group-title="Premium Movies",HBO Signature
+https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(774b9a1e-aa1a-425b-8f24-f90d48787777)/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://cinemaxp.openwindow040.workers.dev
