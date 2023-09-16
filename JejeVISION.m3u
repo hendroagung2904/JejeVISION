@@ -112,19 +112,19 @@ https://kbtv.akamaized.net/hls/live/2031188/kanalbuya/1.m3u8
 
 <================== Premium Movies ====================>
 #EXTINF:-1 tvg-id="HBO HD" tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml" tvg-logo="https://raw.githubusercontent.com/hendroagung2904/LOGO/main/HBO%20HD.png" group-title="Premium Movies",HBO
-http://sysadminhost.net:8080/stadnik/6a627b52a9/197972
+http://37.49.230.42:8080/resplice/BiD8iEiMv7js1OUL/197972
 
 #EXTINF:-1 tvg-id=""HBO Hits HD" tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml" tvg-logo="https://raw.githubusercontent.com/hendroagung2904/LOGO/main/HBO%20HITS.png" group-title="Premium Movies",HBO Hits
-http://sysadminhost.net:8080/stadnik/6a627b52a9/196480
+http://37.49.230.42:8080/resplice/BiD8iEiMv7js1OUL/196480
 
 #EXTINF:-1 tvg-id="HBO Family HD" tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml" tvg-logo="https://raw.githubusercontent.com/hendroagung2904/LOGO/main/HBO%20Family.png" group-title="Premium Movies",HBO Family
-http://sysadminhost.net:8080/stadnik/6a627b52a9/197055
+http://37.49.230.42:8080/resplice/BiD8iEiMv7js1OUL/197055
 
 #EXTINF:-1 tvg-id="HBO Signature HD" tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml" tvg-logo="https://github.com/hendroagung2904/LOGO/blob/main/HBO%20Signature.png" group-title="Premium Movies",HBO Signature
-http://sysadminhost.net:8080/stadnik/6a627b52a9/221948
+http://37.49.230.42:8080/resplice/BiD8iEiMv7js1OUL/221948
 
 #EXTINF:-1 tvg-id="Cinemax HD" tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml" tvg-logo="https://raw.githubusercontent.com/hendroagung2904/LOGO/main/Cinemax.png" group-title="Premium Movies",Cinemax
-http://aanax.com:8080/LeCyGodF/thYAg86ShLywX9FL/197964
+http://37.49.230.42:8080/resplice/BiD8iEiMv7js1OUL/197964
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDQzYTRlODMtMGE2Mi0zNTNlLWFlMzctZjUxNDk4NDliYjM5
