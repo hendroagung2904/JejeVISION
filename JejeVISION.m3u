@@ -343,7 +343,7 @@ https://smithsonianaus-samsungau.amagi.tv/playlist720p.m3u8
 https://liveaneviadev.mncnow.id/live/eds/AXN/sa_dash_vmx/AXN.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://drm-cubmu.mammothtv.workers.dev/license-proxy-widevine/cenc/?specConform=true
+#KODIPROP:inputstream.adaptive.license_key=https://dcub.zhehacindo.workers.dev/dcub
 #EXTINF:-1 group-title="Entertainment & LifeStyle" tvg-logo="https://i.postimg.cc/XqPWcL94/Warner-TV.png", WarnerTV
 #https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856c3db2cc016cf0b533fe73e3/manifest.mpd
 
