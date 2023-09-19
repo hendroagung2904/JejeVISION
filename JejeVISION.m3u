@@ -38,12 +38,8 @@ http://edge.linknetott.swiftserve.com/channelgroup3/cg357production/ch395/03.m3u
 #EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/Indosiar.png" group-title="Indonesia Channels" tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml" tvg-id="Indosiar.id" tvg-name="Indosiar", Indosiar HD 
 http://edge.linknetott.swiftserve.com/channelgroup3/cg331production/ch8/index.m3u8
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=https://dcub.zhehacindo.workers.dev/dcub
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://dcub.zhehacindo.workers.dev/dcub
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="NET.id" group-title="Indonesia Channels" tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml" tvg-logo="https://static.mncnow.id/images/channel/b32939e5/00e6_r32.jpg",NET
 https://cdnjkt2.transvision.co.id:1001/live/master/2/4028c685758bcfff01776bc7624307ab/manifest.mpd
 
@@ -115,47 +111,28 @@ https://nusantaratv.siar.us/nusantaratv/live/chunks.m3u8
 https://kbtv.akamaized.net/hls/live/2031188/kanalbuya/1.m3u8
 
 <================== Premium Movies ====================>
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=https://dcub.zhehacindo.workers.dev/dcub
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://dcub.zhehacindo.workers.dev/dcub
 #EXTINF:-1 tvg-id="HBO HD" tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml" tvg-logo="https://raw.githubusercontent.com/hendroagung2904/LOGO/main/HBO%20HD.png" group-title="Premium Movies",HBO
 https://cdnjkt2.transvision.co.id:1001/live/master/3/4028c6856b6088c3016b87d64b970b53/manifest.mpd
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=https://dcub.zhehacindo.workers.dev/dcub
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://dcub.zhehacindo.workers.dev/dcub
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="HBO Hits HD" tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml" tvg-logo="https://raw.githubusercontent.com/hendroagung2904/LOGO/main/HBO%20HITS.png" group-title="Premium Movies",HBO Hits
 https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856c3db2cc016d054fbf67379f/manifest.mpd
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=https://dcub.zhehacindo.workers.dev/dcub
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://dcub.zhehacindo.workers.dev/dcub
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="HBO Family HD" tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml" tvg-logo="https://raw.githubusercontent.com/hendroagung2904/LOGO/main/HBO%20Family.png" group-title="Premium Movies",HBO Family
 https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856c3db2cc016d055927fe37a4/manifest.mpd
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=https://dcub.zhehacindo.workers.dev/dcub
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://dcub.zhehacindo.workers.dev/dcub
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="HBO Signature HD" tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml" tvg-logo="https://github.com/hendroagung2904/LOGO/blob/main/HBO%20Signature.png" group-title="Premium Movies",HBO Signature
 https://cdnjkt2.transvision.co.id:1001/live/master/3/4028c6856c3db2cc016d0552e0ca37a2/manifest.mpd
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=https://dcub.zhehacindo.workers.dev/dcub
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://dcub.zhehacindo.workers.dev/dcub
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="Cinemax HD" tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml" tvg-logo="https://raw.githubusercontent.com/hendroagung2904/LOGO/main/Cinemax.png" group-title="Premium Movies",Cinemax
 https://cdnjkt2.transvision.co.id:1001/live/master/1/4028c6856c3db2cc016cdbfc4a1934bf/manifest.mpd
 
