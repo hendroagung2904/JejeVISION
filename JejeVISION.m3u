@@ -114,18 +114,23 @@ https://kbtv.akamaized.net/hls/live/2031188/kanalbuya/1.m3u8
 <================== Premium Movies ====================>
 #EXTINF:-1 tvg-id="HBO HD" tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml" tvg-logo="https://raw.githubusercontent.com/hendroagung2904/LOGO/main/HBO%20HD.png" group-title="Premium Movies",HBO
 http://mykingtv.net:2082/amad1234/amad1234/6964
+http://aflaxtv.xyz:8080/0613bffd/d7f0406c7a/157578
 
 #EXTINF:-1 tvg-id="HBO Hits HD" tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml" tvg-logo="https://raw.githubusercontent.com/hendroagung2904/LOGO/main/HBO%20HITS.png" group-title="Premium Movies",HBO Hits
 http://mykingtv.net:2082/amad1234/amad1234/6965
+http://aflaxtv.xyz:8080/0613bffd/d7f0406c7a/196480
 
 #EXTINF:-1 tvg-id="HBO Family HD" tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml" tvg-logo="https://raw.githubusercontent.com/hendroagung2904/LOGO/main/HBO%20Family.png" group-title="Premium Movies",HBO Family
 http://mykingtv.net:2082/amad1234/amad1234/6967
+http://aflaxtv.xyz:8080/0613bffd/d7f0406c7a/197055
 
 #EXTINF:-1 tvg-id="HBO Signature HD" tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml" tvg-logo="https://github.com/hendroagung2904/LOGO/blob/main/HBO%20Signature.png" group-title="Premium Movies",HBO Signature
 http://mykingtv.net:2082/amad1234/amad1234/6966
+http://aflaxtv.xyz:8080/0613bffd/d7f0406c7a/221948
 
 #EXTINF:-1 tvg-id="Cinemax HD" tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml" tvg-logo="https://raw.githubusercontent.com/hendroagung2904/LOGO/main/Cinemax.png" group-title="Premium Movies",Cinemax
 http://mykingtv.net:2082/amad1234/amad1234/6963
+http://aflaxtv.xyz:8080/0613bffd/d7f0406c7a/197964
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDQzYTRlODMtMGE2Mi0zNTNlLWFlMzctZjUxNDk4NDliYjM5
