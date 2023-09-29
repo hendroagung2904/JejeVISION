@@ -285,7 +285,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/Cinemachi-Xtra-HD/sa_dash_vmx/Cinemach
 https://nyanv-live-cdn.mncnow.id/live/eds/IndonesiaMovieChannels-HD/sa_dash_vmx/IndonesiaMovieChannels-HD.mpd
 
 #EXTINF: -1 tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml" tvg-logo="https://raw.githubusercontent.com/hendroagung2904/LOGO/main/Citra%20Bioskop.png" group-title="Premium Movies",Citra Bioskop
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch376)/index.m3u8
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/298519
 
 #EXTINF:-1 tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml" tvg-id="CitraDrama.id" tvg-name="" tvg-logo="https://raw.githubusercontent.com/hendroagung2904/LOGO/main/Citra%20Drama.png" group-title="Premium Movies",Citra Drama
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch378)/index.m3u8
