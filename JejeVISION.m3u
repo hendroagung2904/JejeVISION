@@ -303,6 +303,9 @@ https://nyanv-live-cdn.mncnow.id/live/eds/BBCEarth-HD/sa_dash_vmx/BBCEarth-HD.mp
 #EXTINF:-1 group-title="Knowledge & Documentary" tvg-id="NationalGeographic" tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_450.png",National Geographic
 https://nyanv-live-cdn.mncnow.id/live/eds/NatGeoChannel/sa_dash_vmx/NatGeoChannel.mpd
 
+#EXTINF:-1 group-title="Knowledge & Documentary" tvg-id="NationalGeographic" tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_450.png",National Geographic
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/natgeo.m3u8
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDQzYTRlODMtMGE2Mi0zNTNlLWFlMzctZjUxNDk4NDliYjM5
 #EXTINF:-1 tvg-id="NatGeoWild" tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml" tvg-name="NationalGeographicWildIndonesia.id" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_463.png" group-title="Knowledge & Documentary",Nat Geo Wild
