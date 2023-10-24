@@ -666,7 +666,7 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch168)/index.m3u
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://cubmu.ceriatv.workers.dev/
 #EXTINF:-1 tvg-id="Cartoon Network" tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml" tvg-logo="https://www.freepnglogos.com/uploads/cartoon-network-png-logo/c-n-png-logo-3.png" tvg-id="CartoonNetworkAsia.sg" tvg-name="Cartoon Network" group-title="Kids",Cartoon Network
-#https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856b8d2390016b9c3ee6c21d7c/manifest.mpd
+https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856b8d2390016b9c3ee6c21d7c/manifest.mpd
 
 #EXTINF:-1 tvg-id="Cartoon Network" tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml" tvg-logo="https://www.freepnglogos.com/uploads/cartoon-network-png-logo/c-n-png-logo-3.png" tvg-id="CartoonNetworkAsia.sg" tvg-name="Cartoon Network" group-title="Kids",Cartoon Network
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch103)/index.m3u8
@@ -679,7 +679,7 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch371)/index.m3u
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://cubmu.ceriatv.workers.dev/
 #EXTINF:-1 tvg-id="Boomerang HD" tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Cartoonito_-_Logo_2021.svg/2560px-Cartoonito_-_Logo_2021.svg.png" group-title="Kids",Cartoonito_
-#https://cdnjkt2.transvision.co.id:1001/live/master/3/4028c6856c3db2cc016d055f43ff37a5/manifest.mpd
+https://cdnjkt2.transvision.co.id:1001/live/master/3/4028c6856c3db2cc016d055f43ff37a5/manifest.mpd
 
 #EXTINF:-1 tvg-id="Boomerang HD" tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Cartoonito_-_Logo_2021.svg/2560px-Cartoonito_-_Logo_2021.svg.png" group-title="Kids",Cartoonito_
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch372)/index.m3u8
@@ -689,7 +689,7 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch372)/index.m3u
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://cubmu.ceriatv.workers.dev/
 #EXTINF:-1 tvg-logo="https://cdnjkt2.transvision.co.id:1001/image/web/channel/4028c6856c3db2cc016cdc32eb0c439c/12b284fc8ea145f4b91747c56e846f9f.png" group-title="Kids",Dunia Anak 
-#https://cdnjkt2.transvision.co.id:1001/live/master/2/4028c6856c3db2cc016cdc32eb0c439c/manifest.mpd
+https://cdnjkt2.transvision.co.id:1001/live/master/2/4028c6856c3db2cc016cdc32eb0c439c/manifest.mpd
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
