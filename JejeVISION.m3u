@@ -892,6 +892,31 @@ http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=7641_&extensi
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="Sports", SKY SPORT MIX UK
 http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=22456_&extension=ts
 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="Sports", TSN 1 US
+http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=18139_&extension=ts
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="Sports", TSN 2 US
+http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=18138_&extension=ts
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="Sports", TSN 3 US
+http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=18137_&extension=ts
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="Sports", TSN 4 US
+http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=18136_&extension=ts
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="Sports", TSN 5 US
+http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=18135_&extension=ts
+
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
