@@ -852,6 +852,47 @@ https://github.com/mimipipi22/lalajo/raw/main/stingrayjazz.m3u8
 
 <============================ Sports ========================>
 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="Sports", SKY SPORT ACTION UK
+http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=11400_&extension=ts
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="Sports", SKY SPORT ARENA UK
+http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=28035_&extension=ts
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="Sports", SKY SPORT CRICKET UK
+http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=210_&extension=ts
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="Sports", SKY SPORT F1 UK
+http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=214_&extension=ts
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="Sports", SKY SPORT FOOTBALL UK
+http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=28034_&extension=ts
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="Sports", SKY SPORT GOLF UK
+http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=11401_&extension=ts
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="Sports", SKY SPORT MAIN EVENT UK
+http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=7641_&extension=ts
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="Sports", SKY SPORT MIX UK
+http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=22456_&extension=ts
+
+
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -950,7 +991,7 @@ http://210.210.155.37/uq2663/h/h09/index.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTINF:-1 tvg-logo="https://www.seekpng.com/png/detail/51-517961_cnn-logo-with-earth-png-cnn-international.png" group-title="News",CNN International
-https://cnn-cnninternational-1-eu.rakuten.wurl.tv/34e563066d9b96dc179086e2f49b1c98.m3u8
+https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
