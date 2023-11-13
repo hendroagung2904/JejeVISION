@@ -994,22 +994,22 @@ https://nyanv-live-cdn.mncnow.id/live/eds/FightSports/sa_dash_vmx/FightSports.mp
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/cb/Fox_Soccer_Plus_logo.svg/1200px-Fox_Soccer_Plus_logo.svg.png" group-title="Sports",Fox Soccer Plus
-https://livecdn-iptv001.rumsport.com/stream/2314/stream/2314_hd/chunks.m3u8
+#https://livecdn-iptv001.rumsport.com/stream/2314/stream/2314_hd/chunks.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTINF:-1 tvg-logo="https://roozrang.com/wp-content/uploads/2023/03/A7044291-0DE3-4685-8192-4866A37010AB.png" group-title="Sports",Fubo Sports
-https://livecdn-iptv001.rumsport.com/stream/147553/stream/147553_hd/chunks.m3u8
+#https://livecdn-iptv001.rumsport.com/stream/147553/stream/147553_hd/chunks.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Fox_Sports_1_logo.svg/2560px-Fox_Sports_1_logo.svg.png" group-title="Sports",FOX Sports 1
-https://livecdn-iptv001.rumsport.com/stream/756/stream/756_hd/chunks.m3u8
+#https://livecdn-iptv001.rumsport.com/stream/756/stream/756_hd/chunks.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/2015_Fox_sports_logo.svg/1200px-2015_Fox_sports_logo.svg.png" group-title="Sports",FOX Sports 2
-https://livecdn-iptv001.rumsport.com/stream/757/stream/757_hd/chunks.m3u8
+#https://livecdn-iptv001.rumsport.com/stream/757/stream/757_hd/chunks.m3u8
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
