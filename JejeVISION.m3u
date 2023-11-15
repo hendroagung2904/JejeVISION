@@ -1360,6 +1360,61 @@ http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=571307&ex
 #EXTINF:-1 tvg-id="AstroAwani.my" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/Astro_Awani.png" group-title="Malaysia",Astro Awani
 https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index.m3u8
 
+
+#EXTINF:-1 group-title="Malaysia" tvg-id="" tvg-url="" tvg-logo="",TV1 
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/1
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/2
+
+#EXTINF:-1 group-title="Malaysia" tvg-id="" tvg-url="" tvg-logo="",TV2
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/3
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/4
+
+#EXTINF:-1 group-title="Malaysia" tvg-id="" tvg-url="" tvg-logo="",TV3
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/5
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/6
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/7
+
+#EXTINF:-1 group-title="Malaysia" tvg-id="" tvg-url="" tvg-logo="",8
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/9
+
+#EXTINF:-1 group-title="Malaysia" tvg-id="" tvg-url="" tvg-logo="",9
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/10
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/11
+
+#EXTINF:-1 group-title="Malaysia" tvg-id="" tvg-url="" tvg-logo="",TV Al Hijrah
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/14
+
+#EXTINF:-1 group-title="Malaysia" tvg-id="" tvg-url="" tvg-logo="",Bernama TV
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/15
+
+#EXTINF:-1 group-title="Malaysia" tvg-id="" tvg-url="" tvg-logo="",Astro Awani
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/17
+
+#EXTINF:-1 group-title="Malaysia" tvg-id="" tvg-url="" tvg-logo="",Astro
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/17
+
+#EXTINF:-1 group-title="Malaysia" tvg-id="" tvg-url="" tvg-logo="",Astro Ceria
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/19
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/20
+
+#EXTINF:-1 group-title="Malaysia" tvg-id="" tvg-url="" tvg-logo="",Astro Prima
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/21
+
+#EXTINF:-1 group-title="Malaysia" tvg-id="" tvg-url="" tvg-logo="",Astro Ria
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/23
+
+#EXTINF:-1 group-title="Malaysia" tvg-id="" tvg-url="" tvg-logo="",Astro Warna
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/25
+
+#EXTINF:-1 group-title="Malaysia" tvg-id="" tvg-url="" tvg-logo="",Astro
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/27
+
+#EXTINF:-1 group-title="Malaysia" tvg-id="" tvg-url="" tvg-logo="",Astro Aura
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/28
+
+#EXTINF:-1 group-title="Malaysia" tvg-id="" tvg-url="" tvg-logo="",Astro
+http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/29
+
 <============================== Brunei ======================================>
 
 #EXTINF:-1 group-title="Brunei" tvg-id="Sukmaindera" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c0/RTB_Sukmaindera.png",RTB Sukmaindera FHD
