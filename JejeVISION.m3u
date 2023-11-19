@@ -1,6 +1,8 @@
 ﻿﻿#EXTM3U
 #EXTM3U url-tvg="https://bit.ly/JejeVisionEPG" 
 #EXTM3U x-tvg-url="https://bit.ly/JejeVisionEPG" 
+
+
 <================================== Indonesia Channels =================================>
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_type=clearkey
