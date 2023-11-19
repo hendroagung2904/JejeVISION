@@ -197,12 +197,12 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch260%29/index
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/2018_Travel_Channel_logo.svg/1200px-2018_Travel_Channel_logo.svg.png" group-title="Entertainment & LifeStyle",Travel Channel
+#EXTINF:-1 group-title="Entertainment & Lifestyle" tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/2018_Travel_Channel_logo.svg/1200px-2018_Travel_Channel_logo.svg.png",Travel Channel
 https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Travel-Channel.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTINF:-1 tvg-id="Travelxp HD" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://images.travelxp.com/images/txpin/general/travelxplogo1.png" group-title="Entertainment & LifeStyle",Travel XP
+#EXTINF:-1 group-title="Entertainment & Lifestyle" tvg-id="Travelxp HD" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://images.travelxp.com/images/txpin/general/travelxplogo1.png",Travel XP
 https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -222,7 +222,7 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch377%29/index
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTINF:-1 tvg-id="WarnerTVAsia.us" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://www.seekpng.com/png/full/133-1331089_warner-brothers-tv-logo-5-by-whitney-warner.png" group-title="Entertainment & LifeStyle",Warner TV
+#EXTINF:-1 group-title="Entertainment & Lifestyle" tvg-id="WarnerTVAsia.us" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://www.seekpng.com/png/full/133-1331089_warner-brothers-tv-logo-5-by-whitney-warner.png",Warner TV
 http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/157594
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
