@@ -350,6 +350,37 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch372%29/index
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch375%29/index.m3u8
 
 <======================= Sports ================================>
+
+#EXTINF:-1 tvg-logo="https://blog.burst.com/wp-content/uploads/2016/03/foxsports-smaller.jpg" group-title="Sports", FOX SPORT 501
+http://m.marstvx.com:80/play/live.php?mac=00:1A:79:E7:2A:14&stream=646971_&extension=ts
+
+#EXTINF:-1 tvg-logo="https://blog.burst.com/wp-content/uploads/2016/03/foxsports-smaller.jpg" group-title="Sports", FOX SPORT 502
+http://m.marstvx.com:80/play/live.php?mac=00:1A:79:E7:2A:14&stream=646970_&extension=ts
+
+#EXTINF:-1 tvg-logo="https://blog.burst.com/wp-content/uploads/2016/03/foxsports-smaller.jpg" group-title="Sports", FOX SPORT 503
+http://m.marstvx.com:80/play/live.php?mac=00:1A:79:E7:2A:14&stream=646969_&extension=ts
+
+#EXTINF:-1 tvg-logo="https://blog.burst.com/wp-content/uploads/2016/03/foxsports-smaller.jpg" group-title="Sports", FOX SPORT 504
+http://m.marstvx.com:80/play/live.php?mac=00:1A:79:E7:2A:14&stream=646968_&extension=ts
+
+#EXTINF:-1 tvg-logo="https://blog.burst.com/wp-content/uploads/2016/03/foxsports-smaller.jpg" group-title="Sports", FOX SPORT 505
+http://m.marstvx.com:80/play/live.php?mac=00:1A:79:E7:2A:14&stream=646967_&extension=ts
+
+#EXTINF:-1 tvg-logo="https://blog.burst.com/wp-content/uploads/2016/03/foxsports-smaller.jpg" group-title="Sports", FOX SPORT 506
+http://m.marstvx.com:80/play/live.php?mac=00:1A:79:E7:2A:14&stream=646966_&extension=ts
+
+#EXTINF:-1 tvg-logo="https://blog.burst.com/wp-content/uploads/2016/03/foxsports-smaller.jpg" group-title="Sports", FOX SPORT 507
+http://m.marstvx.com:80/play/live.php?mac=00:1A:79:E7:2A:14&stream=646965_&extension=ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/BeIN_SPORTS_Australia_logo_2017.jpg" group-title="Sports", BEIN SPORT
+http://m.marstvx.com:80/play/live.php?mac=00:1A:79:E7:2A:14&stream=646977_&extension=ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/BeIN_SPORTS_Australia_logo_2017.jpg" group-title="Sports", BEIN SPORT 2
+http://m.marstvx.com:80/play/live.php?mac=00:1A:79:E7:2A:14&stream=646976_&extension=ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/BeIN_SPORTS_Australia_logo_2017.jpg" group-title="Sports", BEIN SPORT 3
+http://m.marstvx.com:80/play/live.php?mac=00:1A:79:E7:2A:14&stream=646975_&extension=ts
+
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c0/Champions_TV_5.png" group-title="Sports",English Premiere League
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"yGGRr8NyxQBuurbovfYeFA","kid":"eSybOCYVxH_fuEDf0jh7iw"}],"type": "temporary"}
