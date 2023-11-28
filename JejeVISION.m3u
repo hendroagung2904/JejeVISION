@@ -185,8 +185,6 @@ https://kbtv.akamaized.net/hls/live/2031188/kanalbuya/1.m3u8
 <======================== Premium Movies ==========================>
 #EXTINF:-1 tvg-id="HBO HD" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://seeklogo.com/images/H/hbo-logo-9BCB43E157-seeklogo.com.png" group-title="Premium Movies",HBO
 http://iptvtree.net:8080/onestream/j4DvYuVxCA27Zmg3hPyXRa/197972
-http://iptvstream.xyz:8080/Dooby/66754f23/197972
-http://iptvtree.net:8080/87b43fb3/d8db7a3d96/197972
 
 #EXTINF:-1 tvg-id="HBO Hits HD" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://raw.githubusercontent.com/hendroagung2904/LOGO/main/HBO%20HITS.png" group-title="Premium Movies",HBO Hits
 http://iptvtree.net:8080/onestream/j4DvYuVxCA27Zmg3hPyXRa/196480
@@ -204,9 +202,6 @@ http://iptvtree.net:8080/87b43fb3/d8db7a3d96/221948
 
 #EXTINF:-1 tvg-id="Cinemax HD" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://raw.githubusercontent.com/hendroagung2904/LOGO/main/Cinemax.png" group-title="Premium Movies",Cinemax
 http://iptvtree.net:8080/onestream/j4DvYuVxCA27Zmg3hPyXRa/197964
-http://sysadminhost.net:8080/pachaman/kcxSPa4CExFPFjm2/197964
-http://iptvstream.xyz:8080/Dooby/66754f23/197964
-http://iptvtree.net:8080/87b43fb3/d8db7a3d96/197964
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
