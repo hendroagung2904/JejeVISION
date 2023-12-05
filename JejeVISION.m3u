@@ -53,7 +53,7 @@ http://op-group1-swiftservehd-1.dens.tv/h/h210/index.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTINF:-1 tvg-id="SCTV - [Channel 89].id" tvg-logo="https://www.mncvision.id/userfiles/image/channel/sctv.png" group-title="Indonesia Channels" tvg-url="https://bit.ly/JejeVisionEPG",SCTV 
-http://103.166.27.2:8112/play/a015/index.m3u8
+http://premiumiptvmk.com:8080/shaboy85/B3hLKkFsT7QXRE4PVcUCrx/162141
 
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -65,7 +65,7 @@ http://103.166.27.2:8112/play/a015/index.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTINF:-1 tvg-id="Indosiar" tvg-logo="https://www.mncvision.id/userfiles/image/channel/Indosiar.png" group-title="Indonesia Channels" tvg-url="https://bit.ly/JejeVisionEPG",Indosiar HD 
-http://op-group1-swiftservehd-1.dens.tv/h/h207/index.m3u8
+http://103.166.27.2:8112/play/a016/index.m3u8
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
