@@ -511,18 +511,9 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch302%29/index
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Discovery_Science_-_Logo_2017.svg/1200px-Discovery_Science_-_Logo_2017.svg.png" group-title="Knowledge & Documentary",Discovery Science
-http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=571211&extension=ts&play_token=GVZS088tcf
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTINF:-1 tvg-id="AnimalPlanetMalaysia.my" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_203.png" group-title="Knowledge & Documentary",Animal Planet 
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch31%29/index.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTINF:-1 tvg-id="AnimalPlanetMalaysia.my" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_203.png" group-title="Knowledge & Documentary",Animal Planet 
-#https://mantul.biz.id:443/ekos/748382/65
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -588,10 +579,6 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch35%29/index.
 #EXTINF:-1 tvg-id="WarnerTVAsia.us" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://www.seekpng.com/png/full/133-1331089_warner-brothers-tv-logo-5-by-whitney-warner.png" group-title="Entertainment & LifeStyle",Warner TV
 http://iptvtree.net:8080/06c71787/b4841bff74/157594
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTINF:-1 tvg-id="WarnerTVAsia.us" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://www.seekpng.com/png/full/133-1331089_warner-brothers-tv-logo-5-by-whitney-warner.png" group-title="Entertainment & LifeStyle",Warner TV
-#http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/157594
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -618,34 +605,8 @@ http://muka03.wanicelife.com:8880/3ca7283n03/asdf23e423/71120
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="" group-title="Entertainment & LifeStyle",Tastemade Australia
-https://tmint-aus-samsungau.amagi.tv/playlist.m3u8
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://i.ytimg.com/vi/aO4miDfiZ1I/maxresdefault.jpg" group-title="Entertainment & LifeStyle",Tastemade Travel
-https://tastemadetravel-vizio.amagi.tv/playlist.m3u8
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTINF:-1 tvg-id="HGTVAsia.us" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://mncvision.id/userfiles/image/channel/HGTV_150x150px-01.png" group-title="Entertainment & LifeStyle",HGTV 
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch354%29/index.m3u8
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTINF:-1 tvg-id="HGTVAsia.us" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://mncvision.id/userfiles/image/channel/HGTV_150x150px-01.png" group-title="Entertainment & LifeStyle",HGTV 
-#https://mantul.biz.id:443/ekos/748382/40
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/2018_Travel_Channel_logo.svg/1200px-2018_Travel_Channel_logo.svg.png" group-title="Entertainment & LifeStyle",Travel Channel
-https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Travel-Channel.m3u8
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTINF:-1 tvg-id="Travelxp HD" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://images.travelxp.com/images/txpin/general/travelxplogo1.png" group-title="Entertainment & LifeStyle",Travel XP
-https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
-#https://raw.githubusercontent.com/subirkumarpaul/Subir-Max/master/Discover%20TV
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
