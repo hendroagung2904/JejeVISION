@@ -622,7 +622,7 @@ https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856c3db2cc016cf0b533f
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTINF:-1 tvg-id="WarnerTVAsia.us" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://www.seekpng.com/png/full/133-1331089_warner-brothers-tv-logo-5-by-whitney-warner.png" group-title="Entertainment & LifeStyle",Warner TV
-https://delivery.ksa.my.id/stream/warnertv/playlist.m3u8?token=ym1wtrp&v=20200807
+#https://delivery.ksa.my.id/stream/warnertv/playlist.m3u8?token=ym1wtrp&v=20200807
 
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
