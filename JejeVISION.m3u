@@ -2,6 +2,7 @@
 #EXTM3U url-tvg="https://bit.ly/JejeVisionEPG" 
 #EXTM3U x-url-tvg="https://bit.ly/JejeVisionEPG" 
 
+EXTM3U
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
