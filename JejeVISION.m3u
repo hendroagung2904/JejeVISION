@@ -48,7 +48,7 @@ http://103.166.27.2:8112/play/a017/index.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://cubmu.ceriatv.workers.dev/
 #EXTINF:-1 tvg-id="SCTV - [Channel 89].id" tvg-logo="https://www.mncvision.id/userfiles/image/channel/sctv.png" group-title="Indonesia Channels" tvg-url="https://bit.ly/JejeVisionEPG",SCTV (Transvision) 
-https://cdnjkt2.transvision.co.id:1001/live/master/5/4028c6856c3db2cc016cd6e647532391/manifest.mpd
+#https://cdnjkt2.transvision.co.id:1001/live/master/5/4028c6856c3db2cc016cd6e647532391/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -60,7 +60,7 @@ https://bit.ly/3Sc6EFk
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://cubmu.ceriatv.workers.dev/
 #EXTINF:-1 tvg-id="Indosiar - [Channel 78].id" group-title="Indonesia Channels" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://www.mncvision.id/userfiles/image/channel/Indosiar.png" ,Indosiar HD (Transvision)
-https://cdnjkt2.transvision.co.id:1001/live/master/1/4028c6856c3db2cc016cd6e773b02392/manifest.mpd
+#https://cdnjkt2.transvision.co.id:1001/live/master/1/4028c6856c3db2cc016cd6e773b02392/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -79,7 +79,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/NetTV-HD/sa_dash_vmx/NetTV-HD.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://cubmu.ceriatv.workers.dev/
 #EXTINF:-1 tvg-id="NET TV - [Channel 116].id" group-title="Indonesia Channels" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://static.mncnow.id/images/channel/b32939e5/00e6_r32.jpg",NET TV HD (Transvision)
-https://cdnjkt2.transvision.co.id:1003/live/master/2/4028c685758bcfff01776bc7624307ab/manifest.mpd
+#https://cdnjkt2.transvision.co.id:1003/live/master/2/4028c685758bcfff01776bc7624307ab/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -627,7 +627,7 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch35%29/index.
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://cubmu.ceriatv.workers.dev/
 #EXTINF:-1 tvg-id="Warner" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://www.seekpng.com/png/full/133-1331089_warner-brothers-tv-logo-5-by-whitney-warner.png" group-title="Entertainment & LifeStyle",Warner TV (Transvision)
-https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856c3db2cc016cf0b533fe73e3/manifest.mpd
+#https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856c3db2cc016cf0b533fe73e3/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -638,8 +638,8 @@ https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856c3db2cc016cf0b533f
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://cubmu.ceriatv.workers.dev/
-#EXTINF:-1 tvg-logo="https://cdnjkt2.transvision.co.id:1001/image/web/channel/4028c6857fe540a1018060aab83c40b9/1f60c0e2a14d4a26b0316f31aad41cbf.jpg" group-title="Entertainment & LifeStyle",Travel TV (Transvision)
-https://cdnjkt2.transvision.co.id:1003/live/master/3/4028c6857fe540a1018060aab83c40b9/manifest.mpd
+#EXTINF:-1 tvg-logo="#https://cdnjkt2.transvision.co.id:1001/image/web/channel/4028c6857fe540a1018060aab83c40b9/1f60c0e2a14d4a26b0316f31aad41cbf.jpg" group-title="Entertainment & LifeStyle",Travel TV (Transvision)
+#https://cdnjkt2.transvision.co.id:1003/live/master/3/4028c6857fe540a1018060aab83c40b9/manifest.mpd
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -741,7 +741,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/Arirang/sa_dash_vmx/Arirang.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://cubmupart4.apiv2x.workers.dev/
 #EXTINF:-1 group-title="Entertainment & LifeStyle" tvg-id="Fashion TV Midnight Secrets" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/1280px-Fashion_TV_logo.svg.png",Fashion TV (Transvision)
-https://cdnjkt2.transvision.co.id:1001/live/master/3/4028c6857fe540a1018060ac364140ba/manifest.mpd
+#https://cdnjkt2.transvision.co.id:1001/live/master/3/4028c6857fe540a1018060ac364140ba/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -756,7 +756,7 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch168%29/index
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://apiv2.xaad.workers.dev/
 #EXTINF:-1 tvg-id="Cartoon Network" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://www.freepnglogos.com/uploads/cartoon-network-png-logo/c-n-png-logo-3.png" tvg-id="CartoonNetworkAsia.sg" tvg-name="Cartoon Network" group-title="Kids",Cartoon Network (Transvision)
-https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856b8d2390016b9c3ee6c21d7c/manifest.mpd
+#https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856b8d2390016b9c3ee6c21d7c/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -799,8 +799,8 @@ http://103.166.27.2:8112/play/a018/index.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://cubmu.ceriatv.workers.dev/
-#EXTINF:-1 tvg-logo="https://cdnjkt2.transvision.co.id:1001/image/web/channel/4028c6856c3db2cc016cdc32eb0c439c/12b284fc8ea145f4b91747c56e846f9f.png" group-title="Kids",Dunia Anak (Transvision)
-https://cdnjkt2.transvision.co.id:1001/live/master/2/4028c6856c3db2cc016cdc32eb0c439c/manifest.mpd
+#EXTINF:-1 tvg-logo="#https://cdnjkt2.transvision.co.id:1001/image/web/channel/4028c6856c3db2cc016cdc32eb0c439c/12b284fc8ea145f4b91747c56e846f9f.png" group-title="Kids",Dunia Anak (Transvision)
+#https://cdnjkt2.transvision.co.id:1001/live/master/2/4028c6856c3db2cc016cdc32eb0c439c/manifest.mpd
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
