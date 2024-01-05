@@ -758,35 +758,6 @@ https://live.bdtubelive.xyz/api/auto/epeg/cdn/index.php?id=25375
 #EXTINF:-1 tvg-logo="https://hdpng.com/images/sports-arena-png-sky-sport-arena-uk-2374.jpg" group-title="Sports",Sky Sports Arena HD
 https://live.bdtubelive.xyz/api/auto/epeg/cdn/index.php?id=25367
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/Optussport_app.png" group-title="Sports", OPTUS 1
-http://89.45.13.153:25461/play/live.php?mac=00:1A:79:46:6B:43&stream=1519251_&extension=ts
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/Optussport_app.png" group-title="Sports", OPTUS 2
-http://89.45.13.153:25461/play/live.php?mac=00:1A:79:46:6B:43&stream=1519252_&extension=ts
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/Optussport_app.png" group-title="Sports", OPTUS 3
-http://89.45.13.153:25461/play/live.php?mac=00:1A:79:46:6B:43&stream=1519253_&extension=ts
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/Optussport_app.png" group-title="Sports", OPTUS 4
-http://89.45.13.153:25461/play/live.php?mac=00:1A:79:46:6B:43&stream=1519254_&extension=ts
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/Optussport_app.png" group-title="Sports", OPTUS 5
-http://89.45.13.153:25461/play/live.php?mac=00:1A:79:46:6B:43&stream=1519255_&extension=ts
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/Optussport_app.png" group-title="Sports", OPTUS 6
-http://89.45.13.153:25461/play/live.php?mac=00:1A:79:46:6B:43&stream=1519256_&extension=ts
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/Optussport_app.png" group-title="Sports", OPTUS 7
-http://89.45.13.153:25461/play/live.php?mac=00:1A:79:46:6B:43&stream=1519257_&extension=ts
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/Optussport_app.png" group-title="Sports", OPTUS 8
-http://89.45.13.153:25461/play/live.php?mac=00:1A:79:46:6B:43&stream=1519258_&extension=ts
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/Optussport_app.png" group-title="Sports", OPTUS 9
-http://89.45.13.153:25461/play/live.php?mac=00:1A:79:46:6B:43&stream=1519259_&extension=ts
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/Optussport_app.png" group-title="Sports", OPTUS 10
-http://89.45.13.153:25461/play/live.php?mac=00:1A:79:46:6B:43&stream=1519260_&extension=ts
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -853,6 +824,36 @@ http://210.210.155.37/uq2663/h/h09/index.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #EXTINF:-1 group-title="Sports" tvg-id="" tvg-chno="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/WWE_white_logo.svg/1200px-WWE_white_logo.svg.png",WWE
 http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=571184&extension=ts&play_token=GVZS088tcf
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/Optussport_app.png" group-title="Sports", OPTUS 1
+http://89.45.13.153:25461/play/live.php?mac=00:1A:79:46:6B:43&stream=1519251_&extension=ts
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/Optussport_app.png" group-title="Sports", OPTUS 2
+http://89.45.13.153:25461/play/live.php?mac=00:1A:79:46:6B:43&stream=1519252_&extension=ts
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/Optussport_app.png" group-title="Sports", OPTUS 3
+http://89.45.13.153:25461/play/live.php?mac=00:1A:79:46:6B:43&stream=1519253_&extension=ts
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/Optussport_app.png" group-title="Sports", OPTUS 4
+http://89.45.13.153:25461/play/live.php?mac=00:1A:79:46:6B:43&stream=1519254_&extension=ts
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/Optussport_app.png" group-title="Sports", OPTUS 5
+http://89.45.13.153:25461/play/live.php?mac=00:1A:79:46:6B:43&stream=1519255_&extension=ts
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/Optussport_app.png" group-title="Sports", OPTUS 6
+http://89.45.13.153:25461/play/live.php?mac=00:1A:79:46:6B:43&stream=1519256_&extension=ts
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/Optussport_app.png" group-title="Sports", OPTUS 7
+http://89.45.13.153:25461/play/live.php?mac=00:1A:79:46:6B:43&stream=1519257_&extension=ts
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/Optussport_app.png" group-title="Sports", OPTUS 8
+http://89.45.13.153:25461/play/live.php?mac=00:1A:79:46:6B:43&stream=1519258_&extension=ts
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/Optussport_app.png" group-title="Sports", OPTUS 9
+http://89.45.13.153:25461/play/live.php?mac=00:1A:79:46:6B:43&stream=1519259_&extension=ts
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/Optussport_app.png" group-title="Sports", OPTUS 10
+http://89.45.13.153:25461/play/live.php?mac=00:1A:79:46:6B:43&stream=1519260_&extension=ts
 
 <====================== News ========================>
 
