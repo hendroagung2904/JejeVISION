@@ -159,7 +159,9 @@ https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(92c7b96a-33fc
 #https://s.id/hboHD_shareext-ts
 
 #EXTINF:-1 tvg-id="HBO Hits HD" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://raw.githubusercontent.com/hendroagung2904/LOGO/main/HBO%20HITS.png" group-title="Premium Movies",HBO Hits
-https://s.id/hbohits_shareext-ts
+https://ktpremium.com:443/F6883/6883/73860
+http://iptvtree.net:8080/c4596f70/c3848d92/196480
+#https://s.id/hbohits_shareext-ts
 
 #EXTINF:-1 tvg-id="HBO Family HD" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://raw.githubusercontent.com/hendroagung2904/LOGO/main/HBO%20Family.png" group-title="Premium Movies",HBO Family
 https://s.id/hbofam_shareext-ts
@@ -168,7 +170,9 @@ https://s.id/hbofam_shareext-ts
 https://s.id/hbosigHD_shareext-ts
 
 #EXTINF:-1 tvg-id="Cinemax HD" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://raw.githubusercontent.com/hendroagung2904/LOGO/main/Cinemax.png" group-title="Premium Movies",Cinemax
-https://s.id/cinemaxHD_shareext-ts
+https://ktpremium.com:443/F6883/6883/901196
+http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/197964
+#https://s.id/cinemaxHD_shareext-ts
 
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/
 #KODIPROP:inputstreamaddon=inputstream.adaptive
