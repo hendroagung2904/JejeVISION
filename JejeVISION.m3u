@@ -931,7 +931,10 @@ https://testfunctionlive.mncnow.id/live/eds/Bloomberg/sa_dash_vmx/Bloomberg.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YjFjMzY0OTgtMjYwOC0zNWQ5LWE4MjktYzIwMTZjNTM0ZjVi
 #EXTINF:-1 tvg-id="NHK World - [Channel 355].id" tvg-name="NHKWorldJapan.jp" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_355.jpeg" group-title="News",NHK World Japan
-https://testfunctionlive.mncnow.id/live/eds/NHKWorldTV/sa_dash_vmx/NHKWorldTV.mpd
+#https://testfunctionlive.mncnow.id/live/eds/NHKWorldTV/sa_dash_vmx/NHKWorldTV.mpd
+
+#EXTINF:-1 tvg-id="NHK World - [Channel 355].id" tvg-name="NHKWorldJapan.jp" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_355.jpeg" group-title="News",NHK World Japan
+https://bmcc.nhkworld.jp/live/index_1M.m3u8
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1092,6 +1095,9 @@ https://unifi-live05.secureswiftcontent.com/UnifiHD/live27-1080FHD.m3u8
 
 #EXTINF:-1 tvg-id="OKEY" tvg-name="TV Okey" tvg-url="https://bit.ly/JejeVisionEPG" group-title="Malaysia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Okey_RTM.png",TV Okey
 https://d25tgymtnqzu8s.cloudfront.net/smil:okey/chunklist_b2596000_slENG.m3u8?id=3
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-url="https://bit.ly/JejeVisionEPG" group-title="Malaysia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/80/TVS_logo_%282024%29.png",TV Sarawak
+https://stream.smg.my/live/tvs_1080p2628kbs/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/SALURAN_1920x1080px_TV6.jpg" group-title="Malaysia",TV 6
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/chunklist_b2596000_slENG.m3u8?id=6
