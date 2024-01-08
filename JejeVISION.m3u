@@ -157,10 +157,16 @@ https://dgwubfppws111.cloudfront.net/out/v1/667a86e35ddd496c886fa11598dc184d/ind
 https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(92c7b96a-33fc-4899-a032-50ae0fbc9257)/manifest.mpd
 
 #EXTINF:-1 tvg-id="HBO HD" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://seeklogo.com/images/H/hbo-logo-9BCB43E157-seeklogo.com.png" group-title="HBO Group",HBO
+http://myteve.online:8080/Abraham/6b3ca724a0/197972
+
+#EXTINF:-1 tvg-id="HBO HD" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://seeklogo.com/images/H/hbo-logo-9BCB43E157-seeklogo.com.png" group-title="HBO Group",HBO
 http://myteve.online:8080/4kaks2024/dEV6wycuCBj2WzXn/197972
 
 #EXTINF:-1 tvg-id="HBO HD" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://seeklogo.com/images/H/hbo-logo-9BCB43E157-seeklogo.com.png" group-title="HBO Group",HBO
 http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/197972
+
+#EXTINF:-1 tvg-id="HBO Hits HD" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://raw.githubusercontent.com/hendroagung2904/LOGO/main/HBO%20HITS.png" group-title="HBO Group",HBO Hits
+http://myteve.online:8080/Abraham/6b3ca724a0/196480
 
 #EXTINF:-1 tvg-id="HBO Hits HD" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://raw.githubusercontent.com/hendroagung2904/LOGO/main/HBO%20HITS.png" group-title="HBO Group",HBO Hits
 https://ktpremium.com:443/F6883/6883/73860
@@ -173,6 +179,9 @@ http://myteve.online:8080/4kaks2024/dEV6wycuCBj2WzXn/196480
 
 #EXTINF:-1 tvg-id="HBO Family HD" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://raw.githubusercontent.com/hendroagung2904/LOGO/main/HBO%20Family.png" group-title="HBO Group",HBO Family
 https://s.id/hbofam_shareext-ts
+
+#EXTINF:-1 tvg-id="HBO Family HD" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://raw.githubusercontent.com/hendroagung2904/LOGO/main/HBO%20Family.png" group-title="HBO Group",HBO Family
+http://myteve.online:8080/Abraham/6b3ca724a0/197055
 
 #EXTINF:-1 tvg-id="HBO Family HD" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://raw.githubusercontent.com/hendroagung2904/LOGO/main/HBO%20Family.png" group-title="HBO Group",HBO Family
 http://myteve.online:8080/4kaks2024/dEV6wycuCBj2WzXn/197055
@@ -596,6 +605,9 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch355%29/index
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-id="" tvg-logo="https://resizer-acm.eco.astro.com.my/tr:w-256,q:100/https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/451_144.png" group-title="Entertainment & LifeStyle",BBC Lifestyle
 http://muka03.wanicelife.com:8880/3ca7283n03/asdf23e423/71120
+
+#EXTINF:-1 tvg-logo="https://static.epg.best/uk/HomeandHealth.uk.png" group-title="Entertainment & LifeStyle",Discovery Home & Health
+http://xc.tvset.top:80/live/99814980/1Sg3Vf0J/54005.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_type=clearkey
