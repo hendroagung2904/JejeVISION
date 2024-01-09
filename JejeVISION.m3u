@@ -344,9 +344,6 @@ https://nyanv-live-cdn.mncnow.id/live/eds/Cinemachi-Xtra-HD/sa_dash_vmx/Cinemach
 #EXTINF:-1 tvg-id="IMC - [Channel 14].id" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://raw.githubusercontent.com/hendroagung2904/LOGO/main/IMC.png" group-title="Premium Movies",Indonesia Movie Channel
 https://nyanv-live-cdn.mncnow.id/live/eds/IndonesiaMovieChannels-HD/sa_dash_vmx/IndonesiaMovieChannels-HD.mpd
 
-EXTINF:-1 tvg-logo="https://i.ibb.co/dKCktbq/FLIK.png group-title="Premium Movies",Flik
-https://s.id/flikHD_shareext-ts
-
 #EXTINF: -1 tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://raw.githubusercontent.com/hendroagung2904/LOGO/main/Citra%20Bioskop.png" group-title="Premium Movies",Citra Bioskop
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch376%29/index.m3u8
 
