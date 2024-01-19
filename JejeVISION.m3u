@@ -688,6 +688,12 @@ https://alpukat-live-cdn.mncnow.id/live/eds/MTV-90-HD/sa_dash_vmx/MTV-90-HD.mpd
 #EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/14/Stingray_Djazz.png" group-title="Music",Stingray Jazz
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch3344%29/index.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://getvectorlogo.com/wp-content/uploads/2018/12/stingray-festival-4k-vector-logo.png" group-title="Music",Stingray Festival 4K
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch344%29/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9b/Stingray_Now_4K.png" group-title="Music",Stingray Now 4K
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch345%29/index.m3u8
+
 <============================ Sports ========================>
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -792,6 +798,9 @@ https://alpukat-live-cdn.mncnow.id/live/eds/AlJazeeraInternational/sa_dash_vmx/A
 #EXTINF:-1 group-title="News" tvg-id="IDX HD - [Channel 436].id" tvg-url="https://www.mncvision.id/userfiles/image/channel/iBcm_IDX.jpg",IDX
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch389%29/index.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9d/Jakartaglobe.png" group-title="News",Jakarta Globe News
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch2%29/index.m3u8
+
 #EXTINF:-1 group-title="News" tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://thumbor.prod.vidiocdn.com/A9PXp2pjYWnd8NZ0oQbwniC31So=/640x360/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/8815/metro-globe-network-1ab3f1.jpg",Metro Globe Network
 https://edge.medcom.id/live-edge/smil:mgnch.smil/chunklist_w139395680_b2692000_sleng.m3u8
 
@@ -826,7 +835,7 @@ https://alpukat-live-cdn.mncnow.id/live/eds/Bloomberg/sa_dash_vmx/Bloomberg.mpd
 #https://alpukat-live-cdn.mncnow.id/live/eds/NHKWorldTV/sa_dash_vmx/NHKWorldTV.mpd
 
 #EXTINF:-1 tvg-id="NHK World - [Channel 355].id" tvg-name="NHKWorldJapan.jp" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_355.jpeg" group-title="News",NHK World Japan
-https://bmcc.nhkworld.jp/live/index_1M.m3u8
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch223%29/index.m3u8
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -966,6 +975,12 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch3900%29/inde
 
 #EXTINF:-1 tvg-url="https://bit.ly/JejeVisionEPG" tvg-id="" tvg-logo="https://www.firstmedia.com/_next/image?url=https%3A%2F%2Fflmngr.firstmedia.com%2Ffiles%2Flogos%2Fchannels%2F5-FAITH%2FLight%20HD-FirstMedia-Chl-392.jpg&w=1920&q=100" group-title="Christian Channels",Light
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch3922%29/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://www.tbn.org/sites/default/files/2022-10/tbnasia-2022-255x136_0.png" group-title="Christian Channels",TBN Asia
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch61%29/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://images.squarespace-cdn.com/content/v1/5fca74e49efd0e627a442de0/1607105292574-Z6A78BZ31PB9MUIZQ727/Kairos+Logo.png" group-title="Christian Channels",Kairos
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch23%29/index.m3u8
 
 <======================== Malaysia ==========================>
 #EXTINF:-1 tvg-id="TV1.my" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f4/Logo_of_TV1_%28Malaysia%29.svg/1200px-Logo_of_TV1_%28Malaysia%29.svg.png" tvg-url="" group-title="Malaysia",TV 1
