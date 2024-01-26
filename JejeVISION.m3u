@@ -1018,9 +1018,6 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/chunklist_b2596000_slENG.m3u8?id=
 https://live-streams-ssai-01.tonton.com.my/live/a884c33b-6b11-4433-8bf9-a8899939e224/cmaf.isml/.m3u8
 #http://muka03.wanicelife.com:8880/3ca7283n03/asdf23e423/1730
 
-#EXTINF:-1 tvg-id="DidikTVKPM" group-title="Malaysia" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://didik.tv/images/logotv2.png",DidikTV KPM
-http://muka03.wanicelife.com:8880/3ca7283n03/asdf23e423/1731
-
 #EXTINF:-1 tvg-id="Sukan RTM" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/SALURAN_1920x1080px_SUKANRTM.jpg" group-title="Malaysia",Sukan RTM
 https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/chunklist.m3u8?id=1|Referer=https://rtmklik.rtm.gov.my
 
