@@ -846,6 +846,9 @@ http://103.113.116.150:25461/mtm1/12345/55
 #EXTINF:-1 group-title="Sports" tvg-id="" tvg-chno="" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/7lxofw1656964140.png",SuperSport FootBall
 http://103.113.116.150:25461/mtm1/12345/56
 
+#EXTINF:-1 group-title="Sports" tvg-id="" tvg-chno="" tvg-logo="https://images.supersport.com/media/ngsfbrab/laliga.png",SuperSport Laliga
+https://www.thesportsdb.com/images/media/channel/tvlogo/7lxofw1656964140.png
+
 
 <====================== News ========================>
 #EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/494/982/png-transparent-united-states-voice-of-america-internet-radio-voa-amharic-broadcasting-united-states-text-logo-united-states.png" group-title="News",Voice Of America
