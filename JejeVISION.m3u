@@ -842,6 +842,7 @@ http://103.113.116.150:25461/mtm1/12345/54
 
 #EXTINF:-1 group-title="Sports" tvg-id="" tvg-chno="" tvg-logo="https://images.supersport.com/media/uuwd4z2n/fa_cup_logo.png",SuperSport Emirates FA CUP
 http://103.113.116.150:25461/mtm1/12345/55
+http://103.113.116.150:25461/mtm1/12345/63
 
 #EXTINF:-1 group-title="Sports" tvg-id="" tvg-chno="" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/7lxofw1656964140.png",SuperSport FootBall
 http://103.113.116.150:25461/mtm1/12345/56
@@ -857,6 +858,22 @@ http://103.113.116.150:25461/mtm1/12345/59
 
 #EXTINF:-1 group-title="Sports" tvg-id="" tvg-chno="" tvg-logo="https://images.supersport.com/media/krybzs0y/action-1.png",SuperSport Action
 http://103.113.116.150:25461/mtm1/12345/60
+
+#EXTINF:-1 group-title="Sports" tvg-id="" tvg-chno="" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/srtijz1643382350.png",SuperSport Cricket
+http://103.113.116.150:25461/mtm1/12345/61
+http://103.113.116.150:25461/mtm1/12345/62
+
+#EXTINF:-1 group-title="Sports" tvg-id="" tvg-chno="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/1200px-TNT_Sports_2021_logo.svg.png",TNT Sports 1
+http://103.113.116.150:25461/mtm1/12345/80
+
+#EXTINF:-1 group-title="Sports" tvg-id="" tvg-chno="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/1200px-TNT_Sports_2021_logo.svg.png",TNT Sports 2
+http://103.113.116.150:25461/mtm1/12345/81
+
+#EXTINF:-1 group-title="Sports" tvg-id="" tvg-chno="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/1200px-TNT_Sports_2021_logo.svg.png",TNT Sports 3
+http://103.113.116.150:25461/mtm1/12345/82
+
+#EXTINF:-1 group-title="Sports" tvg-id="" tvg-chno="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/1200px-TNT_Sports_2021_logo.svg.png",TNT Sports 4
+http://103.113.116.150:25461/mtm1/12345/82
 
 
 
