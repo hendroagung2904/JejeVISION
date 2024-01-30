@@ -1115,6 +1115,7 @@ https://d1211whpimeups.cloudfront.net/smil:rtb2/chunklist.m3u8
 https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist.m3u8
 
 <=============================== Mediacorp Singapore ========================================>
+
 #EXTM3U x-tvg-url="https://github.com/AqFad2811/epg/raw/main/singapore.xml" url-tvg="https://github.com/AqFad2811/epg/raw/main/singapore.xml" refresh="1440" max-conn="1" refresh="24"
 
 #EXTM3U
@@ -1148,6 +1149,7 @@ https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/par
 #KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TVRRM2ZMcndmaDMwZnpmTGZHQ3owVlBsSW9JUjNnMEprbnF6RVdiUWhhS0kyLUtrNXZCaWExQzNEdmlGbFptYXkwb1lXVmQzOWVJMmJDUEpRdXRVcl84Wk45YXhQRDdQa29iT1lJOXNPVy00UjRPT0VIdGktUWdPTDJodG9DOTlXdGtnZWJueEllU1h1TFI3RzZ2MWZuemNza0Y0aC1kMG9qZFJ0S3c3ZUhtLXNWNTUxN3NsdEt2X1BJOHVxQW5yWXRfNEk4dU9JV3Vfc1ZSODFnUVlPSUNvdjdUNmZ0bEJWWEtCZUt3RmlQbEVQVU01RVRuSldCVndJRzhwcWpUdWxhQUozSmNBVVVVMUtqTDZsck5KVS1YQ2h2RS1DOUt6dUEtSlRTLU44R244NUEwYXc4OXV1NW1XVjR5NTR1UDk1NnVHaGc9PSZjb250ZXh0VHlwZT1ub25lJmlkPTU3NTQxMDgiLCJhY2NvdW50X2lkIjoyMDgyMzExLCJjb250ZW50X2lkIjoiZnRhX3Zhc2FudGhhbV9kYXNoX3R2X2RybSIsImZpbGVzIjoiIiwidXNlcl90b2tlbiI6ImRqSjhNVFEzZkxyd2ZoMzBmemZMZkdDejBWUGxJb0lSM2cwSmtucXpFV2JRaGFLSTItS2s1dkJpYTFDM0R2aUZsWm1heTBvWVdWZDM5ZUkyYkNQSlF1dFVyXzhaTjlheFBEN1Brb2JPWUk5c09XLTRSNE9PRUh0aS1RZ09MMmh0b0M5OVd0a2dlYm54SWVTWHVMUjdHNnYxZm56Y3NrRjRoLWQwb2pkUnRLdzdlSG0tc1Y1NTE3c2x0S3ZfUEk4dXFBbnJZdF80STh1T0lXdV9zVlI4MWdRWU9JQ292N1Q2ZnRsQlZYS0JlS3dGaVBsRVBVTTVFVG5KV0JWd0lHOHBxalR1bGFBSjNKY0FVVVUxS2pMNmxyTkpVLVhDaHZFLUM5S3p1QS1KVFMtTjhHbjg1QTBhdzg5dXU1bVdWNHk1NHVQOTU2dUdoZz09IiwidWRpZCI6IiIsImFkZGl0aW9uYWxfY2FzX3N5c3RlbSI6MTQ3fQ%3d%3d&signature=ZIUgvKXSyJRUQAI0KftfEDOg78Y%3d
 #EXTINF:-1 group-title="Mediacorp SG" tvg-id="Vasantham" tvg-chno="Vasantham" tvg-logo="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/%24value?Format=%27png%27&Quality=85&ImageId=%271776032%27&EntityType=%27Item%27&EntityId=%2797096%27&Width=129&Height=63&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27",Vasantham
 https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/147/assetId/237653/assetType/media/assetFileId/5754108/contextType/PLAYBACK/isAltUrl/False/a.mpd
+
 <========================= China ====================================>
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -1275,8 +1277,7 @@ http://stream.radiojar.com/9k28wsbu5k8uv
 #EXTINF:-1  tvg-id="" tvg-url="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/63/Smooth_fm_jkt.png/" group-title="Internet Radio",KISI FM Bogor
 https://svara-stream.radioddns.net:8443/jakarta_smoothfm_mp3
 
-
-<====================================CUBMU =====================================>
+<====================================Trial =====================================>
 
 #EXTINF:-1 group-title="Sports" tvg-id="" tvg-chno="" tvg-logo="https://seeklogo.com/images/B/bein-sports-1-logo-4E5E4AE6B8-seeklogo.com.png",BeinSport 1
 http://103.113.116.150:25461/mtm1/12345/75
