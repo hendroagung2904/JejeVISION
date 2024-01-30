@@ -500,6 +500,12 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch302%29/index
 #EXTINF:-1 tvg-id="AnimalPlanetSoutheastAsia.sg" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_203.png" group-title="Knowledge & Documentary",Animal Planet 
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch31%29/index.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://e7.pngegg.com/pngimages/734/750/png-clipart-national-geographic-society-national-geographic-eesti-geography-magazine-geography-miscellaneous-angle.png" group-title="Knowledge & Documentary",National Geographic Channel
+http://103.113.116.150:25461/mtm1/12345/86
+
+#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://www.seekpng.com/png/full/760-7606470_nat-geo-wild-nat-geo-wild-hd-logo.png" group-title="Knowledge & Documentary",National Geographic Wild
+http://103.113.116.150:25461/mtm1/12345/87
+
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -523,6 +529,8 @@ https://nyanv-live-cdn.mncnow.id/live/eds/CrimeInvestigation/sa_dash_vmx/CrimeIn
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTINF:-1 group-title="Knowledge & Documentary" tvg-id="CGTN Documentary - [Channel 205].id" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://static.mncnow.id/images/channel/bce8fc0f/7f20_r32.jpg",CGTN Documentary
 https://nyanv-live-cdn.mncnow.id/live/eds/CGTN_Doc/sa_dash_vmx/CGTN_Doc.mpd
+
+
 
 <=================== Entertainment & Lifestyle =============================>
 
@@ -1334,4 +1342,22 @@ http://103.113.116.150:25461/mtm1/12345/82
 
 #EXTINF:-1 group-title="Sports" tvg-id="" tvg-chno="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/1200px-TNT_Sports_2021_logo.svg.png",TNT Sports 4
 http://103.113.116.150:25461/mtm1/12345/83
+
+#EXTINF:-1 group-title="Sports" tvg-id="" tvg-chno="" tvg-logo="https://www.nicepng.com/png/full/213-2133982_sky-sports-logo-png.png",SkySport Premiere League
+http://103.113.116.150:25461/mtm1/12345/128
+
+#EXTINF:-1 group-title="Sports" tvg-id="" tvg-chno="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/Sky-sports-main-event.jpg",SkySport Main Event
+http://103.113.116.150:25461/mtm1/12345/129
+
+#EXTINF:-1 group-title="Sports" tvg-id="" tvg-chno="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Sky_Sport_F1_-_Logo_2020.svg/1280px-Sky_Sport_F1_-_Logo_2020.svg.png",SkySport F1
+http://103.113.116.150:25461/mtm1/12345/130
+
+#EXTINF:-1 group-title="Sports" tvg-id="" tvg-chno="" tvg-logo="https://archive.org/download/SkySportsCricket_201708/sky%20sports%20cricket.png",SkySport Cricket
+http://103.113.116.150:25461/mtm1/12345/131
+
+#EXTINF:-1 group-title="Sports" tvg-id="" tvg-chno="" tvg-logo="https://miro.medium.com/v2/resize:fit:1400/1*3VpvBBTGB77-qqhe5Ki_AQ.png",SkySport NFL
+http://103.113.116.150:25461/mtm1/12345/132
+
+#EXTINF:-1 group-title="Sports" tvg-id="" tvg-chno="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Sky_Sport_Golf_-_Logo_2018.svg/2560px-Sky_Sport_Golf_-_Logo_2018.svg.png",SkySport Golf
+http://103.113.116.150:25461/mtm1/12345/132
 
