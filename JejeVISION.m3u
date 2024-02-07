@@ -1149,6 +1149,43 @@ https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/par
 #EXTINF:-1 group-title="Mediacorp SG" tvg-id="Vasantham HD" tvg-chno="Vasantham" tvg-logo="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/%24value?Format=%27png%27&Quality=85&ImageId=%271776032%27&EntityType=%27Item%27&EntityId=%2797096%27&Width=129&Height=63&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27",Vasantham
 https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/147/assetId/237653/assetType/media/assetFileId/5754108/contextType/PLAYBACK/isAltUrl/False/a.mpd
 
+<======================= Japan Channel ===============================================>
+
+#EXTINF:-1 group-title="Japan & Korea" tvg-url="https://s.id/KITKATTV" tvg-id="" tvg-logo="https://cdn.c21media.net/wp-content/uploads/2020/10/jtbc_logo_420x237_thumb.jpg",JTBC
+http://103.113.116.150:25461/mtm1/12345/173
+
+#EXTINF:-1 group-title="Japan & Korea" tvg-url="https://s.id/KITKATTV" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/MBN_Logo.jpg",MBN
+http://103.113.116.150:25461/mtm1/12345/174
+
+#EXTINF:-1 group-title="Japan & Korea" tvg-url="https://s.id/KITKATTV" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/YTN_logo_2014.svg/2560px-YTN_logo_2014.svg.png",YTN
+http://103.113.116.150:25461/mtm1/12345/175
+
+#EXTINF:-1 group-title="Japan & Korea" tvg-url="https://s.id/KITKATTV" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/TV_Chosun_Logo_%28English%29.svg/2560px-TV_Chosun_Logo_%28English%29.svg.png",TV CHOSUN
+http://103.113.116.150:25461/mtm1/12345/176
+
+#EXTINF:-1 group-title="Japan & Korea" tvg-url="https://s.id/KITKATTV" tvg-id="" tvg-logo="https://seeklogo.com/images/K/kit-kat-logo-20E18590D6-seeklogo.com.png",JAPAN TV 1
+http://103.113.116.150:25461/mtm1/12345/177
+
+#EXTINF:-1 group-title="Japan & Korea" tvg-url="https://s.id/KITKATTV" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/KBS_1_logo.svg/2560px-KBS_1_logo.svg.png",KBS 1
+http://103.113.116.150:25461/mtm1/12345/178
+
+#EXTINF:-1 group-title="Japan & Korea" tvg-url="https://s.id/KITKATTV" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/KBS_logo.svg/2560px-KBS_logo.svg.png",KBS 
+http://103.113.116.150:25461/mtm1/12345/179
+
+#EXTINF:-1 group-title="Japan & Korea" tvg-url="https://s.id/KITKATTV" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Tjb_logo.svg/1280px-Tjb_logo.svg.png",TJB SBS
+http://103.113.116.150:25461/mtm1/12345/180
+
+#EXTINF:-1 group-title="Japan & Korea" tvg-url="https://s.id/KITKATTV" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Logo_of_the_Korean_Central_Television.svg/1200px-Logo_of_the_Korean_Central_Television.svg.png",KCTV
+http://103.113.116.150:25461/mtm1/12345/181
+
+#EXTINF:-1 group-title="Japan & Korea" tvg-url="https://s.id/KITKATTV" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/70/Channels_IPTV_01.png/revision/latest?cb=20180627174859",EBS 1
+http://103.113.116.150:25461/mtm1/12345/182
+
+#EXTINF:-1 group-title="Japan & Korea" tvg-url="https://s.id/KITKATTV" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/56/EBS_2TV_Logo.png/revision/latest?cb=20230620153952",EBS 2
+http://103.113.116.150:25461/mtm1/12345/183
+
+
+
 <========================= China ====================================>
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
