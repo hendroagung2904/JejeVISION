@@ -1401,17 +1401,32 @@ http://103.113.116.150:25461/mtm1/12345/49
 #EXTINF:-1 group-title="Sports" tvg-url="https://bit.ly/JejeVisionEPG"  tvg-id="AstroSuperSport4.my" tvg-chno="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/Astro_ASSP4.png",Astro Super Sport 4
 http://103.113.116.150:25461/mtm1/12345/50
 
+#EXTINF:-1 group-title="SPORTS" tvg-url="https://bit.ly/JejeVisionEPG" tvg-id=""https://www.pngkit.com/png/detail/28-288122_eleven-sports-hq-eleven-sports-png.png",DAZN ELEVEN 1
+http://103.113.116.150:25461/mtm1/12345/163
+
+#EXTINF:-1 group-title="SPORTS" tvg-url="https://bit.ly/JejeVisionEPG" tvg-id="" https://www.pngkit.com/png/detail/28-288122_eleven-sports-hq-eleven-sports-png.png",DAZN ELEVEN 2
+http://103.113.116.150:25461/mtm1/12345/164
+
+#EXTINF:-1 group-title="SPORTS" tvg-url="https://bit.ly/JejeVisionEPG" tvg-id="" tvg-logo="https://www.pngkit.com/png/detail/28-288122_eleven-sports-hq-eleven-sports-png.png",DAZN ELEVEN 3
+http://103.113.116.150:25461/mtm1/12345/165
+
+#EXTINF:-1 group-title="SPORTS" tvg-url="https://bit.ly/JejeVisionEPG" tvg-id="" tvg-logo="https://www.pngkit.com/png/detail/28-288122_eleven-sports-hq-eleven-sports-png.png",DAZN ELEVEN 4
+http://103.113.116.150:25461/mtm1/12345/166
+
+#EXTINF:-1 group-title="SPORTS" tvg-url="https://bit.ly/JejeVisionEPG" tvg-id="" tvg-logo="https://www.pngkit.com/png/detail/28-288122_eleven-sports-hq-eleven-sports-png.png",DAZN ELEVEN 5
+http://103.113.116.150:25461/mtm1/12345/167
+
+#EXTINF:-1 group-title="SPORTS" tvg-url="https://bit.ly/JejeVisionEPG" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Fox_Sports_logo1.svg/800px-Fox_Sports_logo1.svg.png",FOX SPORT 505 HD
+http://103.113.116.150:25461/mtm1/12345/122
+
+#EXTINF:-1 group-title="SPORTS" tvg-url="https://bit.ly/JejeVisionEPG" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Fox_Sports_logo1.svg/800px-Fox_Sports_logo1.svg.png",FOX SPORT 506 HD
+http://103.113.116.150:25461/mtm1/12345/123
+
+#EXTINF:-1 group-title="SPORTS" tvg-url="https://bit.ly/JejeVisionEPG" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Fox_Sports_logo1.svg/800px-Fox_Sports_logo1.svg.png",FOX SPORT 507 HD
+http://103.113.116.150:25461/mtm1/12345/124
+
 #EXTINF:-1 group-title="Sports" tvg-url="https://bit.ly/JejeVisionEPG"  tvg-id="" tvg-chno="" tvg-logo="https://e7.pngegg.com/pngimages/672/288/png-clipart-ufc-logo-ufc-1-the-beginning-ufc-197-jones-vs-saint-preux-mixed-martial-arts-the-joe-rogan-experience-logo-mma-event-angle-emblem-thumbnail.png",UFC TV
 http://103.113.116.150:25461/mtm1/12345/51
-
-#EXTINF:-1 group-title="Sports" tvg-url="https://bit.ly/JejeVisionEPG"  tvg-id="" tvg-chno="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/Optussport_app.png",Optus Sport 1
-http://103.113.116.150:25461/mtm1/12345/52
-
-#EXTINF:-1 group-title="Sports" tvg-url="https://bit.ly/JejeVisionEPG"  tvg-id="" tvg-chno="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/Optussport_app.png",Optus Sport 2
-http://103.113.116.150:25461/mtm1/12345/53
-
-#EXTINF:-1 group-title="Sports" tvg-url="https://bit.ly/JejeVisionEPG"  tvg-id="" tvg-chno="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/Optussport_app.png",Optus Sport 3
-http://103.113.116.150:25461/mtm1/12345/54
 
 #EXTINF:-1 group-title="Sports" tvg-url="https://bit.ly/JejeVisionEPG"  tvg-id="" tvg-chno="" tvg-logo="https://images.supersport.com/media/uuwd4z2n/fa_cup_logo.png",SuperSport Emirates FA CUP
 http://103.113.116.150:25461/mtm1/12345/55
