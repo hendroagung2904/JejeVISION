@@ -1009,15 +1009,15 @@ http://103.113.116.150:25461/mtm1/12345/163
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
 http://103.113.116.150:25461/mtm1/12345/164
 
-EXTINF:-1 group-title="Sports" tvg-url="https://s.id/KITKATTV"  tvg-id="" tvg-chno="" tvg-logo="https://www.pngkit.com/png/detail/28-288122_eleven-sports-hq-eleven-sports-png.png",DAZN Eleven Sport 3
+#EXTINF:-1 group-title="Sports" tvg-url="https://s.id/KITKATTV"  tvg-id="" tvg-chno="" tvg-logo="https://www.pngkit.com/png/detail/28-288122_eleven-sports-hq-eleven-sports-png.png",DAZN Eleven Sport 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
 http://103.113.116.150:25461/mtm1/12345/165
 
-EXTINF:-1 group-title="Sports" tvg-url="https://s.id/KITKATTV"  tvg-id="" tvg-chno="" tvg-logo="https://www.pngkit.com/png/detail/28-288122_eleven-sports-hq-eleven-sports-png.png",DAZN Eleven Sport 4
+#EXTINF:-1 group-title="Sports" tvg-url="https://s.id/KITKATTV"  tvg-id="" tvg-chno="" tvg-logo="https://www.pngkit.com/png/detail/28-288122_eleven-sports-hq-eleven-sports-png.png",DAZN Eleven Sport 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
 http://103.113.116.150:25461/mtm1/12345/166
 
-EXTINF:-1 group-title="Sports" tvg-url="https://s.id/KITKATTV"  tvg-id="" tvg-chno="" tvg-logo="https://www.pngkit.com/png/detail/28-288122_eleven-sports-hq-eleven-sports-png.png",DAZN Eleven Sport 5
+#EXTINF:-1 group-title="Sports" tvg-url="https://s.id/KITKATTV"  tvg-id="" tvg-chno="" tvg-logo="https://www.pngkit.com/png/detail/28-288122_eleven-sports-hq-eleven-sports-png.png",DAZN Eleven Sport 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
 http://103.113.116.150:25461/mtm1/12345/167
 
