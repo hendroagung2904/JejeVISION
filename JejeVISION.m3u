@@ -727,6 +727,14 @@ https://nyanv-live-cdn.mncnow.id/live/eds/Sportstar4/sa_dash_vmx/Sportstar4.mpd
 #EXTINF:-1 tvg-id="Soccer Channel HD - [Channel 420].id" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_101.png" group-title="Sports",Soccer Channel-HD
 https://nyanv-live-cdn.mncnow.id/live/eds/soccerchannel-test/sa_dash_vmx/soccerchannel-test.mpd
 
+#EXTINF:-1 tvg-logo="https://tinyurl.com/logo-nba" group-title="Sports",NBA HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://srtv.my.id/vd/play.php?id=6717&type=drm
+https://srtv.my.id/vd/play.mpd?id=6717&type=dash
+
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
@@ -770,7 +778,7 @@ http://210.210.155.37/uq2663/h/h09/index.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://srtv.my.id/vd/play.php?id=6685&type=drm
-https://srtv.my.id/vd/play.mpd?id=6685&type=dash
+https://srtv.my.id/vd/play.m3u8?id=6685&type=hls
 
 #EXTINF:-1 tvg=id="Champions TV 2" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://thumbor.prod.vidiocdn.com/NvvD-abXE50lIJd1zvtf9QF2NDQ=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6686/champions-tv-2-58cc4d.jpg" group-title="Sports",Champions TV 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
@@ -778,7 +786,7 @@ https://srtv.my.id/vd/play.mpd?id=6685&type=dash
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://srtv.my.id/vd/play.php?id=6686&type=drm
-https://srtv.my.id/vd/play.mpd?id=6686&type=dash
+https://srtv.my.id/vd/play.m3u8?id=6686&type=hls
 
 #EXTINF:-1 tvg-id="Champions TV 5" tvg-url="https://bit.ly/JejeVisionEPG" group-title="Sports" tvg-logo="https://thumbor.prod.vidiocdn.com/rDybdMMOC-NZ1bzkWvpSRYBxeG8=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9182/champions-tv-5-764e22.jpg", Champions TV 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
@@ -803,193 +811,38 @@ https://srtv.my.id/vd/play.mpd?id=9183&type=dash
 #KODIPROP:inputstream.adaptive.license_key=cdb6f38ce29ecfe657c7cade307587da:d38d7243bd224a9c2b1ea716f19c9950
 https://etslive-2-vidio-com.akamaized.net/drm/dash/9353_stream.mpd
 
-#EXTINF:-1 group-title="Sports" tvg-url="https://s.id/KITKATTV"  tvg-id="AstroSuperSport.my" tvg-chno="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png",Astro Super Sport
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
-http://103.113.116.150:25461/mtm1/12345/47
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VggrTny/liga-inggris.png" group-title="Sports",PREMIER LEAGUE​ 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://srtv.my.id/vd/play.php?id=9182&type=drm
+https://srtv.my.id/vd/play.mpd?id=9182&type=dash
+ 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VggrTny/liga-inggris.png" group-title="Sports",PREMIER LEAGUE 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://srtv.my.id/vd/play.php?id=9183&type=drm
+https://srtv.my.id/vd/play.mpd?id=9183&type=dash
 
-#EXTINF:-1 group-title="Sports" tvg-url="https://s.id/KITKATTV"  tvg-id="AstroSuperSport2.my" tvg-chno="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6b/Astro_SuperSport_2.png",Astro Super Sport 2
+#EXTINF: -1 tvg-name="BEIN SPORTS 1 TH" tvg-logo="https://thumbor.prod.vidiocdn.com/ofFz58YOn5t_7re37xIbGv_Ohg0=/372x211/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6299/bein-1-60c673.jpg" group-title="Sports", BEIN SPORTS 1 ID
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
-http://103.113.116.150:25461/mtm1/12345/48
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://srtv.my.id/vd/play.php?id=6299&type=drm 
+https://srtv.my.id/vd/play.mpd?id=6299&type=dash
 
-#EXTINF:-1 group-title="Sports" tvg-url="https://s.id/KITKATTV"  tvg-id="AstroSuperSport3.my" tvg-chno="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/Astro_ASSP3.png",Astro Super Sport 3
+#EXTINF: -1 tvg-name="BEIN SPORTS 3 TH" tvg-logo="https://thumbor.prod.vidiocdn.com/UJG20HPtHIYnnhrt5Q48GbezT78=/372x211/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6317/bein-3-e1add8.jpg" group-title="Sports", BEIN SPORTS 3 ID
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
-http://103.113.116.150:25461/mtm1/12345/49
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://srtv.my.id/vd/play.php?id=6317&type=drm 
+https://srtv.my.id/vd/play.mpd?id=6317&type=dash
 
-#EXTINF:-1 group-title="Sports" tvg-url="https://s.id/KITKATTV"  tvg-id="AstroSuperSport4.my" tvg-chno="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/Astro_ASSP4.png",Astro Super Sport 4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
-http://103.113.116.150:25461/mtm1/12345/50
-
-#EXTINF:-1 group-title="Sports" tvg-url="https://s.id/KITKATTV"  tvg-id="AstroSuperSport4.my" tvg-chno="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Astro_Cricket.png",Astro Cricket
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
-http://103.113.116.150:25461/mtm1/12345/134
-
-#EXTINF:-1 group-title="Sports" tvg-url="https://s.id/KITKATTV"  tvg-id="" tvg-chno="" tvg-logo="https://e7.pngegg.com/pngimages/672/288/png-clipart-ufc-logo-ufc-1-the-beginning-ufc-197-jones-vs-saint-preux-mixed-martial-arts-the-joe-rogan-experience-logo-mma-event-angle-emblem-thumbnail.png",UFC TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
-http://103.113.116.150:25461/mtm1/12345/51
-
-#EXTINF:-1 group-title="Sports" tvg-url="https://s.id/KITKATTV"  tvg-id="" tvg-chno="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/Optussport_app.png",Optus Sport 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
-http://103.113.116.150:25461/mtm1/12345/52
-
-#EXTINF:-1 group-title="Sports" tvg-url="https://s.id/KITKATTV"  tvg-id="" tvg-chno="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/Optussport_app.png",Optus Sport 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
-http://103.113.116.150:25461/mtm1/12345/53
-
-#EXTINF:-1 group-title="Sports" tvg-url="https://s.id/KITKATTV"  tvg-id="" tvg-chno="" tvg-logo=https://static.wikia.nocookie.net/logopedia/images/1/11/Optussport_app.png",Optus Sport 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
-http://103.113.116.150:25461/mtm1/12345/54
-
-#EXTINF:-1 group-title="Sports" tvg-url="https://s.id/KITKATTV"  tvg-id="" tvg-chno="" tvg-logo="https://w7.pngwing.com/pngs/703/853/png-transparent-2016-17-premier-league-2015-16-premier-league-2018-19-premier-league-2013-14-premier-league-2017-18-premier-league-others-thumbnail.png",Supersport Premiere League
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
-http://103.113.116.150:25461/mtm1/12345/55
-
-#EXTINF:-1 group-title="Sports" tvg-url="https://s.id/KITKATTV"  tvg-id="" tvg-chno="" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/7lxofw1656964140.png",SuperSport FootBall
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
-http://103.113.116.150:25461/mtm1/12345/56
-
-#EXTINF:-1 group-title="Sports" tvg-url="https://s.id/KITKATTV"  tvg-id="" tvg-chno="" tvg-logo="https://images.supersport.com/media/ngsfbrab/laliga.png",SuperSport Laliga
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
-http://103.113.116.150:25461/mtm1/12345/57
-
-#EXTINF:-1 group-title="Sports" tvg-url="https://s.id/KITKATTV"  tvg-id="" tvg-chno="" tvg-logo="https://saeseries.com/wp-content/uploads/2023/12/Motorsportpng_-1024x275.png",SuperSport Motorsport
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
-http://103.113.116.150:25461/mtm1/12345/58
-
-#EXTINF:-1 group-title="Sports" tvg-url="https://s.id/KITKATTV"  tvg-id="" tvg-chno="" tvg-logo="https://archive.org/download/supersport-tennis/supersport-tennis.png",SuperSport Tennis
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
-http://103.113.116.150:25461/mtm1/12345/59
-
-#EXTINF:-1 group-title="Sports" tvg-url="https://s.id/KITKATTV"  tvg-id="" tvg-chno="" tvg-logo="https://images.supersport.com/media/krybzs0y/action-1.png",SuperSport Action
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
-http://103.113.116.150:25461/mtm1/12345/60
-
-#EXTINF:-1 group-title="Sports"tvg-url="https://s.id/KITKATTV" tvg-id="" tvg-chno="" tvg-logo="https://www.freeshot.live/upload/source/SuperSportGolf-logo.png",SuperSport Golf
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
-http://103.113.116.150:25461/mtm1/12345/61
-
-#EXTINF:-1 group-title="Sports" tvg-url="https://s.id/KITKATTV" tvg-id="" tvg-chno="" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/srtijz1643382350.png",SuperSport Cricket
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
-http://103.113.116.150:25461/mtm1/12345/62
-
-#EXTINF:-1 group-title="Sports" tvg-url="https://s.id/KITKATTV"  tvg-id="" tvg-chno="" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/7lxofw1656964140.png",SuperSport FootBall
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
-http://103.113.116.150:25461/mtm1/12345/63
-
-#EXTINF:-1 group-title="Sports" tvg-url="https://s.id/KITKATTV"  tvg-id="" tvg-chno="" tvg-logo="https://images.supersport.com/media/ngeluwwy/rugby-5.png",SuperSport Rugby
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
-http://103.113.116.150:25461/mtm1/12345/64
-
-#EXTINF:-1 group-title="Sports" tvg-url="https://s.id/KITKATTV"  tvg-id="" tvg-chno="" tvg-logo="https://seeklogo.com/images/B/bein-sports-1-logo-4E5E4AE6B8-seeklogo.com.png",BeinSport 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
-http://103.113.116.150:25461/mtm1/12345/75
-
-#EXTINF:-1 group-title="Sports" tvg-url="https://s.id/KITKATTV"  tvg-id="" tvg-chno="" tvg-logo="https://seeklogo.com/images/B/bein-sports-3-logo-42227D7D66-seeklogo.com.png",BeinSport 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
-http://103.113.116.150:25461/mtm1/12345/76
-
-#EXTINF:-1 group-title="Sports" tvg-url="https://s.id/KITKATTV"  tvg-id="" tvg-chno="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/1200px-TNT_Sports_2021_logo.svg.png",TNT Sports 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
-http://103.113.116.150:25461/mtm1/12345/80
-
-#EXTINF:-1 group-title="Sports" tvg-url="https://s.id/KITKATTV"  tvg-id="" tvg-chno="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/1200px-TNT_Sports_2021_logo.svg.png",TNT Sports 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
-http://103.113.116.150:25461/mtm1/12345/81
-
-#EXTINF:-1 group-title="Sports" tvg-url="https://s.id/KITKATTV"  tvg-id="" tvg-chno="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/1200px-TNT_Sports_2021_logo.svg.png",TNT Sports 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
-http://103.113.116.150:25461/mtm1/12345/82
-
-#EXTINF:-1 group-title="Sports" tvg-url="https://s.id/KITKATTV"  tvg-id="" tvg-chno="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/1200px-TNT_Sports_2021_logo.svg.png",TNT Sports 4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
-http://103.113.116.150:25461/mtm1/12345/83
-
-#EXTINF:-1 group-title="Sports" tvg-url="https://s.id/KITKATTV" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Fox_Sports_logo1.svg/800px-Fox_Sports_logo1.svg.png",FOX SPORT 505 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
-http://103.113.116.150:25461/mtm1/12345/122
-
-#EXTINF:-1 group-title="Sports" tvg-url="https://s.id/KITKATTV" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Fox_Sports_logo1.svg/800px-Fox_Sports_logo1.svg.png",FOX SPORT 506 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
-http://103.113.116.150:25461/mtm1/12345/123
-
-#EXTINF:-1 group-title="Sports" tvg-url="https://s.id/KITKATTV" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Fox_Sports_logo1.svg/800px-Fox_Sports_logo1.svg.png",FOX SPORT 507 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
-http://103.113.116.150:25461/mtm1/12345/124
-
-#EXTINF:-1 group-title="Sports" tvg-url="https://s.id/KITKATTV"  tvg-id="" tvg-chno="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Premier_League_Logo.svg/1200px-Premier_League_Logo.svg.png,SkySport Premiere League
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
-http://103.113.116.150:25461/mtm1/12345/127
-
-#EXTINF:-1 group-title="Sports" tvg-url="https://s.id/KITKATTV"  tvg-id="" tvg-chno="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Sky_Sport_Football_-_Logo_2020.svg/1280px-Sky_Sport_Football_-_Logo_2020.svg.png",SkySport Football
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
-http://103.113.116.150:25461/mtm1/12345/128
-
-#EXTINF:-1 group-title="Sports" tvg-url="https://s.id/KITKATTV"  tvg-id="" tvg-chno="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/Sky-sports-main-event.jpg",SkySport Main Event
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
-http://103.113.116.150:25461/mtm1/12345/129
-
-#EXTINF:-1 group-title="Sports" tvg-url="https://s.id/KITKATTV"  tvg-id="" tvg-chno="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Sky_Sport_F1_-_Logo_2020.svg/1280px-Sky_Sport_F1_-_Logo_2020.svg.png",SkySport F1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
-http://103.113.116.150:25461/mtm1/12345/130
-
-#EXTINF:-1 group-title="Sports" tvg-url="https://s.id/KITKATTV"  tvg-id="" tvg-chno="" tvg-logo="https://archive.org/download/SkySportsCricket_201708/sky%20sports%20cricket.png",SkySport Cricket
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
-http://103.113.116.150:25461/mtm1/12345/131
-
-#EXTINF:-1 group-title="Sports" tvg-url="https://s.id/KITKATTV"  tvg-id="" tvg-chno="" tvg-logo="https://miro.medium.com/v2/resize:fit:1400/1*3VpvBBTGB77-qqhe5Ki_AQ.png",SkySport NFL
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
-http://103.113.116.150:25461/mtm1/12345/132
-
-#EXTINF:-1 group-title="Sports" tvg-url="https://s.id/KITKATTV"  tvg-id="" tvg-chno="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Sky_Sport_Golf_Logo_2022.svg/2560px-Sky_Sport_Golf_Logo_2022.svg.png",SkySport Golf
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
-http://103.113.116.150:25461/mtm1/12345/133
-
-#EXTINF:-1 group-title="Sports" tvg-url="https://s.id/KITKATTV"  tvg-id="" tvg-chno="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Sky_Sport_Arena_-_Logo_2020.svg/1280px-Sky_Sport_Arena_-_Logo_2020.svg.png",SkySport Arena
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
-http://103.113.116.150:25461/mtm1/12345/162
-
-#EXTINF:-1 group-title="Sports" tvg-url="https://s.id/KITKATTV"  tvg-id="" tvg-chno="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Eurosport_2_Logo_%282011-2015%29.svg/2560px-Eurosport_2_Logo_%282011-2015%29.svg.png",Eurosport 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
-http://103.113.116.150:25461/mtm1/12345/155
-
-#EXTINF:-1 group-title="Sports" tvg-url="https://s.id/KITKATTV"  tvg-id="" tvg-chno="" tvg-logo="https://www.pngkit.com/png/detail/28-288122_eleven-sports-hq-eleven-sports-png.png",DAZN Eleven Sport 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
-http://103.113.116.150:25461/mtm1/12345/163
-
-#EXTINF:-1 group-title="Sports" tvg-url="https://s.id/KITKATTV"  tvg-id="" tvg-chno="" tvg-logo="https://www.pngkit.com/png/detail/28-288122_eleven-sports-hq-eleven-sports-png.png",DAZN Eleven Sport 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
-http://103.113.116.150:25461/mtm1/12345/164
-
-EXTINF:-1 group-title="Sports" tvg-url="https://s.id/KITKATTV"  tvg-id="" tvg-chno="" tvg-logo="https://www.pngkit.com/png/detail/28-288122_eleven-sports-hq-eleven-sports-png.png",DAZN Eleven Sport 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
-http://103.113.116.150:25461/mtm1/12345/165
-
-EXTINF:-1 group-title="Sports" tvg-url="https://s.id/KITKATTV"  tvg-id="" tvg-chno="" tvg-logo="https://www.pngkit.com/png/detail/28-288122_eleven-sports-hq-eleven-sports-png.png",DAZN Eleven Sport 4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
-http://103.113.116.150:25461/mtm1/12345/166
-
-EXTINF:-1 group-title="Sports" tvg-url="https://s.id/KITKATTV"  tvg-id="" tvg-chno="" tvg-logo="https://www.pngkit.com/png/detail/28-288122_eleven-sports-hq-eleven-sports-png.png",DAZN Eleven Sport 5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
-http://103.113.116.150:25461/mtm1/12345/167
-
-#EXTINF:-1 group-title="Sports" tvg-url="https://s.id/KITKATTV"  tvg-id="" tvg-chno="" tvg-logo="https://icdb.tv/images/979e9916cdf9294a1ed7bb8301c98b86.jpg",BeinSport 1 English
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
-http://103.113.116.150:25461/mtm1/12345/144
-
-#EXTINF:-1 group-title="Sports" tvg-url="https://s.id/KITKATTV"  tvg-id="" tvg-chno="" tvg-logo="https://seeklogo.com/images/B/bein-sports-1-logo-4E5E4AE6B8-seeklogo.com.png",BeinSport 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
-http://103.113.116.150:25461/mtm1/12345/147
-
-#EXTINF:-1 group-title="Sports" tvg-url="https://s.id/KITKATTV"  tvg-id="" tvg-chno="" tvg-logo="https://seeklogo.com/images/B/bein-sports-3-logo-42227D7D66-seeklogo.com.png",BeinSport 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
-http://103.113.116.150:25461/mtm1/12345/148
-
-#EXTINF:-1 group-title="Sports" tvg-url="https://s.id/KITKATTV"  tvg-id="" tvg-chno="" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/qoerty1659622111.png",Hub Premiere 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
-http://103.113.116.150:25461/mtm1/12345/149
-
-#EXTINF:-1 group-title="Sports" tvg-url="https://s.id/KITKATTV"  tvg-id="" tvg-chno="" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/sdvs4u1659622094.png",Hub Premiere 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
-http://103.113.116.150:25461/mtm1/12345/150
 
 
 
@@ -1753,179 +1606,179 @@ https://svara-stream.radioddns.net:8443/jakarta_smoothfm_mp3
 
 <====================================Trial =====================================>
 
-#EXTINF:0 tvg-id="ext" group-title="Digital TV",TRANS7
+#EXTINF:-1 tvg-id="ext" group-title="Digital TV",TRANS7
 http://103.113.116.150:25461/mtm1/12345/1
-#EXTINF:0 tvg-id="ext" group-title="Digital TV",TRANSTV
+#EXTINF:-1 tvg-id="ext" group-title="Digital TV",TRANSTV
 http://103.113.116.150:25461/mtm1/12345/2
-#EXTINF:0 tvg-id="ext" group-title="Digital TV",INDOSIAR
+#EXTINF:-1 tvg-id="ext" group-title="Digital TV",INDOSIAR
 http://103.113.116.150:25461/mtm1/12345/3
-#EXTINF:0 tvg-id="ext" group-title="Digital TV",SCTV
+#EXTINF:-1 tvg-id="ext" group-title="Digital TV",SCTV
 http://103.113.116.150:25461/mtm1/12345/4
-#EXTINF:0 tvg-id="ext" group-title="Digital TV",RCTI
+#EXTINF:-1 tvg-id="ext" group-title="Digital TV",RCTI
 http://103.113.116.150:25461/mtm1/12345/5
-#EXTINF:0 tvg-id="ext" group-title="Digital TV",MNCTV
+#EXTINF:-1 tvg-id="ext" group-title="Digital TV",MNCTV
 http://103.113.116.150:25461/mtm1/12345/6
-#EXTINF:0 tvg-id="ext" group-title="Digital TV",GTV
+#EXTINF:-1 tvg-id="ext" group-title="Digital TV",GTV
 http://103.113.116.150:25461/mtm1/12345/7
-#EXTINF:0 tvg-id="ext" group-title="Digital TV",INEWS
+#EXTINF:-1 tvg-id="ext" group-title="Digital TV",INEWS
 http://103.113.116.150:25461/mtm1/12345/8
-#EXTINF:0 tvg-id="ext" group-title="Digital TV",TV ONE
+#EXTINF:-1 tvg-id="ext" group-title="Digital TV",TV ONE
 http://103.113.116.150:25461/mtm1/12345/9
-#EXTINF:0 tvg-id="ext" group-title="Digital TV",ANTV
+#EXTINF:-1 tvg-id="ext" group-title="Digital TV",ANTV
 http://103.113.116.150:25461/mtm1/12345/10
-#EXTINF:0 tvg-id="ext" group-title="Digital TV",NET
+#EXTINF:-1 tvg-id="ext" group-title="Digital TV",NET
 http://103.113.116.150:25461/mtm1/12345/11
-#EXTINF:0 tvg-id="ext" group-title="Digital TV",METRO TV
+#EXTINF:-1 tvg-id="ext" group-title="Digital TV",METRO TV
 http://103.113.116.150:25461/mtm1/12345/12
-#EXTINF:0 tvg-id="ext" group-title="Digital TV",KOMPAS TV
+#EXTINF:-1 tvg-id="ext" group-title="Digital TV",KOMPAS TV
 http://103.113.116.150:25461/mtm1/12345/13
-#EXTINF:0 tvg-id="ext" group-title="Digital TV",RTV
+#EXTINF:-1 tvg-id="ext" group-title="Digital TV",RTV
 http://103.113.116.150:25461/mtm1/12345/14
-#EXTINF:0 tvg-id="ext" group-title="Digital TV",MOJI
+#EXTINF:-1 tvg-id="ext" group-title="Digital TV",MOJI
 http://103.113.116.150:25461/mtm1/12345/15
-#EXTINF:0 tvg-id="ext" group-title="Digital TV",HBO
+#EXTINF:-1 tvg-id="ext" group-title="Digital TV",HBO
 http://103.113.116.150:25461/mtm1/12345/16
-#EXTINF:0 tvg-id="ext" group-title="Digital TV",HBO HITS
+#EXTINF:-1 tvg-id="ext" group-title="Digital TV",HBO HITS
 http://103.113.116.150:25461/mtm1/12345/17
-#EXTINF:0 tvg-id="ext" group-title="Digital TV",HBO SIGNATURE
+#EXTINF:-1 tvg-id="ext" group-title="Digital TV",HBO SIGNATURE
 http://103.113.116.150:25461/mtm1/12345/18
-#EXTINF:0 tvg-id="ext" group-title="Digital TV",HBO FAMILY
+#EXTINF:-1 tvg-id="ext" group-title="Digital TV",HBO FAMILY
 http://103.113.116.150:25461/mtm1/12345/19
-#EXTINF:0 tvg-id="ext" group-title="Digital TV",CINEMAX
+#EXTINF:-1 tvg-id="ext" group-title="Digital TV",CINEMAX
 http://103.113.116.150:25461/mtm1/12345/20
-#EXTINF:0 tvg-id="ext" group-title="Digital TV",IMC
+#EXTINF:-1 tvg-id="ext" group-title="Digital TV",IMC
 http://103.113.116.150:25461/mtm1/12345/21
-#EXTINF:0 tvg-id="ext" group-title="Digital TV",FLIK
+#EXTINF:-1 tvg-id="ext" group-title="Digital TV",FLIK
 http://103.113.116.150:25461/mtm1/12345/22
-#EXTINF:0 tvg-id="ext" group-title="Digital TV",BIOSKOP INDONESIA
+#EXTINF:-1 tvg-id="ext" group-title="Digital TV",BIOSKOP INDONESIA
 http://103.113.116.150:25461/mtm1/12345/23
-#EXTINF:0 tvg-id="ext" group-title="Digital TV",WARNER BROS TV
+#EXTINF:-1 tvg-id="ext" group-title="Digital TV",WARNER BROS TV
 http://103.113.116.150:25461/mtm1/12345/24
-#EXTINF:0 tvg-id="ext" group-title="Digital TV",MENTARI TV
+#EXTINF:-1 tvg-id="ext" group-title="Digital TV",MENTARI TV
 http://103.113.116.150:25461/mtm1/12345/25
-#EXTINF:0 tvg-id="ext" group-title="Digital TV",ANIPLUS
+#EXTINF:-1 tvg-id="ext" group-title="Digital TV",ANIPLUS
 http://103.113.116.150:25461/mtm1/12345/26
-#EXTINF:0 tvg-id="ext" group-title="Digital TV",SINDONEWS TV
+#EXTINF:-1 tvg-id="ext" group-title="Digital TV",SINDONEWS TV
 http://103.113.116.150:25461/mtm1/12345/27
-#EXTINF:0 tvg-id="ext" group-title="Digital TV",CNN INTERNATIONAL
+#EXTINF:-1 tvg-id="ext" group-title="Digital TV",CNN INTERNATIONAL
 http://103.113.116.150:25461/mtm1/12345/29
-#EXTINF:0 tvg-id="ext" group-title="Digital TV",CNBC INTERNATIONAL
+#EXTINF:-1 tvg-id="ext" group-title="Digital TV",CNBC INTERNATIONAL
 http://103.113.116.150:25461/mtm1/12345/32
-#EXTINF:0 tvg-id="ext" group-title="Digital TV",RT
+#EXTINF:-1 tvg-id="ext" group-title="Digital TV",RT
 http://103.113.116.150:25461/mtm1/12345/33
-#EXTINF:0 tvg-id="ext" group-title="Digital TV",BBC
+#EXTINF:-1 tvg-id="ext" group-title="Digital TV",BBC
 http://103.113.116.150:25461/mtm1/12345/34
-#EXTINF:0 tvg-id="ext" group-title="Digital TV",ALJAZEERA
+#EXTINF:-1 tvg-id="ext" group-title="Digital TV",ALJAZEERA
 http://103.113.116.150:25461/mtm1/12345/35
-#EXTINF:0 tvg-id="ext" group-title="Digital TV",BLOOMBERG
+#EXTINF:-1 tvg-id="ext" group-title="Digital TV",BLOOMBERG
 http://103.113.116.150:25461/mtm1/12345/36
-#EXTINF:0 tvg-id="ext" group-title="Digital TV",CGTN
+#EXTINF:-1 tvg-id="ext" group-title="Digital TV",CGTN
 http://103.113.116.150:25461/mtm1/12345/37
-#EXTINF:0 tvg-id="ext" group-title="Digital TV",DW CHANEL
+#EXTINF:-1 tvg-id="ext" group-title="Digital TV",DW CHANEL
 http://103.113.116.150:25461/mtm1/12345/38
-#EXTINF:0 tvg-id="ext" group-title="Digital TV",EURO NEWS
+#EXTINF:-1 tvg-id="ext" group-title="Digital TV",EURO NEWS
 http://103.113.116.150:25461/mtm1/12345/39
-#EXTINF:0 tvg-id="ext" group-title="Digital TV",FRANCE 24
+#EXTINF:-1 tvg-id="ext" group-title="Digital TV",FRANCE 24
 http://103.113.116.150:25461/mtm1/12345/40
-#EXTINF:0 tvg-id="ext" group-title="Digital TV",CNA
+#EXTINF:-1 tvg-id="ext" group-title="Digital TV",CNA
 http://103.113.116.150:25461/mtm1/12345/41
-#EXTINF:0 tvg-id="ext" group-title="Digital TV",FOX NEES
+#EXTINF:-1 tvg-id="ext" group-title="Digital TV",FOX NEES
 http://103.113.116.150:25461/mtm1/12345/42
-#EXTINF:0 tvg-id="ext" group-title="Digital TV",IDX CHANEL
+#EXTINF:-1 tvg-id="ext" group-title="Digital TV",IDX CHANEL
 http://103.113.116.150:25461/mtm1/12345/43
-#EXTINF:0 tvg-id="ext" group-title="Digital TV",SEA TODAY
+#EXTINF:-1 tvg-id="ext" group-title="Digital TV",SEA TODAY
 http://103.113.116.150:25461/mtm1/12345/44
-#EXTINF:0 tvg-id="ext" group-title="Digital TV",WARKOP DKI
+#EXTINF:-1 tvg-id="ext" group-title="Digital TV",WARKOP DKI
 http://103.113.116.150:25461/mtm1/12345/45
-#EXTINF:0 tvg-id="ext" group-title="Digital TV",ASTRO SUPERSPORT 2
+#EXTINF:-1 tvg-id="ext" group-title="Digital TV",ASTRO SUPERSPORT 2
 http://103.113.116.150:25461/mtm1/12345/48
-#EXTINF:0 tvg-id="ext" group-title="Digital TV",ASTRO SUPERSPORT 3
+#EXTINF:-1 tvg-id="ext" group-title="Digital TV",ASTRO SUPERSPORT 3
 http://103.113.116.150:25461/mtm1/12345/49
-#EXTINF:0 tvg-id="ext" group-title="Digital TV",ASTRO SUPERSPORT 4
+#EXTINF:-1 tvg-id="ext" group-title="Digital TV",ASTRO SUPERSPORT 4
 http://103.113.116.150:25461/mtm1/12345/50
-#EXTINF:0 tvg-id="ext" group-title="Digital TV",FIGHT SPORT
+#EXTINF:-1 tvg-id="ext" group-title="Digital TV",FIGHT SPORT
 http://103.113.116.150:25461/mtm1/12345/51
-#EXTINF:0 tvg-id="ext" group-title="Digital TV",OPTUS SPORT
+#EXTINF:-1 tvg-id="ext" group-title="Digital TV",OPTUS SPORT
 http://103.113.116.150:25461/mtm1/12345/54
-#EXTINF:0 tvg-id="ext" group-title="Digital TV",SUPERSPORT WORLD (PREMIER LEAGUE)
+#EXTINF:-1 tvg-id="ext" group-title="Digital TV",SUPERSPORT WORLD (PREMIER LEAGUE)
 http://103.113.116.150:25461/mtm1/12345/55
-#EXTINF:0 tvg-id="ext" group-title="Digital TV",SUPERSPORT WORLD (SERI A)
+#EXTINF:-1 tvg-id="ext" group-title="Digital TV",SUPERSPORT WORLD (SERI A)
 http://103.113.116.150:25461/mtm1/12345/56
-#EXTINF:0 tvg-id="ext" group-title="Digital TV",SUPERSPORT WORLD (LALIGA)
+#EXTINF:-1 tvg-id="ext" group-title="Digital TV",SUPERSPORT WORLD (LALIGA)
 http://103.113.116.150:25461/mtm1/12345/57
-#EXTINF:0 tvg-id="ext" group-title="Digital TV",SUPERSPORT WORLD (MOTOR SPORT)
+#EXTINF:-1 tvg-id="ext" group-title="Digital TV",SUPERSPORT WORLD (MOTOR SPORT)
 http://103.113.116.150:25461/mtm1/12345/58
-#EXTINF:0 tvg-id="ext" group-title="Digital TV",SUPERSPORT WORLD (TENNIS)
+#EXTINF:-1 tvg-id="ext" group-title="Digital TV",SUPERSPORT WORLD (TENNIS)
 http://103.113.116.150:25461/mtm1/12345/59
-#EXTINF:0 tvg-id="ext" group-title="Digital TV",SUPERSPORT WORLD (ACTION)
+#EXTINF:-1 tvg-id="ext" group-title="Digital TV",SUPERSPORT WORLD (ACTION)
 http://103.113.116.150:25461/mtm1/12345/60
-#EXTINF:0 tvg-id="ext" group-title="Digital TV",SUPERSPORT WORLD (GOLF)
+#EXTINF:-1 tvg-id="ext" group-title="Digital TV",SUPERSPORT WORLD (GOLF)
 http://103.113.116.150:25461/mtm1/12345/61
-#EXTINF:0 tvg-id="ext" group-title="Digital TV",SUPERSPORT WORLD (CRICKET)
+#EXTINF:-1 tvg-id="ext" group-title="Digital TV",SUPERSPORT WORLD (CRICKET)
 http://103.113.116.150:25461/mtm1/12345/62
-#EXTINF:0 tvg-id="ext" group-title="Digital TV",SUPERSPORT WORLD (AFRICA CUP)
+#EXTINF:-1 tvg-id="ext" group-title="Digital TV",SUPERSPORT WORLD (AFRICA CUP)
 http://103.113.116.150:25461/mtm1/12345/63
-#EXTINF:0 tvg-id="ext" group-title="Digital TV",SUPERSPORT WORLD (RUGBY)
+#EXTINF:-1 tvg-id="ext" group-title="Digital TV",SUPERSPORT WORLD (RUGBY)
 http://103.113.116.150:25461/mtm1/12345/64
-#EXTINF:0 tvg-id="ext" group-title="Digital TV",TRUE (PREMIER FOOTBALL)
+#EXTINF:-1 tvg-id="ext" group-title="Digital TV",TRUE (PREMIER FOOTBALL)
 http://103.113.116.150:25461/mtm1/12345/69
-#EXTINF:0 tvg-id="ext" group-title="Digital TV",TRUE (PREMIER FOOTBALL) 2
+#EXTINF:-1 tvg-id="ext" group-title="Digital TV",TRUE (PREMIER FOOTBALL) 2
 http://103.113.116.150:25461/mtm1/12345/70
-#EXTINF:0 tvg-id="ext" group-title="Digital TV",TRUE (PREMIER FOOTBALL) 3
+#EXTINF:-1 tvg-id="ext" group-title="Digital TV",TRUE (PREMIER FOOTBALL) 3
 http://103.113.116.150:25461/mtm1/12345/71
-#EXTINF:0 tvg-id="ext" group-title="Digital TV",TRUE SPORTS 1 (THAI)
+#EXTINF:-1 tvg-id="ext" group-title="Digital TV",TRUE SPORTS 1 (THAI)
 http://103.113.116.150:25461/mtm1/12345/72
-#EXTINF:0 tvg-id="ext" group-title="Digital TV",TRUE SPORTS 2 (THAI)
+#EXTINF:-1 tvg-id="ext" group-title="Digital TV",TRUE SPORTS 2 (THAI)
 http://103.113.116.150:25461/mtm1/12345/73
-#EXTINF:0 tvg-id="ext" group-title="Digital TV",TRUE SPORTS 3 (THAI)
+#EXTINF:-1 tvg-id="ext" group-title="Digital TV",TRUE SPORTS 3 (THAI)
 http://103.113.116.150:25461/mtm1/12345/74
-#EXTINF:0 tvg-id="ext" group-title="Digital TV",TRUE VISIONS (BEIN SPORT 1)
+#EXTINF:-1 tvg-id="ext" group-title="Digital TV",TRUE VISIONS (BEIN SPORT 1)
 http://103.113.116.150:25461/mtm1/12345/75
-#EXTINF:0 tvg-id="ext" group-title="Digital TV",TRUE VISIONS (BEIN SPORT 3)
+#EXTINF:-1 tvg-id="ext" group-title="Digital TV",TRUE VISIONS (BEIN SPORT 3)
 http://103.113.116.150:25461/mtm1/12345/76
-#EXTINF:0 tvg-id="ext" group-title="Digital TV",TRUE TENNIS
+#EXTINF:-1 tvg-id="ext" group-title="Digital TV",TRUE TENNIS
 http://103.113.116.150:25461/mtm1/12345/77
-#EXTINF:0 tvg-id="ext" group-title="Digital TV",DISCOVERY
+#EXTINF:-1 tvg-id="ext" group-title="Digital TV",DISCOVERY
 http://103.113.116.150:25461/mtm1/12345/85
-#EXTINF:0 tvg-id="ext" group-title="Digital TV",NAT GEO
+#EXTINF:-1 tvg-id="ext" group-title="Digital TV",NAT GEO
 http://103.113.116.150:25461/mtm1/12345/86
-#EXTINF:0 tvg-id="ext" group-title="Digital TV",NAT GEO WILD
+#EXTINF:-1 tvg-id="ext" group-title="Digital TV",NAT GEO WILD
 http://103.113.116.150:25461/mtm1/12345/87
-#EXTINF:0 tvg-id="ext" group-title="Digital TV",ANIMAL PLANET
+#EXTINF:-1 tvg-id="ext" group-title="Digital TV",ANIMAL PLANET
 http://103.113.116.150:25461/mtm1/12345/88
-#EXTINF:0 tvg-id="ext" group-title="Digital TV",HGTV
+#EXTINF:-1 tvg-id="ext" group-title="Digital TV",HGTV
 http://103.113.116.150:25461/mtm1/12345/97
-#EXTINF:0 tvg-id="ext" group-title="Digital TV",TLC
+#EXTINF:-1 tvg-id="ext" group-title="Digital TV",TLC
 http://103.113.116.150:25461/mtm1/12345/98
-#EXTINF:0 tvg-id="ext" group-title="Digital TV",AFN
+#EXTINF:-1 tvg-id="ext" group-title="Digital TV",AFN
 http://103.113.116.150:25461/mtm1/12345/99
-#EXTINF:0 tvg-id="ext" group-title="Digital TV",CARTOON NETWORK
+#EXTINF:-1 tvg-id="ext" group-title="Digital TV",CARTOON NETWORK
 http://103.113.116.150:25461/mtm1/12345/107
-#EXTINF:0 tvg-id="ext" group-title="Digital TV",HOREE
+#EXTINF:-1 tvg-id="ext" group-title="Digital TV",HOREE
 http://103.113.116.150:25461/mtm1/12345/112
-#EXTINF:0 tvg-id="ext" group-title="Digital TV",FOX+
+#EXTINF:-1 tvg-id="ext" group-title="Digital TV",FOX+
 http://103.113.116.150:25461/mtm1/12345/122
-#EXTINF:0 tvg-id="ext" group-title="Digital TV",FOX SPORTS
+#EXTINF:-1 tvg-id="ext" group-title="Digital TV",FOX SPORTS
 http://103.113.116.150:25461/mtm1/12345/123
-#EXTINF:0 tvg-id="ext" group-title="Digital TV",FOX SPORTS 2
+#EXTINF:-1 tvg-id="ext" group-title="Digital TV",FOX SPORTS 2
 http://103.113.116.150:25461/mtm1/12345/124
-#EXTINF:0 tvg-id="ext" group-title="Digital TV",EURO SPORTS 1
+#EXTINF:-1 tvg-id="ext" group-title="Digital TV",EURO SPORTS 1
 http://103.113.116.150:25461/mtm1/12345/125
-#EXTINF:0 tvg-id="ext" group-title="Digital TV",EURO SPORTS 2
+#EXTINF:-1 tvg-id="ext" group-title="Digital TV",EURO SPORTS 2
 http://103.113.116.150:25461/mtm1/12345/126
-#EXTINF:0 tvg-id="ext" group-title="Digital TV",SKY SPORT (PREMIER LEAGE)
+#EXTINF:-1 tvg-id="ext" group-title="Digital TV",SKY SPORT (PREMIER LEAGE)
 http://103.113.116.150:25461/mtm1/12345/127
-#EXTINF:0 tvg-id="ext" group-title="Digital TV",SKY SPORTS (FOOTBALL)
+#EXTINF:-1 tvg-id="ext" group-title="Digital TV",SKY SPORTS (FOOTBALL)
 http://103.113.116.150:25461/mtm1/12345/128
-#EXTINF:0 tvg-id="ext" group-title="Digital TV",SKY SPORTS (EFL)
+#EXTINF:-1 tvg-id="ext" group-title="Digital TV",SKY SPORTS (EFL)
 http://103.113.116.150:25461/mtm1/12345/129
-#EXTINF:0 tvg-id="ext" group-title="Digital TV",SKY SPORTS (FORMULA)
+#EXTINF:-1 tvg-id="ext" group-title="Digital TV",SKY SPORTS (FORMULA)
 http://103.113.116.150:25461/mtm1/12345/130
-#EXTINF:0 tvg-id="ext" group-title="Digital TV",SKY SPORTS (CRICKET)
+#EXTINF:-1 tvg-id="ext" group-title="Digital TV",SKY SPORTS (CRICKET)
 http://103.113.116.150:25461/mtm1/12345/131
-#EXTINF:0 tvg-id="ext" group-title="Digital TV",SKY PROTECT
+#EXTINF:-1 tvg-id="ext" group-title="Digital TV",SKY PROTECT
 http://103.113.116.150:25461/mtm1/12345/132
-#EXTINF:0 tvg-id="ext" group-title="Digital TV",SKY SPORTS (GOLF)
+#EXTINF:-1 tvg-id="ext" group-title="Digital TV",SKY SPORTS (GOLF)
 http://103.113.116.150:25461/mtm1/12345/133
-#EXTINF:0 tvg-id="ext" group-title="Digital TV",ASTRO CRICKET
+#EXTINF:-1 tvg-id="ext" group-title="Digital TV",ASTRO CRICKET
 http://103.113.116.150:25461/mtm1/12345/134
