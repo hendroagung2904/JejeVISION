@@ -75,7 +75,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:-1 tvg-id="Daai TV" tvg-name="DAAI TV" tvg-logo="https://raw.githubusercontent.com/hendroagung2904/LOGO/main/DAAITV.png" group-title="Indonesia Channels",DAAI TV
+#EXTINF:-1 tvg-id="Daai TV" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://raw.githubusercontent.com/hendroagung2904/LOGO/main/DAAITV.png" group-title="Indonesia Channels",DAAI TV
 https://nyanv-live-cdn.mncnow.id/live/eds/DAAITV/sa_dash_vmx/DAAITV.mpd
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -350,7 +350,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/Cinemachi-Xtra-HD/sa_dash_vmx/Cinemach
 #EXTINF:-1 tvg-id="IMC - [Channel 14].id" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://raw.githubusercontent.com/hendroagung2904/LOGO/main/IMC.png" group-title="Premium Movies",Indonesia Movie Channel
 https://nyanv-live-cdn.mncnow.id/live/eds/IndonesiaMovieChannels-HD/sa_dash_vmx/IndonesiaMovieChannels-HD.mpd
 
-#EXTINF:-1 tvg-id="Flik" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://images.indihometv.com/tvposter/flik.png" group-title="Premium Movies",Flik
+#EXTINF:-1 tvg-id=""Flik" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://images.indihometv.com/tvposter/flik.png" group-title="Premium Movies",Flik
 #http://103.113.116.150:25461/mtm1/12345/22
 
 #EXTINF:-1 tvg-id="Bioskop Indonesia" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://upload.wikimedia.org/wikipedia/id/a/a7/Bioskop_Indonesia_TV.png" group-title="Premium Movies",Bioskop Indonesia
@@ -500,7 +500,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/CGTN_Doc/sa_dash_vmx/CGTN_Doc.mpd
 https://nyanv-live-cdn.mncnow.id/live/eds/AXN/sa_dash_vmx/AXN.mpd
 
 #EXTINF:-1 group-title="Entertainment & LifeStyle" tvg-id="HITS Now" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://www.hitstv.com/assets/hits-now-logo-white.png",HITS NOW
-#https://cdn08jtedge.indihometv.com/dassdvr/134/hitsnow/manifest.mpd
+https://cdn08jtedge.indihometv.com/dassdvr/134/hitsnow/manifest.mpd
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
