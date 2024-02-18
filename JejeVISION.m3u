@@ -496,8 +496,8 @@ https://nyanv-live-cdn.mncnow.id/live/eds/CGTN_Doc/sa_dash_vmx/CGTN_Doc.mpd
 #EXTINF:-1 tvg-id="AXN HD - [Channel 438].id" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://static.mncnow.id/images/channel/9c1a8446/733c_r32.jpg" group-title="Entertainment & LifeStyle",AXN
 https://nyanv-live-cdn.mncnow.id/live/eds/AXN/sa_dash_vmx/AXN.mpd
 
-#EXTINF:-1 group-title="Entertainment & LifeStyle" tvg-id="HITS Now" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://www.hitstv.com/assets/hits-now-logo-white.png",HITS NOW
-https://cdn08jtedge.indihometv.com/dassdvr/134/hitsnow/manifest.mpd
+#EXTINF:-1 group-title="Entertainment & LifeStyle" tvg-id="HITS Now tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://www.hitstv.com/assets/hits-now-logo-white.png",HITS NOW
+#https://cdn08jtedge.indihometv.com/dassdvr/134/hitsnow/manifest.mpd
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
