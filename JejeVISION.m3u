@@ -690,6 +690,43 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch344%29/index
 #EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9b/Stingray_Now_4K.png" group-title="Music",Stingray Now 4K
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch345%29/index.m3u8
 
+
+<================================== Live Event EPL ===============================>
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzWu0MXatQ6eEF0ts3w1KwgU14QzYmIULY7A&usqp=CAU" group-title="Live Event EPL", LIVE 1
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:3B:8F:38&stream=1110622&extension=ts
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzWu0MXatQ6eEF0ts3w1KwgU14QzYmIULY7A&usqp=CAU" group-title="Live Event EPL", LIVE 2
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:3B:8F:38&stream=144412&extension=ts
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzWu0MXatQ6eEF0ts3w1KwgU14QzYmIULY7A&usqp=CAU" group-title="Live Event EPL", LIVE 3
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:3B:8F:38&stream=355925&extension=ts
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzWu0MXatQ6eEF0ts3w1KwgU14QzYmIULY7A&usqp=CAU" group-title="Live Event EPL", LIVE 4
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:3B:8F:38&stream=833281&extension=ts
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzWu0MXatQ6eEF0ts3w1KwgU14QzYmIULY7A&usqp=CAU" group-title="Live Event EPL", LIVE 5
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:3B:8F:38&stream=1032471&extension=ts
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzWu0MXatQ6eEF0ts3w1KwgU14QzYmIULY7A&usqp=CAU" group-title="Live Event EPL", LIVE 6
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:3B:8F:38&stream=918984&extension=ts
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzWu0MXatQ6eEF0ts3w1KwgU14QzYmIULY7A&usqp=CAU" group-title="Live Event EPL", LIVE 7
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:3B:8F:38&stream=239078&extension=ts
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzWu0MXatQ6eEF0ts3w1KwgU14QzYmIULY7A&usqp=CAU" group-title="Live Event EPL", LIVE 8
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:3B:8F:38&stream=79473&extension=ts
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzWu0MXatQ6eEF0ts3w1KwgU14QzYmIULY7A&usqp=CAU" group-title="Live Event EPL", LIVE 9
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:3B:8F:38&stream=79476&extension=ts
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzWu0MXatQ6eEF0ts3w1KwgU14QzYmIULY7A&usqp=CAU" group-title="Live Event EPL", LIVE 10
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:D4:AF:48&stream=2591&extension=ts
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzWu0MXatQ6eEF0ts3w1KwgU14QzYmIULY7A&usqp=CAU" group-title="Live Event EPL", Live 11
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:D4:AF:48&stream=1757338&extension=ts
+
+
 <============================ Sports ========================>
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
