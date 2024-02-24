@@ -2192,3 +2192,29 @@ https://cdnjkt4.transvision.co.id:1000/live/master/2/4028c68578b331d80178b5acf1f
 #KODIPROP:inputstream.adaptive.license_key=https://CUBMU.topsecret.workers.dev/license-proxy-widevine/cenc/?specConform=true
 https://cdnjkt4.transvision.co.id:1000/live/master/5/4028c6857fe540a1018060a0c34340b6/manifest.mpd
 
+<============================= DAZN ===================================>
+#EXTINF:-1 group-title="🇵🇹 | DAZN ELEVEN" tvg-id="" tvg-logo="https://hometv.pw/logo/sports/dazn_eleven.png",DAZN ELEVEN 1 Auto Reso
+#KODIPROP:inputstream.adaptive.license_type=clearkey	
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=82f8e2a17dac44c0a18f660479349c59&key=1b144f73e6fefe91cd05f850e2b589d0
+http://103.127.209.247:8080/movie/nvc247@home02/KznKIpJOV0/818.mpd
+
+#EXTINF:-1 group-title="🇵🇹 | DAZN ELEVEN" tvg-id="" tvg-logo="https://hometv.pw/logo/sports/dazn_eleven.png",DAZN ELEVEN 2 Auto Reso
+#KODIPROP:inputstream.adaptive.license_type=clearkey	
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=82f8e2a17dac44c0a18f660479349c59&key=1b144f73e6fefe91cd05f850e2b589d0
+http://103.127.209.247:8080/movie/nvc247@home02/KznKIpJOV0/819.mpd
+
+#EXTINF:-1 group-title="🇵🇹 | DAZN ELEVEN" tvg-id="" tvg-logo="https://hometv.pw/logo/sports/dazn_eleven.png",DAZN ELEVEN 3 Auto Reso
+#KODIPROP:inputstream.adaptive.license_type=clearkey	
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=82f8e2a17dac44c0a18f660479349c59&key=1b144f73e6fefe91cd05f850e2b589d0
+http://103.127.209.247:8080/movie/nvc247@home02/KznKIpJOV0/820.mpd
+
+#EXTINF:-1 group-title="🇵🇹 | DAZN ELEVEN" tvg-id="" tvg-logo="https://hometv.pw/logo/sports/dazn_eleven.png",DAZN ELEVEN 4 Auto Reso
+#KODIPROP:inputstream.adaptive.license_type=clearkey	
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=82f8e2a17dac44c0a18f660479349c59&key=1b144f73e6fefe91cd05f850e2b589d0
+http://103.127.209.247:8080/movie/nvc247@home02/KznKIpJOV0/821.mpd
+
+#EXTINF:-1 group-title="🇵🇹 | DAZN ELEVEN" tvg-id="" tvg-logo="https://hometv.pw/logo/sports/dazn_eleven.png",DAZN ELEVEN 5 Auto Reso
+#KODIPROP:inputstream.adaptive.license_type=clearkey	
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=82f8e2a17dac44c0a18f660479349c59&key=1b144f73e6fefe91cd05f850e2b589d0
+http://103.127.209.247:8080/movie/nvc247@home02/KznKIpJOV0/822.mpd
+
