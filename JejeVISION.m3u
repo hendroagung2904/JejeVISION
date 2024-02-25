@@ -1704,5 +1704,20 @@ http://stream.radiojar.com/9k28wsbu5k8uv
 https://svara-stream.radioddns.net:8443/jakarta_smoothfm_mp3
 
 <====================================Trial =====================================>
+#EXTINF:-1 tvg-id="beIN SPORTS" tvg-logo="https://i.ibb.co/d75VShH/daznxbein1.png" group-title="Sports",beIN SPORTS 1
+#EXTVLCOPT:http-referrer=https://www.indihometv.com/
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+https://cdn08jtedge.indihometv.com/dassdvr/133/beib1/manifest.mpd
+
+#EXTINF:-1 tvg-id="beIN SPORTS 3" tvg-logo="https://i.ibb.co/qd5PzZV/daznxbein3.png" group-title="Sports",beIN SPORTS 3
+#EXTVLCOPT:http-referrer=https://www.indihometv.com/
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+https://cdn08jtedge.indihometv.com/dassdvr/133/beib2/manifest.mpd
 
 
