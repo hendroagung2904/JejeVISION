@@ -1,5 +1,5 @@
 ﻿#EXTM3U
-#EXTM3U url-tvg="https://www.bevy.be/bevyfiles/indonesia.xml,https://www.bevy.be/bevyfiles/indonesiapremium1.xml,https://www.bevy.be/bevyfiles/indonesiapremium3.xml,https://www.bevy.be/bevyfiles/indonesiapremium4.xml,https://www.bevy.be/bevyfiles/malaysia.xml,https://www.bevy.be/bevyfiles/malaysiapremium1.xml,https://www.bevy.be/bevyfiles/malaysiapremium2.xml,https://www.bevy.be/bevyfiles/singaporepremium.xml,"https://www.bevy.be/bevyfiles/unitedkingdom.xml" refresh="1440" max-conn="1" refresh="24"
+#EXTM3U url-tvg="https://www.bevy.be/bevyfiles/indonesia.xml,https://www.bevy.be/bevyfiles/indonesiapremium1.xml,https://www.bevy.be/bevyfiles/indonesiapremium3.xml,https://www.bevy.be/bevyfiles/indonesiapremium4.xml,https://www.bevy.be/bevyfiles/malaysia.xml,https://www.bevy.be/bevyfiles/malaysiapremium1.xml,https://www.bevy.be/bevyfiles/malaysiapremium2.xml,https://www.bevy.be/bevyfiles/singaporepremium.xml,"https://www.bevy.be/bevyfiles/unitedkingdompremium1.xml" refresh="1440" max-conn="1" refresh="24"
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -707,32 +707,32 @@ https://webhdrus.onlinehdhls.ru/lb/premium125/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 https://webhdrus.onlinehdhls.ru/lb/premium126/index.m3u8
 
-#EXTINF:-1 tvg-name="SkySportsFootballHD.uk" tvg-url="https://www.bevy.be/bevyfiles/unitedkingdom.xml" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/Sky_Sports_Football.png" group-title="Sports",Sky Sports Football UK
+#EXTINF:-1 tvg-name="Sky Sports Football HD" tvg-url="https://www.bevy.be/bevyfiles/unitedkingdompremium1.xml" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/Sky_Sports_Football.png" group-title="Sports",Sky Sports Football UK
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 https://webhdrus.onlinehdhls.ru/lb/premium35/index.m3u8
 
-#EXTINF:-1 tvg-name="SkySportsArenaHD.uk" tvg-url="https://www.bevy.be/bevyfiles/unitedkingdom.xml" tvg-logo="https://www.pikpng.com/pngl/m/315-3152556_sky-sports-arena-sky-sports-arena-live-sky.png" group-title="Sports",Sky Sports Arena UK
+#EXTINF:-1 tvg-name="Sky Sports Arena HD" tvg-url="https://www.bevy.be/bevyfiles/unitedkingdompremium1.xml" tvg-logo="https://www.pikpng.com/pngl/m/315-3152556_sky-sports-arena-sky-sports-arena-live-sky.png" group-title="Sports",Sky Sports Arena UK
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 https://webhdrus.onlinehdhls.ru/lb/premium36/index.m3u8
 
-#EXTINF:-1 tvg-name="Sky Sports Action UK" tvg-url="https://www.bevy.be/bevyfiles/unitedkingdom.xml" tvg-logo="https://i.pinimg.com/originals/e3/15/26/e315268f9d91370fc20b762d5f41c0e5.png" group-title="Sports",Sky Sports Action UK
+#EXTINF:-1 tvg-name="Sky Sports Action HD" tvg-url="https://www.bevy.be/bevyfiles/unitedkingdompremium1.xml" tvg-logo="https://i.pinimg.com/originals/e3/15/26/e315268f9d91370fc20b762d5f41c0e5.png" group-title="Sports",Sky Sports Action UK
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 https://webhdrus.onlinehdhls.ru/lb/premium37/index.m3u8
 
-#EXTINF:-1 tvg-name="SkySportsMainEventHD.uk" tvg-url="https://www.bevy.be/bevyfiles/unitedkingdom.xml" tvg-logo="https://www.pngkey.com/png/detail/63-631606_cleveland-browns-vs-new-york-jets-sky-sports.png" group-title="Sports",Sky Sports Main Event
+#EXTINF:-1 tvg-name="Sky Sports Main Event HD" tvg-url="https://www.bevy.be/bevyfiles/unitedkingdompremium1.xml" tvg-logo="https://www.pngkey.com/png/detail/63-631606_cleveland-browns-vs-new-york-jets-sky-sports.png" group-title="Sports",Sky Sports Main Event
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 https://webhdrus.onlinehdhls.ru/lb/premium38/index.m3u8
 
-#EXTINF:-1 tvg-name="SkySportsPremierLeagueHD.uk" tvg-url="https://www.bevy.be/bevyfiles/unitedkingdom.xml" tvg-logo="https://www.nicepng.com/png/full/213-2133982_sky-sports-logo-png.png" group-title="Sports",Sky sports Premier League
+#EXTINF:-1 tvg-name="Sky Sports Premier League HD" tvg-url="https://www.bevy.be/bevyfiles/unitedkingdompremium1.xml" tvg-logo="https://www.nicepng.com/png/full/213-2133982_sky-sports-logo-png.png" group-title="Sports",Sky sports Premier League
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 https://webhdrus.onlinehdhls.ru/lb/premium130/index.m3u8
 
-#EXTINF:-1 tvg-name="SkySportsF1HD.uk" tvg-url="https://www.bevy.be/bevyfiles/unitedkingdom.xml" tvg-logo="https://www.pngkit.com/png/detail/306-3069632_sky-sports-f1-1080p-sky-sports-main-event.png" group-title="Sports",Sky Sports F1 UK
+#EXTINF:-1 tvg-name="Sky Sports F1 HD" tvg-url="https://www.bevy.be/bevyfiles/unitedkingdompremium1.xml" tvg-logo="https://www.pngkit.com/png/detail/306-3069632_sky-sports-f1-1080p-sky-sports-main-event.png" group-title="Sports",Sky Sports F1 UK
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 https://webhdrus.onlinehdhls.ru/lb/premium60/index.m3u8
