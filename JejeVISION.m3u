@@ -1726,3 +1726,47 @@ http://stream.radiojar.com/9k28wsbu5k8uv
 https://svara-stream.radioddns.net:8443/jakarta_smoothfm_mp3
 
 <===================================== TRIAL ==================================>
+#EXTINF:-1 tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="" group-title="Sports",FOX 502
+http://103.113.116.150:25461/mtm1/12345/48
+
+#EXTINF:-1 tvg-url="https://bit.ly/JejeVisionEPG" group-title="Sports",FOX HD
+http://103.113.116.150:25461/mtm1/12345/49
+
+#EXTINF:-1 tvg-url="https://bit.ly/JejeVisionEPG" group-title="Sports",Sky Sport F1 HD
+http://103.113.116.150:25461/mtm1/12345/50
+
+#EXTINF:-1 tvg-url="https://bit.ly/JejeVisionEPG" group-title="Sports",Sky Sport Arena
+http://103.113.116.150:25461/mtm1/12345/51
+
+#EXTINF:-1 tvg-url="https://bit.ly/JejeVisionEPG" group-title="Sports",Sky Sport Foot Ball
+http://103.113.116.150:25461/mtm1/12345/52
+
+#EXTINF:-1 tvg-url="https://bit.ly/JejeVisionEPG" group-title="Sports",Sky Sport Golf
+http://103.113.116.150:25461/mtm1/12345/53
+
+#EXTINF:-1 tvg-url="https://bit.ly/JejeVisionEPG" group-title="Sports",Sky Sport
+http://103.113.116.150:25461/mtm1/12345/54
+
+#EXTINF:-1 tvg-url="https://bit.ly/JejeVisionEPG" group-title="Sports",Sky Sport Cricket
+http://103.113.116.150:25461/mtm1/12345/56
+
+#EXTINF:-1 tvg-url="https://bit.ly/JejeVisionEPG" group-title="Sports",Sky Sport Action
+http://103.113.116.150:25461/mtm1/12345/57
+
+#EXTINF:-1 tvg-url="https://bit.ly/JejeVisionEPG" group-title="Sports",Sky Sport News
+http://103.113.116.150:25461/mtm1/12345/58
+
+#EXTINF:-1 tvg-url="https://bit.ly/JejeVisionEPG" group-title="Sports",UFC TV
+http://103.113.116.150:25461/mtm1/12345/59
+
+#EXTINF:-1 tvg-url="https://bit.ly/JejeVisionEPG" group-title="Sports",TNT Sport 1
+http://103.113.116.150:25461/mtm1/12345/61
+
+#EXTINF:-1 tvg-url="https://bit.ly/JejeVisionEPG" group-title="Sports",TNT Sport 2
+http://103.113.116.150:25461/mtm1/12345/62
+
+#EXTINF:-1 tvg-url="https://bit.ly/JejeVisionEPG" group-title="Sports",TNT Sport 3
+http://103.113.116.150:25461/mtm1/12345/63
+
+#EXTINF:-1 tvg-url="https://bit.ly/JejeVisionEPG" group-title="Sports",TNT Sport 4
+http://103.113.116.150:25461/mtm1/12345/64
