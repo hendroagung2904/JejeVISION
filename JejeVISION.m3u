@@ -432,7 +432,7 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch302%29/index
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTINF:-1 tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-id="AnimalPlanetSoutheastAsia.sg" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_203.png" group-title="Knowledge & Documentary",Animal Planet 
-https://raw.githubusercontent.com/kaziemamul/html1/main/KaziTV/Animal_Planet.m3u8
+http://metatvpro.com:25461/live/LT186743/8181/308.m3u8
 #http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch31%29/index.m3u8
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
