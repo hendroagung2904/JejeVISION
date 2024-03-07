@@ -39,7 +39,6 @@ http://103.113.116.150:25461/mtm1/12345/31
 #EXTINF:-1 tvg-id="SCTV - [Channel 89].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://www.mncvision.id/userfiles/image/channel/sctv.png" group-title="Indonesia Channels" ,SCTV 
 http://103.113.116.150:25461/mtm1/12345/20
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
 #EXTINF:-1 tvg-id="Indosiar - [Channel 78].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1280px-INDOSIAR_Logo.png" group-title="Indonesia Channels",Indosiar
