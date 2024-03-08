@@ -1925,12 +1925,26 @@ https://svara-stream.radioddns.net:8443/jakarta_smoothfm_mp3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
 #EXTINF:-1 tvg-id="" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://logos-world.net/wp-content/uploads/2023/02/Premier-League-Logo.png" group-title="Sports",Premier League TV
+https://srtv.my.id/vd/play.m3u8?id=105&type=hls
+https://srtv.my.id/vd/play.m3u8?id=102&type=hls
+https://srtv.my.id/vd/play.m3u8?id=6838&type=hls
+https://srtv.my.id/vd/play.m3u8?id=6953&type=hls
 https://srtv.my.id/vd/play.m3u8?id=7250&type=hls
+https://srtv.my.id/vd/play.m3u8?id=7573&type=hls
+https://srtv.my.id/vd/play.m3u8?id=7290&type=hls
+https://srtv.my.id/vd/play.m3u8?id=7644&type=hls
+https://srtv.my.id/vd/play.m3u8?id=7636&type=hls
+https://srtv.my.id/vd/play.m3u8?id=7607&type=hls
+https://srtv.my.id/vd/play.m3u8?id=7585&type=hls
+https://srtv.my.id/vd/play.m3u8?id=8034&type=hls
+https://srtv.my.id/vd/play.m3u8?id=8117&type=hls
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
-#EXTINF:-1 tvg-id="" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://logos-world.net/wp-content/uploads/2023/02/Premier-League-Logo.png" group-title="Sports",Premier League TV2
-https://srtv.my.id/vd/play.m3u8?id=7290&type=hls
+#EXTINF:-1 tvg-id="" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="" group-title="Sports",LFC TV
+https://srtv.my.id/vd/play.m3u8?id=7916&type=hls
+https://srtv.my.id/vd/play.m3u8?id=7916&type=hls
+
 
 
