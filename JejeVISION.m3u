@@ -2077,7 +2077,7 @@ https://svara-stream.radioddns.net:8443/jakarta_smoothfm_mp3
 #KODIPROP:inputstream.adaptive.manifest_type=hls 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://srtv.my.id/vd/play.php?id=7916&type=drm
-#EXTVLCOPT:http-referrer=https://www.vidio.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
 #EXTINF:-1 tvg-id="" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://media.info/l/o/1/1442.1642633783.png" group-title="Sports",LFC TV
 https://srtv.my.id/vd/play.m3u8?id=7916&type=hls
 https://srtv.my.id/vd/play.m3u8?id=7916&type=hls
@@ -2086,7 +2086,7 @@ https://srtv.my.id/vd/play.m3u8?id=7916&type=hls
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://srtv.my.id/vd/play.php?id=6299&type=drm
-#EXTVLCOPT:http-referrer=https://www.vidio.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
 #EXTINF:-1 group-title="Sports" tvg-logo="https://thumbor.prod.vidiocdn.com/fEnIWS90yBi4gKPhwkhOKgPsw-o=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6299/d74f54.png", Bein 1
 ttps://srtv.my.id/vd/play.mpd?id=6299&type=dash
 
@@ -2094,7 +2094,7 @@ ttps://srtv.my.id/vd/play.mpd?id=6299&type=dash
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://srtv.my.id/vd/play.php?id=6317&type=drm
-#EXTVLCOPT:http-referrer=https://www.vidio.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
 #EXTINF:-1 group-title="Sports" tvg-logo="https://thumbor.prod.vidiocdn.com/c_w_GED5RwmvVMqOZXzRj1j9BLo=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6317/4a8762.png", Bein 3
 https://srtv.my.id/vd/play.mpd?id=6317&type=dash
 
@@ -2102,7 +2102,7 @@ https://srtv.my.id/vd/play.mpd?id=6317&type=dash
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://srtv.my.id/vd/play.php?id=6685&type=drm
-#EXTVLCOPT:http-referrer=https://www.vidio.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
 #EXTINF:-1 group-title="Sports" tvg-logo="https://thumbor.prod.vidiocdn.com/_QrhoPVikJ5xrsOpHke9heqU_iY=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6685/5add43.png", ChampionTV 1
 https://srtv.my.id/vd/play.mpd?id=6685&type=dash
 
@@ -2110,7 +2110,7 @@ https://srtv.my.id/vd/play.mpd?id=6685&type=dash
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.license_key=https://srtv.my.id/vd/play.php?id=6685&type=drm
-#EXTVLCOPT:http-referrer=https://www.vidio.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
 #EXTINF:-1 group-title="Sports" tvg-logo="https://thumbor.prod.vidiocdn.com/_QrhoPVikJ5xrsOpHke9heqU_iY=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6685/5add43.png", ChampionTV 1 HLS
 https://srtv.my.id/vd/play.m3u8?id=6685&type=hls
 
@@ -2118,7 +2118,7 @@ https://srtv.my.id/vd/play.m3u8?id=6685&type=hls
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://srtv.my.id/vd/play.php?id=6686&type=drm
-#EXTVLCOPT:http-referrer=https://www.vidio.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
 #EXTINF:-1 group-title="Sports" tvg-logo="https://thumbor.prod.vidiocdn.com/qQICmNbxaAtir-zxCSv6-Cqbxt0=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6686/14270d.png", ChampionTV 2
 https://srtv.my.id/vd/play.mpd?id=6686&type=dash 
 
@@ -2126,7 +2126,7 @@ https://srtv.my.id/vd/play.mpd?id=6686&type=dash
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.license_key=https://srtv.my.id/vd/play.php?id=6686&type=drm
-#EXTVLCOPT:http-referrer=https://www.vidio.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
 #EXTINF:-1 group-title="Sports" tvg-logo="https://thumbor.prod.vidiocdn.com/qQICmNbxaAtir-zxCSv6-Cqbxt0=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6686/14270d.png", ChampionTV 2
 https://srtv.my.id/vd/play.m3u8?id=6686&type=hls
 
@@ -2134,7 +2134,7 @@ https://srtv.my.id/vd/play.m3u8?id=6686&type=hls
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://srtv.my.id/vd/play.php?id=6786&type=drm
-#EXTVLCOPT:http-referrer=https://www.vidio.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
 #EXTINF:-1 group-title="Sports" tvg-logo="https://thumbor.prod.vidiocdn.com/Xbri5YIQ-JyNB_UQMJ6wz49lru4=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6786/d2ebc5.png", ChampionTV 3
 https://srtv.my.id/vd/play.mpd?id=6786&type=dash
 
@@ -2142,15 +2142,15 @@ https://srtv.my.id/vd/play.mpd?id=6786&type=dash
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://srtv.my.id/vd/play.php?id=9182&type=drm
-#EXTVLCOPT:http-referrer=https://www.vidio.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
 #EXTINF:-1 group-title="Sports" tvg-logo="https://thumbor.prod.vidiocdn.com/S1YVrsYE0Fm49BGKhIgqkpnEk8M=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/9182/13b733.png", ChampionTV 5
 https://srtv.my.id/vd/play.mpd?id=9182&type=dash
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
 #KODIPROP:inputstream.adaptive.license_key=https://srtv.my.id/vd/play.php?id=9183&type=drm
-#EXTVLCOPT:http-referrer=https://www.vidio.com/
 #EXTINF:-1 group-title="Sports" tvg-logo="https://thumbor.prod.vidiocdn.com/5uxtD9zKbgyCgAjpj6W3TwkqO2A=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/9183/33e19d.png", ChampionTV 6
 https://srtv.my.id/vd/play.mpd?id=9183&type=dash
 
