@@ -1696,8 +1696,12 @@ https://63b2dc7196c38.streamlock.net:1937/ch30/myStream/chunklist_w38627436.m3u8
 
 
 <======================= Internet Radio ===============================>
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://srtv.my.id/vd/play.php?id=205&type=drm
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
 #EXTINF:-1  tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://thumbor.prod.vidiocdn.com/R0mWvffZYl2qD_SdG_nvMX_ZZMM=/filters:quality(70)/vidio-web-prod-channel/uploads/channel/image/236/musica-s-channel-6ec660.jpg" group-title="Internet Radio",MUSIKA
 https://srtv.my.id/vd/play.m3u8?id=7619&type=hls
@@ -1714,8 +1718,12 @@ https://nagaswarakoplo.fiqriaw8.workers.dev/stream/nagaswarafmbgr/master.m3u8
 #EXTINF:-1  tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="http://p2k.unkris.ac.id/_sepakbola/_baca_image.php?td=12&kodegb=SSFM_Logo.png" group-title="Internet Radio",Suara Surabaya FM
 https://ssfm.siar.us/ssfm/live/playlist.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://srtv.my.id/vd/play.php?id=205&type=drm
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
 #EXTINF:-1  tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/e/ea/IRadio_%282012%29.png/400px-IRadio_%282012%29.png" group-title="Internet Radio",iRadio
 https://srtv.my.id/vd/play.m3u8?id=7057&type=hls
@@ -1724,188 +1732,312 @@ https://srtv.my.id/vd/play.m3u8?id=7057&type=hls
 #EXTINF:-1  tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e8/Nagaswara-FM-Cirebon.png" group-title="Internet Radio",Nagaswara FM
 https://live.nagaswarafm.com:9900/stream
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://srtv.my.id/vd/play.php?id=205&type=drm
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
 #EXTINF:-1  tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://upload.wikimedia.org/wikipedia/id/c/c1/HARDROCK-FM-JAKARTA.png" group-title="Internet Radio",Hardrock FM
 https://srtv.my.id/vd/play.m3u8?id=7053&type=hls
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://srtv.my.id/vd/play.php?id=205&type=drm
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
 #EXTINF:-1  tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://bravaradio.com/wp-content/uploads/2019/06/small-brava-logo.png" group-title="Internet Radio",Brava FM
 https://srtv.my.id/vd/play.m3u8?id=7054&type=hls
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://srtv.my.id/vd/play.php?id=205&type=drm
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
 #EXTINF:-1  tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/67/Trax-banner-atas-website.png/revision/latest?cb=20230714191818" group-title="Internet Radio",Trax FM Jakarta
 https://srtv.my.id/vd/play.m3u8?id=7055&type=hls
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://srtv.my.id/vd/play.php?id=205&type=drm
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
 #EXTINF:-1  tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c0/Cosmopolitan_FM.png/revision/latest?cb=20200208064253" group-title="Internet Radio",Cosmoplitan FM
 https://srtv.my.id/vd/play.m3u8?id=7056&type=hls
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://srtv.my.id/vd/play.php?id=205&type=drm
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
 #EXTINF:-1  tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/93/Gajahmada_3.png" group-title="Internet Radio",Gajahmada FM
 https://srtv.my.id/vd/play.m3u8?id=7284&type=hls
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://srtv.my.id/vd/play.php?id=205&type=drm
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
 #EXTINF:-1  tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f5/Bahana_FM.png/revision/latest/scale-to-width-down/200?cb=20190615155625" group-title="Internet Radio",Bahana FM
 https://srtv.my.id/vd/play.m3u8?id=7091&type=hls
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://srtv.my.id/vd/play.php?id=205&type=drm
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
 #EXTINF:-1  tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/da/DeltaFMLogo.png/revision/latest/scale-to-width-down/1200?cb=20230623100317" group-title="Internet Radio",Delta FM
 https://srtv.my.id/vd/play.m3u8?id=7092&type=hls
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://srtv.my.id/vd/play.php?id=205&type=drm
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
 #EXTINF:-1  tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/c/cd/Logo_FeMale_2019.png/799px-Logo_FeMale_2019.png" group-title="Internet Radio",Female FM
 https://srtv.my.id/vd/play.m3u8?id=7130&type=hls
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://srtv.my.id/vd/play.php?id=205&type=drm
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
 #EXTINF:-1  tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://4.bp.blogspot.com/-D58NuNv4-j4/W_9p8uqDCMI/AAAAAAAAFto/C1C_oeyPOyEIqzp3FE3fXgrzY7qm1LYfgCLcBGAs/s1600/Radio%2BJiz%2BFM%2BJogja.png" group-title="Internet Radio",Jiz FM
 https://srtv.my.id/vd/play.m3u8?id=7792&type=hls
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://srtv.my.id/vd/play.php?id=205&type=drm
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
 #EXTINF:-1  tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://elshinta.com/asset/upload/img/radio_elshinta.png" group-title="Internet Radio",ElShinta FM
 https://srtv.my.id/vd/play.m3u8?id=7166&type=hls
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://srtv.my.id/vd/play.php?id=205&type=drm
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
 #EXTINF:-1  tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://www.radioelgangga.com/wp-content/uploads/2023/03/cropped-Logo-Elgangga-1.png" group-title="Internet Radio",Elgangga FM
 https://srtv.my.id/vd/play.m3u8?id=7169&type=hls
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://srtv.my.id/vd/play.php?id=205&type=drm
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
 #EXTINF:-1  tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://elmitra95fm.com/wp-content/uploads/2022/12/logo-elmitra-min.png" group-title="Internet Radio",Elmitra FM
 https://srtv.my.id/vd/play.m3u8?id=7170&type=hls
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://srtv.my.id/vd/play.php?id=205&type=drm
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
 #EXTINF:-1  tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://cdn-radiotime-logos.tunein.com/s24935d.png" group-title="Internet Radio",Ardan FM Bandung
 https://srtv.my.id/vd/play.m3u8?id=7184&type=hls
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://srtv.my.id/vd/play.php?id=205&type=drm
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
 #EXTINF:-1  tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://www.mgtradio.com/wp-content/uploads/2019/04/MGT-Headphone-170x170.jpg" group-title="Internet Radio",MGT FM Bandung
 https://srtv.my.id/vd/play.m3u8?id=7188&type=hls
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://srtv.my.id/vd/play.php?id=205&type=drm
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
 #EXTINF:-1  tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://upload.wikimedia.org/wikipedia/id/3/37/Geronimo-Logo.jpg" group-title="Internet Radio",Geronimo FM
 https://srtv.my.id/vd/play.m3u8?id=7216&type=hls
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://srtv.my.id/vd/play.php?id=205&type=drm
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
 #EXTINF:-1  tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/2/2f/Logo_Sushi_FM.jpg/640px-Logo_Sushi_FM.jpg" group-title="Internet Radio",Sushi FM Padang
 https://srtv.my.id/vd/play.m3u8?id=7218&type=hls
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://srtv.my.id/vd/play.php?id=205&type=drm
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
 #EXTINF:-1  tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://thumbor.prod.vidiocdn.com/_6vjQwcdB-_c9NJ_CbVIyZMT0Ts=/640x360/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7685/paramuda-fm-5a8478.jpg" group-title="Internet Radio",Paramuda FM Bandung
 https://srtv.my.id/vd/play.m3u8?id=7685&type=hls
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://srtv.my.id/vd/play.php?id=205&type=drm
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
 #EXTINF:-1  tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://static.mytuner.mobi/media/radios-150px/fwMnjsLxJM.png" group-title="Internet Radio",Dahlia FM Bandung
 https://srtv.my.id/vd/play.m3u8?id=7242&type=hls
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://srtv.my.id/vd/play.php?id=205&type=drm
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
 #EXTINF:-1  tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://swaragamafm.com/wp-content/uploads/2016/04/rsz_11logo.png" group-title="Internet Radio",Swaragama Jogja
 https://srtv.my.id/vd/play.m3u8?id=7248&type=hls
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://srtv.my.id/vd/play.php?id=205&type=drm
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
 #EXTINF:-1  tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://radioimeldafm.co.id/wp-content/uploads/2023/09/cropped-IMELDA-e1694394901910.png" group-title="Internet Radio",Imelda FM
 https://srtv.my.id/vd/play.m3u8?id=7281&type=hls
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://srtv.my.id/vd/play.php?id=205&type=drm
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
 #EXTINF:-1  tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/dj8mdtherbja.jpg" group-title="Internet Radio",Swara Semarang
 https://srtv.my.id/vd/play.m3u8?id=7283&type=hls
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://srtv.my.id/vd/play.php?id=205&type=drm
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
 #EXTINF:-1  tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://images.noiceid.cc/catalog/content-1636106414484.jpg" group-title="Internet Radio",Cakra FM Bandung
 https://srtv.my.id/vd/play.m3u8?id=7297&type=hls
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://srtv.my.id/vd/play.php?id=205&type=drm
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
 #EXTINF:-1  tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://www.radio.net/images/broadcasts/9b/ff/21342/c300.png" group-title="Internet Radio",Rama FM Bandung
 https://srtv.my.id/vd/play.m3u8?id=7684&type=hls
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://srtv.my.id/vd/play.php?id=205&type=drm
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
 #EXTINF:-1  tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://new-asset.cdn.svara.id/thumb/unsafe/300x300/svara-radio-logo/cdmz47811ndg008x78d0.p1000x1000.png" group-title="Internet Radio",GEN FM Jakarta
 https://srtv.my.id/vd/play.m3u8?id=7443&type=hls
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://srtv.my.id/vd/play.php?id=205&type=drm
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
 #EXTINF:-1  tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://new-asset.cdn.svara.id/thumb/unsafe/300x300/svara-radio-logo/cdmz47811ndg008x78d0.p1000x1000.png" group-title="Internet Radio",GEN FM Surabaya
 https://srtv.my.id/vd/play.m3u8?id=7446&type=hls
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://srtv.my.id/vd/play.php?id=205&type=drm
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
 #EXTINF:-1  tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://upload.wikimedia.org/wikipedia/id/8/81/Logo_Kis951FM_%282017%29.png" group-title="Internet Radio",Kis FM
 https://srtv.my.id/vd/play.m3u8?id=7445&type=hls
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://srtv.my.id/vd/play.php?id=205&type=drm
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
 #EXTINF:-1  tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://thumbor.prod.vidiocdn.com/32upIz2tUkGoTzzKw4gf3-dekvQ=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7447/test-radio-mustang-fm-cca93a.jpg" group-title="Internet Radio",Mustang FM
 https://srtv.my.id/vd/play.m3u8?id=7447&type=hls
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://srtv.my.id/vd/play.php?id=205&type=drm
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
 #EXTINF:-1  tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://new-asset.cdn.svara.id/thumb/unsafe/300x300/svara-radio-logo/cdmz618h93s0008ax2kg.p1000x1000.png" group-title="Internet Radio",HOT FM
 https://srtv.my.id/vd/play.m3u8?id=7448&type=hls
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://srtv.my.id/vd/play.php?id=205&type=drm
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
 #EXTINF:-1  tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://upload.wikimedia.org/wikipedia/id/b/b7/LogoJak101FM.png" group-title="Internet Radio",JAK FM
 https://srtv.my.id/vd/play.m3u8?id=7449&type=hls
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://srtv.my.id/vd/play.php?id=205&type=drm
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
 #EXTINF:-1  tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://upload.wikimedia.org/wikipedia/id/d/de/MOSTRadio_Logo.png" group-title="Internet Radio",MOST FM
 https://srtv.my.id/vd/play.m3u8?id=7450&type=hls
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://srtv.my.id/vd/play.php?id=205&type=drm
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
 #EXTINF:-1  tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://thumbor.prod.vidiocdn.com/SwUxTZybNjVSJ-j9dVD3weST70s=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7004/prambors-on-air-b3cb5a.jpg" group-title="Internet Radio",Prambors FM
 https://srtv.my.id/vd/play.m3u8?id=7004&type=hls
@@ -1949,4 +2081,94 @@ https://svara-stream.radioddns.net:8443/jakarta_smoothfm_mp3
 #EXTINF:-1 tvg-id="" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://media.info/l/o/1/1442.1642633783.png" group-title="Sports",LFC TV
 https://srtv.my.id/vd/play.m3u8?id=7916&type=hls
 https://srtv.my.id/vd/play.m3u8?id=7916&type=hls
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://srtv.my.id/vd/play.php?id=14024&type=drm
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+#EXTINF:-1 group-title="Sports" tvg-logo="https://thumbor.prod.vidiocdn.com/fEnIWS90yBi4gKPhwkhOKgPsw-o=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6299/d74f54.png", Bein 1
+ttps://srtv.my.id/vd/play.mpd?id=6299&type=dash
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://srtv.my.id/vd/play.php?id=14024&type=drm
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+#EXTINF:-1 group-title="Sports" tvg-logo="https://thumbor.prod.vidiocdn.com/c_w_GED5RwmvVMqOZXzRj1j9BLo=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6317/4a8762.png", Bein 3
+https://srtv.my.id/vd/play.mpd?id=6317&type=dash
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://srtv.my.id/vd/play.php?id=14024&type=drm
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+#EXTINF:-1 group-title="Sports" tvg-logo="https://thumbor.prod.vidiocdn.com/_QrhoPVikJ5xrsOpHke9heqU_iY=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6685/5add43.png", ChampionTV 1
+https://srtv.my.id/vd/play.mpd?id=6685&type=dash
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://srtv.my.id/vd/play.php?id=14024&type=drm
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+#EXTINF:-1 group-title="Sports" tvg-logo="https://thumbor.prod.vidiocdn.com/_QrhoPVikJ5xrsOpHke9heqU_iY=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6685/5add43.png", ChampionTV 1 HLS
+https://srtv.my.id/vd/play.m3u8?id=6685&type=hls
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://srtv.my.id/vd/play.php?id=14024&type=drm
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+#EXTINF:-1 group-title="Sports" tvg-logo="https://thumbor.prod.vidiocdn.com/qQICmNbxaAtir-zxCSv6-Cqbxt0=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6686/14270d.png", ChampionTV 2
+https://srtv.my.id/vd/play.mpd?id=6686&type=dash 
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://srtv.my.id/vd/play.php?id=14024&type=drm
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+#EXTINF:-1 group-title="Sports" tvg-logo="https://thumbor.prod.vidiocdn.com/qQICmNbxaAtir-zxCSv6-Cqbxt0=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6686/14270d.png", ChampionTV 2
+https://srtv.my.id/vd/play.m3u8?id=6686&type=hls
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://srtv.my.id/vd/play.php?id=14024&type=drm
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+#EXTINF:-1 group-title="Sports" tvg-logo="https://thumbor.prod.vidiocdn.com/Xbri5YIQ-JyNB_UQMJ6wz49lru4=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6786/d2ebc5.png", ChampionTV 3
+https://srtv.my.id/vd/play.mpd?id=6786&type=dash
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://srtv.my.id/vd/play.php?id=14024&type=drm
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+#EXTINF:-1 group-title="Sports" tvg-logo="https://thumbor.prod.vidiocdn.com/S1YVrsYE0Fm49BGKhIgqkpnEk8M=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/9182/13b733.png", ChampionTV 5
+https://srtv.my.id/vd/play.mpd?id=9182&type=dash
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://srtv.my.id/vd/play.php?id=14024&type=drm
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+#EXTINF:-1 group-title="Sports" tvg-logo="https://thumbor.prod.vidiocdn.com/5uxtD9zKbgyCgAjpj6W3TwkqO2A=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/9183/33e19d.png", ChampionTV 6
+https://srtv.my.id/vd/play.mpd?id=9183&type=dash
 
