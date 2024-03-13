@@ -609,8 +609,8 @@ https://srtv.my.id/vd/play.m3u8?id=6503&type=hls
 https://srtv.my.id/vd/play.m3u8?id=7734&type=hls
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#EXTINF:-1 tvg-id="Sony Entertainment Television" tvg-name="" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/de/Sony_TV_new.png" group-title="Entertainment & LifeStyle",Sony Entertainment
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch173%29/index.m3u8
+#EXTINF:-1 tvg-id="FailArmy.uk" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjQyNzU5MTExMF5BMl5BanBnXkFtZTgwMTkwODA2NjE@._V1_.jpg" group-title="Entertainment & LifeStyle",Fail Army TV
+https://jukin-failarmy-international-1-gb.lg.wurl.tv/playlist.m3u8
 
 <=============== Kids Channels =====================>
 
@@ -2095,6 +2095,9 @@ https://svara-stream.radioddns.net:8443/jakarta_smoothfm_mp3
 #EXTINF:-1 tvg-id="" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://media.info/l/o/1/1442.1642633783.png" group-title="Sports",LFC TV
 https://srtv.my.id/vd/play.m3u8?id=7916&type=hls
 https://srtv.my.id/vd/play.m3u8?id=7916&type=hls
+
+#EXTINF:-1 tvg-id="beINSports.us" tvg-logo="https://images.pluto.tv/channels/5df975e2b27cf5000921c102/colorLogoPNG.png" group-title="Sports",Bein Sports Xtra Australia
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01334-beinsportsllc-beinxtra-samsungau/playlist.m3u8
 
 ##EXTVLCOPT:http-referrer=https://www.vidio.com/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
