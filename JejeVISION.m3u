@@ -436,6 +436,9 @@ https://nyanv-live-cdn.mncnow.id/live/eds/BBCEarth-HD/sa_dash_vmx/BBCEarth-HD.mp
 #EXTINF:-1 group-title="Knowledge & Documentary" tvg-id="National Geographic Channel HD - [Channel 460].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://absatellite.com/wp-content/uploads/outdoor_channel_hd.png",Outdoor Channel
 https://nyanv-live-cdn.mncnow.id/live/eds/NatGeoChannel/sa_dash_vmx/NatGeoChannel.mpd
 
+#EXTINF:-1 group-title="Knowledge & Documentary" tvg-id="N" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://i.imgur.com/OZ8lCeO.png",National Geographic
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/60358
+
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
