@@ -619,7 +619,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/TV5/sa_dash_vmx/TV5.mpd
 https://nyanv-live-cdn.mncnow.id/live/eds/Arirang/sa_dash_vmx/Arirang.mpd
 
 #EXTINF:-1 group-title="Entertainment & LifeStyle"  tvg-logo="https://images.indihometv.com/logo_hitsnow_ver1.png",HITS NOW
-https://cors.lim.workers.dev/https://cdn08jtedge.indihometv.com/dassdvr/134/hitsnow/manifest.mpd
+http://50.7.234.10:8278/Prima/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTINF:-1 tvg-id="FailArmy.uk" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjQyNzU5MTExMF5BMl5BanBnXkFtZTgwMTkwODA2NjE@._V1_.jpg" group-title="Entertainment & LifeStyle",Fail Army TV
