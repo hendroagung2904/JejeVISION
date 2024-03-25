@@ -845,6 +845,9 @@ https://nyanv-live-cdn.mncnow.id/live/eds/FightSports/sa_dash_vmx/FightSports.mp
 #KODIPROP:inputstream.adaptive.license_key=https://cubmu.openwindow040.workers.dev/
 https://cdnjkt4.transvision.co.id:1000/live/master/5/4028c6857fe540a1018060a0c34340b6/manifest.mpd
 
+#EXTINF:-1 tvg-id="World.Fishing.Network.(US).(WFN).us" tvg-logo="https://docdog.top/Logotv/countries//worldfishingnetwork.png" group-title="Sports",World Fishing Network
+http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=325891&extension=ts
+
 <====================== News ========================>
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1080,6 +1083,7 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/chunklist_b2596000_slENG.m3u8?id=
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTINF:-1 tvg-id="8TV.my" group-title="Malaysia" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml." tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/17/8TV_%28Malaysia%29_logo_in_Chinese.svg/2560px-8TV_%28Malaysia%29_logo_in_Chinese.svg.png",8TV
 https://live-streams-ssai-01.tonton.com.my/live/a884c33b-6b11-4433-8bf9-a8899939e224/cmaf.isml/.m3u8
+http://mohdtv.com:8880/live/voby3037/69246643/1730.ts
 #http://muka03.wanicelife.com:8880/3ca7283n03/asdf23e423/1730
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1209,6 +1213,8 @@ https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/par
 #KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TVRRM2ZBblI4bUNkR1lrNnhJcjJPNGNDbDRZcmx2LWtOMkJ4MlBhM2VaTU92S3pCQkdhaU12aUxoOHlBZ2pBVnVjUDVzY1dHQURTbUh1Y2ZWQkNuaTRQd0FxcElwX0FSUVpLWkhKNzJyQUxqZG01T2VvalNITzlvWjNBYS1qdjhMTlNpV2J6bnM0ODVrZEt3bnNVUjJhQmN4OUZwY2p2X3VycGM0cTU5MWc4RGFaVDVSd19YaUlWWHNMX1VXQlBPc2s0aHNtdVRub1N3N3BZSkJmN3ZhcFExQUxCaUlMajdISXB4Q3p4bzhoLVNaZEFNcWR2d2Y2OS1OUVBjQlZ2Ynp5TUM3UzdoOTJEUEMxRDZRd0d6dWNVS2w1SGJkRXgtVzhoOVQtV1p0akRCZGlSRmtibW5uMUVUVVNTVVpDM3pkMFFfUkE9PSZjb250ZXh0VHlwZT1ub25lJmlkPTEyMzY2MzIwIiwiYWNjb3VudF9pZCI6MjA4MjMxMSwiY29udGVudF9pZCI6ImFkaG9jX29rdG9saWRheXNfZGFzaF90dl9kcm0iLCJmaWxlcyI6IiIsInVzZXJfdG9rZW4iOiJkako4TVRRM2ZBblI4bUNkR1lrNnhJcjJPNGNDbDRZcmx2LWtOMkJ4MlBhM2VaTU92S3pCQkdhaU12aUxoOHlBZ2pBVnVjUDVzY1dHQURTbUh1Y2ZWQkNuaTRQd0FxcElwX0FSUVpLWkhKNzJyQUxqZG01T2VvalNITzlvWjNBYS1qdjhMTlNpV2J6bnM0ODVrZEt3bnNVUjJhQmN4OUZwY2p2X3VycGM0cTU5MWc4RGFaVDVSd19YaUlWWHNMX1VXQlBPc2s0aHNtdVRub1N3N3BZSkJmN3ZhcFExQUxCaUlMajdISXB4Q3p4bzhoLVNaZEFNcWR2d2Y2OS1OUVBjQlZ2Ynp5TUM3UzdoOTJEUEMxRDZRd0d6dWNVS2w1SGJkRXgtVzhoOVQtV1p0akRCZGlSRmtibW5uMUVUVVNTVVpDM3pkMFFfUkE9PSIsInVkaWQiOiIiLCJhZGRpdGlvbmFsX2Nhc19zeXN0ZW0iOjE0N30%3d&signature=s3O0RIhbk0py1mEEVAfTxHp8TTw%3d
 #EXTINF:-1 tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" group-title="Mediacorp SG" tvg-id="oktolidays.sg" tvg-chno="oktolidays.sg" tvg-logo="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/%24value?Format='png'&Quality=85&ImageId='4132072'&EntityType='Item'&EntityId='258705'&Width=237&Height=237&ResizeAction='fill'&HorizontalAlignment='center'&VerticalAlignment='top'",Oktolidays
 https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/147/assetId/879237/assetType/media/assetFileId/12366320/contextType/PLAYBACK/isAltUrl/False/a.mpd
+
+
 <======================= Japan Channel ===============================================>
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
