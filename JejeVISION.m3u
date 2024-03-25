@@ -1802,6 +1802,16 @@ https://svara-stream.radioddns.net:8443/jakarta_smoothfm_mp3
 #EXTINF:-1 tvg-id="beINSports.us" tvg-logo="https://images.pluto.tv/channels/5df975e2b27cf5000921c102/colorLogoPNG.png" group-title="Sports",Bein Sports Xtra Australia
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01334-beinsportsllc-beinxtra-samsungau/playlist.m3u8
 
+#EXTINF:-1 tvg-id="beINSports.qa" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-logo="https://c0.klipartz.com/pngpicture/320/259/gratis-png-bein-sports-1-logo-bein-taquilla-bein-media-group-canal-de-television.png" group-title="Sports",Bein Sports 
+http://ledir.thund.re/play/live.php?mac=00:1a:79:25:50:a8&stream=554750_&extension=m3u8
+
+#EXTINF:-1 tvg-id="beINSports2.qa" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/14/BeIN_SPORTS_HD2_logo.png" group-title="Sports",Bein Sports 2
+http://ledir.thund.re/play/live.php?mac=00:1a:79:25:50:a8&stream=554749_&extension=m3u8
+
+#EXTINF:-1 tvg-id="beINSports3.qa" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Logo_bein_sports_3.png/1200px-Logo_bein_sports_3.png" group-title="Sports",Bein Sports 3
+http://ledir.thund.re/play/live.php?mac=00:1a:79:25:50:a8&stream=554748_&extension=m3u8
+
+
 #EXTINF:-1 tvg-logo="http://www.thedesignpartnership.co.uk/logos/sport/truepremier1.png" group-title="Sports",True Premier 1 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
 #EXTVLCOPT:http-referrer=https://www.movie87hd.com/
