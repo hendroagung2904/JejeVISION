@@ -479,6 +479,9 @@ https://nyanv-live-cdn.mncnow.id/live/eds/BBCEarth-HD/sa_dash_vmx/BBCEarth-HD.mp
 #EXTINF:-1 group-title="Knowledge & Documentary" tvg-id="National Geographic Channel HD - [Channel 460].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://absatellite.com/wp-content/uploads/outdoor_channel_hd.png",Outdoor Channel
 https://nyanv-live-cdn.mncnow.id/live/eds/NatGeoChannel/sa_dash_vmx/NatGeoChannel.mpd
 
+#EXTINF:-1 group-title="Knowledge & Documentary" tvg-id="" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Discovery_Asia_logo.svg/1280px-Discovery_Asia_logo.svg.png",Discovery Asia
+https://link.zozotv.xyz:443/Rina923/390023/125
+
 #EXTINF:-1 group-title="Knowledge & Documentary" tvg-id="" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://i.imgur.com/OZ8lCeO.png",National Geographic
 http://cord-cutter.net:8080/live/95549031/69361122/46722.ts
 
@@ -503,7 +506,8 @@ https://varun-iptv.netlify.app/m3u/discoveryenglish.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTINF:-1 tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-id="AnimalPlanetSoutheastAsia.sg" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_203.png" group-title="Knowledge & Documentary",Animal Planet 
-https://raw.githubusercontent.com/Bluestraveller13/Source/main/AnimalPlanet
+#https://raw.githubusercontent.com/Bluestraveller13/Source/main/AnimalPlanet
+https://link.zozotv.xyz:443/Rina923/390023/123
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -513,7 +517,8 @@ https://nyanv-live-cdn.mncnow.id/live/eds/Globaltrekker/sa_dash_vmx/Globaltrekke
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTINF:-1 tvg-id="DMAXSoutheastAsia.sg" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/DMAX_-_Logo_2016.svg/1200px-DMAX_-_Logo_2016.svg.png" group-title="Knowledge & Documentary",DMAX TV 
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:ae:d9:8d&stream=1651&extension=ts
+#http://new.ivue.co:25461/play/live.php?mac=00:1A:79:ae:d9:8d&stream=1651&extension=ts
+https://link.zozotv.xyz:443/Rina923/390023/118
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -546,7 +551,8 @@ https://nyanv-live-cdn.mncnow.id/live/eds/Rockentertainment/sa_dash_vmx/Rockente
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTINF:-1 tvg-id="HGTVAsia.us" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-logo="https://mncvision.id/userfiles/image/channel/HGTV_150x150px-01.png" group-title="Entertainment & LifeStyle",HGTV 
-http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=325791&extension=ts
+#http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=325791&extension=ts
+https://link.zozotv.xyz:443/Rina923/390023/85
 
 #EXTINF:-1 tvg-id="" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-logo="https://1000logos.net/wp-content/uploads/2022/01/magnolia-network-logo.jpg" group-title="Entertainment & LifeStyle",Magnolia Network 
 http://cord-cutter.net:8080/live/95549031/69361122/10503.ts
@@ -700,11 +706,11 @@ https://nyanv-live-cdn.mncnow.id/live/eds/Kids-HD/sa_dash_vmx/Kids-HD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTINF:-1 tvg-id="Nickelodeon" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium3.xml" tvg-logo="https://www.mncvision.id/userfiles/image/channel/nickelodeon.png" group-title="Kids",Nickelodeon
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch105%29/index.m3u8
+https://link.zozotv.xyz:443/Rina923/390023/136
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTINF:-1 tvg-id="Nick Junior" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium3.xml" tvg-logo="https://www.mncvision.id/userfiles/image/channel/nickjr.jpg" group-title="Kids",Nickelodeon Junior
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch124%29/index.m3u8
+https://link.zozotv.xyz:443/Rina923/390023/137
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
