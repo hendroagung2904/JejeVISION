@@ -712,6 +712,9 @@ https://link.zozotv.xyz:443/Rina923/390023/136
 #EXTINF:-1 tvg-id="Nick Junior" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium3.xml" tvg-logo="https://www.mncvision.id/userfiles/image/channel/nickjr.jpg" group-title="Kids",Nickelodeon Junior
 https://link.zozotv.xyz:443/Rina923/390023/137
 
+#EXTINF:-1 tvg-id="Nick Junior" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium3.xml" tvg-logo="https://www.mncvision.id/userfiles/image/channel/nickjr.jpg" group-title="Kids",Nickelodeon Junior
+https://link.zozotv.xyz:443/Rina923/390023/343
+
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
@@ -844,17 +847,29 @@ http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=498808&extension
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
 http://103.127.96.91:25461/hometv@91/Wdk8VzyYTG/27
 
+#EXTINF:-1 group-title="Sports" tvg-id="AstroSuperSport.my" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png",Astro Supersport
+https://link.zozotv.xyz:443/Rina923/390023/568
+
 #EXTINF:-1 group-title="Sports" tvg-id="AstroSuperSport2.my" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6b/Astro_SuperSport_2.png",Astro Supersport 2
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
 http://103.127.96.91:25461/hometv@91/Wdk8VzyYTG/27
+
+#EXTINF:-1 group-title="Sports" tvg-id="AstroSuperSport2.my" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6b/Astro_SuperSport_2.png",Astro Supersport 2
+https://link.zozotv.xyz:443/Rina923/390023/569
 
 #EXTINF:-1 group-title="Sports" tvg-id="AstroSuperSport3.my" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/Astro_ASSP3.png",Astro Supersport 3
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
 http://103.127.96.91:25461/hometv@91/Wdk8VzyYTG/28
 
+#EXTINF:-1 group-title="Sports" tvg-id="AstroSuperSport3.my" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/Astro_ASSP3.png",Astro Supersport 3
+https://link.zozotv.xyz:443/Rina923/390023/570
+
 #EXTINF:-1 group-title="Sports" tvg-id="AstroSuperSport4.my" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/Astro_ASSP4.png",Astro Supersport 4
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
 http://103.127.96.91:25461/hometv@91/Wdk8VzyYTG/29
+
+#EXTINF:-1 group-title="Sports" tvg-id="AstroSuperSport4.my" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/Astro_ASSP4.png",Astro Supersport 4
+https://link.zozotv.xyz:443/Rina923/390023/571
 
 
 <====================== News ========================>
@@ -1788,11 +1803,17 @@ https://svara-stream.radioddns.net:8443/jakarta_smoothfm_mp3
 #EXTINF:-1 tvg-id="beINSports.us" tvg-logo="https://images.pluto.tv/channels/5df975e2b27cf5000921c102/colorLogoPNG.png" group-title="Sports",Bein Sports Xtra Australia
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01334-beinsportsllc-beinxtra-samsungau/playlist.m3u8
 
+#EXTINF:-1 tvg-id="beINSports.us" tvg-logo="https://images.pluto.tv/channels/5df975e2b27cf5000921c102/colorLogoPNG.png" group-title="Sports",Bein Sports Xtra Australia
+https://link.zozotv.xyz:443/Rina923/390023/384
+
 #EXTINF:-1 tvg-id="beINSports.qa" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-logo="https://c0.klipartz.com/pngpicture/320/259/gratis-png-bein-sports-1-logo-bein-taquilla-bein-media-group-canal-de-television.png" group-title="Sports",Bein Sports 
 http://ledir.thund.re/play/live.php?mac=00:1a:79:25:50:a8&stream=554750_&extension=m3u8
 
 #EXTINF:-1 tvg-id="beINSports2.qa" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/14/BeIN_SPORTS_HD2_logo.png" group-title="Sports",Bein Sports 2
 http://ledir.thund.re/play/live.php?mac=00:1a:79:25:50:a8&stream=554749_&extension=m3u8
+
+#EXTINF:-1 tvg-id="beINSports2.qa" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/14/BeIN_SPORTS_HD2_logo.png" group-title="Sports",Bein Sports 2
+https://link.zozotv.xyz:443/Rina923/390023/383
 
 #EXTINF:-1 tvg-id="beINSports3.qa" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Logo_bein_sports_3.png/1200px-Logo_bein_sports_3.png" group-title="Sports",Bein Sports 3
 http://ledir.thund.re/play/live.php?mac=00:1a:79:25:50:a8&stream=554748_&extension=m3u8
