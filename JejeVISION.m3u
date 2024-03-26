@@ -760,23 +760,6 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch345%29/index
 
 <============================ Sports ========================>
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#EXTINF:-1 group-title="Sports" tvg-id="AstroSuperSport.my" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png",Astro Supersport
-http://ledir.thund.re/play/live.php?mac=00:1a:79:25:50:a8&stream=554728_&extension=m3u8
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#EXTINF:-1 group-title="Sports" tvg-id="AstroSuperSport2.my" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6b/Astro_SuperSport_2.png",Astro Supersport 2
-http://ledir.thund.re/play/live.php?mac=00:1a:79:25:50:a8&stream=554735_&extension=m3u8
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#EXTINF:-1 group-title="Sports" tvg-id="AstroSuperSport3.my" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/Astro_ASSP3.png",Astro Supersport 3
-http://ledir.thund.re/play/live.php?mac=00:1a:79:25:50:a8&stream=554734_&extension=m3u8
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#EXTINF:-1 group-title="Sports" tvg-id="AstroSuperSport4.my" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/Astro_ASSP4.png",Astro Supersport 4
-http://ledir.thund.re/play/live.php?mac=00:1a:79:25:50:a8&stream=554733_&extension=m3u8
-
-
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
@@ -847,6 +830,34 @@ https://cdnjkt4.transvision.co.id:1000/live/master/5/4028c6857fe540a1018060a0c34
 
 #EXTINF:-1 tvg-id="World.Fishing.Network.(US).(WFN).us" tvg-logo="https://docdog.top/Logotv/countries//worldfishingnetwork.png" group-title="Sports",World Fishing Network
 http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=325891&extension=ts
+
+#EXTINF:-1 tvg-id="The.Sports.Network.HDTV.(TSNHD).ca" tvg-logo="https://docdog.top/Logotv/countries//tsn1" group-title="Sports",TSN 1
+http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=498812&extension=ts
+
+#EXTINF:-1 tvg-id="The.Sports.Network.2.HDTV.(TSN2D).ca" tvg-logo="https://docdog.top/Logotv/countries//tsn2.png" group-title="Sports",TSN 2
+http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=498811&extension=ts
+
+#EXTINF:-1 tvg-id="The.Sports.Network.3.HDTV.(TSN3HD).ca" tvg-logo="https://docdog.top/Logotv/countries//tsn3.png" group-title="Sports",TSN 3
+http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=498810&extension=ts
+
+#EXTINF:-1 tvg-id="The.Sports.Network.4.HDTV.(TSN4H).ca" tvg-logo="https://docdog.top/Logotv/countries//tsn4.png" group-title="Sports",TSN 4
+http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=498809&extension=ts
+
+#EXTINF:-1 tvg-id="The.Sports.Network.5.HDTV.(TSN5HD).ca" tvg-logo="https://docdog.top/Logotv/countries//tsn5.png" group-title="Sports",TSN 5
+http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=498808&extension=ts
+
+#EXTINF:-1 group-title="Sports" tvg-id="AstroSuperSport.my" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png",Astro Supersport
+http://ledir.thund.re/play/live.php?mac=00:1a:79:25:50:a8&stream=554728_&extension=m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-id="AstroSuperSport2.my" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6b/Astro_SuperSport_2.png",Astro Supersport 2
+http://ledir.thund.re/play/live.php?mac=00:1a:79:25:50:a8&stream=554735_&extension=m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-id="AstroSuperSport3.my" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/Astro_ASSP3.png",Astro Supersport 3
+http://ledir.thund.re/play/live.php?mac=00:1a:79:25:50:a8&stream=554734_&extension=m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-id="AstroSuperSport4.my" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/Astro_ASSP4.png",Astro Supersport 4
+http://ledir.thund.re/play/live.php?mac=00:1a:79:25:50:a8&stream=554733_&extension=m3u8
+
 
 <====================== News ========================>
 
@@ -1907,21 +1918,6 @@ https://m1.ballnaja.com/live/True_Premier_Football_5/playlist.m3u8
 
 #EXTINF:-1 tvg-id="WWE.Network.us" tvg-logo="https://docdog.top/Logotv/countries//wwenetwork.png" group-title="Sports",WWE
 http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=324992&extension=ts
-
-#EXTINF:-1 tvg-id="The.Sports.Network.HDTV.(TSNHD).ca" tvg-logo="https://docdog.top/Logotv/countries//tsn1" group-title="Sports",TSN 1
-http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=498812&extension=ts
-
-#EXTINF:-1 tvg-id="The.Sports.Network.2.HDTV.(TSN2D).ca" tvg-logo="https://docdog.top/Logotv/countries//tsn2.png" group-title="Sports",TSN 2
-http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=498811&extension=ts
-
-#EXTINF:-1 tvg-id="The.Sports.Network.3.HDTV.(TSN3HD).ca" tvg-logo="https://docdog.top/Logotv/countries//tsn3.png" group-title="Sports",TSN 3
-http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=498810&extension=ts
-
-#EXTINF:-1 tvg-id="The.Sports.Network.4.HDTV.(TSN4H).ca" tvg-logo="https://docdog.top/Logotv/countries//tsn4.png" group-title="Sports",TSN 4
-http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=498809&extension=ts
-
-#EXTINF:-1 tvg-id="The.Sports.Network.5.HDTV.(TSN5HD).ca" tvg-logo="https://docdog.top/Logotv/countries//tsn5.png" group-title="Sports",TSN 5
-http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=498808&extension=ts
 
 #EXTINF:-1 tvg-id="SkySp.PL.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/sky-sports-premier-league-uk.png" group-title="Sports",Sky Sport Primere League
 http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=588026&extension=ts
