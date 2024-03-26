@@ -570,6 +570,9 @@ http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=325821&extension
 #EXTINF:-1 tvg-id="" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-id="FoodNetworkAsia.sg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Food_Network_New_Logo.png/492px-Food_Network_New_Logo.png" group-title="Entertainment & LifeStyle",Food Network
 http://cord-cutter.net:8080/live/95549031/69361122/7323.ts
 
+#EXTINF:-1 tvg-id="" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Cooking_Channel_Canada.png/1200px-Cooking_Channel_Canada.png" group-title="Entertainment & LifeStyle",Cooking Channel
+http://cord-cutter.net:8080/live/95549031/69361122/9229.ts
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTINF:-1 tvg-id="TLCSoutheastAsia.sg" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-logo="https://1000logos.net/wp-content/uploads/2020/08/TLC-Logo.png" group-title="Entertainment & LifeStyle",TLC
 http://rampro.one:80/play/live.php?mac=00:1a:79:5e:3b:79&stream=325801&extension=ts
