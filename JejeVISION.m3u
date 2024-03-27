@@ -558,9 +558,8 @@ https://link.zozotv.xyz:443/Rina923/390023/85
 #EXTINF:-1 tvg-id="" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-logo="https://1000logos.net/wp-content/uploads/2022/01/magnolia-network-logo.jpg" group-title="Entertainment & LifeStyle",Magnolia Network 
 http://cord-cutter.net:8080/live/95549031/69361122/10503.ts
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTINF:-1 tvg-id="AsianFoodNetwork.sg" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Asian_Food_Network.svg/640px-Asian_Food_Network.svg.png" group-title="Entertainment & LifeStyle",Asian Food Network
-http://rayantv.org/play/live.php?mac=00:1A:79:E5:7A:C1&stream=534440&extension=m3u8
+http://176868.cloud/ab154b97696ef232c521bb94a5a79d0a/c4203a92959bb1542b28645bafe77ea9/eebd74f219d787f0d9fb009537abd50f/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTINF:-1 tvg-id="" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-id="FoodNetworkAsia.sg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Food_Network_New_Logo.png/492px-Food_Network_New_Logo.png" group-title="Entertainment & LifeStyle",Food Network
